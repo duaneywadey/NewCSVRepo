@@ -1,0 +1,1011 @@
+﻿id,food_stall_name,food_stall_origin,type_of_food,price_per_order,quantity,total_sales,customer_location,courier_service_used,payment_method_used,customer_satisfaction_rate,date_ordered,date_received,customer_feedback
+1,Adobo Haven,Makati,lechon,833,2,1666,Quezon City,MetroHaul Service,GCash,2,04-10-23,05-15-25,Great value for money
+2,Kinilaw Corner,Makati,sinigang,513,4,2052,Quezon City,MetroHaul Service,Maya,5,11-24-24,05-21-25,arrived hot and tasty
+3,Isaw King,Davao City,pork tapa,892,5,4460,San Pablo Laguna,SwiftParcel Go,debit card,8,03-08-25,05-18-25,packaging leaked everywhere
+4,Halo-Halo Stop,Quezon City,fried chicken,250,6,1500,Quezon City,NexusDrop,Maya,4,03-20-23,05-07-25,perfect portion size
+5,Lechon Belly Spot,Quezon City,kinilaw,924,5,4620,Tanauan Batangas,UrbanFreight,ShopeePay,1,08-26-22,04-28-25,arrived hot and tasty
+6,Adobo Haven,Bacolod,lechon,827,1,827,Quezon City,QuickDash Delivery,credit card,7,10-28-24,05-18-25,too salty and overcooked
+7,Tinapa Grill Shack,Bacolod,kinilaw,281,6,1686,Santa Rosa Laguna,NexusDrop,GCash,7,04-16-23,05-08-25,loved the flavor
+8,Halo-Halo Stop,Davao City,lechon,183,5,915,Binangonan Rizal,RapidSend Logistics,Maya,5,11-14-23,04-28-25,late delivery ruined the meal
+9,Halo-Halo Stop,Baguio,kinilaw,758,5,3790,Santa Rosa Laguna,SwiftParcel Go,cash on delivery,6,07-04-24,05-13-25,loved the flavor
+10,Siomai House,Manila,halo-halo,272,6,1632,Calamba Laguna,SwiftParcel Go,bank transfer,7,09-10-23,05-11-25,will order again
+11,Adobo Haven,Bacolod,halo-halo,384,4,1536,Binangonan Rizal,SpeedyCart Express,credit card,1,08-09-24,05-22-25,will order again
+12,Isaw King,Bacolod,halo-halo,732,5,3660,Binangonan Rizal,IslandLink Courier,cash on delivery,7,09-10-23,05-08-25,too salty and overcooked
+13,Tinapa Grill Shack,Iloilo City,pork tapa,313,5,1565,Santa Rosa Laguna,NexusDrop,ShopeePay,8,03-20-25,05-05-25,Delicious and fresh
+14,Lechon Belly Spot,Cebu City,lechon,647,2,1294,Tanauan Batangas,RapidSend Logistics,debit card,2,05-28-22,04-29-25,late delivery ruined the meal
+15,Siomai House,Baguio,kinilaw,991,6,5946,Dasmarinas Cavite,SwiftParcel Go,ShopeePay,6,12-06-22,05-13-25,Delicious and fresh
+16,Halo-Halo Stop,Davao City,pork tapa,441,4,1764,San Pablo Laguna,SwiftParcel Go,GCash,8,12-04-24,05-09-25,small portions not worth the price
+17,Tinapa Grill Shack,Makati,fried chicken,360,1,360,Santa Rosa Laguna,MetroHaul Service,Maya,7,08-18-23,05-14-25,arrived hot and tasty
+18,Tinapa Grill Shack,Davao City,kinilaw,793,2,1586,Quezon City,IslandLink Courier,bank transfer,4,09-08-24,04-28-25,arrived hot and tasty
+19,Isaw King,Makati,sinigang,911,4,3644,Calamba Laguna,SpeedyCart Express,bank transfer,6,06-08-24,04-27-25,bland taste disappointing
+20,Halo-Halo Stop,Iloilo City,barbecue,466,3,1398,San Pablo Laguna,UrbanFreight,Maya,2,09-25-23,05-14-25,Great value for money
+21,Halo-Halo Stop,Davao City,sinigang,814,2,1628,Quezon City,NexusDrop,debit card,5,07-26-24,05-07-25,perfect portion size
+22,Halo-Halo Stop,Davao City,sinigang,857,3,2571,Santa Rosa Laguna,IslandLink Courier,ShopeePay,10,02-21-24,04-26-25,bland taste disappointing
+23,Tinapa Grill Shack,Manila,fried chicken,158,2,316,Binangonan Rizal,IslandLink Courier,debit card,3,01-05-23,05-01-25,perfect portion size
+24,Tinapa Grill Shack,Iloilo City,halo-halo,476,6,2856,Dasmarinas Cavite,SwiftParcel Go,debit card,4,02-13-24,05-06-25,Delicious and fresh
+25,Adobo Haven,Iloilo City,kinilaw,987,2,1974,Quezon City,MetroHaul Service,Maya,6,12-16-24,05-01-25,arrived hot and tasty
+26,Siomai House,Manila,adobo,600,5,3000,Binangonan Rizal,SpeedyCart Express,credit card,6,10-17-23,04-28-25,Food was cold on arrival
+27,Siomai House,Baguio,lechon,399,5,1995,Dasmarinas Cavite,QuickDash Delivery,credit card,5,12-07-22,05-14-25,Great value for money
+28,Tinapa Grill Shack,Baguio,kinilaw,270,1,270,Binangonan Rizal,SpeedyCart Express,cash on delivery,1,03-09-24,05-08-25,too salty and overcooked
+29,Kinilaw Corner,Manila,pork tapa,354,1,354,Quezon City,IslandLink Courier,credit card,8,05-29-23,05-06-25,will order again
+30,Siomai House,Davao City,adobo,824,4,3296,Binangonan Rizal,RapidSend Logistics,ShopeePay,2,04-27-23,05-22-25,will order again
+31,Siomai House,Cebu City,lechon,862,6,5172,Quezon City,QuickDash Delivery,cash on delivery,1,04-29-23,05-05-25,Food was cold on arrival
+32,Kinilaw Corner,Davao City,sinigang,311,6,1866,Dasmarinas Cavite,NexusDrop,debit card,8,04-11-24,05-24-25,too salty and overcooked
+33,Kinilaw Corner,Manila,pork tapa,173,4,692,Dasmarinas Cavite,RapidSend Logistics,ShopeePay,6,08-17-22,05-16-25,too salty and overcooked
+34,Kinilaw Corner,Baguio,lechon,699,5,3495,San Pablo Laguna,QuickDash Delivery,cash on delivery,5,11-08-23,04-30-25,too salty and overcooked
+35,Tinapa Grill Shack,Baguio,lechon,723,3,2169,Quezon City,MetroHaul Service,GCash,7,07-05-24,05-11-25,will order again
+36,Lechon Belly Spot,Cebu City,kinilaw,960,2,1920,Binangonan Rizal,SwiftParcel Go,cash on delivery,9,03-28-25,05-04-25,small portions not worth the price
+37,Isaw King,Manila,pork tapa,207,3,621,Calamba Laguna,SpeedyCart Express,bank transfer,8,02-23-25,05-09-25,Delicious and fresh
+38,Kinilaw Corner,Manila,fried chicken,267,1,267,Binangonan Rizal,QuickDash Delivery,bank transfer,2,09-10-24,05-16-25,too salty and overcooked
+39,Halo-Halo Stop,Cebu City,halo-halo,938,1,938,Binangonan Rizal,RapidSend Logistics,GCash,2,12-26-22,04-27-25,Delicious and fresh
+40,Isaw King,Makati,adobo,779,3,2337,San Pablo Laguna,IslandLink Courier,bank transfer,9,03-19-25,05-21-25,Great value for money
+41,Siomai House,Davao City,kinilaw,850,1,850,Calamba Laguna,RapidSend Logistics,credit card,4,08-22-23,05-08-25,packaging leaked everywhere
+42,Halo-Halo Stop,Manila,adobo,804,2,1608,Quezon City,NexusDrop,GCash,6,08-01-24,05-18-25,bland taste disappointing
+43,Adobo Haven,Manila,adobo,747,6,4482,Dasmarinas Cavite,UrbanFreight,Maya,5,09-23-24,05-02-25,loved the flavor
+44,Lechon Belly Spot,Makati,lechon,453,6,2718,San Pablo Laguna,RapidSend Logistics,debit card,10,05-29-23,05-02-25,Delicious and fresh
+45,Isaw King,Makati,lechon,624,3,1872,Binangonan Rizal,QuickDash Delivery,bank transfer,10,08-03-22,05-16-25,late delivery ruined the meal
+46,Siomai House,Makati,fried chicken,241,6,1446,San Pablo Laguna,SwiftParcel Go,ShopeePay,1,10-03-24,04-29-25,late delivery ruined the meal
+47,Mang Inasal Grill,Iloilo City,adobo,889,2,1778,Calamba Laguna,NexusDrop,ShopeePay,7,12-30-24,05-24-25,Great value for money
+48,Halo-Halo Stop,Baguio,fried chicken,553,4,2212,Tanauan Batangas,IslandLink Courier,debit card,3,07-31-22,05-05-25,late delivery ruined the meal
+49,Mang Inasal Grill,Cebu City,fried chicken,862,4,3448,Tanauan Batangas,QuickDash Delivery,GCash,7,01-05-23,05-21-25,small portions not worth the price
+50,Tinapa Grill Shack,Davao City,sinigang,285,5,1425,Santa Rosa Laguna,MetroHaul Service,cash on delivery,2,01-15-24,04-27-25,Delicious and fresh
+51,Kinilaw Corner,Makati,sinigang,590,1,590,Santa Rosa Laguna,NexusDrop,cash on delivery,8,09-29-24,05-04-25,perfect portion size
+52,Adobo Haven,Baguio,pork tapa,674,1,674,Quezon City,QuickDash Delivery,GCash,10,01-18-25,05-04-25,too salty and overcooked
+53,Mang Inasal Grill,Baguio,kinilaw,330,3,990,Tanauan Batangas,NexusDrop,Maya,5,05-02-22,05-13-25,small portions not worth the price
+54,Halo-Halo Stop,Davao City,kinilaw,710,3,2130,Tanauan Batangas,MetroHaul Service,Maya,2,01-24-23,05-05-25,will order again
+55,Halo-Halo Stop,Makati,lechon,637,2,1274,Binangonan Rizal,RapidSend Logistics,bank transfer,1,08-26-24,05-23-25,Delicious and fresh
+56,Siomai House,Makati,kinilaw,370,3,1110,San Pablo Laguna,NexusDrop,Maya,10,11-11-22,05-17-25,Delicious and fresh
+57,Lechon Belly Spot,Bacolod,lechon,112,1,112,Dasmarinas Cavite,MetroHaul Service,debit card,1,05-12-24,04-26-25,arrived hot and tasty
+58,Adobo Haven,Baguio,lechon,186,6,1116,Calamba Laguna,RapidSend Logistics,Maya,6,12-31-22,05-05-25,Food was cold on arrival
+59,Mang Inasal Grill,Makati,sinigang,524,6,3144,Tanauan Batangas,NexusDrop,debit card,2,08-31-23,05-16-25,loved the flavor
+60,Siomai House,Makati,barbecue,814,6,4884,Quezon City,QuickDash Delivery,Maya,5,11-02-22,04-28-25,Great value for money
+61,Kinilaw Corner,Quezon City,fried chicken,893,4,3572,Calamba Laguna,NexusDrop,credit card,9,12-14-22,05-16-25,packaging leaked everywhere
+62,Tinapa Grill Shack,Manila,pork tapa,111,5,555,Calamba Laguna,SpeedyCart Express,debit card,8,01-14-25,05-21-25,too salty and overcooked
+63,Isaw King,Bacolod,barbecue,745,2,1490,Binangonan Rizal,SpeedyCart Express,Maya,8,02-12-25,05-04-25,arrived hot and tasty
+64,Adobo Haven,Bacolod,kinilaw,705,6,4230,Quezon City,MetroHaul Service,GCash,7,10-26-24,05-19-25,late delivery ruined the meal
+65,Tinapa Grill Shack,Cebu City,halo-halo,447,3,1341,Binangonan Rizal,IslandLink Courier,debit card,10,05-25-22,05-23-25,Food was cold on arrival
+66,Isaw King,Baguio,barbecue,988,6,5928,Tanauan Batangas,QuickDash Delivery,bank transfer,9,04-03-23,05-07-25,Food was cold on arrival
+67,Lechon Belly Spot,Makati,barbecue,243,6,1458,San Pablo Laguna,RapidSend Logistics,credit card,4,06-04-22,05-09-25,will order again
+68,Kinilaw Corner,Iloilo City,barbecue,377,2,754,Tanauan Batangas,RapidSend Logistics,credit card,9,06-28-23,05-16-25,too salty and overcooked
+69,Siomai House,Cebu City,pork tapa,770,2,1540,Quezon City,SpeedyCart Express,credit card,10,01-09-25,05-13-25,arrived hot and tasty
+70,Tinapa Grill Shack,Makati,pork tapa,903,3,2709,Tanauan Batangas,RapidSend Logistics,GCash,10,02-15-24,04-30-25,Delicious and fresh
+71,Tinapa Grill Shack,Manila,halo-halo,455,1,455,Calamba Laguna,MetroHaul Service,debit card,9,12-17-24,05-04-25,Food was cold on arrival
+72,Halo-Halo Stop,Manila,adobo,565,2,1130,Dasmarinas Cavite,QuickDash Delivery,bank transfer,8,08-28-23,05-15-25,arrived hot and tasty
+73,Isaw King,Bacolod,pork tapa,795,6,4770,Dasmarinas Cavite,UrbanFreight,Maya,3,09-09-23,05-01-25,small portions not worth the price
+74,Lechon Belly Spot,Bacolod,halo-halo,600,5,3000,Binangonan Rizal,SpeedyCart Express,debit card,8,07-10-23,05-06-25,too salty and overcooked
+75,Lechon Belly Spot,Davao City,barbecue,234,4,936,Binangonan Rizal,MetroHaul Service,credit card,5,01-17-23,05-13-25,loved the flavor
+76,Halo-Halo Stop,Iloilo City,lechon,300,3,900,Tanauan Batangas,SwiftParcel Go,cash on delivery,10,03-29-24,04-28-25,packaging leaked everywhere
+77,Kinilaw Corner,Cebu City,adobo,325,3,975,Binangonan Rizal,RapidSend Logistics,Maya,5,07-22-24,04-29-25,perfect portion size
+78,Lechon Belly Spot,Davao City,fried chicken,478,6,2868,Santa Rosa Laguna,IslandLink Courier,credit card,8,05-17-22,05-24-25,perfect portion size
+79,Siomai House,Davao City,barbecue,976,2,1952,Calamba Laguna,NexusDrop,bank transfer,9,07-01-22,05-20-25,Great value for money
+80,Mang Inasal Grill,Iloilo City,lechon,133,6,798,San Pablo Laguna,IslandLink Courier,Maya,9,03-23-24,05-09-25,bland taste disappointing
+81,Lechon Belly Spot,Makati,lechon,493,6,2958,Calamba Laguna,UrbanFreight,GCash,6,12-19-23,04-28-25,arrived hot and tasty
+82,Isaw King,Bacolod,fried chicken,611,2,1222,Quezon City,NexusDrop,debit card,7,03-27-25,04-29-25,Great value for money
+83,Siomai House,Manila,barbecue,753,6,4518,Tanauan Batangas,IslandLink Courier,ShopeePay,1,09-30-22,05-16-25,perfect portion size
+84,Halo-Halo Stop,Quezon City,pork tapa,174,1,174,Santa Rosa Laguna,UrbanFreight,bank transfer,3,05-27-22,05-15-25,late delivery ruined the meal
+85,Isaw King,Cebu City,barbecue,937,5,4685,San Pablo Laguna,NexusDrop,cash on delivery,3,03-31-25,05-16-25,late delivery ruined the meal
+86,Lechon Belly Spot,Bacolod,barbecue,437,1,437,San Pablo Laguna,SwiftParcel Go,GCash,7,01-10-24,04-26-25,loved the flavor
+87,Adobo Haven,Cebu City,fried chicken,219,5,1095,San Pablo Laguna,NexusDrop,Maya,5,02-21-23,05-19-25,perfect portion size
+88,Siomai House,Cebu City,pork tapa,713,5,3565,Binangonan Rizal,UrbanFreight,cash on delivery,6,06-05-22,05-03-25,perfect portion size
+89,Adobo Haven,Davao City,adobo,170,1,170,Dasmarinas Cavite,IslandLink Courier,debit card,3,02-14-24,05-14-25,will order again
+90,Tinapa Grill Shack,Davao City,kinilaw,108,6,648,Tanauan Batangas,SpeedyCart Express,ShopeePay,3,11-29-24,05-13-25,arrived hot and tasty
+91,Lechon Belly Spot,Cebu City,pork tapa,909,2,1818,Santa Rosa Laguna,SpeedyCart Express,cash on delivery,7,12-23-23,04-26-25,loved the flavor
+92,Mang Inasal Grill,Baguio,sinigang,440,1,440,Binangonan Rizal,MetroHaul Service,bank transfer,6,12-25-23,05-07-25,Food was cold on arrival
+93,Siomai House,Cebu City,kinilaw,904,1,904,Tanauan Batangas,SwiftParcel Go,GCash,7,05-29-24,05-06-25,bland taste disappointing
+94,Adobo Haven,Makati,barbecue,676,1,676,Dasmarinas Cavite,QuickDash Delivery,debit card,2,12-11-23,05-23-25,perfect portion size
+95,Lechon Belly Spot,Cebu City,pork tapa,763,1,763,Binangonan Rizal,SpeedyCart Express,Maya,10,05-10-24,05-07-25,loved the flavor
+96,Tinapa Grill Shack,Iloilo City,adobo,533,5,2665,Dasmarinas Cavite,QuickDash Delivery,credit card,8,12-01-24,05-06-25,too salty and overcooked
+97,Lechon Belly Spot,Quezon City,sinigang,764,3,2292,Binangonan Rizal,QuickDash Delivery,debit card,9,06-28-22,05-16-25,Food was cold on arrival
+98,Halo-Halo Stop,Cebu City,pork tapa,660,4,2640,Quezon City,SpeedyCart Express,Maya,7,03-02-23,05-08-25,Food was cold on arrival
+99,Siomai House,Makati,lechon,558,2,1116,Binangonan Rizal,QuickDash Delivery,Maya,6,10-28-23,05-12-25,loved the flavor
+100,Mang Inasal Grill,Iloilo City,adobo,271,2,542,Dasmarinas Cavite,UrbanFreight,ShopeePay,10,04-01-24,05-03-25,Delicious and fresh
+101,Kinilaw Corner,Davao City,lechon,494,2,988,Tanauan Batangas,SpeedyCart Express,debit card,8,01-22-25,05-09-25,perfect portion size
+102,Isaw King,Baguio,kinilaw,821,1,821,San Pablo Laguna,MetroHaul Service,Maya,2,05-12-24,04-29-25,Delicious and fresh
+103,Mang Inasal Grill,Iloilo City,halo-halo,706,5,3530,Quezon City,QuickDash Delivery,credit card,10,12-16-23,05-11-25,packaging leaked everywhere
+104,Adobo Haven,Baguio,sinigang,369,3,1107,Tanauan Batangas,NexusDrop,ShopeePay,7,06-01-24,05-16-25,loved the flavor
+105,Lechon Belly Spot,Manila,adobo,108,6,648,Tanauan Batangas,SwiftParcel Go,Maya,2,02-04-24,05-10-25,loved the flavor
+106,Lechon Belly Spot,Baguio,kinilaw,953,2,1906,Tanauan Batangas,NexusDrop,debit card,6,11-20-23,05-13-25,perfect portion size
+107,Mang Inasal Grill,Baguio,lechon,923,2,1846,Calamba Laguna,QuickDash Delivery,debit card,6,04-30-24,05-19-25,arrived hot and tasty
+108,Isaw King,Quezon City,lechon,508,3,1524,Calamba Laguna,QuickDash Delivery,ShopeePay,10,01-25-25,04-27-25,too salty and overcooked
+109,Adobo Haven,Baguio,barbecue,635,2,1270,Calamba Laguna,RapidSend Logistics,cash on delivery,3,11-13-22,04-28-25,too salty and overcooked
+110,Isaw King,Makati,barbecue,847,6,5082,Binangonan Rizal,UrbanFreight,credit card,6,06-03-22,05-16-25,bland taste disappointing
+111,Halo-Halo Stop,Makati,sinigang,824,5,4120,Quezon City,MetroHaul Service,ShopeePay,2,09-08-22,05-21-25,perfect portion size
+112,Tinapa Grill Shack,Davao City,kinilaw,146,1,146,Binangonan Rizal,SpeedyCart Express,debit card,1,01-28-24,05-17-25,too salty and overcooked
+113,Lechon Belly Spot,Cebu City,sinigang,387,4,1548,Santa Rosa Laguna,IslandLink Courier,cash on delivery,2,08-03-22,05-07-25,bland taste disappointing
+114,Mang Inasal Grill,Manila,fried chicken,210,5,1050,Dasmarinas Cavite,QuickDash Delivery,GCash,2,05-05-22,04-26-25,Food was cold on arrival
+115,Kinilaw Corner,Iloilo City,halo-halo,254,4,1016,San Pablo Laguna,MetroHaul Service,debit card,7,07-29-24,05-07-25,small portions not worth the price
+116,Adobo Haven,Makati,adobo,767,2,1534,Dasmarinas Cavite,SpeedyCart Express,Maya,8,06-01-23,05-21-25,too salty and overcooked
+117,Adobo Haven,Makati,fried chicken,111,1,111,Calamba Laguna,MetroHaul Service,debit card,10,02-24-25,05-24-25,small portions not worth the price
+118,Isaw King,Cebu City,halo-halo,979,5,4895,Santa Rosa Laguna,SwiftParcel Go,GCash,3,12-20-23,05-17-25,arrived hot and tasty
+119,Siomai House,Iloilo City,fried chicken,551,6,3306,Calamba Laguna,IslandLink Courier,GCash,8,01-22-23,05-06-25,bland taste disappointing
+120,Tinapa Grill Shack,Makati,fried chicken,346,4,1384,San Pablo Laguna,IslandLink Courier,cash on delivery,5,03-08-23,05-06-25,too salty and overcooked
+121,Isaw King,Cebu City,kinilaw,970,5,4850,San Pablo Laguna,SpeedyCart Express,cash on delivery,5,06-29-23,05-21-25,too salty and overcooked
+122,Tinapa Grill Shack,Makati,barbecue,843,2,1686,Tanauan Batangas,SpeedyCart Express,credit card,2,11-12-23,05-24-25,will order again
+123,Tinapa Grill Shack,Baguio,kinilaw,677,4,2708,Santa Rosa Laguna,MetroHaul Service,credit card,1,08-23-24,05-06-25,packaging leaked everywhere
+124,Siomai House,Iloilo City,adobo,242,3,726,Tanauan Batangas,IslandLink Courier,bank transfer,6,12-12-22,04-28-25,packaging leaked everywhere
+125,Mang Inasal Grill,Cebu City,sinigang,217,5,1085,Binangonan Rizal,QuickDash Delivery,debit card,2,10-14-24,05-09-25,small portions not worth the price
+126,Tinapa Grill Shack,Quezon City,fried chicken,908,1,908,Quezon City,IslandLink Courier,credit card,10,06-17-24,05-05-25,late delivery ruined the meal
+127,Lechon Belly Spot,Baguio,halo-halo,739,3,2217,Dasmarinas Cavite,RapidSend Logistics,credit card,9,11-07-22,05-07-25,late delivery ruined the meal
+128,Mang Inasal Grill,Makati,halo-halo,893,3,2679,Dasmarinas Cavite,SwiftParcel Go,credit card,8,09-07-23,05-03-25,Great value for money
+129,Isaw King,Makati,halo-halo,530,1,530,Calamba Laguna,IslandLink Courier,GCash,6,04-08-25,05-06-25,small portions not worth the price
+130,Isaw King,Bacolod,fried chicken,572,6,3432,San Pablo Laguna,NexusDrop,Maya,4,05-29-23,04-29-25,perfect portion size
+131,Isaw King,Iloilo City,adobo,710,4,2840,Dasmarinas Cavite,MetroHaul Service,GCash,7,11-28-23,05-11-25,arrived hot and tasty
+132,Kinilaw Corner,Manila,kinilaw,214,2,428,Quezon City,UrbanFreight,ShopeePay,5,04-10-24,05-20-25,Food was cold on arrival
+133,Mang Inasal Grill,Cebu City,kinilaw,307,4,1228,Tanauan Batangas,SpeedyCart Express,debit card,9,01-06-25,05-24-25,late delivery ruined the meal
+134,Kinilaw Corner,Davao City,barbecue,305,3,915,Tanauan Batangas,SwiftParcel Go,GCash,5,02-02-24,05-09-25,small portions not worth the price
+135,Siomai House,Bacolod,pork tapa,410,5,2050,Santa Rosa Laguna,UrbanFreight,credit card,10,02-07-25,05-12-25,small portions not worth the price
+136,Halo-Halo Stop,Cebu City,sinigang,738,5,3690,Binangonan Rizal,SwiftParcel Go,Maya,1,03-25-23,05-17-25,Delicious and fresh
+137,Halo-Halo Stop,Davao City,halo-halo,539,6,3234,Tanauan Batangas,IslandLink Courier,Maya,1,10-16-24,05-07-25,late delivery ruined the meal
+138,Mang Inasal Grill,Bacolod,halo-halo,793,1,793,Binangonan Rizal,RapidSend Logistics,debit card,1,03-26-25,05-21-25,packaging leaked everywhere
+139,Adobo Haven,Iloilo City,fried chicken,971,1,971,Tanauan Batangas,NexusDrop,debit card,2,01-28-23,05-12-25,arrived hot and tasty
+140,Kinilaw Corner,Davao City,barbecue,962,1,962,Tanauan Batangas,RapidSend Logistics,Maya,1,09-09-24,05-17-25,small portions not worth the price
+141,Siomai House,Baguio,pork tapa,577,6,3462,Calamba Laguna,QuickDash Delivery,cash on delivery,10,05-04-24,04-28-25,bland taste disappointing
+142,Kinilaw Corner,Makati,adobo,670,3,2010,Dasmarinas Cavite,SpeedyCart Express,debit card,10,09-15-22,05-03-25,Delicious and fresh
+143,Adobo Haven,Iloilo City,halo-halo,998,1,998,Tanauan Batangas,SwiftParcel Go,Maya,9,02-18-24,05-07-25,will order again
+144,Isaw King,Makati,sinigang,856,4,3424,San Pablo Laguna,UrbanFreight,GCash,6,12-14-24,04-28-25,bland taste disappointing
+145,Adobo Haven,Iloilo City,halo-halo,449,4,1796,Calamba Laguna,SpeedyCart Express,cash on delivery,7,09-29-23,05-22-25,late delivery ruined the meal
+146,Kinilaw Corner,Quezon City,adobo,236,5,1180,Tanauan Batangas,NexusDrop,credit card,10,10-08-23,05-11-25,Great value for money
+147,Kinilaw Corner,Davao City,adobo,675,3,2025,Tanauan Batangas,SwiftParcel Go,GCash,2,04-10-23,05-13-25,too salty and overcooked
+148,Lechon Belly Spot,Manila,adobo,475,4,1900,Dasmarinas Cavite,UrbanFreight,GCash,2,07-24-22,04-30-25,late delivery ruined the meal
+149,Mang Inasal Grill,Cebu City,halo-halo,844,3,2532,San Pablo Laguna,QuickDash Delivery,cash on delivery,9,05-10-22,05-20-25,perfect portion size
+150,Kinilaw Corner,Quezon City,fried chicken,971,3,2913,Calamba Laguna,SpeedyCart Express,Maya,3,08-20-23,04-27-25,late delivery ruined the meal
+151,Lechon Belly Spot,Baguio,sinigang,761,4,3044,Santa Rosa Laguna,SpeedyCart Express,bank transfer,9,09-06-22,05-18-25,packaging leaked everywhere
+152,Isaw King,Quezon City,kinilaw,952,2,1904,San Pablo Laguna,QuickDash Delivery,ShopeePay,2,01-12-25,04-30-25,perfect portion size
+153,Isaw King,Baguio,kinilaw,362,1,362,Dasmarinas Cavite,MetroHaul Service,credit card,10,05-30-23,05-19-25,packaging leaked everywhere
+154,Halo-Halo Stop,Makati,kinilaw,628,6,3768,Santa Rosa Laguna,SwiftParcel Go,bank transfer,8,09-03-23,04-26-25,too salty and overcooked
+155,Siomai House,Baguio,halo-halo,911,4,3644,Quezon City,SpeedyCart Express,debit card,9,04-09-24,05-22-25,Great value for money
+156,Tinapa Grill Shack,Bacolod,adobo,215,1,215,Quezon City,SpeedyCart Express,ShopeePay,6,12-21-23,05-11-25,too salty and overcooked
+157,Kinilaw Corner,Iloilo City,kinilaw,849,3,2547,Santa Rosa Laguna,UrbanFreight,bank transfer,1,01-15-24,05-20-25,loved the flavor
+158,Kinilaw Corner,Makati,kinilaw,206,5,1030,Quezon City,SwiftParcel Go,bank transfer,1,03-27-24,05-17-25,packaging leaked everywhere
+159,Halo-Halo Stop,Iloilo City,kinilaw,911,3,2733,Quezon City,NexusDrop,bank transfer,5,10-28-23,05-05-25,too salty and overcooked
+160,Halo-Halo Stop,Davao City,pork tapa,782,1,782,Calamba Laguna,QuickDash Delivery,Maya,2,03-02-25,05-13-25,bland taste disappointing
+161,Kinilaw Corner,Quezon City,pork tapa,155,6,930,Tanauan Batangas,NexusDrop,ShopeePay,10,01-31-25,05-04-25,Delicious and fresh
+162,Tinapa Grill Shack,Iloilo City,adobo,410,3,1230,Tanauan Batangas,MetroHaul Service,GCash,1,12-07-22,05-19-25,Delicious and fresh
+163,Halo-Halo Stop,Cebu City,lechon,457,6,2742,Calamba Laguna,SwiftParcel Go,ShopeePay,6,01-03-25,05-24-25,too salty and overcooked
+164,Halo-Halo Stop,Iloilo City,kinilaw,682,5,3410,Tanauan Batangas,UrbanFreight,bank transfer,1,09-19-24,05-21-25,Food was cold on arrival
+165,Mang Inasal Grill,Makati,kinilaw,490,1,490,Quezon City,RapidSend Logistics,credit card,2,03-31-24,04-26-25,Delicious and fresh
+166,Halo-Halo Stop,Quezon City,halo-halo,525,6,3150,Quezon City,RapidSend Logistics,cash on delivery,1,05-19-24,05-01-25,Great value for money
+167,Lechon Belly Spot,Cebu City,fried chicken,241,4,964,Quezon City,MetroHaul Service,credit card,1,04-21-24,05-04-25,too salty and overcooked
+168,Siomai House,Iloilo City,halo-halo,315,4,1260,Dasmarinas Cavite,SwiftParcel Go,debit card,9,05-25-22,05-01-25,late delivery ruined the meal
+169,Lechon Belly Spot,Manila,barbecue,890,5,4450,Dasmarinas Cavite,UrbanFreight,GCash,9,09-27-22,05-14-25,packaging leaked everywhere
+170,Halo-Halo Stop,Cebu City,sinigang,285,3,855,Quezon City,MetroHaul Service,Maya,3,12-25-23,05-23-25,packaging leaked everywhere
+171,Adobo Haven,Baguio,kinilaw,134,1,134,Dasmarinas Cavite,MetroHaul Service,Maya,4,04-09-23,04-29-25,late delivery ruined the meal
+172,Halo-Halo Stop,Quezon City,adobo,487,6,2922,Calamba Laguna,SwiftParcel Go,credit card,9,10-26-24,05-23-25,small portions not worth the price
+173,Lechon Belly Spot,Iloilo City,adobo,565,4,2260,Tanauan Batangas,MetroHaul Service,credit card,5,10-27-24,05-07-25,Great value for money
+174,Halo-Halo Stop,Quezon City,pork tapa,604,4,2416,San Pablo Laguna,SwiftParcel Go,Maya,8,12-05-24,05-01-25,too salty and overcooked
+175,Mang Inasal Grill,Bacolod,fried chicken,648,2,1296,Calamba Laguna,IslandLink Courier,credit card,2,09-20-23,05-18-25,Great value for money
+176,Tinapa Grill Shack,Baguio,barbecue,561,4,2244,San Pablo Laguna,NexusDrop,debit card,4,08-06-24,05-11-25,packaging leaked everywhere
+177,Halo-Halo Stop,Makati,barbecue,294,2,588,Calamba Laguna,SwiftParcel Go,credit card,6,05-13-23,05-16-25,perfect portion size
+178,Lechon Belly Spot,Cebu City,kinilaw,333,6,1998,San Pablo Laguna,UrbanFreight,debit card,7,06-01-23,05-20-25,small portions not worth the price
+179,Adobo Haven,Iloilo City,lechon,108,3,324,San Pablo Laguna,SwiftParcel Go,bank transfer,4,01-26-25,05-06-25,arrived hot and tasty
+180,Adobo Haven,Quezon City,pork tapa,534,5,2670,Santa Rosa Laguna,SpeedyCart Express,Maya,9,07-15-22,05-17-25,too salty and overcooked
+181,Mang Inasal Grill,Davao City,adobo,907,2,1814,Santa Rosa Laguna,IslandLink Courier,cash on delivery,7,02-14-25,05-17-25,Delicious and fresh
+182,Lechon Belly Spot,Cebu City,pork tapa,675,3,2025,Tanauan Batangas,UrbanFreight,GCash,3,08-27-24,04-27-25,will order again
+183,Halo-Halo Stop,Bacolod,barbecue,791,5,3955,San Pablo Laguna,SwiftParcel Go,debit card,1,02-26-23,05-03-25,small portions not worth the price
+184,Mang Inasal Grill,Davao City,lechon,510,4,2040,Calamba Laguna,RapidSend Logistics,GCash,6,09-19-23,05-13-25,Delicious and fresh
+185,Mang Inasal Grill,Davao City,adobo,946,1,946,Tanauan Batangas,NexusDrop,debit card,10,07-25-22,05-08-25,too salty and overcooked
+186,Tinapa Grill Shack,Manila,lechon,409,6,2454,Binangonan Rizal,NexusDrop,GCash,8,03-23-25,05-09-25,Great value for money
+187,Isaw King,Cebu City,fried chicken,902,5,4510,Calamba Laguna,IslandLink Courier,ShopeePay,10,05-22-24,05-22-25,too salty and overcooked
+188,Lechon Belly Spot,Manila,kinilaw,614,4,2456,Santa Rosa Laguna,RapidSend Logistics,bank transfer,4,08-31-24,04-26-25,packaging leaked everywhere
+189,Kinilaw Corner,Cebu City,pork tapa,919,3,2757,San Pablo Laguna,MetroHaul Service,ShopeePay,1,10-10-22,05-20-25,will order again
+190,Lechon Belly Spot,Iloilo City,halo-halo,276,4,1104,Santa Rosa Laguna,IslandLink Courier,bank transfer,2,11-13-22,05-14-25,loved the flavor
+191,Tinapa Grill Shack,Bacolod,lechon,485,2,970,Binangonan Rizal,IslandLink Courier,debit card,10,05-19-23,04-27-25,Food was cold on arrival
+192,Lechon Belly Spot,Bacolod,kinilaw,867,2,1734,Dasmarinas Cavite,MetroHaul Service,debit card,9,12-28-24,05-23-25,late delivery ruined the meal
+193,Tinapa Grill Shack,Iloilo City,fried chicken,930,1,930,Tanauan Batangas,MetroHaul Service,GCash,9,09-13-23,05-19-25,small portions not worth the price
+194,Kinilaw Corner,Cebu City,barbecue,908,3,2724,Tanauan Batangas,IslandLink Courier,Maya,10,12-28-22,04-30-25,too salty and overcooked
+195,Isaw King,Bacolod,halo-halo,877,5,4385,Santa Rosa Laguna,NexusDrop,cash on delivery,8,07-30-23,05-24-25,arrived hot and tasty
+196,Tinapa Grill Shack,Iloilo City,barbecue,136,3,408,Santa Rosa Laguna,NexusDrop,ShopeePay,7,09-27-23,05-20-25,small portions not worth the price
+197,Lechon Belly Spot,Makati,fried chicken,746,4,2984,Santa Rosa Laguna,NexusDrop,debit card,10,02-22-23,05-09-25,Delicious and fresh
+198,Halo-Halo Stop,Cebu City,halo-halo,575,6,3450,Santa Rosa Laguna,RapidSend Logistics,bank transfer,10,10-27-24,05-05-25,packaging leaked everywhere
+199,Isaw King,Davao City,adobo,188,5,940,San Pablo Laguna,QuickDash Delivery,bank transfer,2,09-26-23,05-03-25,will order again
+200,Adobo Haven,Quezon City,fried chicken,827,6,4962,Dasmarinas Cavite,UrbanFreight,debit card,10,11-03-23,04-28-25,Great value for money
+201,Kinilaw Corner,Davao City,adobo,706,5,3530,Quezon City,IslandLink Courier,bank transfer,6,06-06-23,05-23-25,Delicious and fresh
+202,Adobo Haven,Manila,sinigang,481,6,2886,Tanauan Batangas,MetroHaul Service,credit card,1,05-03-23,05-04-25,arrived hot and tasty
+203,Kinilaw Corner,Makati,barbecue,980,3,2940,Santa Rosa Laguna,RapidSend Logistics,credit card,9,12-01-24,04-26-25,bland taste disappointing
+204,Tinapa Grill Shack,Baguio,kinilaw,171,4,684,Dasmarinas Cavite,RapidSend Logistics,GCash,5,09-12-22,04-29-25,Food was cold on arrival
+205,Isaw King,Manila,pork tapa,745,1,745,Quezon City,SpeedyCart Express,Maya,8,02-17-23,05-17-25,too salty and overcooked
+206,Isaw King,Bacolod,adobo,498,1,498,Tanauan Batangas,QuickDash Delivery,Maya,8,09-25-23,05-21-25,Food was cold on arrival
+207,Tinapa Grill Shack,Cebu City,pork tapa,985,4,3940,San Pablo Laguna,RapidSend Logistics,GCash,8,12-20-24,05-05-25,perfect portion size
+208,Lechon Belly Spot,Baguio,sinigang,430,5,2150,Dasmarinas Cavite,SwiftParcel Go,GCash,6,08-12-22,05-01-25,small portions not worth the price
+209,Lechon Belly Spot,Bacolod,adobo,822,4,3288,Dasmarinas Cavite,NexusDrop,bank transfer,3,04-25-23,05-08-25,too salty and overcooked
+210,Mang Inasal Grill,Davao City,halo-halo,121,2,242,San Pablo Laguna,SwiftParcel Go,cash on delivery,6,10-24-23,05-10-25,packaging leaked everywhere
+211,Adobo Haven,Baguio,kinilaw,696,3,2088,Quezon City,QuickDash Delivery,bank transfer,5,08-22-24,05-16-25,small portions not worth the price
+212,Siomai House,Cebu City,sinigang,664,1,664,Calamba Laguna,IslandLink Courier,bank transfer,7,01-29-24,05-17-25,Food was cold on arrival
+213,Adobo Haven,Makati,barbecue,901,5,4505,Dasmarinas Cavite,MetroHaul Service,cash on delivery,8,12-31-22,05-04-25,bland taste disappointing
+214,Lechon Belly Spot,Baguio,lechon,510,6,3060,Quezon City,SwiftParcel Go,cash on delivery,7,08-27-22,05-18-25,arrived hot and tasty
+215,Isaw King,Davao City,adobo,406,5,2030,Calamba Laguna,SpeedyCart Express,debit card,10,04-18-24,05-11-25,arrived hot and tasty
+216,Isaw King,Manila,adobo,124,5,620,Dasmarinas Cavite,UrbanFreight,ShopeePay,10,05-14-22,05-09-25,Great value for money
+217,Lechon Belly Spot,Makati,barbecue,111,6,666,Santa Rosa Laguna,NexusDrop,cash on delivery,6,09-24-24,05-14-25,small portions not worth the price
+218,Kinilaw Corner,Manila,barbecue,411,3,1233,Santa Rosa Laguna,QuickDash Delivery,ShopeePay,9,05-05-23,05-21-25,will order again
+219,Adobo Haven,Quezon City,lechon,955,3,2865,Quezon City,UrbanFreight,Maya,10,04-04-23,05-03-25,arrived hot and tasty
+220,Mang Inasal Grill,Quezon City,halo-halo,709,2,1418,San Pablo Laguna,UrbanFreight,GCash,10,01-29-23,05-22-25,arrived hot and tasty
+221,Lechon Belly Spot,Manila,sinigang,148,1,148,Santa Rosa Laguna,IslandLink Courier,bank transfer,5,02-06-24,05-02-25,late delivery ruined the meal
+222,Siomai House,Quezon City,pork tapa,521,6,3126,Quezon City,RapidSend Logistics,debit card,2,11-21-24,05-09-25,will order again
+223,Halo-Halo Stop,Manila,fried chicken,444,2,888,Calamba Laguna,NexusDrop,credit card,7,11-19-24,05-08-25,late delivery ruined the meal
+224,Siomai House,Baguio,barbecue,406,4,1624,Santa Rosa Laguna,QuickDash Delivery,GCash,4,07-14-24,05-09-25,loved the flavor
+225,Mang Inasal Grill,Makati,adobo,392,5,1960,Calamba Laguna,IslandLink Courier,ShopeePay,7,05-20-24,05-13-25,packaging leaked everywhere
+226,Adobo Haven,Davao City,halo-halo,924,4,3696,San Pablo Laguna,NexusDrop,GCash,3,07-01-22,04-30-25,loved the flavor
+227,Tinapa Grill Shack,Davao City,fried chicken,732,3,2196,Dasmarinas Cavite,NexusDrop,credit card,4,03-29-25,05-10-25,Delicious and fresh
+228,Adobo Haven,Baguio,lechon,945,6,5670,Quezon City,RapidSend Logistics,bank transfer,7,09-08-22,05-13-25,Delicious and fresh
+229,Lechon Belly Spot,Davao City,lechon,394,5,1970,Calamba Laguna,NexusDrop,ShopeePay,6,07-19-23,05-23-25,Great value for money
+230,Lechon Belly Spot,Quezon City,pork tapa,828,5,4140,Binangonan Rizal,RapidSend Logistics,ShopeePay,6,10-02-22,05-09-25,will order again
+231,Adobo Haven,Manila,kinilaw,116,1,116,Quezon City,MetroHaul Service,Maya,6,07-08-23,05-19-25,late delivery ruined the meal
+232,Halo-Halo Stop,Baguio,barbecue,537,3,1611,Calamba Laguna,UrbanFreight,GCash,8,09-26-23,05-21-25,bland taste disappointing
+233,Siomai House,Quezon City,adobo,669,1,669,Dasmarinas Cavite,SpeedyCart Express,GCash,4,05-31-22,05-13-25,Food was cold on arrival
+234,Lechon Belly Spot,Baguio,barbecue,582,2,1164,San Pablo Laguna,MetroHaul Service,GCash,5,06-18-22,05-19-25,perfect portion size
+235,Adobo Haven,Iloilo City,halo-halo,260,1,260,Binangonan Rizal,MetroHaul Service,bank transfer,8,10-29-22,05-07-25,small portions not worth the price
+236,Isaw King,Iloilo City,lechon,831,1,831,Tanauan Batangas,QuickDash Delivery,credit card,6,02-20-25,05-19-25,late delivery ruined the meal
+237,Siomai House,Baguio,barbecue,273,5,1365,Santa Rosa Laguna,NexusDrop,GCash,6,01-18-24,05-09-25,Great value for money
+238,Halo-Halo Stop,Iloilo City,lechon,564,2,1128,Dasmarinas Cavite,SpeedyCart Express,cash on delivery,8,11-17-22,05-14-25,small portions not worth the price
+239,Siomai House,Bacolod,kinilaw,887,5,4435,Tanauan Batangas,NexusDrop,ShopeePay,7,01-11-23,05-03-25,bland taste disappointing
+240,Adobo Haven,Iloilo City,lechon,933,1,933,San Pablo Laguna,SpeedyCart Express,cash on delivery,7,11-08-23,05-13-25,Great value for money
+241,Kinilaw Corner,Manila,pork tapa,835,5,4175,San Pablo Laguna,SwiftParcel Go,debit card,4,01-17-25,05-16-25,small portions not worth the price
+242,Halo-Halo Stop,Baguio,fried chicken,393,2,786,Quezon City,SwiftParcel Go,bank transfer,8,10-11-22,05-20-25,arrived hot and tasty
+243,Mang Inasal Grill,Baguio,halo-halo,744,6,4464,Binangonan Rizal,SwiftParcel Go,GCash,6,11-21-22,05-15-25,too salty and overcooked
+244,Halo-Halo Stop,Manila,adobo,659,4,2636,Tanauan Batangas,RapidSend Logistics,Maya,5,04-04-23,05-17-25,arrived hot and tasty
+245,Kinilaw Corner,Davao City,adobo,353,2,706,Santa Rosa Laguna,RapidSend Logistics,credit card,2,04-11-24,05-13-25,Food was cold on arrival
+246,Tinapa Grill Shack,Makati,pork tapa,783,4,3132,Tanauan Batangas,IslandLink Courier,bank transfer,8,05-20-23,05-20-25,loved the flavor
+247,Siomai House,Iloilo City,adobo,534,3,1602,Quezon City,SpeedyCart Express,ShopeePay,10,07-14-23,05-13-25,Food was cold on arrival
+248,Mang Inasal Grill,Cebu City,kinilaw,447,4,1788,San Pablo Laguna,QuickDash Delivery,bank transfer,3,04-14-23,05-18-25,loved the flavor
+249,Kinilaw Corner,Baguio,lechon,132,4,528,Tanauan Batangas,UrbanFreight,debit card,5,01-08-25,05-10-25,loved the flavor
+250,Kinilaw Corner,Baguio,fried chicken,817,6,4902,Santa Rosa Laguna,IslandLink Courier,Maya,2,08-05-23,05-01-25,Great value for money
+251,Halo-Halo Stop,Makati,lechon,327,2,654,Quezon City,UrbanFreight,Maya,7,05-07-22,04-28-25,arrived hot and tasty
+252,Siomai House,Manila,lechon,423,3,1269,San Pablo Laguna,NexusDrop,credit card,9,06-30-22,05-16-25,late delivery ruined the meal
+253,Kinilaw Corner,Davao City,barbecue,944,6,5664,Binangonan Rizal,NexusDrop,bank transfer,7,05-05-23,05-06-25,perfect portion size
+254,Kinilaw Corner,Cebu City,barbecue,753,4,3012,San Pablo Laguna,SwiftParcel Go,Maya,8,05-12-22,04-27-25,late delivery ruined the meal
+255,Halo-Halo Stop,Makati,lechon,399,5,1995,Santa Rosa Laguna,SwiftParcel Go,Maya,7,10-16-23,05-22-25,Delicious and fresh
+256,Lechon Belly Spot,Cebu City,halo-halo,864,3,2592,Quezon City,QuickDash Delivery,ShopeePay,6,04-03-23,05-15-25,small portions not worth the price
+257,Isaw King,Manila,pork tapa,180,4,720,San Pablo Laguna,SwiftParcel Go,GCash,8,06-11-24,05-21-25,Delicious and fresh
+258,Lechon Belly Spot,Baguio,fried chicken,459,2,918,Tanauan Batangas,QuickDash Delivery,ShopeePay,1,06-04-24,05-24-25,perfect portion size
+259,Mang Inasal Grill,Cebu City,barbecue,278,3,834,Dasmarinas Cavite,IslandLink Courier,Maya,1,12-19-22,05-24-25,too salty and overcooked
+260,Halo-Halo Stop,Manila,barbecue,369,6,2214,San Pablo Laguna,SpeedyCart Express,ShopeePay,3,01-06-24,05-02-25,late delivery ruined the meal
+261,Halo-Halo Stop,Cebu City,pork tapa,150,5,750,Calamba Laguna,SwiftParcel Go,credit card,7,04-13-24,05-24-25,Food was cold on arrival
+262,Isaw King,Bacolod,barbecue,663,6,3978,Quezon City,SpeedyCart Express,Maya,10,06-10-24,05-15-25,small portions not worth the price
+263,Halo-Halo Stop,Baguio,fried chicken,510,2,1020,Binangonan Rizal,SpeedyCart Express,cash on delivery,3,08-31-22,05-04-25,loved the flavor
+264,Isaw King,Iloilo City,lechon,892,5,4460,San Pablo Laguna,UrbanFreight,bank transfer,5,11-03-23,04-28-25,will order again
+265,Kinilaw Corner,Davao City,barbecue,847,4,3388,Binangonan Rizal,SpeedyCart Express,ShopeePay,10,08-16-24,05-03-25,packaging leaked everywhere
+266,Lechon Belly Spot,Davao City,lechon,502,4,2008,Dasmarinas Cavite,SwiftParcel Go,debit card,8,01-01-25,05-22-25,Delicious and fresh
+267,Lechon Belly Spot,Cebu City,sinigang,772,4,3088,Tanauan Batangas,UrbanFreight,bank transfer,6,03-25-23,05-17-25,Food was cold on arrival
+268,Lechon Belly Spot,Cebu City,pork tapa,489,6,2934,Dasmarinas Cavite,IslandLink Courier,ShopeePay,10,11-08-22,05-16-25,packaging leaked everywhere
+269,Siomai House,Quezon City,halo-halo,481,1,481,Dasmarinas Cavite,IslandLink Courier,credit card,9,12-01-24,05-16-25,packaging leaked everywhere
+270,Tinapa Grill Shack,Bacolod,sinigang,509,3,1527,Tanauan Batangas,RapidSend Logistics,credit card,4,02-01-25,04-30-25,loved the flavor
+271,Mang Inasal Grill,Makati,kinilaw,715,5,3575,Tanauan Batangas,IslandLink Courier,debit card,7,01-15-25,05-08-25,loved the flavor
+272,Lechon Belly Spot,Manila,sinigang,391,2,782,Dasmarinas Cavite,SpeedyCart Express,Maya,5,08-01-22,05-04-25,bland taste disappointing
+273,Lechon Belly Spot,Cebu City,pork tapa,873,2,1746,Quezon City,SpeedyCart Express,credit card,10,07-18-22,05-17-25,Delicious and fresh
+274,Isaw King,Bacolod,kinilaw,304,5,1520,Binangonan Rizal,SwiftParcel Go,bank transfer,5,04-04-24,05-16-25,perfect portion size
+275,Lechon Belly Spot,Manila,kinilaw,515,6,3090,Tanauan Batangas,UrbanFreight,debit card,5,05-06-24,05-22-25,too salty and overcooked
+276,Kinilaw Corner,Davao City,lechon,137,6,822,Tanauan Batangas,UrbanFreight,Maya,10,02-21-24,05-07-25,arrived hot and tasty
+277,Tinapa Grill Shack,Quezon City,sinigang,601,2,1202,Calamba Laguna,UrbanFreight,cash on delivery,5,06-15-22,05-19-25,arrived hot and tasty
+278,Kinilaw Corner,Quezon City,halo-halo,458,2,916,San Pablo Laguna,NexusDrop,credit card,5,02-25-24,05-19-25,too salty and overcooked
+279,Kinilaw Corner,Quezon City,lechon,958,6,5748,San Pablo Laguna,MetroHaul Service,bank transfer,10,11-29-24,05-06-25,perfect portion size
+280,Halo-Halo Stop,Makati,kinilaw,125,6,750,Tanauan Batangas,UrbanFreight,ShopeePay,10,06-23-23,04-29-25,will order again
+281,Mang Inasal Grill,Quezon City,barbecue,113,6,678,Santa Rosa Laguna,SpeedyCart Express,cash on delivery,6,11-24-24,05-23-25,loved the flavor
+282,Adobo Haven,Quezon City,pork tapa,826,5,4130,Calamba Laguna,NexusDrop,ShopeePay,7,11-07-23,05-11-25,will order again
+283,Siomai House,Makati,barbecue,847,5,4235,San Pablo Laguna,RapidSend Logistics,Maya,3,12-29-24,05-09-25,Food was cold on arrival
+284,Kinilaw Corner,Quezon City,sinigang,160,3,480,Dasmarinas Cavite,IslandLink Courier,cash on delivery,4,09-03-22,05-06-25,arrived hot and tasty
+285,Kinilaw Corner,Bacolod,pork tapa,475,4,1900,Binangonan Rizal,SwiftParcel Go,ShopeePay,10,10-10-23,05-20-25,too salty and overcooked
+286,Tinapa Grill Shack,Cebu City,pork tapa,570,3,1710,Binangonan Rizal,QuickDash Delivery,debit card,2,10-31-23,05-24-25,loved the flavor
+287,Lechon Belly Spot,Makati,pork tapa,160,2,320,San Pablo Laguna,SwiftParcel Go,cash on delivery,6,12-30-24,04-27-25,small portions not worth the price
+288,Kinilaw Corner,Baguio,sinigang,267,3,801,Tanauan Batangas,RapidSend Logistics,debit card,5,06-04-22,05-10-25,Delicious and fresh
+289,Siomai House,Iloilo City,sinigang,686,4,2744,Binangonan Rizal,MetroHaul Service,credit card,3,11-08-22,05-02-25,loved the flavor
+290,Adobo Haven,Davao City,adobo,597,6,3582,Calamba Laguna,UrbanFreight,Maya,4,08-23-22,05-18-25,perfect portion size
+291,Lechon Belly Spot,Manila,adobo,861,3,2583,San Pablo Laguna,RapidSend Logistics,GCash,1,08-27-23,04-27-25,packaging leaked everywhere
+292,Isaw King,Quezon City,barbecue,752,6,4512,Calamba Laguna,UrbanFreight,GCash,4,02-04-24,05-12-25,bland taste disappointing
+293,Halo-Halo Stop,Makati,halo-halo,205,6,1230,Calamba Laguna,IslandLink Courier,credit card,3,02-14-25,05-14-25,too salty and overcooked
+294,Isaw King,Baguio,pork tapa,354,4,1416,Calamba Laguna,NexusDrop,Maya,3,08-14-24,05-07-25,Delicious and fresh
+295,Siomai House,Iloilo City,sinigang,790,2,1580,Dasmarinas Cavite,NexusDrop,bank transfer,9,04-29-24,05-12-25,will order again
+296,Kinilaw Corner,Bacolod,barbecue,604,4,2416,Santa Rosa Laguna,SwiftParcel Go,cash on delivery,4,09-03-22,05-13-25,packaging leaked everywhere
+297,Lechon Belly Spot,Bacolod,sinigang,468,3,1404,San Pablo Laguna,IslandLink Courier,ShopeePay,1,06-07-24,05-03-25,Delicious and fresh
+298,Isaw King,Quezon City,fried chicken,604,1,604,Dasmarinas Cavite,NexusDrop,Maya,6,05-31-24,05-10-25,Great value for money
+299,Adobo Haven,Makati,pork tapa,424,4,1696,Santa Rosa Laguna,NexusDrop,credit card,6,03-29-25,04-30-25,packaging leaked everywhere
+300,Halo-Halo Stop,Quezon City,halo-halo,469,3,1407,Dasmarinas Cavite,UrbanFreight,GCash,3,11-03-23,05-10-25,perfect portion size
+301,Isaw King,Baguio,lechon,605,3,1815,Calamba Laguna,SpeedyCart Express,credit card,1,01-06-25,04-26-25,bland taste disappointing
+302,Tinapa Grill Shack,Baguio,pork tapa,682,4,2728,Tanauan Batangas,MetroHaul Service,ShopeePay,8,09-05-24,05-08-25,will order again
+303,Siomai House,Davao City,adobo,373,6,2238,Quezon City,UrbanFreight,GCash,7,05-20-24,05-19-25,perfect portion size
+304,Siomai House,Iloilo City,pork tapa,803,1,803,Dasmarinas Cavite,MetroHaul Service,debit card,1,02-17-25,05-17-25,loved the flavor
+305,Lechon Belly Spot,Iloilo City,halo-halo,908,6,5448,Quezon City,RapidSend Logistics,Maya,1,03-01-24,04-27-25,Food was cold on arrival
+306,Tinapa Grill Shack,Iloilo City,fried chicken,136,3,408,Tanauan Batangas,RapidSend Logistics,credit card,1,07-03-22,05-23-25,arrived hot and tasty
+307,Siomai House,Bacolod,adobo,943,4,3772,Calamba Laguna,SwiftParcel Go,cash on delivery,4,10-17-24,05-19-25,small portions not worth the price
+308,Tinapa Grill Shack,Makati,pork tapa,644,1,644,Quezon City,NexusDrop,debit card,9,09-26-22,04-27-25,Delicious and fresh
+309,Siomai House,Makati,sinigang,465,3,1395,Calamba Laguna,IslandLink Courier,debit card,6,10-26-23,05-05-25,arrived hot and tasty
+310,Adobo Haven,Baguio,sinigang,772,3,2316,Binangonan Rizal,MetroHaul Service,debit card,6,11-18-24,05-07-25,Delicious and fresh
+311,Isaw King,Manila,sinigang,776,5,3880,Santa Rosa Laguna,UrbanFreight,Maya,6,08-05-22,05-13-25,Delicious and fresh
+312,Adobo Haven,Makati,halo-halo,304,4,1216,San Pablo Laguna,QuickDash Delivery,bank transfer,9,02-27-23,05-21-25,will order again
+313,Adobo Haven,Davao City,sinigang,643,6,3858,Tanauan Batangas,NexusDrop,credit card,6,02-10-24,05-15-25,late delivery ruined the meal
+314,Siomai House,Quezon City,adobo,887,3,2661,Tanauan Batangas,SpeedyCart Express,Maya,8,06-06-24,04-27-25,bland taste disappointing
+315,Tinapa Grill Shack,Davao City,barbecue,255,4,1020,San Pablo Laguna,IslandLink Courier,ShopeePay,2,03-14-25,05-03-25,Food was cold on arrival
+316,Halo-Halo Stop,Iloilo City,halo-halo,597,2,1194,Santa Rosa Laguna,SwiftParcel Go,GCash,3,08-02-22,05-15-25,small portions not worth the price
+317,Adobo Haven,Baguio,sinigang,744,1,744,San Pablo Laguna,NexusDrop,GCash,8,06-12-24,05-06-25,Great value for money
+318,Isaw King,Makati,sinigang,249,3,747,Calamba Laguna,SwiftParcel Go,ShopeePay,3,07-13-22,05-06-25,late delivery ruined the meal
+319,Siomai House,Davao City,lechon,850,1,850,Calamba Laguna,UrbanFreight,Maya,2,11-14-23,05-09-25,Delicious and fresh
+320,Halo-Halo Stop,Quezon City,halo-halo,831,5,4155,Binangonan Rizal,NexusDrop,credit card,7,04-03-24,05-23-25,perfect portion size
+321,Adobo Haven,Manila,lechon,723,4,2892,Quezon City,MetroHaul Service,credit card,7,01-25-23,05-18-25,Great value for money
+322,Siomai House,Bacolod,fried chicken,158,5,790,Tanauan Batangas,MetroHaul Service,ShopeePay,1,11-27-24,05-03-25,Food was cold on arrival
+323,Isaw King,Iloilo City,pork tapa,985,2,1970,Tanauan Batangas,UrbanFreight,cash on delivery,7,11-10-24,04-28-25,arrived hot and tasty
+324,Kinilaw Corner,Iloilo City,lechon,330,4,1320,Calamba Laguna,IslandLink Courier,credit card,6,05-05-23,05-06-25,will order again
+325,Kinilaw Corner,Bacolod,fried chicken,222,2,444,San Pablo Laguna,IslandLink Courier,GCash,2,07-23-23,05-21-25,will order again
+326,Tinapa Grill Shack,Cebu City,kinilaw,644,3,1932,Santa Rosa Laguna,IslandLink Courier,bank transfer,6,08-31-23,04-29-25,will order again
+327,Halo-Halo Stop,Bacolod,barbecue,164,5,820,Calamba Laguna,UrbanFreight,credit card,9,12-17-23,05-04-25,loved the flavor
+328,Kinilaw Corner,Quezon City,pork tapa,673,5,3365,Calamba Laguna,UrbanFreight,ShopeePay,6,07-27-24,04-26-25,packaging leaked everywhere
+329,Lechon Belly Spot,Manila,fried chicken,563,2,1126,Quezon City,QuickDash Delivery,cash on delivery,6,07-09-24,05-09-25,perfect portion size
+330,Halo-Halo Stop,Baguio,barbecue,837,3,2511,San Pablo Laguna,IslandLink Courier,GCash,10,07-18-24,05-10-25,arrived hot and tasty
+331,Tinapa Grill Shack,Quezon City,kinilaw,654,5,3270,Tanauan Batangas,RapidSend Logistics,ShopeePay,6,08-27-22,05-23-25,too salty and overcooked
+332,Siomai House,Iloilo City,kinilaw,707,2,1414,Dasmarinas Cavite,UrbanFreight,ShopeePay,4,06-07-22,04-29-25,perfect portion size
+333,Mang Inasal Grill,Quezon City,pork tapa,195,3,585,San Pablo Laguna,QuickDash Delivery,ShopeePay,3,05-17-24,05-07-25,Food was cold on arrival
+334,Halo-Halo Stop,Makati,sinigang,939,6,5634,San Pablo Laguna,SpeedyCart Express,bank transfer,2,06-02-24,05-01-25,Great value for money
+335,Adobo Haven,Cebu City,lechon,899,3,2697,Calamba Laguna,MetroHaul Service,GCash,8,07-17-23,05-24-25,Food was cold on arrival
+336,Mang Inasal Grill,Quezon City,lechon,489,1,489,Tanauan Batangas,SpeedyCart Express,debit card,4,09-23-23,05-03-25,arrived hot and tasty
+337,Halo-Halo Stop,Bacolod,sinigang,930,1,930,Santa Rosa Laguna,MetroHaul Service,bank transfer,1,05-22-22,05-19-25,Food was cold on arrival
+338,Isaw King,Iloilo City,lechon,561,2,1122,Binangonan Rizal,SpeedyCart Express,credit card,4,03-20-24,05-24-25,bland taste disappointing
+339,Kinilaw Corner,Davao City,lechon,587,1,587,Binangonan Rizal,UrbanFreight,bank transfer,2,07-20-23,04-27-25,will order again
+340,Lechon Belly Spot,Iloilo City,kinilaw,432,4,1728,San Pablo Laguna,SwiftParcel Go,credit card,10,11-24-23,05-05-25,Delicious and fresh
+341,Adobo Haven,Makati,sinigang,750,5,3750,Tanauan Batangas,QuickDash Delivery,ShopeePay,3,02-12-25,05-09-25,too salty and overcooked
+342,Isaw King,Makati,halo-halo,538,2,1076,Quezon City,SpeedyCart Express,ShopeePay,4,09-03-22,05-22-25,Food was cold on arrival
+343,Halo-Halo Stop,Davao City,kinilaw,579,6,3474,Quezon City,QuickDash Delivery,debit card,2,12-05-22,04-26-25,will order again
+344,Halo-Halo Stop,Makati,kinilaw,345,6,2070,Calamba Laguna,SpeedyCart Express,cash on delivery,3,05-10-22,04-29-25,will order again
+345,Isaw King,Manila,lechon,280,6,1680,Calamba Laguna,IslandLink Courier,cash on delivery,7,12-30-23,04-29-25,will order again
+346,Lechon Belly Spot,Cebu City,lechon,457,2,914,Binangonan Rizal,NexusDrop,Maya,3,09-17-24,05-03-25,loved the flavor
+347,Kinilaw Corner,Makati,adobo,508,6,3048,Binangonan Rizal,QuickDash Delivery,credit card,7,08-19-24,05-23-25,Great value for money
+348,Halo-Halo Stop,Cebu City,adobo,861,3,2583,San Pablo Laguna,MetroHaul Service,GCash,10,10-19-22,05-20-25,too salty and overcooked
+349,Kinilaw Corner,Iloilo City,lechon,761,5,3805,Dasmarinas Cavite,IslandLink Courier,debit card,9,09-06-24,05-20-25,packaging leaked everywhere
+350,Siomai House,Makati,adobo,366,3,1098,Tanauan Batangas,NexusDrop,credit card,5,05-24-22,04-30-25,too salty and overcooked
+351,Lechon Belly Spot,Bacolod,sinigang,272,1,272,Quezon City,QuickDash Delivery,bank transfer,2,04-12-25,05-12-25,arrived hot and tasty
+352,Kinilaw Corner,Cebu City,lechon,133,1,133,Quezon City,NexusDrop,credit card,9,08-17-24,05-11-25,Delicious and fresh
+353,Halo-Halo Stop,Manila,sinigang,565,5,2825,Dasmarinas Cavite,SpeedyCart Express,bank transfer,7,02-21-25,05-07-25,will order again
+354,Lechon Belly Spot,Manila,pork tapa,809,5,4045,Quezon City,RapidSend Logistics,debit card,3,08-07-22,05-21-25,small portions not worth the price
+355,Lechon Belly Spot,Manila,fried chicken,119,3,357,San Pablo Laguna,SpeedyCart Express,cash on delivery,9,07-10-23,04-26-25,too salty and overcooked
+356,Mang Inasal Grill,Bacolod,kinilaw,224,2,448,San Pablo Laguna,QuickDash Delivery,ShopeePay,7,12-12-23,05-08-25,small portions not worth the price
+357,Tinapa Grill Shack,Makati,halo-halo,641,2,1282,Santa Rosa Laguna,UrbanFreight,Maya,7,08-01-24,05-03-25,perfect portion size
+358,Tinapa Grill Shack,Iloilo City,kinilaw,881,3,2643,Dasmarinas Cavite,MetroHaul Service,bank transfer,10,02-14-25,05-12-25,perfect portion size
+359,Halo-Halo Stop,Cebu City,barbecue,825,5,4125,Binangonan Rizal,MetroHaul Service,Maya,4,04-09-25,05-15-25,late delivery ruined the meal
+360,Adobo Haven,Makati,pork tapa,189,4,756,San Pablo Laguna,MetroHaul Service,debit card,8,11-12-24,04-28-25,small portions not worth the price
+361,Halo-Halo Stop,Makati,halo-halo,522,4,2088,Tanauan Batangas,SpeedyCart Express,ShopeePay,3,03-06-25,04-26-25,Delicious and fresh
+362,Mang Inasal Grill,Bacolod,lechon,950,5,4750,Quezon City,UrbanFreight,ShopeePay,6,10-03-23,05-11-25,Delicious and fresh
+363,Siomai House,Quezon City,adobo,445,3,1335,San Pablo Laguna,UrbanFreight,cash on delivery,5,07-09-24,05-18-25,packaging leaked everywhere
+364,Adobo Haven,Makati,pork tapa,350,5,1750,Binangonan Rizal,QuickDash Delivery,credit card,9,07-17-23,05-08-25,arrived hot and tasty
+365,Isaw King,Cebu City,lechon,391,2,782,Tanauan Batangas,QuickDash Delivery,ShopeePay,4,10-25-23,05-19-25,will order again
+366,Halo-Halo Stop,Baguio,sinigang,600,6,3600,Santa Rosa Laguna,SpeedyCart Express,debit card,5,07-12-22,05-11-25,too salty and overcooked
+367,Mang Inasal Grill,Iloilo City,pork tapa,173,4,692,Santa Rosa Laguna,QuickDash Delivery,GCash,3,01-05-23,05-09-25,late delivery ruined the meal
+368,Siomai House,Iloilo City,barbecue,364,4,1456,Dasmarinas Cavite,QuickDash Delivery,GCash,1,03-10-23,05-20-25,small portions not worth the price
+369,Halo-Halo Stop,Quezon City,barbecue,716,6,4296,Calamba Laguna,SwiftParcel Go,ShopeePay,2,09-03-24,05-18-25,loved the flavor
+370,Isaw King,Cebu City,barbecue,357,1,357,Binangonan Rizal,UrbanFreight,ShopeePay,5,02-26-25,04-29-25,small portions not worth the price
+371,Halo-Halo Stop,Quezon City,lechon,239,1,239,San Pablo Laguna,RapidSend Logistics,Maya,6,06-22-22,04-26-25,Great value for money
+372,Siomai House,Iloilo City,lechon,341,2,682,Calamba Laguna,MetroHaul Service,GCash,8,08-07-24,05-16-25,too salty and overcooked
+373,Lechon Belly Spot,Davao City,halo-halo,706,6,4236,Tanauan Batangas,IslandLink Courier,credit card,6,07-17-24,04-27-25,will order again
+374,Halo-Halo Stop,Manila,fried chicken,150,5,750,Dasmarinas Cavite,UrbanFreight,ShopeePay,2,07-17-24,05-03-25,Delicious and fresh
+375,Tinapa Grill Shack,Cebu City,pork tapa,340,6,2040,Calamba Laguna,SwiftParcel Go,GCash,6,01-15-23,04-26-25,perfect portion size
+376,Halo-Halo Stop,Manila,barbecue,313,2,626,Binangonan Rizal,MetroHaul Service,ShopeePay,10,08-17-24,05-18-25,bland taste disappointing
+377,Halo-Halo Stop,Bacolod,fried chicken,208,4,832,Santa Rosa Laguna,UrbanFreight,bank transfer,5,11-11-24,05-06-25,Great value for money
+378,Kinilaw Corner,Makati,fried chicken,577,1,577,Tanauan Batangas,NexusDrop,GCash,5,01-21-24,05-07-25,arrived hot and tasty
+379,Isaw King,Makati,fried chicken,809,3,2427,Quezon City,MetroHaul Service,ShopeePay,10,08-07-24,05-21-25,will order again
+380,Isaw King,Baguio,adobo,552,4,2208,Binangonan Rizal,UrbanFreight,debit card,9,09-03-22,04-26-25,perfect portion size
+381,Tinapa Grill Shack,Manila,pork tapa,792,6,4752,Binangonan Rizal,QuickDash Delivery,ShopeePay,9,04-11-24,05-09-25,bland taste disappointing
+382,Halo-Halo Stop,Makati,kinilaw,624,2,1248,Quezon City,MetroHaul Service,bank transfer,4,02-10-24,05-08-25,too salty and overcooked
+383,Isaw King,Davao City,halo-halo,820,2,1640,Calamba Laguna,SwiftParcel Go,cash on delivery,9,01-30-23,04-30-25,arrived hot and tasty
+384,Lechon Belly Spot,Baguio,sinigang,366,2,732,Binangonan Rizal,RapidSend Logistics,GCash,2,07-31-24,05-18-25,Delicious and fresh
+385,Kinilaw Corner,Cebu City,halo-halo,650,6,3900,Calamba Laguna,MetroHaul Service,cash on delivery,7,03-26-25,04-26-25,small portions not worth the price
+386,Lechon Belly Spot,Makati,fried chicken,390,2,780,Santa Rosa Laguna,QuickDash Delivery,cash on delivery,4,02-10-23,05-18-25,perfect portion size
+387,Mang Inasal Grill,Bacolod,halo-halo,651,1,651,Santa Rosa Laguna,RapidSend Logistics,bank transfer,2,04-05-25,05-09-25,perfect portion size
+388,Halo-Halo Stop,Manila,barbecue,967,4,3868,Dasmarinas Cavite,SpeedyCart Express,cash on delivery,5,12-04-23,05-07-25,too salty and overcooked
+389,Adobo Haven,Davao City,pork tapa,427,2,854,Tanauan Batangas,SpeedyCart Express,GCash,7,05-09-23,05-12-25,arrived hot and tasty
+390,Adobo Haven,Davao City,fried chicken,160,2,320,Dasmarinas Cavite,SpeedyCart Express,credit card,4,09-03-24,05-10-25,perfect portion size
+391,Adobo Haven,Iloilo City,lechon,704,3,2112,Quezon City,MetroHaul Service,debit card,1,06-08-22,05-11-25,bland taste disappointing
+392,Siomai House,Davao City,barbecue,800,3,2400,Tanauan Batangas,SpeedyCart Express,credit card,9,06-11-24,05-22-25,Great value for money
+393,Lechon Belly Spot,Quezon City,adobo,313,3,939,Binangonan Rizal,IslandLink Courier,ShopeePay,1,02-24-23,05-22-25,loved the flavor
+394,Tinapa Grill Shack,Cebu City,kinilaw,463,5,2315,Quezon City,RapidSend Logistics,ShopeePay,4,02-27-24,05-11-25,late delivery ruined the meal
+395,Halo-Halo Stop,Davao City,sinigang,478,6,2868,San Pablo Laguna,NexusDrop,Maya,10,07-20-23,05-03-25,Delicious and fresh
+396,Tinapa Grill Shack,Baguio,kinilaw,360,5,1800,Tanauan Batangas,RapidSend Logistics,debit card,10,11-12-23,05-12-25,small portions not worth the price
+397,Kinilaw Corner,Baguio,fried chicken,967,1,967,Dasmarinas Cavite,IslandLink Courier,debit card,6,11-17-23,04-29-25,Delicious and fresh
+398,Adobo Haven,Iloilo City,adobo,989,4,3956,Quezon City,IslandLink Courier,cash on delivery,5,06-17-22,05-12-25,small portions not worth the price
+399,Adobo Haven,Quezon City,kinilaw,131,6,786,Quezon City,NexusDrop,bank transfer,1,11-12-23,05-13-25,arrived hot and tasty
+400,Tinapa Grill Shack,Davao City,kinilaw,900,3,2700,Dasmarinas Cavite,SwiftParcel Go,cash on delivery,1,10-26-22,04-27-25,perfect portion size
+401,Isaw King,Manila,barbecue,663,6,3978,Calamba Laguna,SwiftParcel Go,cash on delivery,10,08-13-23,05-20-25,Food was cold on arrival
+402,Tinapa Grill Shack,Iloilo City,sinigang,867,1,867,Dasmarinas Cavite,NexusDrop,credit card,4,09-12-23,04-28-25,loved the flavor
+403,Adobo Haven,Makati,pork tapa,552,4,2208,Calamba Laguna,SwiftParcel Go,credit card,7,09-25-23,04-29-25,small portions not worth the price
+404,Adobo Haven,Cebu City,lechon,749,2,1498,Quezon City,NexusDrop,debit card,10,11-17-24,05-08-25,bland taste disappointing
+405,Siomai House,Iloilo City,fried chicken,596,2,1192,Dasmarinas Cavite,IslandLink Courier,GCash,4,06-19-22,04-30-25,bland taste disappointing
+406,Kinilaw Corner,Iloilo City,lechon,657,4,2628,Santa Rosa Laguna,RapidSend Logistics,debit card,6,04-21-23,04-29-25,loved the flavor
+407,Halo-Halo Stop,Baguio,sinigang,159,5,795,Binangonan Rizal,MetroHaul Service,debit card,2,01-28-24,05-01-25,perfect portion size
+408,Tinapa Grill Shack,Davao City,adobo,173,1,173,Binangonan Rizal,RapidSend Logistics,ShopeePay,3,07-25-22,05-02-25,small portions not worth the price
+409,Lechon Belly Spot,Cebu City,pork tapa,423,3,1269,Calamba Laguna,IslandLink Courier,GCash,6,09-28-23,05-05-25,loved the flavor
+410,Isaw King,Quezon City,pork tapa,737,3,2211,Dasmarinas Cavite,SpeedyCart Express,Maya,10,07-05-24,05-21-25,late delivery ruined the meal
+411,Mang Inasal Grill,Cebu City,fried chicken,512,2,1024,Quezon City,MetroHaul Service,GCash,8,04-01-25,05-04-25,small portions not worth the price
+412,Adobo Haven,Quezon City,pork tapa,976,1,976,Quezon City,UrbanFreight,GCash,8,10-20-24,05-06-25,small portions not worth the price
+413,Lechon Belly Spot,Davao City,kinilaw,575,1,575,Calamba Laguna,QuickDash Delivery,bank transfer,3,10-11-24,05-08-25,late delivery ruined the meal
+414,Kinilaw Corner,Baguio,pork tapa,385,5,1925,Binangonan Rizal,NexusDrop,bank transfer,6,03-04-23,05-04-25,too salty and overcooked
+415,Kinilaw Corner,Makati,adobo,933,1,933,Quezon City,MetroHaul Service,bank transfer,9,08-01-22,05-11-25,Great value for money
+416,Tinapa Grill Shack,Quezon City,barbecue,540,2,1080,Dasmarinas Cavite,IslandLink Courier,credit card,8,01-04-25,05-16-25,will order again
+417,Isaw King,Bacolod,kinilaw,570,4,2280,Tanauan Batangas,MetroHaul Service,GCash,4,07-21-24,05-21-25,late delivery ruined the meal
+418,Siomai House,Quezon City,kinilaw,242,3,726,Calamba Laguna,QuickDash Delivery,cash on delivery,8,01-19-25,05-04-25,loved the flavor
+419,Mang Inasal Grill,Cebu City,halo-halo,623,2,1246,Binangonan Rizal,NexusDrop,credit card,5,08-13-23,04-29-25,packaging leaked everywhere
+420,Adobo Haven,Iloilo City,barbecue,714,4,2856,Tanauan Batangas,QuickDash Delivery,debit card,1,03-18-25,05-05-25,too salty and overcooked
+421,Tinapa Grill Shack,Baguio,sinigang,775,1,775,Dasmarinas Cavite,SpeedyCart Express,GCash,10,06-01-22,05-12-25,Food was cold on arrival
+422,Isaw King,Cebu City,lechon,431,2,862,Binangonan Rizal,SwiftParcel Go,GCash,8,04-12-24,05-03-25,too salty and overcooked
+423,Adobo Haven,Iloilo City,lechon,264,4,1056,Binangonan Rizal,RapidSend Logistics,ShopeePay,10,10-11-23,05-11-25,arrived hot and tasty
+424,Halo-Halo Stop,Manila,halo-halo,815,5,4075,Santa Rosa Laguna,MetroHaul Service,debit card,9,08-28-22,05-20-25,perfect portion size
+425,Adobo Haven,Iloilo City,sinigang,226,4,904,Tanauan Batangas,NexusDrop,GCash,7,09-03-22,05-20-25,bland taste disappointing
+426,Tinapa Grill Shack,Baguio,kinilaw,176,6,1056,Quezon City,QuickDash Delivery,debit card,7,07-18-22,05-03-25,Food was cold on arrival
+427,Kinilaw Corner,Cebu City,halo-halo,751,5,3755,Calamba Laguna,MetroHaul Service,Maya,2,05-12-23,04-29-25,loved the flavor
+428,Siomai House,Manila,halo-halo,142,3,426,Dasmarinas Cavite,UrbanFreight,Maya,10,01-24-23,05-02-25,Food was cold on arrival
+429,Halo-Halo Stop,Quezon City,kinilaw,681,3,2043,Quezon City,RapidSend Logistics,cash on delivery,7,10-28-22,05-17-25,bland taste disappointing
+430,Lechon Belly Spot,Cebu City,fried chicken,180,5,900,San Pablo Laguna,UrbanFreight,Maya,5,09-30-22,05-07-25,loved the flavor
+431,Kinilaw Corner,Quezon City,lechon,500,1,500,Binangonan Rizal,NexusDrop,GCash,5,03-05-25,05-04-25,perfect portion size
+432,Halo-Halo Stop,Iloilo City,barbecue,908,2,1816,Dasmarinas Cavite,NexusDrop,debit card,1,02-03-23,05-07-25,late delivery ruined the meal
+433,Mang Inasal Grill,Baguio,adobo,161,3,483,San Pablo Laguna,NexusDrop,cash on delivery,10,10-30-23,05-22-25,arrived hot and tasty
+434,Isaw King,Quezon City,halo-halo,638,5,3190,Santa Rosa Laguna,IslandLink Courier,GCash,1,07-26-22,05-08-25,Food was cold on arrival
+435,Isaw King,Baguio,barbecue,593,6,3558,Quezon City,QuickDash Delivery,GCash,2,01-01-24,05-13-25,Food was cold on arrival
+436,Adobo Haven,Manila,barbecue,725,1,725,Calamba Laguna,SpeedyCart Express,GCash,8,10-26-23,05-13-25,packaging leaked everywhere
+437,Kinilaw Corner,Baguio,lechon,729,5,3645,Binangonan Rizal,IslandLink Courier,bank transfer,8,08-31-23,05-20-25,late delivery ruined the meal
+438,Siomai House,Bacolod,barbecue,230,6,1380,San Pablo Laguna,IslandLink Courier,Maya,1,09-09-23,04-26-25,too salty and overcooked
+439,Mang Inasal Grill,Iloilo City,kinilaw,243,1,243,San Pablo Laguna,NexusDrop,debit card,5,09-28-22,05-03-25,bland taste disappointing
+440,Siomai House,Bacolod,fried chicken,284,6,1704,Santa Rosa Laguna,QuickDash Delivery,debit card,4,08-07-23,05-07-25,loved the flavor
+441,Kinilaw Corner,Baguio,pork tapa,862,4,3448,Tanauan Batangas,RapidSend Logistics,debit card,4,07-23-23,05-12-25,small portions not worth the price
+442,Lechon Belly Spot,Manila,fried chicken,608,3,1824,Quezon City,MetroHaul Service,Maya,10,02-14-24,04-29-25,late delivery ruined the meal
+443,Kinilaw Corner,Quezon City,lechon,209,1,209,Calamba Laguna,MetroHaul Service,cash on delivery,2,02-09-25,04-28-25,Delicious and fresh
+444,Halo-Halo Stop,Baguio,lechon,654,2,1308,San Pablo Laguna,SwiftParcel Go,bank transfer,4,11-22-23,05-11-25,too salty and overcooked
+445,Siomai House,Iloilo City,sinigang,345,3,1035,Quezon City,QuickDash Delivery,bank transfer,10,11-25-23,05-01-25,bland taste disappointing
+446,Kinilaw Corner,Cebu City,sinigang,131,5,655,Dasmarinas Cavite,NexusDrop,Maya,4,07-24-24,05-13-25,Delicious and fresh
+447,Kinilaw Corner,Baguio,pork tapa,538,3,1614,Santa Rosa Laguna,QuickDash Delivery,cash on delivery,8,06-17-24,05-12-25,Food was cold on arrival
+448,Isaw King,Makati,kinilaw,419,6,2514,Dasmarinas Cavite,QuickDash Delivery,ShopeePay,3,04-25-24,05-17-25,bland taste disappointing
+449,Lechon Belly Spot,Baguio,barbecue,617,6,3702,San Pablo Laguna,MetroHaul Service,ShopeePay,4,02-12-23,05-01-25,Delicious and fresh
+450,Adobo Haven,Makati,fried chicken,234,3,702,Tanauan Batangas,SpeedyCart Express,bank transfer,3,03-18-24,05-04-25,arrived hot and tasty
+451,Halo-Halo Stop,Davao City,fried chicken,610,2,1220,Binangonan Rizal,SpeedyCart Express,credit card,7,07-21-23,05-17-25,Food was cold on arrival
+452,Tinapa Grill Shack,Cebu City,barbecue,489,5,2445,Calamba Laguna,SpeedyCart Express,bank transfer,3,07-02-24,05-12-25,Great value for money
+453,Halo-Halo Stop,Baguio,barbecue,607,6,3642,Dasmarinas Cavite,IslandLink Courier,ShopeePay,1,08-03-23,04-27-25,late delivery ruined the meal
+454,Siomai House,Davao City,kinilaw,290,6,1740,San Pablo Laguna,RapidSend Logistics,cash on delivery,1,04-13-24,05-18-25,will order again
+455,Kinilaw Corner,Makati,pork tapa,735,5,3675,Binangonan Rizal,SwiftParcel Go,credit card,3,12-14-22,05-17-25,will order again
+456,Halo-Halo Stop,Davao City,fried chicken,656,4,2624,Calamba Laguna,SwiftParcel Go,cash on delivery,1,04-12-25,05-20-25,Delicious and fresh
+457,Tinapa Grill Shack,Manila,fried chicken,271,2,542,Calamba Laguna,MetroHaul Service,debit card,1,12-08-23,05-21-25,small portions not worth the price
+458,Adobo Haven,Baguio,halo-halo,526,6,3156,San Pablo Laguna,MetroHaul Service,ShopeePay,7,05-02-23,05-10-25,small portions not worth the price
+459,Mang Inasal Grill,Quezon City,sinigang,189,2,378,Quezon City,MetroHaul Service,bank transfer,5,12-12-23,05-13-25,Great value for money
+460,Tinapa Grill Shack,Bacolod,adobo,563,1,563,Dasmarinas Cavite,RapidSend Logistics,debit card,2,10-29-23,05-15-25,late delivery ruined the meal
+461,Isaw King,Baguio,kinilaw,258,6,1548,Quezon City,SpeedyCart Express,GCash,3,03-12-24,04-28-25,Food was cold on arrival
+462,Kinilaw Corner,Davao City,halo-halo,429,3,1287,Santa Rosa Laguna,SpeedyCart Express,Maya,5,03-12-24,05-11-25,Delicious and fresh
+463,Isaw King,Baguio,adobo,405,5,2025,San Pablo Laguna,SpeedyCart Express,GCash,5,09-16-24,05-06-25,late delivery ruined the meal
+464,Tinapa Grill Shack,Manila,lechon,686,3,2058,San Pablo Laguna,SwiftParcel Go,Maya,8,03-21-23,05-10-25,perfect portion size
+465,Halo-Halo Stop,Iloilo City,sinigang,533,1,533,Santa Rosa Laguna,MetroHaul Service,bank transfer,7,02-15-24,05-06-25,arrived hot and tasty
+466,Siomai House,Baguio,kinilaw,703,3,2109,Dasmarinas Cavite,NexusDrop,cash on delivery,2,12-17-23,05-10-25,Food was cold on arrival
+467,Siomai House,Bacolod,pork tapa,775,1,775,Santa Rosa Laguna,QuickDash Delivery,GCash,3,08-24-24,04-26-25,small portions not worth the price
+468,Siomai House,Davao City,halo-halo,746,2,1492,Calamba Laguna,QuickDash Delivery,bank transfer,4,08-12-22,05-23-25,too salty and overcooked
+469,Adobo Haven,Makati,kinilaw,338,1,338,Santa Rosa Laguna,IslandLink Courier,bank transfer,7,07-13-23,05-08-25,loved the flavor
+470,Lechon Belly Spot,Baguio,pork tapa,898,5,4490,Calamba Laguna,NexusDrop,credit card,7,08-29-23,05-08-25,small portions not worth the price
+471,Siomai House,Makati,fried chicken,792,5,3960,Binangonan Rizal,IslandLink Courier,ShopeePay,10,12-21-22,05-11-25,small portions not worth the price
+472,Siomai House,Baguio,sinigang,819,2,1638,Tanauan Batangas,IslandLink Courier,credit card,7,07-15-23,05-01-25,packaging leaked everywhere
+473,Mang Inasal Grill,Cebu City,barbecue,446,3,1338,Calamba Laguna,RapidSend Logistics,Maya,5,08-17-24,05-22-25,loved the flavor
+474,Kinilaw Corner,Davao City,pork tapa,245,6,1470,Calamba Laguna,SwiftParcel Go,ShopeePay,9,06-02-23,05-01-25,bland taste disappointing
+475,Mang Inasal Grill,Baguio,halo-halo,424,5,2120,Tanauan Batangas,IslandLink Courier,bank transfer,5,04-20-24,05-21-25,too salty and overcooked
+476,Halo-Halo Stop,Makati,halo-halo,247,3,741,Santa Rosa Laguna,RapidSend Logistics,debit card,7,12-23-24,05-09-25,loved the flavor
+477,Adobo Haven,Davao City,fried chicken,102,4,408,Dasmarinas Cavite,NexusDrop,ShopeePay,9,07-30-23,05-06-25,bland taste disappointing
+478,Isaw King,Manila,barbecue,272,3,816,Binangonan Rizal,RapidSend Logistics,bank transfer,5,11-19-22,05-05-25,loved the flavor
+479,Adobo Haven,Cebu City,lechon,268,4,1072,Santa Rosa Laguna,MetroHaul Service,ShopeePay,10,01-30-24,05-15-25,loved the flavor
+480,Adobo Haven,Bacolod,fried chicken,104,2,208,Tanauan Batangas,IslandLink Courier,cash on delivery,5,09-29-24,05-24-25,small portions not worth the price
+481,Tinapa Grill Shack,Iloilo City,kinilaw,873,5,4365,Dasmarinas Cavite,NexusDrop,cash on delivery,7,09-28-22,05-19-25,packaging leaked everywhere
+482,Tinapa Grill Shack,Bacolod,barbecue,255,1,255,Dasmarinas Cavite,MetroHaul Service,debit card,5,01-22-23,05-11-25,loved the flavor
+483,Siomai House,Iloilo City,fried chicken,125,4,500,Binangonan Rizal,UrbanFreight,ShopeePay,3,09-21-22,05-23-25,perfect portion size
+484,Adobo Haven,Iloilo City,lechon,625,3,1875,San Pablo Laguna,MetroHaul Service,bank transfer,4,01-25-24,05-12-25,small portions not worth the price
+485,Tinapa Grill Shack,Cebu City,kinilaw,797,6,4782,Binangonan Rizal,SpeedyCart Express,bank transfer,10,09-16-23,05-17-25,loved the flavor
+486,Siomai House,Manila,adobo,996,2,1992,Santa Rosa Laguna,MetroHaul Service,bank transfer,4,03-06-23,04-26-25,Delicious and fresh
+487,Tinapa Grill Shack,Makati,sinigang,789,3,2367,San Pablo Laguna,SwiftParcel Go,debit card,4,03-12-23,05-15-25,bland taste disappointing
+488,Tinapa Grill Shack,Bacolod,fried chicken,119,6,714,Calamba Laguna,MetroHaul Service,debit card,7,05-18-22,05-05-25,too salty and overcooked
+489,Siomai House,Manila,barbecue,577,4,2308,Dasmarinas Cavite,SwiftParcel Go,cash on delivery,4,08-18-24,05-08-25,packaging leaked everywhere
+490,Siomai House,Baguio,halo-halo,926,3,2778,Calamba Laguna,MetroHaul Service,Maya,4,05-13-23,05-23-25,small portions not worth the price
+491,Adobo Haven,Makati,kinilaw,400,2,800,San Pablo Laguna,QuickDash Delivery,debit card,2,11-08-24,05-18-25,small portions not worth the price
+492,Isaw King,Manila,kinilaw,260,6,1560,Santa Rosa Laguna,IslandLink Courier,debit card,3,03-11-24,05-20-25,loved the flavor
+493,Lechon Belly Spot,Manila,barbecue,935,5,4675,San Pablo Laguna,SpeedyCart Express,GCash,3,03-01-25,05-02-25,will order again
+494,Lechon Belly Spot,Bacolod,sinigang,540,1,540,Binangonan Rizal,RapidSend Logistics,cash on delivery,3,05-19-22,05-22-25,Food was cold on arrival
+495,Adobo Haven,Bacolod,adobo,926,2,1852,San Pablo Laguna,NexusDrop,Maya,8,06-17-23,05-07-25,bland taste disappointing
+496,Siomai House,Cebu City,lechon,149,5,745,San Pablo Laguna,UrbanFreight,cash on delivery,8,03-27-23,05-15-25,small portions not worth the price
+497,Siomai House,Bacolod,pork tapa,120,6,720,Tanauan Batangas,RapidSend Logistics,Maya,7,02-16-24,05-15-25,small portions not worth the price
+498,Adobo Haven,Baguio,barbecue,909,4,3636,Santa Rosa Laguna,QuickDash Delivery,Maya,2,07-06-24,05-06-25,loved the flavor
+499,Tinapa Grill Shack,Bacolod,kinilaw,714,1,714,San Pablo Laguna,SpeedyCart Express,credit card,7,05-06-22,04-28-25,loved the flavor
+500,Tinapa Grill Shack,Manila,pork tapa,447,1,447,Dasmarinas Cavite,NexusDrop,ShopeePay,7,11-06-24,05-21-25,packaging leaked everywhere
+501,Halo-Halo Stop,Makati,fried chicken,516,6,3096,Quezon City,NexusDrop,ShopeePay,7,05-01-23,05-11-25,late delivery ruined the meal
+502,Isaw King,Davao City,adobo,593,4,2372,San Pablo Laguna,RapidSend Logistics,credit card,4,06-30-24,05-08-25,loved the flavor
+503,Siomai House,Iloilo City,adobo,248,5,1240,Dasmarinas Cavite,NexusDrop,debit card,7,01-15-23,04-28-25,loved the flavor
+504,Adobo Haven,Iloilo City,halo-halo,295,5,1475,Santa Rosa Laguna,MetroHaul Service,bank transfer,6,06-07-24,05-03-25,late delivery ruined the meal
+505,Kinilaw Corner,Iloilo City,kinilaw,986,5,4930,San Pablo Laguna,SpeedyCart Express,GCash,7,10-27-22,05-15-25,Food was cold on arrival
+506,Adobo Haven,Baguio,lechon,250,4,1000,San Pablo Laguna,NexusDrop,debit card,8,08-22-22,04-28-25,too salty and overcooked
+507,Kinilaw Corner,Bacolod,kinilaw,937,3,2811,Tanauan Batangas,MetroHaul Service,bank transfer,6,06-26-23,05-24-25,late delivery ruined the meal
+508,Adobo Haven,Cebu City,sinigang,363,4,1452,Binangonan Rizal,UrbanFreight,ShopeePay,9,11-25-23,05-11-25,arrived hot and tasty
+509,Isaw King,Makati,barbecue,426,3,1278,Quezon City,NexusDrop,cash on delivery,4,10-30-22,04-29-25,Food was cold on arrival
+510,Tinapa Grill Shack,Bacolod,pork tapa,949,5,4745,Dasmarinas Cavite,MetroHaul Service,bank transfer,4,08-30-24,04-30-25,bland taste disappointing
+511,Halo-Halo Stop,Manila,lechon,891,6,5346,Calamba Laguna,UrbanFreight,Maya,10,03-31-23,05-13-25,bland taste disappointing
+512,Tinapa Grill Shack,Manila,barbecue,956,6,5736,San Pablo Laguna,UrbanFreight,bank transfer,10,03-29-25,05-16-25,Great value for money
+513,Lechon Belly Spot,Cebu City,sinigang,1000,4,4000,Binangonan Rizal,MetroHaul Service,credit card,4,12-02-23,05-05-25,Food was cold on arrival
+514,Lechon Belly Spot,Bacolod,pork tapa,204,4,816,Tanauan Batangas,RapidSend Logistics,GCash,5,06-12-23,05-01-25,loved the flavor
+515,Tinapa Grill Shack,Baguio,adobo,633,6,3798,Santa Rosa Laguna,RapidSend Logistics,credit card,9,06-24-23,05-02-25,Great value for money
+516,Mang Inasal Grill,Quezon City,fried chicken,677,6,4062,Binangonan Rizal,MetroHaul Service,ShopeePay,2,06-15-23,05-01-25,packaging leaked everywhere
+517,Lechon Belly Spot,Baguio,halo-halo,121,6,726,Binangonan Rizal,UrbanFreight,Maya,9,05-18-24,05-11-25,loved the flavor
+518,Mang Inasal Grill,Cebu City,lechon,201,2,402,Tanauan Batangas,QuickDash Delivery,ShopeePay,5,05-13-22,05-11-25,will order again
+519,Kinilaw Corner,Bacolod,adobo,867,3,2601,Santa Rosa Laguna,SwiftParcel Go,debit card,4,04-15-23,05-19-25,Great value for money
+520,Kinilaw Corner,Cebu City,fried chicken,372,3,1116,Santa Rosa Laguna,NexusDrop,GCash,3,07-06-23,05-08-25,Delicious and fresh
+521,Lechon Belly Spot,Quezon City,pork tapa,491,6,2946,Binangonan Rizal,SwiftParcel Go,credit card,3,11-06-22,05-19-25,will order again
+522,Siomai House,Quezon City,adobo,456,5,2280,San Pablo Laguna,MetroHaul Service,GCash,8,10-30-24,05-05-25,bland taste disappointing
+523,Mang Inasal Grill,Iloilo City,sinigang,896,5,4480,Dasmarinas Cavite,MetroHaul Service,credit card,10,03-27-25,04-26-25,will order again
+524,Kinilaw Corner,Quezon City,lechon,560,1,560,Tanauan Batangas,IslandLink Courier,credit card,8,07-13-23,05-23-25,small portions not worth the price
+525,Siomai House,Cebu City,sinigang,794,4,3176,Quezon City,UrbanFreight,bank transfer,7,10-04-24,05-17-25,packaging leaked everywhere
+526,Lechon Belly Spot,Baguio,sinigang,866,4,3464,Calamba Laguna,SwiftParcel Go,Maya,2,03-14-25,05-08-25,Delicious and fresh
+527,Kinilaw Corner,Davao City,lechon,931,6,5586,San Pablo Laguna,IslandLink Courier,credit card,3,11-14-22,05-02-25,too salty and overcooked
+528,Lechon Belly Spot,Makati,barbecue,285,4,1140,Tanauan Batangas,MetroHaul Service,GCash,10,02-02-24,05-11-25,too salty and overcooked
+529,Siomai House,Makati,halo-halo,593,6,3558,Binangonan Rizal,QuickDash Delivery,debit card,1,10-15-22,05-08-25,bland taste disappointing
+530,Tinapa Grill Shack,Iloilo City,fried chicken,490,3,1470,Santa Rosa Laguna,QuickDash Delivery,credit card,2,04-13-24,04-30-25,packaging leaked everywhere
+531,Tinapa Grill Shack,Bacolod,kinilaw,705,6,4230,Dasmarinas Cavite,IslandLink Courier,debit card,5,04-03-24,05-16-25,Great value for money
+532,Adobo Haven,Quezon City,kinilaw,631,4,2524,Calamba Laguna,NexusDrop,credit card,10,11-30-22,05-06-25,Delicious and fresh
+533,Kinilaw Corner,Davao City,fried chicken,403,2,806,Calamba Laguna,NexusDrop,GCash,7,04-04-23,05-04-25,late delivery ruined the meal
+534,Lechon Belly Spot,Cebu City,halo-halo,112,3,336,Santa Rosa Laguna,SwiftParcel Go,ShopeePay,8,02-19-24,04-28-25,late delivery ruined the meal
+535,Tinapa Grill Shack,Bacolod,halo-halo,504,3,1512,Dasmarinas Cavite,SwiftParcel Go,Maya,5,06-29-22,05-02-25,will order again
+536,Kinilaw Corner,Quezon City,adobo,316,2,632,Binangonan Rizal,UrbanFreight,Maya,5,07-31-22,05-14-25,perfect portion size
+537,Siomai House,Cebu City,fried chicken,391,5,1955,Dasmarinas Cavite,IslandLink Courier,Maya,6,11-04-22,04-30-25,Food was cold on arrival
+538,Tinapa Grill Shack,Iloilo City,lechon,163,1,163,Calamba Laguna,QuickDash Delivery,bank transfer,8,12-15-22,05-14-25,Food was cold on arrival
+539,Isaw King,Baguio,adobo,617,5,3085,Binangonan Rizal,UrbanFreight,cash on delivery,2,12-24-24,05-13-25,packaging leaked everywhere
+540,Siomai House,Cebu City,kinilaw,500,6,3000,Dasmarinas Cavite,RapidSend Logistics,GCash,8,12-02-23,05-13-25,bland taste disappointing
+541,Siomai House,Makati,barbecue,975,6,5850,Quezon City,SpeedyCart Express,debit card,4,12-12-24,05-24-25,Great value for money
+542,Isaw King,Quezon City,sinigang,681,1,681,Santa Rosa Laguna,RapidSend Logistics,cash on delivery,3,03-19-23,05-03-25,arrived hot and tasty
+543,Kinilaw Corner,Quezon City,pork tapa,530,2,1060,Santa Rosa Laguna,UrbanFreight,Maya,1,06-04-22,05-02-25,packaging leaked everywhere
+544,Lechon Belly Spot,Davao City,adobo,426,6,2556,Santa Rosa Laguna,NexusDrop,debit card,9,05-27-24,04-27-25,Great value for money
+545,Adobo Haven,Cebu City,barbecue,722,2,1444,Quezon City,UrbanFreight,ShopeePay,9,12-22-24,05-19-25,loved the flavor
+546,Lechon Belly Spot,Baguio,barbecue,222,1,222,Santa Rosa Laguna,SpeedyCart Express,credit card,4,07-11-22,05-11-25,bland taste disappointing
+547,Tinapa Grill Shack,Quezon City,barbecue,789,2,1578,Binangonan Rizal,IslandLink Courier,cash on delivery,5,01-04-24,05-10-25,Food was cold on arrival
+548,Tinapa Grill Shack,Makati,lechon,819,4,3276,Dasmarinas Cavite,UrbanFreight,debit card,5,05-25-24,04-29-25,Great value for money
+549,Siomai House,Iloilo City,pork tapa,740,2,1480,San Pablo Laguna,IslandLink Courier,credit card,5,12-11-22,05-13-25,will order again
+550,Tinapa Grill Shack,Iloilo City,adobo,564,2,1128,Tanauan Batangas,NexusDrop,debit card,10,09-06-22,04-26-25,bland taste disappointing
+551,Lechon Belly Spot,Quezon City,sinigang,511,6,3066,Dasmarinas Cavite,SwiftParcel Go,debit card,8,07-08-23,05-18-25,small portions not worth the price
+552,Halo-Halo Stop,Davao City,barbecue,498,4,1992,Binangonan Rizal,UrbanFreight,debit card,3,12-06-23,05-16-25,bland taste disappointing
+553,Siomai House,Baguio,adobo,827,2,1654,Santa Rosa Laguna,IslandLink Courier,cash on delivery,4,06-02-22,05-21-25,will order again
+554,Halo-Halo Stop,Makati,fried chicken,995,6,5970,Calamba Laguna,SwiftParcel Go,credit card,3,08-14-24,05-18-25,will order again
+555,Halo-Halo Stop,Baguio,sinigang,153,1,153,Binangonan Rizal,RapidSend Logistics,cash on delivery,2,04-25-24,04-28-25,small portions not worth the price
+556,Mang Inasal Grill,Quezon City,kinilaw,376,6,2256,San Pablo Laguna,SpeedyCart Express,GCash,6,11-02-23,05-14-25,will order again
+557,Isaw King,Cebu City,adobo,293,5,1465,Quezon City,NexusDrop,ShopeePay,8,10-09-22,05-17-25,loved the flavor
+558,Mang Inasal Grill,Manila,kinilaw,467,3,1401,Dasmarinas Cavite,MetroHaul Service,GCash,5,07-05-22,05-20-25,arrived hot and tasty
+559,Siomai House,Iloilo City,kinilaw,729,6,4374,Calamba Laguna,MetroHaul Service,bank transfer,8,03-19-24,05-04-25,will order again
+560,Tinapa Grill Shack,Iloilo City,lechon,342,6,2052,Calamba Laguna,NexusDrop,GCash,4,01-18-24,05-08-25,loved the flavor
+561,Mang Inasal Grill,Baguio,lechon,461,1,461,Binangonan Rizal,NexusDrop,Maya,1,10-05-23,05-07-25,packaging leaked everywhere
+562,Tinapa Grill Shack,Iloilo City,fried chicken,249,1,249,Tanauan Batangas,QuickDash Delivery,GCash,5,03-09-24,05-17-25,small portions not worth the price
+563,Isaw King,Davao City,fried chicken,914,4,3656,Quezon City,NexusDrop,credit card,2,10-12-24,05-24-25,Food was cold on arrival
+564,Kinilaw Corner,Makati,fried chicken,853,1,853,Dasmarinas Cavite,NexusDrop,ShopeePay,7,01-11-23,05-08-25,late delivery ruined the meal
+565,Adobo Haven,Davao City,halo-halo,288,5,1440,Calamba Laguna,MetroHaul Service,debit card,8,04-10-24,05-12-25,bland taste disappointing
+566,Lechon Belly Spot,Makati,kinilaw,297,4,1188,Tanauan Batangas,NexusDrop,bank transfer,5,02-05-23,05-24-25,Delicious and fresh
+567,Halo-Halo Stop,Bacolod,sinigang,544,2,1088,Calamba Laguna,SpeedyCart Express,bank transfer,1,11-28-23,05-17-25,packaging leaked everywhere
+568,Halo-Halo Stop,Manila,sinigang,800,5,4000,Dasmarinas Cavite,SpeedyCart Express,cash on delivery,10,12-05-23,05-14-25,too salty and overcooked
+569,Kinilaw Corner,Manila,halo-halo,657,4,2628,San Pablo Laguna,QuickDash Delivery,debit card,3,02-29-24,05-17-25,Delicious and fresh
+570,Kinilaw Corner,Iloilo City,barbecue,285,3,855,Santa Rosa Laguna,MetroHaul Service,credit card,1,06-03-22,04-30-25,small portions not worth the price
+571,Mang Inasal Grill,Baguio,halo-halo,362,4,1448,San Pablo Laguna,IslandLink Courier,ShopeePay,2,04-01-25,05-02-25,bland taste disappointing
+572,Adobo Haven,Quezon City,pork tapa,750,2,1500,Binangonan Rizal,RapidSend Logistics,GCash,8,07-12-22,04-28-25,loved the flavor
+573,Mang Inasal Grill,Manila,adobo,304,2,608,San Pablo Laguna,SpeedyCart Express,debit card,1,04-09-23,05-21-25,too salty and overcooked
+574,Adobo Haven,Cebu City,sinigang,706,1,706,Calamba Laguna,SpeedyCart Express,credit card,3,04-27-23,05-08-25,too salty and overcooked
+575,Isaw King,Baguio,adobo,150,2,300,Dasmarinas Cavite,MetroHaul Service,bank transfer,3,01-19-23,05-04-25,packaging leaked everywhere
+576,Siomai House,Baguio,sinigang,798,4,3192,San Pablo Laguna,IslandLink Courier,credit card,5,05-26-24,05-05-25,packaging leaked everywhere
+577,Isaw King,Davao City,sinigang,164,5,820,San Pablo Laguna,QuickDash Delivery,Maya,10,03-23-25,05-19-25,Delicious and fresh
+578,Adobo Haven,Cebu City,lechon,894,5,4470,Tanauan Batangas,IslandLink Courier,bank transfer,10,06-16-22,04-26-25,arrived hot and tasty
+579,Isaw King,Iloilo City,fried chicken,163,1,163,Dasmarinas Cavite,SwiftParcel Go,debit card,9,04-09-23,05-14-25,Delicious and fresh
+580,Halo-Halo Stop,Manila,fried chicken,943,5,4715,Dasmarinas Cavite,QuickDash Delivery,debit card,7,10-18-22,05-18-25,arrived hot and tasty
+581,Kinilaw Corner,Bacolod,pork tapa,704,5,3520,Binangonan Rizal,RapidSend Logistics,GCash,5,06-08-23,05-24-25,too salty and overcooked
+582,Halo-Halo Stop,Bacolod,lechon,635,6,3810,Quezon City,QuickDash Delivery,GCash,2,07-15-23,05-21-25,Great value for money
+583,Lechon Belly Spot,Iloilo City,fried chicken,596,4,2384,Santa Rosa Laguna,NexusDrop,ShopeePay,4,12-16-23,05-04-25,bland taste disappointing
+584,Mang Inasal Grill,Cebu City,sinigang,448,6,2688,Santa Rosa Laguna,MetroHaul Service,cash on delivery,6,07-20-22,05-05-25,small portions not worth the price
+585,Halo-Halo Stop,Baguio,lechon,852,3,2556,San Pablo Laguna,IslandLink Courier,ShopeePay,8,09-07-22,05-14-25,Great value for money
+586,Kinilaw Corner,Cebu City,kinilaw,758,5,3790,Tanauan Batangas,UrbanFreight,credit card,5,08-23-23,04-27-25,Delicious and fresh
+587,Isaw King,Makati,fried chicken,220,2,440,Binangonan Rizal,QuickDash Delivery,credit card,4,09-27-22,05-04-25,Great value for money
+588,Lechon Belly Spot,Iloilo City,sinigang,541,6,3246,Binangonan Rizal,IslandLink Courier,GCash,5,06-17-24,05-17-25,packaging leaked everywhere
+589,Mang Inasal Grill,Cebu City,sinigang,367,6,2202,Quezon City,IslandLink Courier,cash on delivery,9,10-02-23,05-08-25,loved the flavor
+590,Adobo Haven,Quezon City,lechon,829,1,829,Calamba Laguna,NexusDrop,credit card,1,04-13-25,05-11-25,Delicious and fresh
+591,Isaw King,Bacolod,barbecue,494,4,1976,San Pablo Laguna,UrbanFreight,credit card,4,04-11-23,05-22-25,perfect portion size
+592,Lechon Belly Spot,Cebu City,sinigang,684,2,1368,Quezon City,UrbanFreight,GCash,4,09-17-23,05-02-25,will order again
+593,Adobo Haven,Baguio,kinilaw,784,1,784,Tanauan Batangas,SwiftParcel Go,credit card,3,12-13-23,05-18-25,perfect portion size
+594,Siomai House,Bacolod,fried chicken,943,2,1886,Quezon City,RapidSend Logistics,GCash,2,12-02-22,05-04-25,Great value for money
+595,Isaw King,Iloilo City,barbecue,162,1,162,Calamba Laguna,RapidSend Logistics,bank transfer,7,12-20-23,05-03-25,Great value for money
+596,Mang Inasal Grill,Bacolod,lechon,463,3,1389,Calamba Laguna,NexusDrop,credit card,7,09-10-24,05-04-25,arrived hot and tasty
+597,Siomai House,Makati,fried chicken,863,2,1726,San Pablo Laguna,MetroHaul Service,Maya,3,11-22-22,05-16-25,small portions not worth the price
+598,Lechon Belly Spot,Cebu City,pork tapa,766,2,1532,Calamba Laguna,SwiftParcel Go,credit card,5,07-16-23,05-17-25,packaging leaked everywhere
+599,Halo-Halo Stop,Manila,sinigang,749,3,2247,Quezon City,NexusDrop,bank transfer,8,04-29-22,05-07-25,packaging leaked everywhere
+600,Isaw King,Makati,pork tapa,389,5,1945,Santa Rosa Laguna,RapidSend Logistics,debit card,5,06-17-24,05-18-25,perfect portion size
+601,Adobo Haven,Davao City,sinigang,166,5,830,San Pablo Laguna,SpeedyCart Express,cash on delivery,2,05-01-22,05-12-25,too salty and overcooked
+602,Halo-Halo Stop,Makati,barbecue,481,5,2405,Santa Rosa Laguna,MetroHaul Service,debit card,4,03-28-25,05-17-25,bland taste disappointing
+603,Lechon Belly Spot,Makati,fried chicken,827,5,4135,Santa Rosa Laguna,QuickDash Delivery,debit card,4,10-22-23,05-13-25,perfect portion size
+604,Isaw King,Baguio,lechon,132,3,396,Calamba Laguna,RapidSend Logistics,cash on delivery,5,11-22-23,04-29-25,Food was cold on arrival
+605,Kinilaw Corner,Iloilo City,kinilaw,930,1,930,Tanauan Batangas,IslandLink Courier,cash on delivery,10,10-04-23,05-22-25,Food was cold on arrival
+606,Halo-Halo Stop,Baguio,kinilaw,229,2,458,San Pablo Laguna,MetroHaul Service,credit card,6,12-07-22,05-24-25,bland taste disappointing
+607,Halo-Halo Stop,Makati,fried chicken,940,1,940,Quezon City,RapidSend Logistics,Maya,5,01-13-23,05-01-25,bland taste disappointing
+608,Kinilaw Corner,Davao City,kinilaw,259,4,1036,San Pablo Laguna,IslandLink Courier,ShopeePay,1,02-24-23,05-22-25,bland taste disappointing
+609,Siomai House,Makati,pork tapa,410,3,1230,Binangonan Rizal,UrbanFreight,bank transfer,9,03-26-25,05-19-25,perfect portion size
+610,Tinapa Grill Shack,Iloilo City,sinigang,111,5,555,Binangonan Rizal,QuickDash Delivery,ShopeePay,4,02-18-25,05-06-25,Great value for money
+611,Isaw King,Cebu City,barbecue,580,4,2320,Calamba Laguna,MetroHaul Service,ShopeePay,1,05-11-24,05-10-25,packaging leaked everywhere
+612,Isaw King,Iloilo City,adobo,971,6,5826,Santa Rosa Laguna,MetroHaul Service,ShopeePay,1,12-06-22,04-26-25,perfect portion size
+613,Mang Inasal Grill,Manila,fried chicken,515,4,2060,Santa Rosa Laguna,SpeedyCart Express,credit card,3,04-01-24,05-12-25,late delivery ruined the meal
+614,Lechon Belly Spot,Bacolod,sinigang,865,2,1730,San Pablo Laguna,SpeedyCart Express,ShopeePay,1,03-03-25,04-27-25,perfect portion size
+615,Mang Inasal Grill,Baguio,halo-halo,655,1,655,Calamba Laguna,RapidSend Logistics,GCash,4,07-22-23,05-17-25,Food was cold on arrival
+616,Adobo Haven,Baguio,barbecue,978,6,5868,Tanauan Batangas,NexusDrop,bank transfer,1,09-22-22,04-29-25,Great value for money
+617,Lechon Belly Spot,Cebu City,adobo,500,4,2000,Tanauan Batangas,QuickDash Delivery,GCash,8,12-26-22,05-21-25,will order again
+618,Siomai House,Bacolod,sinigang,451,2,902,Quezon City,SpeedyCart Express,credit card,6,01-11-23,05-05-25,late delivery ruined the meal
+619,Tinapa Grill Shack,Makati,fried chicken,220,2,440,Binangonan Rizal,IslandLink Courier,GCash,4,10-30-23,05-22-25,late delivery ruined the meal
+620,Isaw King,Iloilo City,sinigang,262,1,262,Dasmarinas Cavite,IslandLink Courier,credit card,8,09-29-22,05-22-25,Food was cold on arrival
+621,Halo-Halo Stop,Cebu City,halo-halo,599,4,2396,Quezon City,RapidSend Logistics,Maya,1,08-19-24,05-19-25,bland taste disappointing
+622,Mang Inasal Grill,Iloilo City,adobo,620,1,620,Dasmarinas Cavite,UrbanFreight,bank transfer,6,08-25-22,05-24-25,will order again
+623,Siomai House,Bacolod,kinilaw,118,5,590,San Pablo Laguna,IslandLink Courier,bank transfer,10,10-18-22,04-26-25,arrived hot and tasty
+624,Adobo Haven,Makati,pork tapa,478,2,956,Binangonan Rizal,MetroHaul Service,bank transfer,6,10-24-23,05-23-25,Great value for money
+625,Kinilaw Corner,Baguio,barbecue,868,3,2604,San Pablo Laguna,SwiftParcel Go,debit card,3,10-16-23,04-26-25,late delivery ruined the meal
+626,Tinapa Grill Shack,Makati,barbecue,843,2,1686,Binangonan Rizal,IslandLink Courier,Maya,2,08-23-22,05-22-25,packaging leaked everywhere
+627,Kinilaw Corner,Iloilo City,halo-halo,451,6,2706,Dasmarinas Cavite,SwiftParcel Go,debit card,7,09-26-22,05-09-25,loved the flavor
+628,Lechon Belly Spot,Cebu City,halo-halo,674,1,674,Binangonan Rizal,IslandLink Courier,credit card,3,02-17-24,04-30-25,perfect portion size
+629,Halo-Halo Stop,Baguio,barbecue,918,6,5508,Calamba Laguna,QuickDash Delivery,bank transfer,10,09-10-22,05-03-25,too salty and overcooked
+630,Isaw King,Quezon City,fried chicken,864,1,864,Dasmarinas Cavite,SwiftParcel Go,bank transfer,6,02-27-24,05-16-25,loved the flavor
+631,Siomai House,Davao City,pork tapa,704,5,3520,Tanauan Batangas,QuickDash Delivery,debit card,3,02-07-24,05-16-25,late delivery ruined the meal
+632,Lechon Belly Spot,Iloilo City,pork tapa,215,6,1290,Dasmarinas Cavite,RapidSend Logistics,ShopeePay,5,12-16-22,05-16-25,late delivery ruined the meal
+633,Isaw King,Manila,sinigang,615,6,3690,Quezon City,QuickDash Delivery,debit card,2,08-13-24,05-20-25,late delivery ruined the meal
+634,Lechon Belly Spot,Manila,barbecue,327,1,327,Quezon City,IslandLink Courier,Maya,2,08-24-22,05-21-25,will order again
+635,Mang Inasal Grill,Iloilo City,sinigang,621,2,1242,Santa Rosa Laguna,SwiftParcel Go,GCash,7,04-29-23,05-17-25,packaging leaked everywhere
+636,Mang Inasal Grill,Manila,lechon,406,6,2436,Dasmarinas Cavite,SpeedyCart Express,bank transfer,1,06-06-22,05-07-25,late delivery ruined the meal
+637,Mang Inasal Grill,Quezon City,kinilaw,653,5,3265,San Pablo Laguna,IslandLink Courier,bank transfer,1,10-22-24,05-20-25,late delivery ruined the meal
+638,Siomai House,Manila,adobo,519,6,3114,San Pablo Laguna,RapidSend Logistics,Maya,3,04-08-25,05-01-25,late delivery ruined the meal
+639,Mang Inasal Grill,Manila,adobo,990,6,5940,Tanauan Batangas,UrbanFreight,Maya,5,08-30-22,05-08-25,Delicious and fresh
+640,Siomai House,Baguio,halo-halo,511,4,2044,Calamba Laguna,RapidSend Logistics,credit card,4,01-31-25,05-20-25,late delivery ruined the meal
+641,Mang Inasal Grill,Quezon City,sinigang,374,1,374,Tanauan Batangas,MetroHaul Service,debit card,5,10-16-24,05-08-25,small portions not worth the price
+642,Adobo Haven,Baguio,lechon,216,3,648,Dasmarinas Cavite,IslandLink Courier,cash on delivery,4,05-23-24,05-23-25,bland taste disappointing
+643,Lechon Belly Spot,Bacolod,adobo,176,4,704,San Pablo Laguna,NexusDrop,ShopeePay,10,09-18-22,04-27-25,will order again
+644,Kinilaw Corner,Iloilo City,kinilaw,352,1,352,Santa Rosa Laguna,UrbanFreight,credit card,7,03-16-25,05-10-25,bland taste disappointing
+645,Kinilaw Corner,Bacolod,sinigang,233,1,233,Tanauan Batangas,IslandLink Courier,GCash,3,06-10-24,05-08-25,Food was cold on arrival
+646,Lechon Belly Spot,Bacolod,halo-halo,832,4,3328,Dasmarinas Cavite,QuickDash Delivery,bank transfer,5,05-10-22,05-01-25,small portions not worth the price
+647,Siomai House,Manila,kinilaw,716,5,3580,Quezon City,MetroHaul Service,credit card,5,09-08-22,05-15-25,bland taste disappointing
+648,Mang Inasal Grill,Davao City,barbecue,404,2,808,Tanauan Batangas,UrbanFreight,ShopeePay,5,12-15-24,05-23-25,late delivery ruined the meal
+649,Kinilaw Corner,Quezon City,sinigang,253,6,1518,Dasmarinas Cavite,RapidSend Logistics,ShopeePay,2,01-06-24,05-12-25,will order again
+650,Tinapa Grill Shack,Iloilo City,kinilaw,629,1,629,Dasmarinas Cavite,UrbanFreight,Maya,7,10-15-24,05-04-25,will order again
+651,Mang Inasal Grill,Bacolod,pork tapa,887,6,5322,Tanauan Batangas,QuickDash Delivery,ShopeePay,2,12-30-22,05-12-25,will order again
+652,Kinilaw Corner,Baguio,lechon,243,5,1215,Tanauan Batangas,SpeedyCart Express,Maya,2,01-06-25,05-19-25,late delivery ruined the meal
+653,Siomai House,Baguio,kinilaw,417,4,1668,Santa Rosa Laguna,UrbanFreight,debit card,4,03-26-24,05-05-25,will order again
+654,Halo-Halo Stop,Bacolod,pork tapa,835,5,4175,San Pablo Laguna,NexusDrop,Maya,1,05-26-23,05-02-25,Great value for money
+655,Mang Inasal Grill,Manila,fried chicken,338,5,1690,San Pablo Laguna,RapidSend Logistics,credit card,6,01-09-23,05-24-25,bland taste disappointing
+656,Adobo Haven,Baguio,sinigang,456,5,2280,Binangonan Rizal,RapidSend Logistics,debit card,10,11-07-24,05-24-25,late delivery ruined the meal
+657,Kinilaw Corner,Bacolod,pork tapa,640,6,3840,Tanauan Batangas,IslandLink Courier,bank transfer,2,05-07-22,05-16-25,late delivery ruined the meal
+658,Siomai House,Quezon City,pork tapa,622,6,3732,Binangonan Rizal,SwiftParcel Go,bank transfer,3,03-21-23,05-06-25,bland taste disappointing
+659,Lechon Belly Spot,Manila,lechon,977,5,4885,Quezon City,UrbanFreight,cash on delivery,6,11-19-23,05-17-25,perfect portion size
+660,Siomai House,Davao City,kinilaw,873,1,873,Dasmarinas Cavite,NexusDrop,GCash,7,09-20-23,05-19-25,perfect portion size
+661,Kinilaw Corner,Baguio,halo-halo,207,6,1242,Santa Rosa Laguna,SwiftParcel Go,debit card,1,01-12-25,04-30-25,will order again
+662,Siomai House,Cebu City,pork tapa,351,3,1053,Calamba Laguna,MetroHaul Service,credit card,4,04-11-25,05-03-25,packaging leaked everywhere
+663,Lechon Belly Spot,Iloilo City,adobo,229,6,1374,Santa Rosa Laguna,NexusDrop,credit card,10,06-25-24,05-22-25,small portions not worth the price
+664,Adobo Haven,Cebu City,pork tapa,281,3,843,Quezon City,IslandLink Courier,cash on delivery,6,09-16-23,05-10-25,loved the flavor
+665,Tinapa Grill Shack,Quezon City,lechon,715,2,1430,Dasmarinas Cavite,UrbanFreight,GCash,6,11-03-22,05-08-25,bland taste disappointing
+666,Lechon Belly Spot,Cebu City,sinigang,575,6,3450,Quezon City,SpeedyCart Express,bank transfer,6,06-11-24,05-01-25,loved the flavor
+667,Kinilaw Corner,Makati,barbecue,716,2,1432,San Pablo Laguna,RapidSend Logistics,Maya,6,06-05-24,05-02-25,arrived hot and tasty
+668,Lechon Belly Spot,Iloilo City,lechon,652,1,652,San Pablo Laguna,NexusDrop,debit card,2,08-09-22,05-05-25,will order again
+669,Kinilaw Corner,Cebu City,sinigang,290,1,290,Tanauan Batangas,SwiftParcel Go,debit card,10,10-17-23,05-04-25,Great value for money
+670,Isaw King,Iloilo City,sinigang,979,1,979,Dasmarinas Cavite,NexusDrop,cash on delivery,7,06-12-24,05-15-25,loved the flavor
+671,Halo-Halo Stop,Davao City,adobo,957,3,2871,Quezon City,MetroHaul Service,cash on delivery,2,12-07-24,05-07-25,small portions not worth the price
+672,Isaw King,Cebu City,adobo,331,4,1324,Quezon City,NexusDrop,cash on delivery,6,06-06-23,05-21-25,Delicious and fresh
+673,Siomai House,Davao City,lechon,829,6,4974,Tanauan Batangas,QuickDash Delivery,bank transfer,7,11-24-22,04-30-25,packaging leaked everywhere
+674,Tinapa Grill Shack,Davao City,adobo,202,4,808,Binangonan Rizal,MetroHaul Service,GCash,9,10-12-23,05-18-25,packaging leaked everywhere
+675,Kinilaw Corner,Manila,sinigang,540,3,1620,Dasmarinas Cavite,QuickDash Delivery,credit card,8,02-20-25,04-26-25,small portions not worth the price
+676,Kinilaw Corner,Makati,lechon,859,2,1718,Tanauan Batangas,SwiftParcel Go,debit card,6,08-25-23,05-16-25,Food was cold on arrival
+677,Lechon Belly Spot,Manila,halo-halo,629,5,3145,Santa Rosa Laguna,SpeedyCart Express,credit card,8,10-13-22,05-17-25,too salty and overcooked
+678,Halo-Halo Stop,Baguio,lechon,284,4,1136,Binangonan Rizal,UrbanFreight,cash on delivery,9,03-26-25,05-09-25,Great value for money
+679,Tinapa Grill Shack,Baguio,pork tapa,612,1,612,Binangonan Rizal,SpeedyCart Express,credit card,8,01-25-24,05-09-25,perfect portion size
+680,Adobo Haven,Cebu City,lechon,350,3,1050,San Pablo Laguna,IslandLink Courier,GCash,10,08-20-23,04-28-25,too salty and overcooked
+681,Adobo Haven,Baguio,kinilaw,729,4,2916,Binangonan Rizal,RapidSend Logistics,GCash,9,09-01-24,05-03-25,Food was cold on arrival
+682,Mang Inasal Grill,Bacolod,halo-halo,134,5,670,Dasmarinas Cavite,IslandLink Courier,Maya,6,09-07-23,05-18-25,small portions not worth the price
+683,Mang Inasal Grill,Davao City,lechon,280,5,1400,Santa Rosa Laguna,NexusDrop,bank transfer,1,02-23-23,05-15-25,arrived hot and tasty
+684,Lechon Belly Spot,Baguio,sinigang,438,6,2628,Quezon City,RapidSend Logistics,ShopeePay,10,12-29-23,05-16-25,Food was cold on arrival
+685,Adobo Haven,Davao City,sinigang,904,4,3616,Calamba Laguna,SpeedyCart Express,ShopeePay,3,12-28-24,05-04-25,Delicious and fresh
+686,Tinapa Grill Shack,Bacolod,sinigang,538,6,3228,Dasmarinas Cavite,SwiftParcel Go,cash on delivery,10,08-21-24,04-28-25,Delicious and fresh
+687,Halo-Halo Stop,Davao City,pork tapa,1000,4,4000,Dasmarinas Cavite,UrbanFreight,cash on delivery,4,11-20-24,05-06-25,bland taste disappointing
+688,Lechon Belly Spot,Manila,lechon,794,1,794,Dasmarinas Cavite,RapidSend Logistics,GCash,3,02-05-23,05-11-25,perfect portion size
+689,Halo-Halo Stop,Bacolod,lechon,430,3,1290,San Pablo Laguna,NexusDrop,GCash,6,02-28-25,05-20-25,packaging leaked everywhere
+690,Lechon Belly Spot,Baguio,fried chicken,916,6,5496,Tanauan Batangas,MetroHaul Service,bank transfer,8,09-26-24,05-05-25,perfect portion size
+691,Kinilaw Corner,Quezon City,fried chicken,536,1,536,Calamba Laguna,SpeedyCart Express,debit card,9,07-24-22,05-01-25,perfect portion size
+692,Siomai House,Iloilo City,halo-halo,474,4,1896,Dasmarinas Cavite,SpeedyCart Express,bank transfer,1,05-11-24,05-19-25,packaging leaked everywhere
+693,Mang Inasal Grill,Makati,kinilaw,576,4,2304,Binangonan Rizal,QuickDash Delivery,bank transfer,10,09-25-22,05-17-25,Delicious and fresh
+694,Kinilaw Corner,Iloilo City,halo-halo,613,3,1839,Dasmarinas Cavite,RapidSend Logistics,debit card,1,06-18-22,05-06-25,too salty and overcooked
+695,Tinapa Grill Shack,Makati,lechon,424,1,424,Tanauan Batangas,QuickDash Delivery,ShopeePay,7,06-19-24,05-19-25,Great value for money
+696,Tinapa Grill Shack,Makati,pork tapa,547,1,547,Calamba Laguna,MetroHaul Service,GCash,1,06-24-24,05-20-25,packaging leaked everywhere
+697,Mang Inasal Grill,Manila,pork tapa,290,2,580,Quezon City,SpeedyCart Express,credit card,4,09-27-22,05-01-25,arrived hot and tasty
+698,Isaw King,Iloilo City,barbecue,179,5,895,Tanauan Batangas,SpeedyCart Express,credit card,6,08-14-23,04-30-25,Great value for money
+699,Adobo Haven,Bacolod,kinilaw,126,1,126,Calamba Laguna,IslandLink Courier,ShopeePay,2,01-23-25,05-13-25,Great value for money
+700,Mang Inasal Grill,Manila,fried chicken,814,1,814,Tanauan Batangas,UrbanFreight,debit card,10,01-13-23,05-14-25,late delivery ruined the meal
+701,Tinapa Grill Shack,Baguio,kinilaw,676,1,676,Dasmarinas Cavite,QuickDash Delivery,bank transfer,4,03-23-23,05-08-25,arrived hot and tasty
+702,Siomai House,Iloilo City,adobo,315,1,315,Dasmarinas Cavite,RapidSend Logistics,ShopeePay,9,12-05-23,05-03-25,Great value for money
+703,Adobo Haven,Cebu City,kinilaw,383,4,1532,Binangonan Rizal,IslandLink Courier,cash on delivery,3,05-06-23,05-05-25,small portions not worth the price
+704,Lechon Belly Spot,Manila,adobo,305,6,1830,Dasmarinas Cavite,UrbanFreight,debit card,9,05-26-22,05-07-25,Food was cold on arrival
+705,Mang Inasal Grill,Manila,pork tapa,119,2,238,Quezon City,NexusDrop,cash on delivery,2,07-30-22,05-10-25,will order again
+706,Adobo Haven,Baguio,barbecue,741,1,741,Binangonan Rizal,RapidSend Logistics,GCash,9,01-21-25,05-06-25,Food was cold on arrival
+707,Halo-Halo Stop,Bacolod,kinilaw,663,3,1989,Dasmarinas Cavite,NexusDrop,Maya,3,12-10-24,05-23-25,Delicious and fresh
+708,Lechon Belly Spot,Davao City,lechon,490,5,2450,San Pablo Laguna,UrbanFreight,bank transfer,2,01-21-25,05-17-25,too salty and overcooked
+709,Kinilaw Corner,Makati,pork tapa,887,5,4435,Quezon City,SwiftParcel Go,cash on delivery,5,05-15-24,05-15-25,loved the flavor
+710,Isaw King,Baguio,lechon,329,6,1974,San Pablo Laguna,IslandLink Courier,bank transfer,3,06-25-22,05-21-25,packaging leaked everywhere
+711,Tinapa Grill Shack,Davao City,lechon,672,6,4032,Binangonan Rizal,SpeedyCart Express,GCash,10,12-23-23,05-01-25,will order again
+712,Tinapa Grill Shack,Iloilo City,kinilaw,380,3,1140,Dasmarinas Cavite,NexusDrop,ShopeePay,8,04-16-24,05-21-25,arrived hot and tasty
+713,Isaw King,Makati,lechon,470,2,940,Tanauan Batangas,QuickDash Delivery,credit card,5,04-15-23,05-06-25,packaging leaked everywhere
+714,Adobo Haven,Davao City,pork tapa,916,1,916,Tanauan Batangas,IslandLink Courier,bank transfer,1,07-30-23,04-30-25,packaging leaked everywhere
+715,Adobo Haven,Manila,kinilaw,557,4,2228,Binangonan Rizal,SpeedyCart Express,credit card,5,02-22-24,05-24-25,arrived hot and tasty
+716,Halo-Halo Stop,Baguio,halo-halo,533,6,3198,Santa Rosa Laguna,QuickDash Delivery,Maya,7,01-06-23,05-20-25,Delicious and fresh
+717,Siomai House,Manila,sinigang,119,6,714,Binangonan Rizal,QuickDash Delivery,debit card,9,12-08-23,04-30-25,loved the flavor
+718,Kinilaw Corner,Makati,kinilaw,588,1,588,Tanauan Batangas,SpeedyCart Express,bank transfer,7,09-07-23,05-12-25,perfect portion size
+719,Halo-Halo Stop,Makati,halo-halo,433,1,433,Calamba Laguna,SpeedyCart Express,ShopeePay,4,01-12-23,05-11-25,Food was cold on arrival
+720,Tinapa Grill Shack,Makati,lechon,545,4,2180,Binangonan Rizal,UrbanFreight,bank transfer,1,11-02-23,04-26-25,small portions not worth the price
+721,Isaw King,Cebu City,sinigang,925,1,925,Calamba Laguna,UrbanFreight,GCash,4,08-05-23,05-15-25,Great value for money
+722,Mang Inasal Grill,Cebu City,halo-halo,422,3,1266,Binangonan Rizal,QuickDash Delivery,ShopeePay,5,06-07-23,05-13-25,perfect portion size
+723,Adobo Haven,Cebu City,kinilaw,487,2,974,Santa Rosa Laguna,UrbanFreight,debit card,10,12-25-22,05-18-25,bland taste disappointing
+724,Adobo Haven,Baguio,fried chicken,860,6,5160,Santa Rosa Laguna,SwiftParcel Go,ShopeePay,5,12-01-22,05-13-25,Delicious and fresh
+725,Kinilaw Corner,Makati,halo-halo,496,2,992,Santa Rosa Laguna,UrbanFreight,cash on delivery,2,07-24-24,05-15-25,packaging leaked everywhere
+726,Isaw King,Iloilo City,kinilaw,572,2,1144,Quezon City,RapidSend Logistics,GCash,9,12-23-24,05-13-25,Delicious and fresh
+727,Lechon Belly Spot,Iloilo City,sinigang,517,1,517,Tanauan Batangas,SpeedyCart Express,credit card,6,11-12-22,05-23-25,perfect portion size
+728,Mang Inasal Grill,Iloilo City,halo-halo,899,1,899,Quezon City,SwiftParcel Go,ShopeePay,5,05-05-24,05-16-25,small portions not worth the price
+729,Tinapa Grill Shack,Bacolod,adobo,524,3,1572,Calamba Laguna,SpeedyCart Express,GCash,5,01-18-24,05-21-25,packaging leaked everywhere
+730,Mang Inasal Grill,Manila,sinigang,537,3,1611,Calamba Laguna,NexusDrop,Maya,9,09-21-24,05-07-25,loved the flavor
+731,Lechon Belly Spot,Iloilo City,adobo,958,3,2874,San Pablo Laguna,SpeedyCart Express,ShopeePay,4,02-21-24,05-05-25,late delivery ruined the meal
+732,Siomai House,Davao City,adobo,959,4,3836,Tanauan Batangas,SwiftParcel Go,credit card,9,10-10-24,05-18-25,loved the flavor
+733,Tinapa Grill Shack,Manila,fried chicken,262,6,1572,Dasmarinas Cavite,QuickDash Delivery,ShopeePay,8,12-07-22,04-29-25,bland taste disappointing
+734,Adobo Haven,Cebu City,lechon,667,5,3335,Dasmarinas Cavite,NexusDrop,credit card,5,08-07-23,05-06-25,will order again
+735,Halo-Halo Stop,Bacolod,sinigang,727,3,2181,Quezon City,IslandLink Courier,bank transfer,10,09-08-24,05-18-25,small portions not worth the price
+736,Adobo Haven,Quezon City,halo-halo,685,2,1370,Calamba Laguna,SpeedyCart Express,bank transfer,7,03-13-24,05-11-25,too salty and overcooked
+737,Kinilaw Corner,Bacolod,barbecue,137,5,685,Santa Rosa Laguna,SpeedyCart Express,Maya,6,04-13-24,05-01-25,will order again
+738,Kinilaw Corner,Davao City,adobo,681,5,3405,Santa Rosa Laguna,IslandLink Courier,debit card,10,03-20-25,05-09-25,will order again
+739,Adobo Haven,Bacolod,adobo,442,5,2210,Dasmarinas Cavite,NexusDrop,bank transfer,8,04-23-24,05-12-25,too salty and overcooked
+740,Kinilaw Corner,Quezon City,sinigang,976,5,4880,Dasmarinas Cavite,QuickDash Delivery,bank transfer,3,07-25-24,05-22-25,perfect portion size
+741,Mang Inasal Grill,Davao City,adobo,614,5,3070,San Pablo Laguna,SpeedyCart Express,cash on delivery,5,11-19-24,05-14-25,loved the flavor
+742,Tinapa Grill Shack,Makati,kinilaw,965,6,5790,San Pablo Laguna,MetroHaul Service,bank transfer,3,11-07-23,04-27-25,arrived hot and tasty
+743,Isaw King,Cebu City,fried chicken,237,2,474,Quezon City,RapidSend Logistics,cash on delivery,6,01-30-24,05-06-25,loved the flavor
+744,Halo-Halo Stop,Makati,fried chicken,554,5,2770,Santa Rosa Laguna,IslandLink Courier,ShopeePay,2,10-24-24,05-11-25,packaging leaked everywhere
+745,Isaw King,Davao City,barbecue,572,1,572,Calamba Laguna,RapidSend Logistics,debit card,8,03-27-24,05-24-25,Food was cold on arrival
+746,Tinapa Grill Shack,Iloilo City,lechon,741,5,3705,Tanauan Batangas,NexusDrop,bank transfer,5,01-25-23,05-22-25,late delivery ruined the meal
+747,Siomai House,Iloilo City,barbecue,495,3,1485,Santa Rosa Laguna,MetroHaul Service,bank transfer,5,03-05-23,05-18-25,Delicious and fresh
+748,Mang Inasal Grill,Cebu City,lechon,765,5,3825,Tanauan Batangas,MetroHaul Service,GCash,1,05-28-23,05-05-25,small portions not worth the price
+749,Halo-Halo Stop,Bacolod,kinilaw,199,4,796,San Pablo Laguna,SwiftParcel Go,credit card,3,06-11-23,05-10-25,Great value for money
+750,Tinapa Grill Shack,Bacolod,adobo,225,1,225,Tanauan Batangas,QuickDash Delivery,Maya,6,09-08-23,05-06-25,packaging leaked everywhere
+751,Lechon Belly Spot,Makati,barbecue,249,5,1245,Quezon City,SpeedyCart Express,debit card,1,03-17-24,04-28-25,arrived hot and tasty
+752,Halo-Halo Stop,Manila,lechon,705,2,1410,Calamba Laguna,UrbanFreight,cash on delivery,2,01-04-24,05-22-25,small portions not worth the price
+753,Kinilaw Corner,Bacolod,adobo,902,6,5412,Binangonan Rizal,QuickDash Delivery,debit card,3,12-22-23,04-30-25,loved the flavor
+754,Siomai House,Iloilo City,lechon,116,3,348,Tanauan Batangas,SpeedyCart Express,bank transfer,5,08-10-23,05-17-25,will order again
+755,Mang Inasal Grill,Makati,barbecue,810,2,1620,Quezon City,QuickDash Delivery,Maya,8,09-20-22,05-19-25,bland taste disappointing
+756,Isaw King,Makati,lechon,148,1,148,Quezon City,MetroHaul Service,debit card,7,01-07-25,05-18-25,too salty and overcooked
+757,Siomai House,Baguio,kinilaw,454,4,1816,San Pablo Laguna,SwiftParcel Go,cash on delivery,9,06-30-22,05-02-25,small portions not worth the price
+758,Adobo Haven,Cebu City,sinigang,635,2,1270,Quezon City,MetroHaul Service,credit card,6,06-01-24,05-12-25,arrived hot and tasty
+759,Halo-Halo Stop,Quezon City,kinilaw,502,6,3012,Quezon City,MetroHaul Service,debit card,7,05-29-24,04-30-25,small portions not worth the price
+760,Kinilaw Corner,Iloilo City,pork tapa,951,6,5706,San Pablo Laguna,MetroHaul Service,debit card,2,12-18-22,05-24-25,arrived hot and tasty
+761,Mang Inasal Grill,Makati,kinilaw,914,5,4570,Binangonan Rizal,NexusDrop,Maya,2,02-17-24,05-24-25,arrived hot and tasty
+762,Kinilaw Corner,Davao City,fried chicken,101,4,404,San Pablo Laguna,SpeedyCart Express,credit card,4,02-16-25,04-29-25,too salty and overcooked
+763,Mang Inasal Grill,Bacolod,halo-halo,229,5,1145,Dasmarinas Cavite,RapidSend Logistics,GCash,7,09-25-23,05-10-25,too salty and overcooked
+764,Siomai House,Iloilo City,sinigang,707,4,2828,Santa Rosa Laguna,MetroHaul Service,debit card,10,08-23-24,05-07-25,packaging leaked everywhere
+765,Siomai House,Quezon City,fried chicken,505,4,2020,Calamba Laguna,UrbanFreight,cash on delivery,1,03-14-25,05-23-25,Food was cold on arrival
+766,Halo-Halo Stop,Bacolod,lechon,567,5,2835,Santa Rosa Laguna,NexusDrop,credit card,5,12-31-24,04-29-25,will order again
+767,Lechon Belly Spot,Makati,kinilaw,257,6,1542,Tanauan Batangas,SwiftParcel Go,debit card,1,03-25-23,05-01-25,will order again
+768,Siomai House,Bacolod,halo-halo,875,2,1750,Quezon City,SwiftParcel Go,cash on delivery,9,06-30-23,05-04-25,small portions not worth the price
+769,Adobo Haven,Bacolod,kinilaw,225,6,1350,Santa Rosa Laguna,NexusDrop,ShopeePay,5,12-29-24,05-08-25,Delicious and fresh
+770,Mang Inasal Grill,Baguio,barbecue,826,4,3304,Tanauan Batangas,RapidSend Logistics,cash on delivery,7,02-29-24,05-06-25,perfect portion size
+771,Mang Inasal Grill,Makati,lechon,533,1,533,Quezon City,MetroHaul Service,GCash,2,08-10-23,05-06-25,Delicious and fresh
+772,Isaw King,Cebu City,fried chicken,868,6,5208,Calamba Laguna,UrbanFreight,Maya,6,02-20-24,05-24-25,Great value for money
+773,Adobo Haven,Quezon City,lechon,846,6,5076,Binangonan Rizal,UrbanFreight,Maya,3,11-12-24,05-05-25,Great value for money
+774,Adobo Haven,Manila,barbecue,300,6,1800,Dasmarinas Cavite,RapidSend Logistics,credit card,9,09-25-23,05-17-25,bland taste disappointing
+775,Adobo Haven,Cebu City,kinilaw,769,5,3845,Tanauan Batangas,SwiftParcel Go,Maya,1,04-27-24,05-03-25,packaging leaked everywhere
+776,Halo-Halo Stop,Baguio,adobo,299,1,299,Tanauan Batangas,RapidSend Logistics,debit card,7,04-19-24,05-10-25,Delicious and fresh
+777,Adobo Haven,Bacolod,fried chicken,941,5,4705,San Pablo Laguna,SwiftParcel Go,GCash,10,02-12-24,05-04-25,bland taste disappointing
+778,Halo-Halo Stop,Davao City,adobo,451,6,2706,San Pablo Laguna,UrbanFreight,ShopeePay,9,10-30-23,05-14-25,Delicious and fresh
+779,Adobo Haven,Quezon City,kinilaw,600,5,3000,Quezon City,SpeedyCart Express,Maya,7,09-19-23,05-16-25,packaging leaked everywhere
+780,Mang Inasal Grill,Manila,pork tapa,542,1,542,San Pablo Laguna,QuickDash Delivery,GCash,7,10-30-22,05-16-25,loved the flavor
+781,Lechon Belly Spot,Davao City,barbecue,547,6,3282,Calamba Laguna,SpeedyCart Express,ShopeePay,8,01-04-25,05-04-25,perfect portion size
+782,Tinapa Grill Shack,Davao City,barbecue,169,3,507,Quezon City,SwiftParcel Go,cash on delivery,8,03-14-24,05-13-25,too salty and overcooked
+783,Kinilaw Corner,Davao City,sinigang,804,6,4824,San Pablo Laguna,RapidSend Logistics,ShopeePay,2,12-25-24,05-04-25,arrived hot and tasty
+784,Siomai House,Bacolod,lechon,935,4,3740,Calamba Laguna,SpeedyCart Express,debit card,10,10-23-22,05-08-25,will order again
+785,Halo-Halo Stop,Quezon City,pork tapa,274,6,1644,Calamba Laguna,SwiftParcel Go,Maya,2,07-10-22,05-03-25,Food was cold on arrival
+786,Mang Inasal Grill,Manila,adobo,474,4,1896,Quezon City,QuickDash Delivery,cash on delivery,1,04-20-24,05-13-25,Food was cold on arrival
+787,Halo-Halo Stop,Baguio,pork tapa,605,6,3630,Calamba Laguna,MetroHaul Service,cash on delivery,8,11-27-24,05-16-25,Food was cold on arrival
+788,Tinapa Grill Shack,Baguio,pork tapa,676,3,2028,Binangonan Rizal,IslandLink Courier,bank transfer,3,12-30-23,05-12-25,packaging leaked everywhere
+789,Mang Inasal Grill,Bacolod,halo-halo,113,5,565,Calamba Laguna,NexusDrop,debit card,7,04-14-23,05-08-25,arrived hot and tasty
+790,Lechon Belly Spot,Davao City,lechon,949,5,4745,Quezon City,SwiftParcel Go,bank transfer,5,06-18-22,05-23-25,small portions not worth the price
+791,Lechon Belly Spot,Cebu City,lechon,477,2,954,San Pablo Laguna,NexusDrop,ShopeePay,7,06-27-22,05-05-25,perfect portion size
+792,Mang Inasal Grill,Baguio,fried chicken,507,1,507,Tanauan Batangas,IslandLink Courier,cash on delivery,9,09-30-23,05-02-25,small portions not worth the price
+793,Tinapa Grill Shack,Makati,barbecue,588,5,2940,Quezon City,SpeedyCart Express,GCash,9,06-15-24,05-08-25,Delicious and fresh
+794,Siomai House,Manila,barbecue,949,5,4745,San Pablo Laguna,QuickDash Delivery,ShopeePay,7,10-15-23,05-18-25,Delicious and fresh
+795,Adobo Haven,Davao City,halo-halo,674,1,674,Dasmarinas Cavite,MetroHaul Service,bank transfer,10,11-28-24,04-30-25,too salty and overcooked
+796,Kinilaw Corner,Cebu City,adobo,418,3,1254,Dasmarinas Cavite,NexusDrop,ShopeePay,1,01-30-24,05-20-25,will order again
+797,Lechon Belly Spot,Baguio,lechon,820,2,1640,Quezon City,MetroHaul Service,cash on delivery,4,09-08-22,05-14-25,bland taste disappointing
+798,Tinapa Grill Shack,Makati,sinigang,450,3,1350,Binangonan Rizal,MetroHaul Service,Maya,8,11-16-23,05-02-25,Delicious and fresh
+799,Tinapa Grill Shack,Baguio,adobo,146,4,584,Quezon City,RapidSend Logistics,Maya,2,02-24-24,05-24-25,Delicious and fresh
+800,Isaw King,Manila,halo-halo,800,5,4000,Quezon City,RapidSend Logistics,debit card,7,04-30-23,05-08-25,Food was cold on arrival
+801,Adobo Haven,Manila,barbecue,564,5,2820,Binangonan Rizal,SwiftParcel Go,GCash,5,11-13-24,05-19-25,Great value for money
+802,Kinilaw Corner,Manila,halo-halo,696,2,1392,Tanauan Batangas,IslandLink Courier,Maya,9,06-06-23,05-12-25,Food was cold on arrival
+803,Halo-Halo Stop,Quezon City,sinigang,370,5,1850,Dasmarinas Cavite,MetroHaul Service,debit card,5,10-04-23,04-29-25,too salty and overcooked
+804,Adobo Haven,Iloilo City,fried chicken,960,6,5760,San Pablo Laguna,RapidSend Logistics,debit card,8,12-13-22,05-17-25,loved the flavor
+805,Tinapa Grill Shack,Bacolod,kinilaw,171,6,1026,Quezon City,UrbanFreight,GCash,9,09-12-23,05-06-25,perfect portion size
+806,Lechon Belly Spot,Quezon City,sinigang,254,4,1016,Tanauan Batangas,QuickDash Delivery,credit card,5,04-14-25,05-17-25,perfect portion size
+807,Kinilaw Corner,Cebu City,sinigang,465,1,465,Tanauan Batangas,SwiftParcel Go,GCash,9,12-10-24,04-26-25,late delivery ruined the meal
+808,Isaw King,Davao City,adobo,521,5,2605,Quezon City,SwiftParcel Go,GCash,9,02-06-25,05-24-25,small portions not worth the price
+809,Kinilaw Corner,Baguio,fried chicken,308,2,616,Quezon City,QuickDash Delivery,GCash,8,05-01-24,05-22-25,bland taste disappointing
+810,Isaw King,Makati,pork tapa,548,5,2740,San Pablo Laguna,NexusDrop,Maya,7,08-11-24,04-28-25,will order again
+811,Lechon Belly Spot,Manila,fried chicken,105,6,630,Santa Rosa Laguna,SpeedyCart Express,GCash,1,04-06-24,04-28-25,arrived hot and tasty
+812,Tinapa Grill Shack,Bacolod,adobo,580,2,1160,Dasmarinas Cavite,RapidSend Logistics,bank transfer,6,10-18-24,04-27-25,Great value for money
+813,Kinilaw Corner,Quezon City,barbecue,539,4,2156,Dasmarinas Cavite,SwiftParcel Go,GCash,5,05-08-24,04-30-25,perfect portion size
+814,Kinilaw Corner,Davao City,lechon,944,1,944,Santa Rosa Laguna,SpeedyCart Express,bank transfer,9,03-29-24,05-16-25,will order again
+815,Siomai House,Baguio,pork tapa,633,4,2532,Dasmarinas Cavite,IslandLink Courier,Maya,4,11-07-22,04-27-25,will order again
+816,Tinapa Grill Shack,Davao City,halo-halo,430,1,430,Santa Rosa Laguna,UrbanFreight,bank transfer,10,02-08-24,05-19-25,perfect portion size
+817,Halo-Halo Stop,Bacolod,kinilaw,380,1,380,Binangonan Rizal,QuickDash Delivery,cash on delivery,1,12-04-24,05-01-25,Food was cold on arrival
+818,Isaw King,Baguio,fried chicken,831,4,3324,Quezon City,SwiftParcel Go,cash on delivery,1,05-14-23,05-24-25,Great value for money
+819,Halo-Halo Stop,Iloilo City,fried chicken,538,6,3228,San Pablo Laguna,SpeedyCart Express,Maya,1,03-14-24,05-22-25,too salty and overcooked
+820,Mang Inasal Grill,Bacolod,adobo,953,3,2859,Santa Rosa Laguna,IslandLink Courier,debit card,9,12-29-23,05-13-25,late delivery ruined the meal
+821,Halo-Halo Stop,Baguio,kinilaw,995,1,995,San Pablo Laguna,SpeedyCart Express,debit card,8,09-27-23,05-21-25,too salty and overcooked
+822,Mang Inasal Grill,Manila,halo-halo,999,1,999,Santa Rosa Laguna,MetroHaul Service,Maya,4,02-17-24,04-28-25,Delicious and fresh
+823,Halo-Halo Stop,Bacolod,lechon,338,4,1352,Tanauan Batangas,SpeedyCart Express,ShopeePay,9,06-04-22,05-19-25,Delicious and fresh
+824,Tinapa Grill Shack,Manila,barbecue,789,6,4734,Santa Rosa Laguna,QuickDash Delivery,cash on delivery,8,06-02-23,05-08-25,too salty and overcooked
+825,Adobo Haven,Makati,halo-halo,720,5,3600,Dasmarinas Cavite,IslandLink Courier,ShopeePay,3,05-05-22,05-07-25,bland taste disappointing
+826,Mang Inasal Grill,Quezon City,barbecue,769,1,769,Dasmarinas Cavite,NexusDrop,GCash,2,02-02-24,05-11-25,arrived hot and tasty
+827,Tinapa Grill Shack,Makati,sinigang,914,5,4570,Quezon City,SpeedyCart Express,debit card,6,05-04-22,04-27-25,arrived hot and tasty
+828,Lechon Belly Spot,Davao City,fried chicken,173,1,173,Calamba Laguna,RapidSend Logistics,cash on delivery,10,06-24-22,05-24-25,bland taste disappointing
+829,Tinapa Grill Shack,Quezon City,pork tapa,740,2,1480,Tanauan Batangas,UrbanFreight,bank transfer,2,12-24-24,04-26-25,loved the flavor
+830,Siomai House,Davao City,fried chicken,481,3,1443,Binangonan Rizal,SwiftParcel Go,bank transfer,8,07-21-23,04-28-25,late delivery ruined the meal
+831,Kinilaw Corner,Manila,sinigang,235,2,470,Santa Rosa Laguna,NexusDrop,GCash,7,07-14-22,05-12-25,Great value for money
+832,Halo-Halo Stop,Makati,barbecue,636,6,3816,Binangonan Rizal,SpeedyCart Express,credit card,4,09-26-22,04-28-25,perfect portion size
+833,Isaw King,Baguio,pork tapa,661,6,3966,San Pablo Laguna,RapidSend Logistics,cash on delivery,1,12-30-24,05-09-25,small portions not worth the price
+834,Isaw King,Quezon City,fried chicken,457,1,457,Quezon City,IslandLink Courier,bank transfer,3,04-23-24,04-27-25,late delivery ruined the meal
+835,Siomai House,Baguio,pork tapa,278,4,1112,Dasmarinas Cavite,RapidSend Logistics,Maya,7,10-09-24,05-20-25,loved the flavor
+836,Lechon Belly Spot,Davao City,sinigang,876,5,4380,Binangonan Rizal,UrbanFreight,Maya,5,11-21-22,05-09-25,late delivery ruined the meal
+837,Halo-Halo Stop,Quezon City,kinilaw,333,2,666,Dasmarinas Cavite,QuickDash Delivery,credit card,9,04-03-23,05-06-25,packaging leaked everywhere
+838,Siomai House,Manila,pork tapa,650,3,1950,Tanauan Batangas,SwiftParcel Go,cash on delivery,6,05-23-24,05-02-25,Great value for money
+839,Adobo Haven,Bacolod,adobo,163,6,978,Binangonan Rizal,RapidSend Logistics,ShopeePay,1,08-22-22,05-08-25,arrived hot and tasty
+840,Adobo Haven,Makati,fried chicken,427,5,2135,Binangonan Rizal,SpeedyCart Express,bank transfer,2,04-09-25,04-26-25,bland taste disappointing
+841,Kinilaw Corner,Iloilo City,kinilaw,626,3,1878,Tanauan Batangas,RapidSend Logistics,Maya,10,03-13-25,04-30-25,arrived hot and tasty
+842,Halo-Halo Stop,Manila,kinilaw,649,5,3245,Santa Rosa Laguna,MetroHaul Service,credit card,2,06-15-22,05-18-25,loved the flavor
+843,Kinilaw Corner,Baguio,sinigang,163,4,652,Binangonan Rizal,RapidSend Logistics,cash on delivery,3,07-23-23,05-02-25,perfect portion size
+844,Kinilaw Corner,Iloilo City,fried chicken,290,4,1160,San Pablo Laguna,MetroHaul Service,bank transfer,7,06-07-22,05-11-25,late delivery ruined the meal
+845,Tinapa Grill Shack,Baguio,sinigang,590,2,1180,Calamba Laguna,SpeedyCart Express,GCash,5,08-11-23,05-07-25,Great value for money
+846,Halo-Halo Stop,Iloilo City,halo-halo,253,6,1518,Tanauan Batangas,NexusDrop,credit card,5,10-31-24,05-08-25,small portions not worth the price
+847,Lechon Belly Spot,Baguio,kinilaw,419,1,419,San Pablo Laguna,RapidSend Logistics,cash on delivery,4,03-05-23,05-03-25,late delivery ruined the meal
+848,Lechon Belly Spot,Quezon City,pork tapa,473,2,946,San Pablo Laguna,RapidSend Logistics,cash on delivery,5,11-19-22,05-09-25,late delivery ruined the meal
+849,Kinilaw Corner,Bacolod,kinilaw,503,6,3018,San Pablo Laguna,IslandLink Courier,cash on delivery,6,10-12-23,04-26-25,will order again
+850,Siomai House,Baguio,halo-halo,193,1,193,San Pablo Laguna,SwiftParcel Go,credit card,1,01-11-23,05-17-25,too salty and overcooked
+851,Isaw King,Iloilo City,halo-halo,437,2,874,Tanauan Batangas,RapidSend Logistics,bank transfer,8,06-02-24,05-07-25,perfect portion size
+852,Kinilaw Corner,Cebu City,lechon,503,4,2012,Calamba Laguna,UrbanFreight,Maya,1,09-07-22,04-30-25,Delicious and fresh
+853,Mang Inasal Grill,Makati,adobo,148,1,148,San Pablo Laguna,NexusDrop,GCash,7,12-15-24,04-29-25,bland taste disappointing
+854,Siomai House,Manila,lechon,931,5,4655,San Pablo Laguna,SwiftParcel Go,ShopeePay,4,11-17-23,05-04-25,bland taste disappointing
+855,Mang Inasal Grill,Iloilo City,sinigang,190,5,950,Calamba Laguna,QuickDash Delivery,debit card,9,01-11-25,05-03-25,packaging leaked everywhere
+856,Siomai House,Manila,halo-halo,198,3,594,Dasmarinas Cavite,NexusDrop,debit card,10,07-02-22,04-29-25,loved the flavor
+857,Halo-Halo Stop,Baguio,halo-halo,100,2,200,Binangonan Rizal,RapidSend Logistics,cash on delivery,5,10-02-23,04-27-25,Delicious and fresh
+858,Isaw King,Manila,sinigang,774,5,3870,Calamba Laguna,RapidSend Logistics,credit card,10,10-11-23,05-02-25,small portions not worth the price
+859,Adobo Haven,Davao City,lechon,835,6,5010,Dasmarinas Cavite,IslandLink Courier,ShopeePay,8,09-19-23,05-08-25,bland taste disappointing
+860,Kinilaw Corner,Quezon City,lechon,125,2,250,Quezon City,IslandLink Courier,ShopeePay,7,09-14-24,05-15-25,will order again
+861,Adobo Haven,Makati,barbecue,178,4,712,San Pablo Laguna,RapidSend Logistics,cash on delivery,4,08-17-23,05-03-25,loved the flavor
+862,Kinilaw Corner,Makati,kinilaw,120,4,480,Dasmarinas Cavite,RapidSend Logistics,bank transfer,7,06-04-24,04-29-25,perfect portion size
+863,Adobo Haven,Davao City,barbecue,319,3,957,Calamba Laguna,NexusDrop,credit card,1,06-13-22,05-15-25,loved the flavor
+864,Tinapa Grill Shack,Iloilo City,lechon,908,2,1816,Binangonan Rizal,QuickDash Delivery,bank transfer,5,09-11-23,05-13-25,arrived hot and tasty
+865,Mang Inasal Grill,Iloilo City,pork tapa,375,3,1125,Tanauan Batangas,SwiftParcel Go,ShopeePay,4,09-20-23,05-10-25,Great value for money
+866,Mang Inasal Grill,Makati,pork tapa,540,3,1620,Tanauan Batangas,QuickDash Delivery,credit card,5,02-16-24,04-30-25,Food was cold on arrival
+867,Mang Inasal Grill,Bacolod,kinilaw,847,4,3388,Binangonan Rizal,RapidSend Logistics,cash on delivery,7,10-14-22,05-20-25,Great value for money
+868,Halo-Halo Stop,Quezon City,adobo,458,6,2748,Tanauan Batangas,UrbanFreight,credit card,5,05-15-22,05-04-25,will order again
+869,Adobo Haven,Cebu City,fried chicken,414,3,1242,San Pablo Laguna,IslandLink Courier,Maya,1,02-29-24,05-23-25,small portions not worth the price
+870,Adobo Haven,Quezon City,adobo,425,4,1700,Santa Rosa Laguna,SpeedyCart Express,GCash,10,04-04-25,05-01-25,loved the flavor
+871,Isaw King,Makati,sinigang,616,6,3696,Dasmarinas Cavite,NexusDrop,ShopeePay,2,11-13-24,05-04-25,Delicious and fresh
+872,Isaw King,Cebu City,lechon,231,4,924,Santa Rosa Laguna,RapidSend Logistics,credit card,7,10-11-23,05-24-25,late delivery ruined the meal
+873,Adobo Haven,Baguio,pork tapa,896,2,1792,Dasmarinas Cavite,MetroHaul Service,bank transfer,9,10-15-23,05-14-25,Food was cold on arrival
+874,Tinapa Grill Shack,Baguio,kinilaw,932,5,4660,San Pablo Laguna,SpeedyCart Express,ShopeePay,7,09-08-22,05-07-25,perfect portion size
+875,Mang Inasal Grill,Manila,sinigang,522,6,3132,San Pablo Laguna,MetroHaul Service,cash on delivery,3,10-26-22,05-10-25,small portions not worth the price
+876,Siomai House,Davao City,barbecue,352,6,2112,Binangonan Rizal,SpeedyCart Express,Maya,3,09-28-22,05-07-25,perfect portion size
+877,Lechon Belly Spot,Iloilo City,lechon,254,3,762,Quezon City,QuickDash Delivery,ShopeePay,4,07-06-23,05-02-25,Great value for money
+878,Tinapa Grill Shack,Iloilo City,halo-halo,889,5,4445,Binangonan Rizal,NexusDrop,cash on delivery,5,08-18-22,04-26-25,loved the flavor
+879,Halo-Halo Stop,Iloilo City,halo-halo,817,3,2451,Binangonan Rizal,NexusDrop,bank transfer,10,11-12-24,05-13-25,Delicious and fresh
+880,Halo-Halo Stop,Cebu City,barbecue,855,2,1710,Calamba Laguna,RapidSend Logistics,Maya,8,11-27-22,05-22-25,too salty and overcooked
+881,Kinilaw Corner,Cebu City,pork tapa,722,1,722,Calamba Laguna,QuickDash Delivery,credit card,2,07-25-22,05-14-25,packaging leaked everywhere
+882,Isaw King,Davao City,sinigang,724,6,4344,Binangonan Rizal,IslandLink Courier,debit card,2,03-09-24,04-26-25,bland taste disappointing
+883,Adobo Haven,Bacolod,adobo,749,6,4494,Binangonan Rizal,MetroHaul Service,GCash,8,07-17-24,05-02-25,late delivery ruined the meal
+884,Siomai House,Manila,pork tapa,582,1,582,Santa Rosa Laguna,MetroHaul Service,ShopeePay,5,01-17-25,05-13-25,late delivery ruined the meal
+885,Isaw King,Quezon City,adobo,701,2,1402,Santa Rosa Laguna,UrbanFreight,GCash,3,07-02-23,05-24-25,Food was cold on arrival
+886,Halo-Halo Stop,Bacolod,fried chicken,997,6,5982,Calamba Laguna,SwiftParcel Go,GCash,3,05-23-23,05-09-25,arrived hot and tasty
+887,Lechon Belly Spot,Manila,lechon,374,4,1496,Santa Rosa Laguna,UrbanFreight,Maya,8,05-18-23,05-16-25,bland taste disappointing
+888,Isaw King,Baguio,barbecue,329,4,1316,Quezon City,QuickDash Delivery,cash on delivery,4,11-13-22,04-29-25,loved the flavor
+889,Siomai House,Quezon City,sinigang,830,2,1660,Santa Rosa Laguna,SwiftParcel Go,credit card,5,11-02-24,05-10-25,small portions not worth the price
+890,Lechon Belly Spot,Davao City,halo-halo,913,4,3652,Quezon City,IslandLink Courier,debit card,2,07-07-23,05-20-25,bland taste disappointing
+891,Adobo Haven,Bacolod,kinilaw,298,3,894,Tanauan Batangas,SwiftParcel Go,bank transfer,1,06-09-23,05-06-25,Delicious and fresh
+892,Kinilaw Corner,Quezon City,sinigang,138,5,690,Santa Rosa Laguna,QuickDash Delivery,bank transfer,8,06-03-23,05-02-25,loved the flavor
+893,Mang Inasal Grill,Baguio,kinilaw,595,4,2380,San Pablo Laguna,SwiftParcel Go,bank transfer,10,01-19-24,04-27-25,perfect portion size
+894,Mang Inasal Grill,Baguio,halo-halo,310,3,930,Calamba Laguna,UrbanFreight,ShopeePay,3,06-21-24,05-11-25,Food was cold on arrival
+895,Siomai House,Manila,fried chicken,807,3,2421,Santa Rosa Laguna,SwiftParcel Go,debit card,3,08-17-22,05-03-25,perfect portion size
+896,Lechon Belly Spot,Davao City,kinilaw,157,4,628,Dasmarinas Cavite,MetroHaul Service,ShopeePay,9,03-23-25,04-26-25,late delivery ruined the meal
+897,Lechon Belly Spot,Makati,fried chicken,983,5,4915,Binangonan Rizal,NexusDrop,GCash,4,10-30-24,05-04-25,too salty and overcooked
+898,Lechon Belly Spot,Bacolod,kinilaw,436,4,1744,Calamba Laguna,RapidSend Logistics,ShopeePay,8,06-26-23,05-16-25,loved the flavor
+899,Mang Inasal Grill,Cebu City,sinigang,754,1,754,Tanauan Batangas,SwiftParcel Go,bank transfer,9,05-02-23,05-21-25,Food was cold on arrival
+900,Mang Inasal Grill,Baguio,lechon,837,3,2511,Dasmarinas Cavite,RapidSend Logistics,debit card,3,07-10-24,05-05-25,Delicious and fresh
+901,Adobo Haven,Manila,fried chicken,902,2,1804,Tanauan Batangas,IslandLink Courier,ShopeePay,7,01-25-23,05-20-25,Delicious and fresh
+902,Tinapa Grill Shack,Davao City,halo-halo,895,1,895,Binangonan Rizal,RapidSend Logistics,cash on delivery,5,06-21-22,05-12-25,Delicious and fresh
+903,Siomai House,Davao City,adobo,544,3,1632,Calamba Laguna,SwiftParcel Go,debit card,2,06-25-22,05-20-25,arrived hot and tasty
+904,Tinapa Grill Shack,Davao City,halo-halo,453,3,1359,Binangonan Rizal,RapidSend Logistics,debit card,8,09-24-24,05-21-25,packaging leaked everywhere
+905,Lechon Belly Spot,Iloilo City,lechon,830,4,3320,Tanauan Batangas,NexusDrop,credit card,7,12-01-23,05-07-25,small portions not worth the price
+906,Tinapa Grill Shack,Baguio,kinilaw,396,4,1584,Dasmarinas Cavite,NexusDrop,bank transfer,7,02-08-24,05-13-25,packaging leaked everywhere
+907,Adobo Haven,Manila,lechon,114,4,456,Dasmarinas Cavite,SpeedyCart Express,ShopeePay,7,03-05-23,05-07-25,perfect portion size
+908,Mang Inasal Grill,Bacolod,pork tapa,898,5,4490,Calamba Laguna,QuickDash Delivery,debit card,10,10-29-22,05-15-25,will order again
+909,Adobo Haven,Manila,pork tapa,373,1,373,Quezon City,IslandLink Courier,cash on delivery,5,12-26-24,05-19-25,loved the flavor
+910,Adobo Haven,Makati,adobo,471,3,1413,Quezon City,QuickDash Delivery,GCash,3,09-16-22,05-21-25,Great value for money
+911,Lechon Belly Spot,Davao City,fried chicken,537,3,1611,Tanauan Batangas,IslandLink Courier,cash on delivery,3,12-26-23,05-14-25,too salty and overcooked
+912,Kinilaw Corner,Bacolod,adobo,540,6,3240,Calamba Laguna,SwiftParcel Go,ShopeePay,2,04-11-23,05-21-25,bland taste disappointing
+913,Kinilaw Corner,Bacolod,fried chicken,220,6,1320,San Pablo Laguna,MetroHaul Service,ShopeePay,4,05-26-23,04-27-25,bland taste disappointing
+914,Adobo Haven,Bacolod,lechon,127,6,762,Binangonan Rizal,NexusDrop,cash on delivery,2,10-07-22,05-14-25,loved the flavor
+915,Siomai House,Cebu City,pork tapa,731,5,3655,Binangonan Rizal,RapidSend Logistics,cash on delivery,5,04-02-25,05-02-25,Delicious and fresh
+916,Tinapa Grill Shack,Makati,lechon,208,3,624,Santa Rosa Laguna,RapidSend Logistics,credit card,6,11-07-23,05-24-25,packaging leaked everywhere
+917,Tinapa Grill Shack,Quezon City,lechon,198,1,198,Dasmarinas Cavite,IslandLink Courier,bank transfer,9,01-16-25,04-26-25,Food was cold on arrival
+918,Halo-Halo Stop,Bacolod,barbecue,845,1,845,Dasmarinas Cavite,RapidSend Logistics,credit card,5,05-11-22,05-09-25,packaging leaked everywhere
+919,Halo-Halo Stop,Manila,sinigang,894,4,3576,San Pablo Laguna,QuickDash Delivery,ShopeePay,6,07-24-22,05-23-25,Food was cold on arrival
+920,Kinilaw Corner,Bacolod,pork tapa,420,5,2100,Tanauan Batangas,MetroHaul Service,GCash,2,05-13-24,05-09-25,perfect portion size
+921,Halo-Halo Stop,Bacolod,adobo,443,1,443,Dasmarinas Cavite,NexusDrop,credit card,6,04-26-24,05-17-25,arrived hot and tasty
+922,Kinilaw Corner,Makati,sinigang,941,3,2823,San Pablo Laguna,NexusDrop,credit card,8,05-26-23,04-29-25,perfect portion size
+923,Siomai House,Baguio,halo-halo,386,1,386,San Pablo Laguna,NexusDrop,ShopeePay,7,12-14-23,05-08-25,Delicious and fresh
+924,Lechon Belly Spot,Makati,kinilaw,444,6,2664,Tanauan Batangas,RapidSend Logistics,GCash,4,02-22-24,05-16-25,late delivery ruined the meal
+925,Halo-Halo Stop,Davao City,pork tapa,396,6,2376,Tanauan Batangas,UrbanFreight,ShopeePay,9,07-17-23,05-19-25,too salty and overcooked
+926,Adobo Haven,Cebu City,kinilaw,122,5,610,Tanauan Batangas,IslandLink Courier,credit card,9,08-20-24,05-10-25,Great value for money
+927,Mang Inasal Grill,Baguio,lechon,776,6,4656,Santa Rosa Laguna,SwiftParcel Go,bank transfer,2,03-30-24,05-20-25,loved the flavor
+928,Siomai House,Davao City,barbecue,550,3,1650,Binangonan Rizal,RapidSend Logistics,debit card,8,06-28-22,05-03-25,bland taste disappointing
+929,Kinilaw Corner,Davao City,adobo,533,3,1599,Santa Rosa Laguna,NexusDrop,cash on delivery,5,05-12-22,05-12-25,Food was cold on arrival
+930,Mang Inasal Grill,Manila,sinigang,374,2,748,Dasmarinas Cavite,UrbanFreight,GCash,5,11-10-23,05-02-25,bland taste disappointing
+931,Adobo Haven,Davao City,sinigang,304,6,1824,Binangonan Rizal,SpeedyCart Express,ShopeePay,10,12-23-22,05-03-25,Food was cold on arrival
+932,Mang Inasal Grill,Quezon City,sinigang,602,6,3612,San Pablo Laguna,SwiftParcel Go,GCash,7,05-09-22,05-02-25,Delicious and fresh
+933,Mang Inasal Grill,Manila,fried chicken,389,4,1556,Santa Rosa Laguna,UrbanFreight,credit card,4,09-29-23,05-16-25,too salty and overcooked
+934,Tinapa Grill Shack,Iloilo City,kinilaw,117,2,234,Quezon City,RapidSend Logistics,bank transfer,6,01-02-23,05-15-25,arrived hot and tasty
+935,Lechon Belly Spot,Manila,fried chicken,389,3,1167,Binangonan Rizal,RapidSend Logistics,cash on delivery,6,03-09-23,05-05-25,too salty and overcooked
+936,Kinilaw Corner,Baguio,fried chicken,384,6,2304,Binangonan Rizal,MetroHaul Service,GCash,1,08-30-22,04-30-25,loved the flavor
+937,Mang Inasal Grill,Quezon City,pork tapa,192,4,768,Binangonan Rizal,RapidSend Logistics,ShopeePay,2,02-16-23,05-21-25,perfect portion size
+938,Halo-Halo Stop,Baguio,halo-halo,291,4,1164,Calamba Laguna,NexusDrop,GCash,6,06-28-23,05-03-25,Food was cold on arrival
+939,Adobo Haven,Bacolod,barbecue,606,3,1818,San Pablo Laguna,QuickDash Delivery,debit card,9,05-03-24,05-18-25,bland taste disappointing
+940,Mang Inasal Grill,Makati,adobo,112,1,112,Tanauan Batangas,IslandLink Courier,bank transfer,3,07-31-24,05-20-25,perfect portion size
+941,Adobo Haven,Quezon City,barbecue,978,3,2934,Quezon City,MetroHaul Service,ShopeePay,2,10-01-24,05-03-25,perfect portion size
+942,Siomai House,Cebu City,sinigang,422,5,2110,Quezon City,SpeedyCart Express,ShopeePay,8,07-26-24,04-27-25,late delivery ruined the meal
+943,Kinilaw Corner,Cebu City,barbecue,971,5,4855,Santa Rosa Laguna,NexusDrop,ShopeePay,3,05-03-23,04-26-25,will order again
+944,Isaw King,Makati,lechon,283,4,1132,Binangonan Rizal,RapidSend Logistics,Maya,2,11-24-22,05-10-25,loved the flavor
+945,Lechon Belly Spot,Makati,adobo,441,2,882,Dasmarinas Cavite,SpeedyCart Express,credit card,6,05-04-22,05-08-25,late delivery ruined the meal
+946,Isaw King,Makati,adobo,673,5,3365,Santa Rosa Laguna,QuickDash Delivery,bank transfer,6,06-02-23,05-10-25,packaging leaked everywhere
+947,Halo-Halo Stop,Manila,kinilaw,799,1,799,Quezon City,SwiftParcel Go,cash on delivery,2,12-12-23,05-05-25,bland taste disappointing
+948,Isaw King,Davao City,sinigang,694,4,2776,Dasmarinas Cavite,RapidSend Logistics,credit card,9,04-27-24,05-02-25,too salty and overcooked
+949,Tinapa Grill Shack,Quezon City,sinigang,355,6,2130,San Pablo Laguna,RapidSend Logistics,bank transfer,6,04-14-24,05-20-25,late delivery ruined the meal
+950,Adobo Haven,Manila,kinilaw,836,5,4180,Binangonan Rizal,SpeedyCart Express,cash on delivery,2,02-15-23,05-03-25,Delicious and fresh
+951,Isaw King,Cebu City,fried chicken,625,2,1250,Calamba Laguna,MetroHaul Service,GCash,10,11-06-23,05-17-25,loved the flavor
+952,Kinilaw Corner,Cebu City,halo-halo,792,5,3960,Quezon City,NexusDrop,debit card,5,10-01-22,04-28-25,late delivery ruined the meal
+953,Isaw King,Baguio,sinigang,597,6,3582,Tanauan Batangas,SpeedyCart Express,debit card,7,11-02-23,05-09-25,Delicious and fresh
+954,Mang Inasal Grill,Cebu City,pork tapa,121,6,726,Calamba Laguna,NexusDrop,GCash,1,11-16-23,05-03-25,perfect portion size
+955,Adobo Haven,Iloilo City,pork tapa,997,3,2991,San Pablo Laguna,SwiftParcel Go,debit card,5,10-18-23,05-06-25,loved the flavor
+956,Mang Inasal Grill,Cebu City,halo-halo,891,1,891,Binangonan Rizal,MetroHaul Service,bank transfer,5,07-26-23,05-15-25,small portions not worth the price
+957,Kinilaw Corner,Baguio,barbecue,635,3,1905,San Pablo Laguna,RapidSend Logistics,bank transfer,10,05-08-24,05-02-25,perfect portion size
+958,Isaw King,Makati,lechon,907,4,3628,Binangonan Rizal,NexusDrop,cash on delivery,9,08-18-23,05-19-25,arrived hot and tasty
+959,Siomai House,Makati,kinilaw,940,3,2820,San Pablo Laguna,NexusDrop,ShopeePay,6,07-31-24,04-28-25,perfect portion size
+960,Kinilaw Corner,Davao City,lechon,247,5,1235,Calamba Laguna,MetroHaul Service,bank transfer,3,11-30-22,05-24-25,will order again
+961,Mang Inasal Grill,Bacolod,pork tapa,611,6,3666,Dasmarinas Cavite,IslandLink Courier,GCash,4,04-03-25,05-11-25,late delivery ruined the meal
+962,Adobo Haven,Makati,barbecue,927,1,927,San Pablo Laguna,SpeedyCart Express,debit card,7,08-03-22,05-09-25,Delicious and fresh
+963,Lechon Belly Spot,Iloilo City,sinigang,916,6,5496,Tanauan Batangas,SpeedyCart Express,debit card,7,06-10-23,05-07-25,packaging leaked everywhere
+964,Tinapa Grill Shack,Bacolod,sinigang,944,4,3776,Quezon City,SwiftParcel Go,Maya,6,06-10-24,04-30-25,loved the flavor
+965,Mang Inasal Grill,Quezon City,pork tapa,130,1,130,Tanauan Batangas,QuickDash Delivery,debit card,2,08-24-24,05-10-25,will order again
+966,Kinilaw Corner,Makati,kinilaw,931,4,3724,Calamba Laguna,SwiftParcel Go,cash on delivery,10,11-30-23,04-26-25,packaging leaked everywhere
+967,Siomai House,Manila,lechon,235,1,235,Santa Rosa Laguna,IslandLink Courier,Maya,1,04-19-24,05-15-25,late delivery ruined the meal
+968,Lechon Belly Spot,Bacolod,kinilaw,957,5,4785,Dasmarinas Cavite,SpeedyCart Express,Maya,3,04-27-24,05-02-25,late delivery ruined the meal
+969,Tinapa Grill Shack,Iloilo City,adobo,901,1,901,Tanauan Batangas,IslandLink Courier,Maya,10,11-14-23,05-18-25,small portions not worth the price
+970,Siomai House,Manila,sinigang,535,1,535,Santa Rosa Laguna,IslandLink Courier,debit card,2,04-29-24,05-01-25,small portions not worth the price
+971,Halo-Halo Stop,Iloilo City,fried chicken,173,4,692,Dasmarinas Cavite,IslandLink Courier,debit card,5,01-28-23,05-17-25,arrived hot and tasty
+972,Isaw King,Bacolod,barbecue,855,3,2565,San Pablo Laguna,QuickDash Delivery,cash on delivery,9,05-18-23,04-29-25,too salty and overcooked
+973,Isaw King,Bacolod,adobo,777,3,2331,Calamba Laguna,IslandLink Courier,Maya,8,05-29-24,05-01-25,packaging leaked everywhere
+974,Kinilaw Corner,Baguio,barbecue,157,1,157,Quezon City,QuickDash Delivery,bank transfer,8,08-27-23,05-21-25,too salty and overcooked
+975,Mang Inasal Grill,Cebu City,halo-halo,976,5,4880,Calamba Laguna,IslandLink Courier,ShopeePay,10,10-06-22,05-01-25,late delivery ruined the meal
+976,Siomai House,Cebu City,lechon,693,2,1386,Dasmarinas Cavite,SwiftParcel Go,ShopeePay,9,08-17-24,04-27-25,perfect portion size
+977,Adobo Haven,Quezon City,kinilaw,915,3,2745,Binangonan Rizal,QuickDash Delivery,ShopeePay,3,07-21-22,05-05-25,arrived hot and tasty
+978,Halo-Halo Stop,Quezon City,pork tapa,449,4,1796,Quezon City,SwiftParcel Go,Maya,6,04-17-23,05-14-25,late delivery ruined the meal
+979,Adobo Haven,Bacolod,kinilaw,299,6,1794,San Pablo Laguna,RapidSend Logistics,ShopeePay,2,10-04-24,04-30-25,packaging leaked everywhere
+980,Mang Inasal Grill,Cebu City,fried chicken,310,1,310,Dasmarinas Cavite,UrbanFreight,Maya,8,11-02-23,05-22-25,small portions not worth the price
+981,Tinapa Grill Shack,Bacolod,barbecue,856,1,856,Dasmarinas Cavite,IslandLink Courier,debit card,8,03-30-23,05-07-25,Food was cold on arrival
+982,Lechon Belly Spot,Quezon City,adobo,864,5,4320,Dasmarinas Cavite,SpeedyCart Express,bank transfer,6,03-04-25,05-13-25,loved the flavor
+983,Halo-Halo Stop,Baguio,barbecue,371,1,371,Quezon City,IslandLink Courier,debit card,4,02-26-25,05-12-25,bland taste disappointing
+984,Lechon Belly Spot,Cebu City,fried chicken,665,1,665,Santa Rosa Laguna,NexusDrop,cash on delivery,5,03-29-25,04-27-25,Great value for money
+985,Tinapa Grill Shack,Baguio,kinilaw,542,2,1084,Dasmarinas Cavite,SwiftParcel Go,Maya,4,03-31-24,05-06-25,small portions not worth the price
+986,Tinapa Grill Shack,Manila,halo-halo,151,1,151,Dasmarinas Cavite,SpeedyCart Express,ShopeePay,7,01-30-25,05-10-25,packaging leaked everywhere
+987,Isaw King,Bacolod,kinilaw,322,4,1288,Binangonan Rizal,IslandLink Courier,Maya,1,02-09-23,04-26-25,too salty and overcooked
+988,Adobo Haven,Cebu City,sinigang,136,1,136,Santa Rosa Laguna,UrbanFreight,debit card,4,11-30-23,04-27-25,will order again
+989,Isaw King,Davao City,lechon,635,2,1270,San Pablo Laguna,MetroHaul Service,GCash,5,12-21-24,05-22-25,late delivery ruined the meal
+990,Isaw King,Bacolod,adobo,701,1,701,San Pablo Laguna,MetroHaul Service,credit card,5,04-16-24,04-30-25,Delicious and fresh
+991,Kinilaw Corner,Davao City,adobo,783,4,3132,Dasmarinas Cavite,SwiftParcel Go,ShopeePay,1,05-05-22,05-02-25,packaging leaked everywhere
+992,Isaw King,Manila,lechon,797,6,4782,Quezon City,IslandLink Courier,ShopeePay,1,05-04-24,05-18-25,small portions not worth the price
+993,Siomai House,Iloilo City,sinigang,258,2,516,Tanauan Batangas,NexusDrop,GCash,2,11-13-22,04-26-25,packaging leaked everywhere
+994,Tinapa Grill Shack,Bacolod,kinilaw,342,6,2052,Calamba Laguna,SwiftParcel Go,bank transfer,7,07-25-24,05-13-25,Great value for money
+995,Siomai House,Makati,pork tapa,215,2,430,Tanauan Batangas,SwiftParcel Go,credit card,2,02-23-24,05-03-25,Delicious and fresh
+996,Siomai House,Manila,lechon,436,1,436,Santa Rosa Laguna,QuickDash Delivery,cash on delivery,8,05-06-23,05-17-25,will order again
+997,Isaw King,Manila,barbecue,400,3,1200,Santa Rosa Laguna,IslandLink Courier,cash on delivery,2,05-03-22,05-22-25,packaging leaked everywhere
+998,Isaw King,Makati,adobo,369,4,1476,San Pablo Laguna,RapidSend Logistics,ShopeePay,3,04-22-23,05-17-25,late delivery ruined the meal
+999,Isaw King,Makati,adobo,831,4,3324,Santa Rosa Laguna,SwiftParcel Go,bank transfer,3,02-28-24,05-13-25,bland taste disappointing
+1000,Tinapa Grill Shack,Cebu City,kinilaw,737,6,4422,Santa Rosa Laguna,IslandLink Courier,bank transfer,7,02-08-24,05-13-25,late delivery ruined the meal
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,
