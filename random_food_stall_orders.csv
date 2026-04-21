@@ -1,0 +1,1001 @@
+food_stall_name,food_stall_origin,type_of_food,price_per_order,quantity,total_sales,customer_location,courier_service_used,payment_method_used,customer_satisfaction_rate,date_ordered,date_received,customer_feedback
+Mamas Pancit Hub,Lucena,Filipino,81.15,5,405.75,Mandaluyong,In-House Delivery,GCash,4.3,2024-05-05,2024-05-06,Highly recommended. Worth every peso.
+Spice Garden,Pampanga,Indian,349.81,2,699.62,Makati,GrabFood,GCash,3.8,2024-10-29,2024-11-01,Taste is okay. Delivery was a bit slow.
+Dragon Palace,Binondo,Chinese,251.61,1,251.61,Pila,Angkas,Maya,4.4,2024-10-14,2024-10-15,Great portions and very tasty.
+Pizzeria Napoli,San Juan,Italian,261.28,1,261.28,San Pedro,Lalamove,Cash on Delivery,5.0,2024-03-22,2024-03-27,Food arrived hot and fresh. Love it!
+Dragon Palace,Binondo,Chinese,387.16,6,2322.96,Dasmariñas,GrabFood,Cash on Delivery,3.7,2024-02-22,2024-02-22,Average experience. Nothing special.
+Pizzeria Napoli,San Juan,Italian,255.81,1,255.81,Taguig,Angkas,GCash,3.7,2024-08-23,2024-08-27,Okay lang. Might try other options next time.
+Tokyo Bites,Makati,Japanese,523.23,10,5232.3,Parañaque,In-House Delivery,GCash,5.0,2024-07-04,2024-07-08,Sulit na sulit! Will order again.
+Mamas Pancit Hub,Lucena,Filipino,103.3,5,516.5,Taguig,Angkas,Cash on Delivery,4.5,2024-02-10,2024-02-11,Great portions and very tasty.
+Mamas Pancit Hub,Lucena,Filipino,218.48,3,655.44,Parañaque,In-House Delivery,Cash on Delivery,3.5,2024-07-08,2024-07-10,Good food but packaging could be better.
+Pizzeria Napoli,San Juan,Italian,403.99,9,3635.91,Biñan,Angkas,Cash on Delivery,4.3,2024-05-05,2024-05-06,Highly recommended. Worth every peso.
+Spice Garden,Pampanga,Indian,255.95,6,1535.7,Makati,Lalamove,Credit Card,3.5,2024-01-29,2024-01-30,Average experience. Nothing special.
+Aling Nenas Carinderia,Cebu City,Filipino,100.09,10,1000.9,Santa Rosa,Angkas,Bank Transfer,3.5,2024-06-10,2024-06-11,"Food was decent, but arrived lukewarm."
+Lolo Bertins BBQ,Davao City,Barbecue,138.27,4,553.08,Caloocan,In-House Delivery,ShopeePay,4.1,2024-10-14,2024-10-18,Great portions and very tasty.
+Tita Belens Halo-Halo,Iloilo City,Desserts,137.53,6,825.18,Calamba,Angkas,GCash,2.4,2024-04-22,2024-04-23,Order was wrong. Very disappointing.
+GreenBowl,Muntinlupa,Vegan,101.93,3,305.79,Muntinlupa,GrabFood,Credit Card,2.5,2024-12-14,2024-12-17,Delivery took way too long.
+Pizzeria Napoli,San Juan,Italian,548.45,9,4936.05,Quezon City,In-House Delivery,Bank Transfer,3.5,2024-05-08,2024-05-12,Good food but packaging could be better.
+Mamas Pancit Hub,Lucena,Filipino,228.11,5,1140.55,Taguig,Lalamove,Credit Card,3.1,2024-11-24,2024-11-26,Taste is okay. Delivery was a bit slow.
+La Parilla Mexicana,Taguig,Mexican,100.81,5,504.05,Calamba,GrabFood,Bank Transfer,4.2,2024-09-13,2024-09-14,Ang sarap! My new go-to stall.
+GreenBowl,Muntinlupa,Vegan,207.79,10,2077.9,Imus,Foodpanda,ShopeePay,3.2,2024-04-11,2024-04-12,Okay lang. Might try other options next time.
+Tita Belens Halo-Halo,Iloilo City,Desserts,50.09,6,300.54,Taguig,Lalamove,Cash on Delivery,2.8,2024-09-07,2024-09-07,Food was cold on arrival. Not acceptable.
+Manang Celys Lutong Bahay,Quezon City,Filipino,105.77,10,1057.7,Santa Rosa,GrabFood,ShopeePay,5.0,2024-02-10,2024-02-10,Perfect for the whole family.
+Lolo Bertins BBQ,Davao City,Barbecue,108.25,8,866.0,Caloocan,Borzo,ShopeePay,3.7,2024-10-08,2024-10-09,"Food was decent, but arrived lukewarm."
+Dragon Palace,Binondo,Chinese,378.67,4,1514.68,Dasmariñas,In-House Delivery,Bank Transfer,4.0,2024-12-31,2025-01-02,Ang sarap! My new go-to stall.
+La Parilla Mexicana,Taguig,Mexican,324.9,8,2599.2,Las Piñas,GrabFood,Cash on Delivery,2.8,2024-03-02,2024-03-03,Order was wrong. Very disappointing.
+Pizzeria Napoli,San Juan,Italian,371.57,10,3715.7,Pasig,In-House Delivery,Bank Transfer,3.5,2024-04-22,2024-04-22,Good food but packaging could be better.
+Dragon Palace,Binondo,Chinese,120.22,1,120.22,Calamba,Foodpanda,Cash on Delivery,4.0,2024-06-18,2024-06-18,Highly recommended. Worth every peso.
+La Parilla Mexicana,Taguig,Mexican,153.56,3,460.68,Santa Rosa,Foodpanda,Credit Card,3.0,2024-10-19,2024-10-23,"Food was decent, but arrived lukewarm."
+Dragon Palace,Binondo,Chinese,128.3,7,898.1,San Pedro,Angkas,Bank Transfer,4.2,2024-06-30,2024-07-03,Sulit na sulit! Will order again.
+Mamas Pancit Hub,Lucena,Filipino,184.16,2,368.32,Bacoor,GrabFood,Maya,3.4,2024-02-01,2024-02-04,Taste is okay. Delivery was a bit slow.
+Dragon Palace,Binondo,Chinese,260.89,3,782.67,Caloocan,Angkas,Maya,3.7,2024-08-04,2024-08-05,Good food but packaging could be better.
+La Parilla Mexicana,Taguig,Mexican,302.01,9,2718.09,Pila,GrabFood,GCash,3.4,2024-02-20,2024-02-20,Taste is okay. Delivery was a bit slow.
+Lolo Bertins BBQ,Davao City,Barbecue,169.41,8,1355.28,Makati,Foodpanda,Credit Card,5.0,2024-04-19,2024-04-22,Sulit na sulit! Will order again.
+Burger Republic,Pasig,Burgers,158.95,8,1271.6,Pila,In-House Delivery,Bank Transfer,3.9,2024-05-26,2024-05-29,"Food was decent, but arrived lukewarm."
+Lolo Bertins BBQ,Davao City,Barbecue,121.78,4,487.12,Pila,GrabFood,Bank Transfer,3.1,2024-01-30,2024-02-03,Average experience. Nothing special.
+Manang Celys Lutong Bahay,Quezon City,Filipino,69.53,8,556.24,Marikina,GrabFood,ShopeePay,4.6,2024-09-14,2024-09-18,Sulit na sulit! Will order again.
+GreenBowl,Muntinlupa,Vegan,117.16,10,1171.6,Las Piñas,Angkas,GCash,2.9,2024-02-04,2024-02-09,Missing items in my order.
+Dragon Palace,Binondo,Chinese,273.68,1,273.68,San Pedro,In-House Delivery,ShopeePay,4.1,2024-11-13,2024-11-13,Fast delivery and delicious food!
+Pita & More,Mandaluyong,Middle Eastern,224.4,5,1122.0,Bacoor,Foodpanda,Cash on Delivery,2.3,2024-04-14,2024-04-19,Delivery took way too long.
+Lolo Bertins BBQ,Davao City,Barbecue,227.77,5,1138.85,Pasig,GrabFood,Credit Card,2.8,2024-08-22,2024-08-24,Missing items in my order.
+Pizzeria Napoli,San Juan,Italian,548.44,2,1096.88,Calamba,Lalamove,Maya,4.1,2024-10-02,2024-10-03,Ang sarap! My new go-to stall.
+Tita Belens Halo-Halo,Iloilo City,Desserts,60.32,4,241.28,Marikina,Angkas,ShopeePay,4.5,2024-07-08,2024-07-10,Highly recommended. Worth every peso.
+Tokyo Bites,Makati,Japanese,425.25,9,3827.25,Pila,Lalamove,Bank Transfer,4.0,2024-01-05,2024-01-10,Sulit na sulit! Will order again.
+Tita Belens Halo-Halo,Iloilo City,Desserts,70.14,2,140.28,Pila,Foodpanda,Cash on Delivery,3.8,2024-02-24,2024-02-29,Average experience. Nothing special.
+Pizzeria Napoli,San Juan,Italian,234.25,6,1405.5,Caloocan,Borzo,Credit Card,3.7,2024-04-14,2024-04-19,Average experience. Nothing special.
+Tita Belens Halo-Halo,Iloilo City,Desserts,186.22,1,186.22,San Pedro,Lalamove,GCash,2.7,2024-02-17,2024-02-22,Order was wrong. Very disappointing.
+Seoul Corner,Bonifacio,Korean,413.03,5,2065.15,Biñan,Borzo,Bank Transfer,3.3,2024-03-23,2024-03-28,"Food was decent, but arrived lukewarm."
+Pita & More,Mandaluyong,Middle Eastern,123.19,2,246.38,Pila,GrabFood,Cash on Delivery,3.5,2024-12-19,2024-12-20,Okay lang. Might try other options next time.
+Pita & More,Mandaluyong,Middle Eastern,168.87,3,506.61,Imus,GrabFood,Cash on Delivery,4.7,2024-01-22,2024-01-24,Food arrived hot and fresh. Love it!
+Mamas Pancit Hub,Lucena,Filipino,107.41,2,214.82,San Pedro,Borzo,Bank Transfer,4.2,2024-06-30,2024-07-04,Food arrived hot and fresh. Love it!
+Tita Belens Halo-Halo,Iloilo City,Desserts,189.48,3,568.44,Quezon City,Foodpanda,Bank Transfer,2.5,2024-03-31,2024-04-03,Too salty. Won't order again.
+The Seafood Shack,Batangas,Seafood,665.41,4,2661.64,Taguig,Angkas,GCash,4.2,2024-05-16,2024-05-17,Perfect for the whole family.
+La Parilla Mexicana,Taguig,Mexican,155.61,8,1244.88,Las Piñas,Foodpanda,GCash,3.6,2024-06-28,2024-06-30,Taste is okay. Delivery was a bit slow.
+Burger Republic,Pasig,Burgers,175.35,2,350.7,Calamba,Angkas,Bank Transfer,3.4,2024-05-22,2024-05-24,Okay lang. Might try other options next time.
+Seoul Corner,Bonifacio,Korean,476.91,2,953.82,Los Baños,Lalamove,GCash,4.4,2024-05-13,2024-05-14,Sulit na sulit! Will order again.
+Pizzeria Napoli,San Juan,Italian,323.83,6,1942.98,Calamba,GrabFood,Credit Card,4.7,2024-08-11,2024-08-15,Fast delivery and delicious food!
+Dragon Palace,Binondo,Chinese,176.42,7,1234.94,Pila,In-House Delivery,Bank Transfer,4.6,2024-01-01,2024-01-05,Highly recommended. Worth every peso.
+Spice Garden,Pampanga,Indian,287.78,6,1726.68,Bacoor,Borzo,Cash on Delivery,3.2,2024-08-08,2024-08-08,Good food but packaging could be better.
+Spice Garden,Pampanga,Indian,352.01,9,3168.09,San Pedro,Lalamove,Credit Card,3.7,2024-06-07,2024-06-12,Average experience. Nothing special.
+Pita & More,Mandaluyong,Middle Eastern,162.0,7,1134.0,Marikina,Borzo,ShopeePay,4.2,2024-12-06,2024-12-09,Ang sarap! My new go-to stall.
+Burger Republic,Pasig,Burgers,232.46,1,232.46,Parañaque,Angkas,ShopeePay,4.7,2024-06-04,2024-06-06,Fast delivery and delicious food!
+Mamas Pancit Hub,Lucena,Filipino,121.23,8,969.84,Parañaque,Borzo,Credit Card,3.5,2024-08-14,2024-08-19,Taste is okay. Delivery was a bit slow.
+Mamas Pancit Hub,Lucena,Filipino,76.11,9,684.99,Muntinlupa,Lalamove,GCash,3.8,2024-12-05,2024-12-10,Taste is okay. Delivery was a bit slow.
+Mamas Pancit Hub,Lucena,Filipino,118.98,4,475.92,Makati,Foodpanda,Credit Card,3.0,2024-03-16,2024-03-16,Okay lang. Might try other options next time.
+GreenBowl,Muntinlupa,Vegan,233.7,8,1869.6,Los Baños,Foodpanda,Bank Transfer,2.9,2024-07-31,2024-08-05,Delivery took way too long.
+La Parilla Mexicana,Taguig,Mexican,199.91,3,599.73,Quezon City,GrabFood,Credit Card,4.6,2024-12-01,2024-12-06,Food arrived hot and fresh. Love it!
+Lolo Bertins BBQ,Davao City,Barbecue,256.9,9,2312.1,Pila,Foodpanda,GCash,5.0,2024-08-25,2024-08-25,Great portions and very tasty.
+Lolo Bertins BBQ,Davao City,Barbecue,256.31,9,2306.79,Bacoor,Angkas,ShopeePay,3.8,2024-10-13,2024-10-17,Okay lang. Might try other options next time.
+Burger Republic,Pasig,Burgers,305.95,9,2753.55,Santa Rosa,Angkas,Cash on Delivery,4.7,2024-08-16,2024-08-17,Perfect for the whole family.
+Dragon Palace,Binondo,Chinese,351.96,5,1759.8,Las Piñas,Lalamove,Credit Card,4.2,2024-09-23,2024-09-26,Sulit na sulit! Will order again.
+Spice Garden,Pampanga,Indian,180.0,5,900.0,Pila,GrabFood,Maya,3.4,2024-06-20,2024-06-22,Taste is okay. Delivery was a bit slow.
+Dragon Palace,Binondo,Chinese,214.91,3,644.73,Pasig,Angkas,Credit Card,4.2,2024-12-27,2024-12-28,Ang sarap! My new go-to stall.
+Pita & More,Mandaluyong,Middle Eastern,273.76,1,273.76,Dasmariñas,Borzo,Bank Transfer,5.0,2024-04-15,2024-04-18,Sulit na sulit! Will order again.
+GreenBowl,Muntinlupa,Vegan,256.13,10,2561.3,Quezon City,Lalamove,Cash on Delivery,3.9,2024-07-13,2024-07-16,"Food was decent, but arrived lukewarm."
+GreenBowl,Muntinlupa,Vegan,258.33,7,1808.31,Pila,Borzo,Maya,5.0,2024-10-02,2024-10-07,Great portions and very tasty.
+Dragon Palace,Binondo,Chinese,181.88,8,1455.04,Bacoor,In-House Delivery,Bank Transfer,1.8,2024-01-15,2024-01-18,Delivery took way too long.
+Spice Garden,Pampanga,Indian,146.21,8,1169.68,Pila,GrabFood,Credit Card,4.6,2024-03-06,2024-03-10,Fast delivery and delicious food!
+Pizzeria Napoli,San Juan,Italian,415.2,2,830.4,Mandaluyong,Angkas,Maya,4.0,2024-11-25,2024-11-28,Sulit na sulit! Will order again.
+Tokyo Bites,Makati,Japanese,320.6,4,1282.4,Bacoor,Angkas,Cash on Delivery,3.7,2024-08-20,2024-08-22,"Food was decent, but arrived lukewarm."
+Tokyo Bites,Makati,Japanese,525.71,8,4205.68,Pila,GrabFood,Cash on Delivery,4.0,2024-01-10,2024-01-15,Food arrived hot and fresh. Love it!
+Mamas Pancit Hub,Lucena,Filipino,73.04,1,73.04,Parañaque,GrabFood,ShopeePay,2.3,2024-01-16,2024-01-17,Food was cold on arrival. Not acceptable.
+Dragon Palace,Binondo,Chinese,137.87,2,275.74,Biñan,In-House Delivery,Cash on Delivery,3.7,2024-10-15,2024-10-16,Average experience. Nothing special.
+Lolo Bertins BBQ,Davao City,Barbecue,213.3,2,426.6,Taguig,Borzo,GCash,4.2,2024-03-24,2024-03-26,Ang sarap! My new go-to stall.
+Pizzeria Napoli,San Juan,Italian,420.94,7,2946.58,Parañaque,GrabFood,ShopeePay,5.0,2024-07-22,2024-07-27,Highly recommended. Worth every peso.
+GreenBowl,Muntinlupa,Vegan,205.45,2,410.9,Muntinlupa,GrabFood,ShopeePay,3.5,2024-12-22,2024-12-24,Good food but packaging could be better.
+Seoul Corner,Bonifacio,Korean,322.44,6,1934.64,Bacoor,GrabFood,Credit Card,3.3,2024-02-05,2024-02-09,"Food was decent, but arrived lukewarm."
+Aling Nenas Carinderia,Cebu City,Filipino,142.37,6,854.22,Mandaluyong,Angkas,Maya,3.5,2024-11-21,2024-11-24,Okay lang. Might try other options next time.
+Mamas Pancit Hub,Lucena,Filipino,111.32,9,1001.88,San Pedro,In-House Delivery,ShopeePay,4.6,2024-09-04,2024-09-07,Ang sarap! My new go-to stall.
+Seoul Corner,Bonifacio,Korean,443.65,2,887.3,Las Piñas,Angkas,ShopeePay,4.2,2024-05-22,2024-05-25,Fast delivery and delicious food!
+Mamas Pancit Hub,Lucena,Filipino,132.01,1,132.01,Marikina,Angkas,Maya,3.5,2024-09-10,2024-09-12,Average experience. Nothing special.
+The Seafood Shack,Batangas,Seafood,329.18,5,1645.9,Caloocan,Borzo,GCash,4.3,2024-11-01,2024-11-06,Fast delivery and delicious food!
+Dragon Palace,Binondo,Chinese,125.68,7,879.76,Las Piñas,In-House Delivery,Credit Card,4.0,2024-09-07,2024-09-11,Highly recommended. Worth every peso.
+Spice Garden,Pampanga,Indian,237.43,1,237.43,Las Piñas,Angkas,Bank Transfer,4.7,2024-02-17,2024-02-19,Food arrived hot and fresh. Love it!
+Tokyo Bites,Makati,Japanese,448.78,6,2692.68,Calamba,Lalamove,Credit Card,3.3,2024-08-30,2024-09-03,Okay lang. Might try other options next time.
+Seoul Corner,Bonifacio,Korean,253.69,8,2029.52,Caloocan,Foodpanda,GCash,3.6,2024-05-18,2024-05-20,Taste is okay. Delivery was a bit slow.
+Seoul Corner,Bonifacio,Korean,165.43,9,1488.87,Parañaque,Foodpanda,Bank Transfer,3.6,2024-12-19,2024-12-20,"Food was decent, but arrived lukewarm."
+Tokyo Bites,Makati,Japanese,476.06,9,4284.54,Taguig,Foodpanda,Cash on Delivery,2.7,2024-11-01,2024-11-03,Food was cold on arrival. Not acceptable.
+Seoul Corner,Bonifacio,Korean,188.19,1,188.19,Mandaluyong,Lalamove,GCash,4.1,2024-12-28,2025-01-01,Sulit na sulit! Will order again.
+Pita & More,Mandaluyong,Middle Eastern,216.41,3,649.23,Taguig,GrabFood,ShopeePay,4.1,2024-11-22,2024-11-25,Ang sarap! My new go-to stall.
+La Parilla Mexicana,Taguig,Mexican,219.68,6,1318.08,Caloocan,Angkas,GCash,3.9,2024-04-04,2024-04-04,Good food but packaging could be better.
+Burger Republic,Pasig,Burgers,217.85,10,2178.5,Makati,Foodpanda,Maya,3.7,2024-11-18,2024-11-23,Okay lang. Might try other options next time.
+Tokyo Bites,Makati,Japanese,188.33,4,753.32,San Pedro,Borzo,ShopeePay,2.8,2024-03-01,2024-03-05,Missing items in my order.
+Dragon Palace,Binondo,Chinese,332.71,7,2328.97,Antipolo,Borzo,Credit Card,3.6,2024-08-18,2024-08-21,Average experience. Nothing special.
+Pizzeria Napoli,San Juan,Italian,398.41,10,3984.1,Parañaque,Lalamove,Bank Transfer,3.6,2024-02-20,2024-02-21,Good food but packaging could be better.
+Lolo Bertins BBQ,Davao City,Barbecue,132.77,9,1194.93,Quezon City,Angkas,Credit Card,3.3,2024-02-08,2024-02-09,Okay lang. Might try other options next time.
+La Parilla Mexicana,Taguig,Mexican,172.81,4,691.24,Antipolo,In-House Delivery,Credit Card,3.8,2024-05-27,2024-06-01,Good food but packaging could be better.
+Mamas Pancit Hub,Lucena,Filipino,104.35,5,521.75,Parañaque,Angkas,GCash,4.2,2024-11-16,2024-11-20,Fast delivery and delicious food!
+Dragon Palace,Binondo,Chinese,294.29,5,1471.45,Makati,Foodpanda,Cash on Delivery,5.0,2024-03-13,2024-03-13,Fast delivery and delicious food!
+Spice Garden,Pampanga,Indian,330.79,5,1653.95,Biñan,In-House Delivery,Cash on Delivery,4.0,2024-08-12,2024-08-12,Highly recommended. Worth every peso.
+Burger Republic,Pasig,Burgers,335.1,9,3015.9,Biñan,GrabFood,ShopeePay,4.1,2024-10-03,2024-10-06,Sulit na sulit! Will order again.
+Tita Belens Halo-Halo,Iloilo City,Desserts,114.8,6,688.8,Quezon City,GrabFood,Maya,3.8,2024-11-05,2024-11-07,Okay lang. Might try other options next time.
+Pizzeria Napoli,San Juan,Italian,530.31,5,2651.55,Marikina,Angkas,ShopeePay,2.4,2024-10-22,2024-10-22,Delivery took way too long.
+Tita Belens Halo-Halo,Iloilo City,Desserts,91.72,10,917.2,Santa Rosa,GrabFood,Credit Card,3.9,2024-08-11,2024-08-16,Average experience. Nothing special.
+Burger Republic,Pasig,Burgers,176.66,2,353.32,San Pedro,In-House Delivery,Credit Card,3.9,2024-03-23,2024-03-25,Average experience. Nothing special.
+Mamas Pancit Hub,Lucena,Filipino,239.59,9,2156.31,Pasig,Lalamove,Cash on Delivery,5.0,2024-01-19,2024-01-22,Ang sarap! My new go-to stall.
+Aling Nenas Carinderia,Cebu City,Filipino,244.34,7,1710.38,Pila,Angkas,Credit Card,3.7,2024-09-20,2024-09-20,Good food but packaging could be better.
+Dragon Palace,Binondo,Chinese,255.53,10,2555.3,Biñan,GrabFood,Maya,4.1,2024-09-12,2024-09-17,Ang sarap! My new go-to stall.
+Pita & More,Mandaluyong,Middle Eastern,163.23,5,816.15,Santa Rosa,GrabFood,GCash,3.9,2024-08-12,2024-08-17,Okay lang. Might try other options next time.
+The Seafood Shack,Batangas,Seafood,319.65,3,958.95,Quezon City,Borzo,Credit Card,3.0,2024-06-08,2024-06-12,Good food but packaging could be better.
+Dragon Palace,Binondo,Chinese,397.68,2,795.36,Mandaluyong,Angkas,Bank Transfer,4.8,2024-08-24,2024-08-24,Ang sarap! My new go-to stall.
+Pita & More,Mandaluyong,Middle Eastern,352.79,7,2469.53,Las Piñas,Angkas,ShopeePay,4.5,2024-09-04,2024-09-07,Food arrived hot and fresh. Love it!
+Burger Republic,Pasig,Burgers,139.56,10,1395.6,Mandaluyong,GrabFood,Cash on Delivery,4.5,2024-09-17,2024-09-22,Perfect for the whole family.
+The Seafood Shack,Batangas,Seafood,627.21,6,3763.26,Quezon City,Lalamove,Bank Transfer,3.2,2024-09-16,2024-09-18,Average experience. Nothing special.
+GreenBowl,Muntinlupa,Vegan,197.39,8,1579.12,Pila,Angkas,Cash on Delivery,5.0,2024-03-17,2024-03-20,Ang sarap! My new go-to stall.
+Pita & More,Mandaluyong,Middle Eastern,371.75,7,2602.25,Parañaque,In-House Delivery,Maya,2.8,2024-08-21,2024-08-23,Missing items in my order.
+Burger Republic,Pasig,Burgers,150.73,7,1055.11,Santa Rosa,In-House Delivery,Credit Card,4.4,2024-01-23,2024-01-25,Great portions and very tasty.
+Mamas Pancit Hub,Lucena,Filipino,210.55,3,631.65,Mandaluyong,Borzo,ShopeePay,5.0,2024-09-10,2024-09-10,Ang sarap! My new go-to stall.
+GreenBowl,Muntinlupa,Vegan,100.07,8,800.56,Biñan,GrabFood,Bank Transfer,3.1,2024-02-21,2024-02-25,Taste is okay. Delivery was a bit slow.
+Burger Republic,Pasig,Burgers,316.44,3,949.32,Caloocan,Lalamove,ShopeePay,3.4,2024-02-08,2024-02-11,"Food was decent, but arrived lukewarm."
+Mamas Pancit Hub,Lucena,Filipino,75.26,6,451.56,Dasmariñas,Lalamove,Bank Transfer,4.0,2024-12-11,2024-12-15,Highly recommended. Worth every peso.
+Tita Belens Halo-Halo,Iloilo City,Desserts,163.91,9,1475.19,Pasig,Foodpanda,Bank Transfer,3.5,2024-01-19,2024-01-23,Average experience. Nothing special.
+Dragon Palace,Binondo,Chinese,324.03,7,2268.21,Taguig,Angkas,Maya,2.7,2024-02-20,2024-02-25,Too salty. Won't order again.
+Tita Belens Halo-Halo,Iloilo City,Desserts,54.34,6,326.04,Imus,Lalamove,Credit Card,4.0,2024-01-29,2024-01-31,Food arrived hot and fresh. Love it!
+Dragon Palace,Binondo,Chinese,259.35,10,2593.5,Marikina,Foodpanda,GCash,3.1,2024-12-15,2024-12-16,Okay lang. Might try other options next time.
+GreenBowl,Muntinlupa,Vegan,156.51,4,626.04,Mandaluyong,Foodpanda,Credit Card,4.3,2024-09-11,2024-09-15,Highly recommended. Worth every peso.
+Tokyo Bites,Makati,Japanese,356.81,1,356.81,Pila,Foodpanda,GCash,3.2,2024-08-26,2024-08-28,"Food was decent, but arrived lukewarm."
+Seoul Corner,Bonifacio,Korean,495.31,5,2476.55,Caloocan,Angkas,Cash on Delivery,5.0,2024-11-23,2024-11-26,Food arrived hot and fresh. Love it!
+Burger Republic,Pasig,Burgers,311.87,2,623.74,Los Baños,Lalamove,ShopeePay,3.3,2024-05-01,2024-05-04,Average experience. Nothing special.
+Spice Garden,Pampanga,Indian,182.66,7,1278.62,Los Baños,In-House Delivery,Bank Transfer,3.6,2024-05-20,2024-05-20,Good food but packaging could be better.
+Tita Belens Halo-Halo,Iloilo City,Desserts,140.96,8,1127.68,Muntinlupa,Lalamove,Maya,4.6,2024-05-26,2024-05-27,Highly recommended. Worth every peso.
+Dragon Palace,Binondo,Chinese,286.27,3,858.81,Makati,Lalamove,Credit Card,2.9,2024-11-17,2024-11-17,Order was wrong. Very disappointing.
+Pizzeria Napoli,San Juan,Italian,295.94,3,887.82,Bacoor,In-House Delivery,Credit Card,4.1,2024-02-16,2024-02-18,Food arrived hot and fresh. Love it!
+Dragon Palace,Binondo,Chinese,139.65,9,1256.85,Calamba,Lalamove,Maya,4.9,2024-07-06,2024-07-10,Ang sarap! My new go-to stall.
+Tita Belens Halo-Halo,Iloilo City,Desserts,173.7,8,1389.6,Bacoor,GrabFood,Credit Card,2.6,2024-05-31,2024-06-05,Order was wrong. Very disappointing.
+Lolo Bertins BBQ,Davao City,Barbecue,245.91,4,983.64,Dasmariñas,Borzo,Cash on Delivery,4.0,2024-12-12,2024-12-17,Sulit na sulit! Will order again.
+The Seafood Shack,Batangas,Seafood,397.29,5,1986.45,Biñan,Lalamove,Bank Transfer,4.1,2024-10-01,2024-10-01,Highly recommended. Worth every peso.
+Mamas Pancit Hub,Lucena,Filipino,109.81,7,768.67,Taguig,In-House Delivery,Maya,4.5,2024-11-22,2024-11-24,Great portions and very tasty.
+Manang Celys Lutong Bahay,Quezon City,Filipino,177.71,9,1599.39,Las Piñas,In-House Delivery,GCash,2.9,2024-06-16,2024-06-20,Delivery took way too long.
+Tita Belens Halo-Halo,Iloilo City,Desserts,155.16,7,1086.12,Makati,GrabFood,Cash on Delivery,2.8,2024-02-29,2024-03-01,Delivery took way too long.
+Aling Nenas Carinderia,Cebu City,Filipino,78.47,9,706.23,Biñan,Lalamove,Bank Transfer,4.3,2024-03-10,2024-03-13,Highly recommended. Worth every peso.
+Spice Garden,Pampanga,Indian,364.87,7,2554.09,Mandaluyong,Angkas,Bank Transfer,4.1,2024-10-27,2024-11-01,Sulit na sulit! Will order again.
+GreenBowl,Muntinlupa,Vegan,177.87,7,1245.09,Imus,Foodpanda,Credit Card,4.1,2024-05-23,2024-05-23,Great portions and very tasty.
+Dragon Palace,Binondo,Chinese,356.64,2,713.28,Pila,In-House Delivery,Cash on Delivery,4.2,2024-12-17,2024-12-19,Sulit na sulit! Will order again.
+Burger Republic,Pasig,Burgers,161.73,2,323.46,Parañaque,In-House Delivery,Bank Transfer,3.4,2024-08-20,2024-08-20,Okay lang. Might try other options next time.
+Manang Celys Lutong Bahay,Quezon City,Filipino,69.61,6,417.66,Los Baños,Foodpanda,GCash,4.1,2024-05-04,2024-05-05,Perfect for the whole family.
+The Seafood Shack,Batangas,Seafood,477.1,10,4771.0,Bacoor,Foodpanda,ShopeePay,4.1,2024-04-20,2024-04-21,Sulit na sulit! Will order again.
+Tokyo Bites,Makati,Japanese,536.28,3,1608.84,Caloocan,Foodpanda,GCash,3.3,2024-03-07,2024-03-11,Good food but packaging could be better.
+Lolo Bertins BBQ,Davao City,Barbecue,83.27,4,333.08,Quezon City,Foodpanda,Cash on Delivery,5.0,2024-10-28,2024-10-30,Sulit na sulit! Will order again.
+Lolo Bertins BBQ,Davao City,Barbecue,243.18,9,2188.62,Pasig,Angkas,Credit Card,4.3,2024-02-28,2024-03-04,Perfect for the whole family.
+Seoul Corner,Bonifacio,Korean,315.03,2,630.06,Las Piñas,Borzo,GCash,2.9,2024-08-19,2024-08-23,Missing items in my order.
+Tokyo Bites,Makati,Japanese,356.12,1,356.12,Dasmariñas,Angkas,Bank Transfer,4.4,2024-02-01,2024-02-04,Sulit na sulit! Will order again.
+La Parilla Mexicana,Taguig,Mexican,278.1,8,2224.8,Bacoor,Borzo,Maya,3.1,2024-02-07,2024-02-07,Good food but packaging could be better.
+Lolo Bertins BBQ,Davao City,Barbecue,140.5,10,1405.0,Bacoor,Angkas,ShopeePay,4.5,2024-10-07,2024-10-12,Fast delivery and delicious food!
+Tokyo Bites,Makati,Japanese,354.17,10,3541.7,Taguig,In-House Delivery,Bank Transfer,4.8,2024-08-08,2024-08-08,Perfect for the whole family.
+Pita & More,Mandaluyong,Middle Eastern,357.88,4,1431.52,Las Piñas,Angkas,Cash on Delivery,3.2,2024-08-08,2024-08-11,"Food was decent, but arrived lukewarm."
+Burger Republic,Pasig,Burgers,198.16,2,396.32,Bacoor,In-House Delivery,Cash on Delivery,4.7,2024-06-09,2024-06-12,Ang sarap! My new go-to stall.
+Lolo Bertins BBQ,Davao City,Barbecue,231.1,8,1848.8,Pasig,GrabFood,Credit Card,4.2,2024-02-04,2024-02-04,Sulit na sulit! Will order again.
+Spice Garden,Pampanga,Indian,306.86,3,920.58,Los Baños,Borzo,ShopeePay,4.6,2024-10-11,2024-10-11,Ang sarap! My new go-to stall.
+Mamas Pancit Hub,Lucena,Filipino,83.22,6,499.32,Makati,Lalamove,ShopeePay,5.0,2024-12-06,2024-12-09,Ang sarap! My new go-to stall.
+Seoul Corner,Bonifacio,Korean,159.37,9,1434.33,Santa Rosa,Foodpanda,GCash,3.7,2024-04-18,2024-04-19,Average experience. Nothing special.
+GreenBowl,Muntinlupa,Vegan,191.25,2,382.5,Las Piñas,Angkas,ShopeePay,3.3,2024-05-22,2024-05-26,Okay lang. Might try other options next time.
+Pizzeria Napoli,San Juan,Italian,419.99,9,3779.91,Caloocan,GrabFood,Maya,3.2,2024-01-14,2024-01-18,Average experience. Nothing special.
+Spice Garden,Pampanga,Indian,313.47,6,1880.82,Marikina,Foodpanda,ShopeePay,3.2,2024-06-28,2024-06-28,"Food was decent, but arrived lukewarm."
+Aling Nenas Carinderia,Cebu City,Filipino,86.96,1,86.96,Calamba,Foodpanda,Credit Card,3.8,2024-02-16,2024-02-21,"Food was decent, but arrived lukewarm."
+La Parilla Mexicana,Taguig,Mexican,185.22,6,1111.32,Bacoor,Borzo,ShopeePay,4.2,2024-06-08,2024-06-13,Sulit na sulit! Will order again.
+Tita Belens Halo-Halo,Iloilo City,Desserts,57.89,3,173.67,Pasig,Lalamove,Credit Card,4.1,2024-11-12,2024-11-12,Highly recommended. Worth every peso.
+Burger Republic,Pasig,Burgers,216.27,8,1730.16,Parañaque,Borzo,GCash,4.6,2024-07-31,2024-08-02,Ang sarap! My new go-to stall.
+Burger Republic,Pasig,Burgers,118.83,10,1188.3,Antipolo,GrabFood,Maya,3.9,2024-09-06,2024-09-10,"Food was decent, but arrived lukewarm."
+Pizzeria Napoli,San Juan,Italian,171.91,4,687.64,Mandaluyong,Lalamove,Cash on Delivery,5.0,2024-06-03,2024-06-04,Ang sarap! My new go-to stall.
+Aling Nenas Carinderia,Cebu City,Filipino,61.47,7,430.29,Dasmariñas,Borzo,Bank Transfer,3.7,2024-03-30,2024-03-31,Taste is okay. Delivery was a bit slow.
+Pita & More,Mandaluyong,Middle Eastern,304.38,6,1826.28,Makati,Angkas,GCash,5.0,2024-02-06,2024-02-09,Great portions and very tasty.
+Tita Belens Halo-Halo,Iloilo City,Desserts,61.68,6,370.08,Los Baños,Angkas,Bank Transfer,4.4,2024-10-21,2024-10-24,Highly recommended. Worth every peso.
+Burger Republic,Pasig,Burgers,165.27,7,1156.89,Marikina,Borzo,Credit Card,3.2,2024-01-11,2024-01-13,Average experience. Nothing special.
+Aling Nenas Carinderia,Cebu City,Filipino,142.98,2,285.96,Los Baños,Angkas,ShopeePay,3.0,2024-05-04,2024-05-07,Good food but packaging could be better.
+Burger Republic,Pasig,Burgers,316.34,6,1898.04,Marikina,GrabFood,ShopeePay,4.3,2024-04-23,2024-04-25,Highly recommended. Worth every peso.
+Aling Nenas Carinderia,Cebu City,Filipino,160.81,4,643.24,Mandaluyong,Foodpanda,GCash,3.7,2024-06-27,2024-06-29,Taste is okay. Delivery was a bit slow.
+Tokyo Bites,Makati,Japanese,238.77,10,2387.7,Pasig,Foodpanda,Bank Transfer,4.5,2024-03-19,2024-03-24,Great portions and very tasty.
+La Parilla Mexicana,Taguig,Mexican,288.61,10,2886.1,Los Baños,In-House Delivery,Bank Transfer,4.3,2024-08-17,2024-08-22,Fast delivery and delicious food!
+Seoul Corner,Bonifacio,Korean,448.41,6,2690.46,Pasig,Angkas,Credit Card,3.8,2024-03-18,2024-03-21,Average experience. Nothing special.
+The Seafood Shack,Batangas,Seafood,337.34,1,337.34,Pasig,Lalamove,Credit Card,3.2,2024-06-29,2024-07-03,"Food was decent, but arrived lukewarm."
+Manang Celys Lutong Bahay,Quezon City,Filipino,70.81,5,354.05,Pasig,Borzo,ShopeePay,2.7,2024-02-09,2024-02-14,Missing items in my order.
+Burger Republic,Pasig,Burgers,210.31,9,1892.79,Los Baños,In-House Delivery,Maya,3.5,2024-01-22,2024-01-25,Average experience. Nothing special.
+Pizzeria Napoli,San Juan,Italian,340.25,3,1020.75,Taguig,Lalamove,Bank Transfer,4.6,2024-02-01,2024-02-04,Sulit na sulit! Will order again.
+Pita & More,Mandaluyong,Middle Eastern,333.22,1,333.22,Biñan,Angkas,ShopeePay,4.1,2024-05-06,2024-05-11,Fast delivery and delicious food!
+Pizzeria Napoli,San Juan,Italian,213.5,6,1281.0,San Pedro,Lalamove,Bank Transfer,2.9,2024-05-24,2024-05-27,Missing items in my order.
+Manang Celys Lutong Bahay,Quezon City,Filipino,209.95,6,1259.7,Taguig,Borzo,Bank Transfer,4.0,2024-02-03,2024-02-05,Great portions and very tasty.
+Tokyo Bites,Makati,Japanese,263.4,10,2634.0,Pasig,Borzo,Bank Transfer,4.2,2024-03-17,2024-03-19,Food arrived hot and fresh. Love it!
+Tita Belens Halo-Halo,Iloilo City,Desserts,102.47,7,717.29,Pasig,Lalamove,ShopeePay,3.2,2024-03-07,2024-03-11,"Food was decent, but arrived lukewarm."
+Mamas Pancit Hub,Lucena,Filipino,210.42,3,631.26,Calamba,GrabFood,Bank Transfer,4.0,2024-12-09,2024-12-14,Highly recommended. Worth every peso.
+Burger Republic,Pasig,Burgers,222.21,1,222.21,Marikina,Foodpanda,Cash on Delivery,3.9,2024-07-04,2024-07-06,"Food was decent, but arrived lukewarm."
+Dragon Palace,Binondo,Chinese,167.96,3,503.88,Antipolo,GrabFood,ShopeePay,3.0,2024-03-20,2024-03-20,Okay lang. Might try other options next time.
+GreenBowl,Muntinlupa,Vegan,227.73,9,2049.57,Bacoor,Borzo,Maya,4.2,2024-01-20,2024-01-25,Fast delivery and delicious food!
+Burger Republic,Pasig,Burgers,130.11,3,390.33,Marikina,In-House Delivery,Credit Card,4.3,2024-12-20,2024-12-24,Sulit na sulit! Will order again.
+Burger Republic,Pasig,Burgers,184.72,4,738.88,Antipolo,In-House Delivery,Credit Card,4.8,2024-08-15,2024-08-19,Food arrived hot and fresh. Love it!
+Pita & More,Mandaluyong,Middle Eastern,198.93,8,1591.44,Los Baños,Angkas,Credit Card,4.7,2024-04-09,2024-04-11,Perfect for the whole family.
+Tokyo Bites,Makati,Japanese,500.16,9,4501.44,Marikina,Foodpanda,ShopeePay,2.8,2024-09-27,2024-09-30,Food was cold on arrival. Not acceptable.
+GreenBowl,Muntinlupa,Vegan,130.0,8,1040.0,Taguig,In-House Delivery,ShopeePay,3.1,2024-07-09,2024-07-13,Good food but packaging could be better.
+Tokyo Bites,Makati,Japanese,187.74,3,563.22,Calamba,Foodpanda,Credit Card,4.3,2024-05-19,2024-05-22,Sulit na sulit! Will order again.
+Tita Belens Halo-Halo,Iloilo City,Desserts,83.31,8,666.48,San Pedro,GrabFood,Credit Card,4.3,2024-06-27,2024-06-27,Fast delivery and delicious food!
+Seoul Corner,Bonifacio,Korean,209.6,2,419.2,Quezon City,Lalamove,GCash,4.3,2024-07-10,2024-07-11,Perfect for the whole family.
+Spice Garden,Pampanga,Indian,281.99,3,845.97,Antipolo,Angkas,Bank Transfer,5.0,2024-03-11,2024-03-11,Perfect for the whole family.
+Lolo Bertins BBQ,Davao City,Barbecue,246.95,8,1975.6,Quezon City,GrabFood,GCash,4.4,2024-08-17,2024-08-21,Ang sarap! My new go-to stall.
+Dragon Palace,Binondo,Chinese,350.49,9,3154.41,San Pedro,GrabFood,Cash on Delivery,4.8,2024-11-07,2024-11-11,Food arrived hot and fresh. Love it!
+Tokyo Bites,Makati,Japanese,204.83,4,819.32,Muntinlupa,Angkas,GCash,4.7,2024-08-02,2024-08-07,Sulit na sulit! Will order again.
+GreenBowl,Muntinlupa,Vegan,261.03,10,2610.3,Calamba,Borzo,Maya,4.4,2024-10-01,2024-10-01,Highly recommended. Worth every peso.
+Lolo Bertins BBQ,Davao City,Barbecue,144.08,1,144.08,Las Piñas,Borzo,Credit Card,3.6,2024-11-10,2024-11-12,Taste is okay. Delivery was a bit slow.
+Mamas Pancit Hub,Lucena,Filipino,186.96,9,1682.64,Calamba,Borzo,ShopeePay,4.5,2024-07-03,2024-07-03,Perfect for the whole family.
+Pita & More,Mandaluyong,Middle Eastern,302.87,7,2120.09,Dasmariñas,Lalamove,Cash on Delivery,3.3,2024-08-28,2024-08-28,Good food but packaging could be better.
+Seoul Corner,Bonifacio,Korean,419.64,6,2517.84,Taguig,Borzo,Bank Transfer,3.7,2024-05-03,2024-05-08,Average experience. Nothing special.
+Lolo Bertins BBQ,Davao City,Barbecue,89.75,9,807.75,Marikina,In-House Delivery,Credit Card,3.5,2024-06-22,2024-06-27,"Food was decent, but arrived lukewarm."
+Mamas Pancit Hub,Lucena,Filipino,94.63,3,283.89,Biñan,GrabFood,Cash on Delivery,4.0,2024-02-02,2024-02-07,Food arrived hot and fresh. Love it!
+Manang Celys Lutong Bahay,Quezon City,Filipino,210.31,1,210.31,Calamba,Angkas,ShopeePay,5.0,2024-06-10,2024-06-12,Great portions and very tasty.
+Tokyo Bites,Makati,Japanese,166.48,4,665.92,Makati,In-House Delivery,Cash on Delivery,2.4,2024-05-26,2024-05-28,Too salty. Won't order again.
+Aling Nenas Carinderia,Cebu City,Filipino,211.88,7,1483.16,Biñan,Angkas,Cash on Delivery,4.4,2024-07-23,2024-07-28,Food arrived hot and fresh. Love it!
+La Parilla Mexicana,Taguig,Mexican,273.02,6,1638.12,Pasig,In-House Delivery,Credit Card,2.6,2024-09-22,2024-09-24,Order was wrong. Very disappointing.
+Burger Republic,Pasig,Burgers,246.64,3,739.92,Bacoor,GrabFood,GCash,3.5,2024-10-06,2024-10-08,Average experience. Nothing special.
+Mamas Pancit Hub,Lucena,Filipino,116.17,8,929.36,San Pedro,Foodpanda,Bank Transfer,4.8,2024-11-04,2024-11-09,Great portions and very tasty.
+Seoul Corner,Bonifacio,Korean,289.91,6,1739.46,Caloocan,In-House Delivery,GCash,4.0,2024-11-10,2024-11-13,Sulit na sulit! Will order again.
+Mamas Pancit Hub,Lucena,Filipino,181.13,6,1086.78,Marikina,GrabFood,Maya,3.0,2024-09-19,2024-09-24,Okay lang. Might try other options next time.
+Mamas Pancit Hub,Lucena,Filipino,208.45,1,208.45,Las Piñas,In-House Delivery,Cash on Delivery,3.3,2024-03-05,2024-03-05,Average experience. Nothing special.
+Burger Republic,Pasig,Burgers,336.86,1,336.86,Biñan,Lalamove,Cash on Delivery,4.4,2024-11-05,2024-11-06,Great portions and very tasty.
+The Seafood Shack,Batangas,Seafood,238.44,3,715.32,Dasmariñas,Lalamove,Bank Transfer,3.3,2024-09-28,2024-09-30,Average experience. Nothing special.
+Dragon Palace,Binondo,Chinese,388.16,1,388.16,Calamba,Angkas,ShopeePay,4.1,2024-04-05,2024-04-08,Sulit na sulit! Will order again.
+Tokyo Bites,Makati,Japanese,498.73,8,3989.84,Antipolo,In-House Delivery,Credit Card,3.9,2024-04-19,2024-04-23,Taste is okay. Delivery was a bit slow.
+Aling Nenas Carinderia,Cebu City,Filipino,85.79,2,171.58,Biñan,GrabFood,Bank Transfer,3.4,2024-08-19,2024-08-20,Average experience. Nothing special.
+Mamas Pancit Hub,Lucena,Filipino,126.01,2,252.02,Antipolo,Lalamove,Maya,5.0,2024-10-08,2024-10-12,Highly recommended. Worth every peso.
+Spice Garden,Pampanga,Indian,359.65,3,1078.95,Las Piñas,GrabFood,Maya,4.4,2024-07-04,2024-07-08,Perfect for the whole family.
+Lolo Bertins BBQ,Davao City,Barbecue,132.08,8,1056.64,Pila,Borzo,Cash on Delivery,2.3,2024-01-14,2024-01-16,Delivery took way too long.
+The Seafood Shack,Batangas,Seafood,691.51,3,2074.53,Pasig,Lalamove,Credit Card,4.0,2024-11-09,2024-11-09,Highly recommended. Worth every peso.
+Spice Garden,Pampanga,Indian,234.03,7,1638.21,Pasig,Foodpanda,Cash on Delivery,3.4,2024-07-28,2024-08-01,Good food but packaging could be better.
+La Parilla Mexicana,Taguig,Mexican,216.46,9,1948.14,Pila,In-House Delivery,ShopeePay,4.6,2024-06-25,2024-06-26,Food arrived hot and fresh. Love it!
+The Seafood Shack,Batangas,Seafood,683.13,7,4781.91,Taguig,Borzo,Maya,3.3,2024-09-14,2024-09-14,Average experience. Nothing special.
+Lolo Bertins BBQ,Davao City,Barbecue,115.63,4,462.52,Antipolo,GrabFood,Cash on Delivery,3.8,2024-06-26,2024-06-30,Taste is okay. Delivery was a bit slow.
+Mamas Pancit Hub,Lucena,Filipino,241.71,5,1208.55,Antipolo,Borzo,ShopeePay,4.3,2024-03-05,2024-03-10,Sulit na sulit! Will order again.
+Pita & More,Mandaluyong,Middle Eastern,331.53,10,3315.3,Marikina,In-House Delivery,ShopeePay,4.6,2024-10-24,2024-10-25,Highly recommended. Worth every peso.
+Tita Belens Halo-Halo,Iloilo City,Desserts,140.77,10,1407.7,Pasig,GrabFood,Bank Transfer,2.9,2024-01-22,2024-01-22,Missing items in my order.
+Tokyo Bites,Makati,Japanese,443.01,10,4430.1,Quezon City,Angkas,Bank Transfer,3.6,2024-08-01,2024-08-05,Okay lang. Might try other options next time.
+Tokyo Bites,Makati,Japanese,438.86,5,2194.3,Dasmariñas,Lalamove,Credit Card,3.5,2024-09-04,2024-09-05,Good food but packaging could be better.
+Spice Garden,Pampanga,Indian,116.78,8,934.24,Biñan,Foodpanda,Cash on Delivery,3.4,2024-07-31,2024-08-03,Okay lang. Might try other options next time.
+Lolo Bertins BBQ,Davao City,Barbecue,148.77,6,892.62,Mandaluyong,Lalamove,ShopeePay,5.0,2024-06-25,2024-06-28,Fast delivery and delicious food!
+Aling Nenas Carinderia,Cebu City,Filipino,120.63,8,965.04,Biñan,Foodpanda,Maya,4.2,2024-03-03,2024-03-05,Sulit na sulit! Will order again.
+Manang Celys Lutong Bahay,Quezon City,Filipino,115.14,7,805.98,Las Piñas,Foodpanda,Cash on Delivery,2.9,2024-11-11,2024-11-14,Missing items in my order.
+Spice Garden,Pampanga,Indian,187.56,3,562.68,Biñan,Angkas,Cash on Delivery,4.6,2024-09-12,2024-09-16,Great portions and very tasty.
+Manang Celys Lutong Bahay,Quezon City,Filipino,77.11,7,539.77,Las Piñas,Foodpanda,ShopeePay,5.0,2024-09-15,2024-09-18,Ang sarap! My new go-to stall.
+Manang Celys Lutong Bahay,Quezon City,Filipino,69.6,8,556.8,Santa Rosa,Lalamove,ShopeePay,4.7,2024-11-01,2024-11-06,Sulit na sulit! Will order again.
+GreenBowl,Muntinlupa,Vegan,101.5,3,304.5,Imus,Angkas,Cash on Delivery,2.7,2024-05-15,2024-05-20,Order was wrong. Very disappointing.
+Burger Republic,Pasig,Burgers,103.3,9,929.7,Pila,Lalamove,GCash,3.5,2024-04-09,2024-04-11,"Food was decent, but arrived lukewarm."
+Pita & More,Mandaluyong,Middle Eastern,268.62,9,2417.58,Muntinlupa,GrabFood,Maya,4.9,2024-05-23,2024-05-27,Sulit na sulit! Will order again.
+Burger Republic,Pasig,Burgers,187.03,6,1122.18,Mandaluyong,Foodpanda,ShopeePay,3.3,2024-10-12,2024-10-14,Okay lang. Might try other options next time.
+Burger Republic,Pasig,Burgers,220.02,1,220.02,Bacoor,Angkas,ShopeePay,4.3,2024-01-20,2024-01-21,Great portions and very tasty.
+Lolo Bertins BBQ,Davao City,Barbecue,213.38,9,1920.42,Muntinlupa,Lalamove,Maya,4.5,2024-03-12,2024-03-14,Great portions and very tasty.
+Pizzeria Napoli,San Juan,Italian,445.73,5,2228.65,Calamba,Borzo,ShopeePay,3.2,2024-10-30,2024-11-01,"Food was decent, but arrived lukewarm."
+Spice Garden,Pampanga,Indian,257.62,8,2060.96,Bacoor,In-House Delivery,GCash,3.9,2024-01-09,2024-01-11,"Food was decent, but arrived lukewarm."
+Pizzeria Napoli,San Juan,Italian,273.07,1,273.07,Caloocan,In-House Delivery,ShopeePay,1.3,2024-11-01,2024-11-04,Missing items in my order.
+Dragon Palace,Binondo,Chinese,316.42,10,3164.2,Calamba,In-House Delivery,Bank Transfer,3.1,2024-09-02,2024-09-03,Okay lang. Might try other options next time.
+The Seafood Shack,Batangas,Seafood,620.58,3,1861.74,Makati,Borzo,Bank Transfer,3.7,2024-12-14,2024-12-15,Good food but packaging could be better.
+Dragon Palace,Binondo,Chinese,105.68,6,634.08,San Pedro,In-House Delivery,Maya,2.9,2024-08-02,2024-08-03,Delivery took way too long.
+Pita & More,Mandaluyong,Middle Eastern,375.74,8,3005.92,Mandaluyong,Borzo,Maya,5.0,2024-02-01,2024-02-06,Fast delivery and delicious food!
+Seoul Corner,Bonifacio,Korean,499.29,8,3994.32,Bacoor,Foodpanda,Credit Card,2.8,2024-09-26,2024-09-29,Missing items in my order.
+Seoul Corner,Bonifacio,Korean,327.58,5,1637.9,Parañaque,Foodpanda,Cash on Delivery,3.5,2024-11-08,2024-11-11,Okay lang. Might try other options next time.
+Tokyo Bites,Makati,Japanese,251.19,5,1255.95,Parañaque,In-House Delivery,Bank Transfer,4.0,2024-05-27,2024-06-01,Great portions and very tasty.
+Seoul Corner,Bonifacio,Korean,302.33,9,2720.97,Taguig,Borzo,Bank Transfer,5.0,2024-05-20,2024-05-22,Fast delivery and delicious food!
+Burger Republic,Pasig,Burgers,322.9,7,2260.3,Antipolo,GrabFood,Cash on Delivery,2.8,2024-06-25,2024-06-26,Order was wrong. Very disappointing.
+Seoul Corner,Bonifacio,Korean,471.12,5,2355.6,Parañaque,Borzo,Cash on Delivery,4.8,2024-09-02,2024-09-03,Fast delivery and delicious food!
+Spice Garden,Pampanga,Indian,176.05,2,352.1,Los Baños,Foodpanda,Maya,3.9,2024-11-11,2024-11-16,Good food but packaging could be better.
+Mamas Pancit Hub,Lucena,Filipino,231.98,4,927.92,Makati,GrabFood,Credit Card,3.1,2024-11-22,2024-11-23,Average experience. Nothing special.
+Spice Garden,Pampanga,Indian,232.27,3,696.81,Marikina,Angkas,Bank Transfer,4.3,2024-01-03,2024-01-07,Great portions and very tasty.
+La Parilla Mexicana,Taguig,Mexican,262.63,5,1313.15,Makati,GrabFood,Bank Transfer,4.1,2024-06-13,2024-06-15,Fast delivery and delicious food!
+Dragon Palace,Binondo,Chinese,260.55,1,260.55,Marikina,GrabFood,Credit Card,3.4,2024-03-30,2024-04-02,"Food was decent, but arrived lukewarm."
+Lolo Bertins BBQ,Davao City,Barbecue,286.05,5,1430.25,Antipolo,Borzo,ShopeePay,4.0,2024-01-20,2024-01-20,Sulit na sulit! Will order again.
+Tita Belens Halo-Halo,Iloilo City,Desserts,197.45,5,987.25,Pila,Borzo,Credit Card,3.6,2024-08-20,2024-08-25,Taste is okay. Delivery was a bit slow.
+GreenBowl,Muntinlupa,Vegan,180.84,5,904.2,Bacoor,Foodpanda,Bank Transfer,4.0,2024-04-08,2024-04-08,Great portions and very tasty.
+Mamas Pancit Hub,Lucena,Filipino,108.88,3,326.64,Bacoor,Lalamove,ShopeePay,4.4,2024-01-08,2024-01-13,Highly recommended. Worth every peso.
+The Seafood Shack,Batangas,Seafood,296.58,10,2965.8,San Pedro,Borzo,Cash on Delivery,5.0,2024-11-23,2024-11-26,Sulit na sulit! Will order again.
+Burger Republic,Pasig,Burgers,264.01,3,792.03,Bacoor,Foodpanda,GCash,2.9,2024-03-12,2024-03-15,Too salty. Won't order again.
+Burger Republic,Pasig,Burgers,151.24,5,756.2,Los Baños,In-House Delivery,ShopeePay,5.0,2024-06-17,2024-06-19,Sulit na sulit! Will order again.
+Tokyo Bites,Makati,Japanese,444.16,4,1776.64,Taguig,Angkas,Cash on Delivery,2.3,2024-02-01,2024-02-06,Food was cold on arrival. Not acceptable.
+Burger Republic,Pasig,Burgers,268.38,5,1341.9,Antipolo,Lalamove,ShopeePay,3.8,2024-12-19,2024-12-19,Taste is okay. Delivery was a bit slow.
+Dragon Palace,Binondo,Chinese,387.21,8,3097.68,Muntinlupa,Lalamove,Credit Card,4.4,2024-03-19,2024-03-22,Highly recommended. Worth every peso.
+Pita & More,Mandaluyong,Middle Eastern,421.22,9,3790.98,Las Piñas,In-House Delivery,ShopeePay,4.1,2024-12-06,2024-12-07,Perfect for the whole family.
+The Seafood Shack,Batangas,Seafood,240.94,8,1927.52,Imus,GrabFood,ShopeePay,3.4,2024-09-27,2024-10-02,Good food but packaging could be better.
+Manang Celys Lutong Bahay,Quezon City,Filipino,217.47,9,1957.23,Pila,Foodpanda,Maya,3.7,2024-04-13,2024-04-17,Average experience. Nothing special.
+GreenBowl,Muntinlupa,Vegan,184.07,2,368.14,Los Baños,Angkas,GCash,3.5,2024-12-14,2024-12-15,Okay lang. Might try other options next time.
+La Parilla Mexicana,Taguig,Mexican,302.17,8,2417.36,San Pedro,Angkas,ShopeePay,3.4,2024-03-08,2024-03-12,Good food but packaging could be better.
+Pita & More,Mandaluyong,Middle Eastern,272.58,5,1362.9,Caloocan,GrabFood,Bank Transfer,4.6,2024-01-12,2024-01-15,Food arrived hot and fresh. Love it!
+Pizzeria Napoli,San Juan,Italian,179.21,7,1254.47,Pasig,Borzo,GCash,4.2,2024-06-25,2024-06-30,Sulit na sulit! Will order again.
+Tita Belens Halo-Halo,Iloilo City,Desserts,120.81,5,604.05,Mandaluyong,In-House Delivery,Bank Transfer,3.3,2024-07-28,2024-07-29,"Food was decent, but arrived lukewarm."
+Seoul Corner,Bonifacio,Korean,497.29,7,3481.03,Dasmariñas,GrabFood,Bank Transfer,4.6,2024-08-17,2024-08-20,Highly recommended. Worth every peso.
+GreenBowl,Muntinlupa,Vegan,187.86,6,1127.16,Pila,Angkas,ShopeePay,4.1,2024-03-01,2024-03-02,Food arrived hot and fresh. Love it!
+Spice Garden,Pampanga,Indian,374.04,1,374.04,Biñan,In-House Delivery,Bank Transfer,4.6,2024-01-12,2024-01-14,Fast delivery and delicious food!
+Burger Republic,Pasig,Burgers,228.3,4,913.2,Imus,Foodpanda,Cash on Delivery,4.4,2024-05-06,2024-05-09,Food arrived hot and fresh. Love it!
+Tita Belens Halo-Halo,Iloilo City,Desserts,181.28,2,362.56,San Pedro,Borzo,GCash,3.2,2024-01-17,2024-01-22,Taste is okay. Delivery was a bit slow.
+Dragon Palace,Binondo,Chinese,120.19,10,1201.9,Muntinlupa,In-House Delivery,Bank Transfer,3.5,2024-01-18,2024-01-21,Good food but packaging could be better.
+Dragon Palace,Binondo,Chinese,322.16,7,2255.12,Pila,Foodpanda,GCash,4.5,2024-08-12,2024-08-13,Food arrived hot and fresh. Love it!
+Pita & More,Mandaluyong,Middle Eastern,447.85,4,1791.4,Los Baños,Borzo,Bank Transfer,4.4,2024-10-21,2024-10-23,Perfect for the whole family.
+Seoul Corner,Bonifacio,Korean,210.02,3,630.06,Las Piñas,Angkas,Cash on Delivery,3.9,2024-12-04,2024-12-08,Average experience. Nothing special.
+Manang Celys Lutong Bahay,Quezon City,Filipino,165.78,10,1657.8,San Pedro,Borzo,Credit Card,4.0,2024-03-30,2024-04-04,Sulit na sulit! Will order again.
+Seoul Corner,Bonifacio,Korean,477.8,7,3344.6,San Pedro,Angkas,Maya,4.9,2024-09-25,2024-09-27,Ang sarap! My new go-to stall.
+Burger Republic,Pasig,Burgers,137.81,9,1240.29,Las Piñas,Lalamove,Bank Transfer,3.4,2024-08-30,2024-08-31,Taste is okay. Delivery was a bit slow.
+The Seafood Shack,Batangas,Seafood,431.51,1,431.51,San Pedro,Borzo,ShopeePay,4.3,2024-10-14,2024-10-17,Food arrived hot and fresh. Love it!
+Burger Republic,Pasig,Burgers,153.14,4,612.56,Pasig,Angkas,Cash on Delivery,3.7,2024-06-18,2024-06-23,Good food but packaging could be better.
+Pita & More,Mandaluyong,Middle Eastern,359.11,4,1436.44,Dasmariñas,In-House Delivery,ShopeePay,3.7,2024-01-27,2024-01-29,Okay lang. Might try other options next time.
+Manang Celys Lutong Bahay,Quezon City,Filipino,225.99,4,903.96,Pila,Foodpanda,Credit Card,4.8,2024-10-27,2024-11-01,Food arrived hot and fresh. Love it!
+GreenBowl,Muntinlupa,Vegan,261.41,5,1307.05,Parañaque,In-House Delivery,GCash,4.6,2024-01-08,2024-01-09,Highly recommended. Worth every peso.
+The Seafood Shack,Batangas,Seafood,439.46,4,1757.84,Parañaque,Angkas,Maya,4.6,2024-12-22,2024-12-26,Fast delivery and delicious food!
+Seoul Corner,Bonifacio,Korean,414.7,7,2902.9,Imus,Lalamove,Cash on Delivery,4.9,2024-08-26,2024-08-30,Ang sarap! My new go-to stall.
+Pita & More,Mandaluyong,Middle Eastern,411.33,8,3290.64,Santa Rosa,Lalamove,Maya,3.9,2024-02-20,2024-02-25,Average experience. Nothing special.
+Seoul Corner,Bonifacio,Korean,277.29,10,2772.9,Mandaluyong,GrabFood,Cash on Delivery,4.4,2024-04-23,2024-04-28,Fast delivery and delicious food!
+Tita Belens Halo-Halo,Iloilo City,Desserts,137.6,7,963.2,Parañaque,Lalamove,Maya,3.7,2024-05-31,2024-06-01,"Food was decent, but arrived lukewarm."
+Pizzeria Napoli,San Juan,Italian,483.35,8,3866.8,Bacoor,Lalamove,Credit Card,4.2,2024-10-08,2024-10-13,Highly recommended. Worth every peso.
+Mamas Pancit Hub,Lucena,Filipino,200.52,8,1604.16,Imus,Foodpanda,Maya,3.8,2024-03-27,2024-04-01,Okay lang. Might try other options next time.
+La Parilla Mexicana,Taguig,Mexican,146.01,9,1314.09,Calamba,GrabFood,GCash,4.0,2024-11-24,2024-11-24,Perfect for the whole family.
+Mamas Pancit Hub,Lucena,Filipino,69.22,1,69.22,Las Piñas,GrabFood,Bank Transfer,4.4,2024-07-30,2024-07-31,Food arrived hot and fresh. Love it!
+Manang Celys Lutong Bahay,Quezon City,Filipino,101.56,8,812.48,Muntinlupa,In-House Delivery,Bank Transfer,3.2,2024-07-10,2024-07-10,Okay lang. Might try other options next time.
+Tita Belens Halo-Halo,Iloilo City,Desserts,122.48,8,979.84,Pila,Borzo,Credit Card,5.0,2024-01-09,2024-01-09,Sulit na sulit! Will order again.
+Manang Celys Lutong Bahay,Quezon City,Filipino,160.59,5,802.95,Quezon City,Borzo,Bank Transfer,3.1,2024-10-01,2024-10-03,"Food was decent, but arrived lukewarm."
+The Seafood Shack,Batangas,Seafood,669.86,3,2009.58,Calamba,Foodpanda,Maya,2.9,2024-02-24,2024-02-24,Food was cold on arrival. Not acceptable.
+Pizzeria Napoli,San Juan,Italian,360.58,6,2163.48,Pasig,Lalamove,Credit Card,4.8,2024-05-16,2024-05-19,Great portions and very tasty.
+Pizzeria Napoli,San Juan,Italian,247.28,4,989.12,Pasig,In-House Delivery,Bank Transfer,4.5,2024-06-02,2024-06-07,Perfect for the whole family.
+Manang Celys Lutong Bahay,Quezon City,Filipino,77.77,7,544.39,Santa Rosa,GrabFood,Bank Transfer,4.4,2024-07-12,2024-07-16,Sulit na sulit! Will order again.
+Spice Garden,Pampanga,Indian,147.99,8,1183.92,Bacoor,Borzo,GCash,4.4,2024-08-10,2024-08-15,Fast delivery and delicious food!
+Tita Belens Halo-Halo,Iloilo City,Desserts,56.38,4,225.52,Santa Rosa,Lalamove,GCash,3.9,2024-12-20,2024-12-24,Good food but packaging could be better.
+Mamas Pancit Hub,Lucena,Filipino,235.86,9,2122.74,Makati,Foodpanda,Cash on Delivery,3.2,2024-10-15,2024-10-20,Good food but packaging could be better.
+Dragon Palace,Binondo,Chinese,276.11,7,1932.77,Marikina,Borzo,Maya,4.0,2024-02-09,2024-02-11,Fast delivery and delicious food!
+GreenBowl,Muntinlupa,Vegan,249.89,9,2249.01,Mandaluyong,In-House Delivery,Bank Transfer,3.4,2024-06-18,2024-06-21,Good food but packaging could be better.
+Pita & More,Mandaluyong,Middle Eastern,366.0,6,2196.0,San Pedro,Foodpanda,GCash,4.7,2024-01-28,2024-01-28,Ang sarap! My new go-to stall.
+Pizzeria Napoli,San Juan,Italian,457.6,10,4576.0,Quezon City,In-House Delivery,Cash on Delivery,3.8,2024-07-22,2024-07-24,"Food was decent, but arrived lukewarm."
+La Parilla Mexicana,Taguig,Mexican,157.03,9,1413.27,Marikina,In-House Delivery,ShopeePay,3.2,2024-07-11,2024-07-14,"Food was decent, but arrived lukewarm."
+Aling Nenas Carinderia,Cebu City,Filipino,206.71,5,1033.55,Pasig,GrabFood,Cash on Delivery,3.6,2024-05-06,2024-05-11,Taste is okay. Delivery was a bit slow.
+Burger Republic,Pasig,Burgers,275.04,3,825.12,Imus,GrabFood,GCash,4.2,2024-07-18,2024-07-20,Sulit na sulit! Will order again.
+Tokyo Bites,Makati,Japanese,350.13,5,1750.65,Pasig,Foodpanda,Credit Card,3.4,2024-02-22,2024-02-23,"Food was decent, but arrived lukewarm."
+Pita & More,Mandaluyong,Middle Eastern,303.06,7,2121.42,Pasig,Lalamove,ShopeePay,3.2,2024-02-22,2024-02-22,Good food but packaging could be better.
+Pizzeria Napoli,San Juan,Italian,389.22,6,2335.32,Antipolo,Angkas,Credit Card,4.1,2024-07-16,2024-07-16,Perfect for the whole family.
+Aling Nenas Carinderia,Cebu City,Filipino,197.72,9,1779.48,Calamba,Foodpanda,Bank Transfer,4.1,2024-05-04,2024-05-08,Great portions and very tasty.
+Lolo Bertins BBQ,Davao City,Barbecue,110.54,5,552.7,Mandaluyong,GrabFood,Maya,3.5,2024-05-17,2024-05-20,"Food was decent, but arrived lukewarm."
+Tokyo Bites,Makati,Japanese,339.5,8,2716.0,Caloocan,Foodpanda,Bank Transfer,3.5,2024-02-09,2024-02-11,"Food was decent, but arrived lukewarm."
+Pizzeria Napoli,San Juan,Italian,396.67,8,3173.36,Antipolo,GrabFood,Credit Card,4.1,2024-02-24,2024-02-25,Ang sarap! My new go-to stall.
+GreenBowl,Muntinlupa,Vegan,204.04,6,1224.24,San Pedro,In-House Delivery,ShopeePay,2.7,2024-08-13,2024-08-15,Food was cold on arrival. Not acceptable.
+Tokyo Bites,Makati,Japanese,294.3,4,1177.2,Marikina,Angkas,Cash on Delivery,2.8,2024-09-02,2024-09-04,Too salty. Won't order again.
+Spice Garden,Pampanga,Indian,294.59,8,2356.72,Bacoor,Angkas,Cash on Delivery,3.3,2024-10-21,2024-10-22,"Food was decent, but arrived lukewarm."
+Seoul Corner,Bonifacio,Korean,163.28,10,1632.8,Pila,Foodpanda,Bank Transfer,3.7,2024-04-12,2024-04-16,Okay lang. Might try other options next time.
+Manang Celys Lutong Bahay,Quezon City,Filipino,241.07,8,1928.56,Biñan,Lalamove,Bank Transfer,4.1,2024-12-28,2024-12-29,Sulit na sulit! Will order again.
+GreenBowl,Muntinlupa,Vegan,249.56,7,1746.92,Mandaluyong,In-House Delivery,Cash on Delivery,5.0,2024-12-10,2024-12-13,Food arrived hot and fresh. Love it!
+Tokyo Bites,Makati,Japanese,446.4,7,3124.8,Biñan,Borzo,Credit Card,4.6,2024-07-12,2024-07-12,Fast delivery and delicious food!
+Burger Republic,Pasig,Burgers,228.94,7,1602.58,Imus,In-House Delivery,ShopeePay,3.8,2024-10-05,2024-10-05,Okay lang. Might try other options next time.
+Mamas Pancit Hub,Lucena,Filipino,233.74,2,467.48,Imus,Foodpanda,Bank Transfer,3.9,2024-05-07,2024-05-12,Okay lang. Might try other options next time.
+Manang Celys Lutong Bahay,Quezon City,Filipino,167.01,7,1169.07,Taguig,GrabFood,GCash,3.1,2024-06-18,2024-06-21,Average experience. Nothing special.
+Dragon Palace,Binondo,Chinese,253.2,9,2278.8,Los Baños,Foodpanda,Credit Card,3.9,2024-10-12,2024-10-16,Average experience. Nothing special.
+Burger Republic,Pasig,Burgers,210.4,10,2104.0,Mandaluyong,Lalamove,GCash,3.7,2024-12-19,2024-12-23,"Food was decent, but arrived lukewarm."
+Aling Nenas Carinderia,Cebu City,Filipino,116.13,2,232.26,Mandaluyong,Lalamove,Cash on Delivery,4.2,2024-02-29,2024-03-05,Ang sarap! My new go-to stall.
+La Parilla Mexicana,Taguig,Mexican,296.07,9,2664.63,Santa Rosa,GrabFood,Credit Card,3.2,2024-09-04,2024-09-06,"Food was decent, but arrived lukewarm."
+Seoul Corner,Bonifacio,Korean,145.53,1,145.53,Quezon City,Lalamove,Bank Transfer,4.3,2024-12-29,2024-12-29,Sulit na sulit! Will order again.
+Mamas Pancit Hub,Lucena,Filipino,212.01,4,848.04,Pila,Foodpanda,Cash on Delivery,5.0,2024-09-21,2024-09-22,Fast delivery and delicious food!
+Burger Republic,Pasig,Burgers,339.2,4,1356.8,Marikina,Foodpanda,Bank Transfer,3.8,2024-07-26,2024-07-31,"Food was decent, but arrived lukewarm."
+Burger Republic,Pasig,Burgers,97.59,10,975.9,Los Baños,Angkas,Credit Card,4.2,2024-04-11,2024-04-14,Sulit na sulit! Will order again.
+Spice Garden,Pampanga,Indian,160.14,5,800.7,Los Baños,GrabFood,ShopeePay,4.5,2024-12-26,2024-12-26,Food arrived hot and fresh. Love it!
+Seoul Corner,Bonifacio,Korean,243.87,8,1950.96,Santa Rosa,Borzo,Bank Transfer,3.6,2024-02-28,2024-03-01,Average experience. Nothing special.
+Pizzeria Napoli,San Juan,Italian,305.46,7,2138.22,Imus,Lalamove,Credit Card,4.1,2024-10-27,2024-10-27,Fast delivery and delicious food!
+Lolo Bertins BBQ,Davao City,Barbecue,259.02,5,1295.1,Pasig,In-House Delivery,Maya,3.9,2024-11-10,2024-11-14,Average experience. Nothing special.
+Aling Nenas Carinderia,Cebu City,Filipino,105.33,2,210.66,Mandaluyong,Borzo,Credit Card,4.0,2024-04-03,2024-04-05,Great portions and very tasty.
+Pizzeria Napoli,San Juan,Italian,205.15,7,1436.05,Santa Rosa,In-House Delivery,ShopeePay,3.3,2024-08-04,2024-08-05,Taste is okay. Delivery was a bit slow.
+Pita & More,Mandaluyong,Middle Eastern,175.07,5,875.35,Bacoor,Angkas,ShopeePay,3.9,2024-03-12,2024-03-13,Good food but packaging could be better.
+GreenBowl,Muntinlupa,Vegan,151.81,1,151.81,Parañaque,Angkas,ShopeePay,4.3,2024-09-05,2024-09-06,Fast delivery and delicious food!
+Mamas Pancit Hub,Lucena,Filipino,154.04,8,1232.32,Biñan,Angkas,Maya,5.0,2024-07-31,2024-08-05,Sulit na sulit! Will order again.
+Pizzeria Napoli,San Juan,Italian,162.34,4,649.36,Caloocan,Foodpanda,ShopeePay,4.7,2024-05-29,2024-05-29,Ang sarap! My new go-to stall.
+Lolo Bertins BBQ,Davao City,Barbecue,251.76,10,2517.6,Calamba,GrabFood,ShopeePay,5.0,2024-09-10,2024-09-14,Sulit na sulit! Will order again.
+Tokyo Bites,Makati,Japanese,498.8,6,2992.8,Biñan,Borzo,Maya,3.3,2024-10-04,2024-10-04,"Food was decent, but arrived lukewarm."
+Aling Nenas Carinderia,Cebu City,Filipino,199.84,4,799.36,Biñan,Lalamove,Cash on Delivery,4.6,2024-06-01,2024-06-01,Perfect for the whole family.
+GreenBowl,Muntinlupa,Vegan,97.4,2,194.8,Los Baños,In-House Delivery,Cash on Delivery,4.0,2024-05-01,2024-05-02,Perfect for the whole family.
+Spice Garden,Pampanga,Indian,270.87,7,1896.09,Mandaluyong,Foodpanda,Maya,5.0,2024-03-25,2024-03-29,Perfect for the whole family.
+Manang Celys Lutong Bahay,Quezon City,Filipino,168.31,9,1514.79,Pila,Foodpanda,Cash on Delivery,3.3,2024-05-23,2024-05-27,Average experience. Nothing special.
+Tokyo Bites,Makati,Japanese,407.73,9,3669.57,Mandaluyong,Angkas,GCash,3.2,2024-12-13,2024-12-13,Average experience. Nothing special.
+GreenBowl,Muntinlupa,Vegan,211.18,3,633.54,Bacoor,Foodpanda,Bank Transfer,3.4,2024-05-07,2024-05-08,"Food was decent, but arrived lukewarm."
+La Parilla Mexicana,Taguig,Mexican,135.54,5,677.7,Dasmariñas,Angkas,GCash,2.2,2024-11-17,2024-11-20,Order was wrong. Very disappointing.
+Burger Republic,Pasig,Burgers,224.06,5,1120.3,Biñan,Angkas,Cash on Delivery,3.5,2024-12-21,2024-12-23,Okay lang. Might try other options next time.
+Manang Celys Lutong Bahay,Quezon City,Filipino,225.09,2,450.18,Imus,GrabFood,ShopeePay,3.3,2024-08-22,2024-08-27,"Food was decent, but arrived lukewarm."
+Dragon Palace,Binondo,Chinese,390.44,4,1561.76,Bacoor,Lalamove,Cash on Delivery,4.0,2024-09-10,2024-09-12,Fast delivery and delicious food!
+Pizzeria Napoli,San Juan,Italian,202.24,8,1617.92,Makati,GrabFood,GCash,4.2,2024-06-24,2024-06-29,Highly recommended. Worth every peso.
+The Seafood Shack,Batangas,Seafood,618.35,1,618.35,Biñan,Angkas,GCash,5.0,2024-03-04,2024-03-05,Great portions and very tasty.
+Dragon Palace,Binondo,Chinese,398.71,3,1196.13,Marikina,Lalamove,GCash,4.7,2024-11-28,2024-11-30,Highly recommended. Worth every peso.
+Seoul Corner,Bonifacio,Korean,215.15,6,1290.9,Marikina,GrabFood,Credit Card,3.4,2024-12-06,2024-12-11,Average experience. Nothing special.
+Spice Garden,Pampanga,Indian,295.84,4,1183.36,Pasig,In-House Delivery,GCash,3.2,2024-08-07,2024-08-12,Good food but packaging could be better.
+Dragon Palace,Binondo,Chinese,243.04,3,729.12,Calamba,In-House Delivery,Credit Card,4.3,2024-10-30,2024-10-31,Sulit na sulit! Will order again.
+Manang Celys Lutong Bahay,Quezon City,Filipino,192.16,2,384.32,Mandaluyong,Angkas,GCash,2.8,2024-08-04,2024-08-09,Food was cold on arrival. Not acceptable.
+Burger Republic,Pasig,Burgers,113.23,2,226.46,Imus,Lalamove,Maya,5.0,2024-02-22,2024-02-24,Great portions and very tasty.
+The Seafood Shack,Batangas,Seafood,606.68,3,1820.04,Mandaluyong,GrabFood,ShopeePay,4.8,2024-11-24,2024-11-29,Fast delivery and delicious food!
+Manang Celys Lutong Bahay,Quezon City,Filipino,175.96,3,527.88,Parañaque,In-House Delivery,Bank Transfer,3.5,2024-08-13,2024-08-15,Taste is okay. Delivery was a bit slow.
+Tita Belens Halo-Halo,Iloilo City,Desserts,111.76,8,894.08,Taguig,Foodpanda,GCash,2.5,2024-04-21,2024-04-21,Missing items in my order.
+Spice Garden,Pampanga,Indian,207.53,7,1452.71,Las Piñas,Lalamove,Bank Transfer,5.0,2024-06-10,2024-06-11,Sulit na sulit! Will order again.
+Dragon Palace,Binondo,Chinese,266.02,10,2660.2,Quezon City,In-House Delivery,Cash on Delivery,3.8,2024-11-07,2024-11-09,Taste is okay. Delivery was a bit slow.
+Pita & More,Mandaluyong,Middle Eastern,320.29,4,1281.16,Makati,Foodpanda,Credit Card,4.9,2024-07-19,2024-07-21,Great portions and very tasty.
+Aling Nenas Carinderia,Cebu City,Filipino,105.81,10,1058.1,Quezon City,Lalamove,Cash on Delivery,2.6,2024-02-06,2024-02-10,Food was cold on arrival. Not acceptable.
+Burger Republic,Pasig,Burgers,313.81,10,3138.1,Pila,In-House Delivery,Maya,3.4,2024-08-03,2024-08-05,"Food was decent, but arrived lukewarm."
+The Seafood Shack,Batangas,Seafood,236.5,10,2365.0,Caloocan,Foodpanda,GCash,3.9,2024-02-04,2024-02-04,Good food but packaging could be better.
+The Seafood Shack,Batangas,Seafood,398.99,5,1994.95,Calamba,Angkas,Credit Card,3.9,2024-11-17,2024-11-22,"Food was decent, but arrived lukewarm."
+Aling Nenas Carinderia,Cebu City,Filipino,181.7,9,1635.3,Caloocan,GrabFood,Cash on Delivery,3.5,2024-11-11,2024-11-12,Good food but packaging could be better.
+Pita & More,Mandaluyong,Middle Eastern,423.91,3,1271.73,Dasmariñas,Borzo,Bank Transfer,4.4,2024-10-01,2024-10-03,Perfect for the whole family.
+GreenBowl,Muntinlupa,Vegan,209.97,2,419.94,San Pedro,In-House Delivery,Maya,3.0,2024-06-07,2024-06-12,Good food but packaging could be better.
+Dragon Palace,Binondo,Chinese,125.86,7,881.02,Muntinlupa,Borzo,GCash,3.8,2024-02-29,2024-03-03,Average experience. Nothing special.
+Mamas Pancit Hub,Lucena,Filipino,200.92,3,602.76,Mandaluyong,In-House Delivery,GCash,4.0,2024-03-02,2024-03-02,Food arrived hot and fresh. Love it!
+La Parilla Mexicana,Taguig,Mexican,338.25,9,3044.25,Caloocan,Foodpanda,Cash on Delivery,4.3,2024-09-21,2024-09-26,Food arrived hot and fresh. Love it!
+Spice Garden,Pampanga,Indian,318.71,5,1593.55,Bacoor,Angkas,Cash on Delivery,4.5,2024-03-01,2024-03-01,Fast delivery and delicious food!
+Aling Nenas Carinderia,Cebu City,Filipino,109.96,10,1099.6,Santa Rosa,Angkas,ShopeePay,3.0,2024-11-17,2024-11-17,Average experience. Nothing special.
+Manang Celys Lutong Bahay,Quezon City,Filipino,154.93,10,1549.3,Marikina,Lalamove,GCash,2.7,2024-03-26,2024-03-28,Missing items in my order.
+Mamas Pancit Hub,Lucena,Filipino,197.33,4,789.32,Makati,GrabFood,Maya,4.9,2024-09-17,2024-09-17,Sulit na sulit! Will order again.
+La Parilla Mexicana,Taguig,Mexican,190.99,3,572.97,Pila,In-House Delivery,Bank Transfer,4.2,2024-04-01,2024-04-01,Highly recommended. Worth every peso.
+Burger Republic,Pasig,Burgers,148.37,4,593.48,Bacoor,Lalamove,GCash,3.3,2024-08-01,2024-08-06,Okay lang. Might try other options next time.
+Seoul Corner,Bonifacio,Korean,165.37,1,165.37,Calamba,GrabFood,Credit Card,5.0,2024-04-01,2024-04-02,Sulit na sulit! Will order again.
+Tita Belens Halo-Halo,Iloilo City,Desserts,119.76,5,598.8,Pasig,Borzo,Credit Card,4.0,2024-06-08,2024-06-10,Sulit na sulit! Will order again.
+Seoul Corner,Bonifacio,Korean,196.26,10,1962.6,Muntinlupa,Foodpanda,Credit Card,4.8,2024-06-04,2024-06-09,Ang sarap! My new go-to stall.
+Pizzeria Napoli,San Juan,Italian,538.74,4,2154.96,Mandaluyong,GrabFood,Credit Card,4.0,2024-10-06,2024-10-07,Sulit na sulit! Will order again.
+Dragon Palace,Binondo,Chinese,262.46,1,262.46,Dasmariñas,In-House Delivery,Bank Transfer,5.0,2024-06-20,2024-06-20,Ang sarap! My new go-to stall.
+Aling Nenas Carinderia,Cebu City,Filipino,98.99,4,395.96,Makati,Foodpanda,Bank Transfer,5.0,2024-08-02,2024-08-05,Ang sarap! My new go-to stall.
+Aling Nenas Carinderia,Cebu City,Filipino,68.34,4,273.36,Imus,Angkas,Bank Transfer,3.7,2024-09-23,2024-09-26,Good food but packaging could be better.
+Pizzeria Napoli,San Juan,Italian,188.23,3,564.69,Pasig,Borzo,ShopeePay,4.7,2024-11-22,2024-11-25,Sulit na sulit! Will order again.
+Burger Republic,Pasig,Burgers,262.24,3,786.72,Caloocan,Lalamove,Credit Card,4.4,2024-05-01,2024-05-03,Highly recommended. Worth every peso.
+GreenBowl,Muntinlupa,Vegan,227.07,6,1362.42,Las Piñas,GrabFood,Maya,5.0,2024-08-19,2024-08-21,Food arrived hot and fresh. Love it!
+The Seafood Shack,Batangas,Seafood,585.07,2,1170.14,Marikina,Angkas,Credit Card,3.1,2024-03-20,2024-03-20,Average experience. Nothing special.
+Burger Republic,Pasig,Burgers,121.39,6,728.34,Antipolo,Angkas,Cash on Delivery,4.4,2024-04-16,2024-04-19,Perfect for the whole family.
+Aling Nenas Carinderia,Cebu City,Filipino,77.18,5,385.9,Muntinlupa,GrabFood,Maya,4.7,2024-12-26,2024-12-31,Perfect for the whole family.
+GreenBowl,Muntinlupa,Vegan,145.56,2,291.12,Imus,Angkas,ShopeePay,2.5,2024-12-30,2024-12-31,Order was wrong. Very disappointing.
+Mamas Pancit Hub,Lucena,Filipino,116.78,3,350.34,Biñan,Borzo,Bank Transfer,3.0,2024-01-16,2024-01-19,Okay lang. Might try other options next time.
+Dragon Palace,Binondo,Chinese,128.42,2,256.84,Quezon City,GrabFood,Maya,2.3,2024-03-12,2024-03-12,Food was cold on arrival. Not acceptable.
+Dragon Palace,Binondo,Chinese,347.1,6,2082.6,Pasig,Borzo,ShopeePay,3.7,2024-12-17,2024-12-22,Average experience. Nothing special.
+Tita Belens Halo-Halo,Iloilo City,Desserts,171.91,1,171.91,Biñan,Foodpanda,GCash,4.5,2024-02-03,2024-02-04,Perfect for the whole family.
+GreenBowl,Muntinlupa,Vegan,241.78,2,483.56,Makati,Foodpanda,ShopeePay,5.0,2024-01-22,2024-01-25,Great portions and very tasty.
+GreenBowl,Muntinlupa,Vegan,224.89,8,1799.12,San Pedro,Foodpanda,Cash on Delivery,4.0,2024-01-16,2024-01-19,Food arrived hot and fresh. Love it!
+Tita Belens Halo-Halo,Iloilo City,Desserts,78.07,5,390.35,Makati,Borzo,ShopeePay,5.0,2024-08-16,2024-08-17,Fast delivery and delicious food!
+Dragon Palace,Binondo,Chinese,294.18,8,2353.44,Santa Rosa,GrabFood,GCash,2.8,2024-07-29,2024-08-02,Too salty. Won't order again.
+Burger Republic,Pasig,Burgers,125.68,4,502.72,Las Piñas,In-House Delivery,ShopeePay,2.5,2024-11-25,2024-11-29,Order was wrong. Very disappointing.
+Burger Republic,Pasig,Burgers,293.3,6,1759.8,Santa Rosa,Lalamove,ShopeePay,3.9,2024-09-02,2024-09-06,Okay lang. Might try other options next time.
+Seoul Corner,Bonifacio,Korean,267.58,3,802.74,Muntinlupa,Foodpanda,GCash,4.2,2024-01-14,2024-01-16,Perfect for the whole family.
+The Seafood Shack,Batangas,Seafood,340.47,8,2723.76,Los Baños,Foodpanda,Maya,3.9,2024-09-28,2024-09-30,Good food but packaging could be better.
+Dragon Palace,Binondo,Chinese,297.06,5,1485.3,Makati,Foodpanda,ShopeePay,2.2,2024-09-30,2024-10-05,Delivery took way too long.
+Seoul Corner,Bonifacio,Korean,475.38,3,1426.14,Los Baños,Lalamove,Bank Transfer,3.8,2024-03-31,2024-04-01,Average experience. Nothing special.
+Tita Belens Halo-Halo,Iloilo City,Desserts,138.73,6,832.38,Mandaluyong,Borzo,Maya,2.9,2024-10-17,2024-10-21,Delivery took way too long.
+Pita & More,Mandaluyong,Middle Eastern,221.99,8,1775.92,Makati,Foodpanda,ShopeePay,4.4,2024-01-20,2024-01-20,Food arrived hot and fresh. Love it!
+Manang Celys Lutong Bahay,Quezon City,Filipino,160.03,1,160.03,Parañaque,Foodpanda,Cash on Delivery,4.2,2024-06-18,2024-06-22,Highly recommended. Worth every peso.
+Lolo Bertins BBQ,Davao City,Barbecue,282.13,6,1692.78,Mandaluyong,Borzo,Bank Transfer,3.1,2024-01-31,2024-01-31,Taste is okay. Delivery was a bit slow.
+The Seafood Shack,Batangas,Seafood,255.46,9,2299.14,Imus,In-House Delivery,Bank Transfer,3.5,2024-07-05,2024-07-05,"Food was decent, but arrived lukewarm."
+Pizzeria Napoli,San Juan,Italian,190.41,5,952.05,Marikina,In-House Delivery,Credit Card,3.1,2024-06-14,2024-06-15,"Food was decent, but arrived lukewarm."
+Mamas Pancit Hub,Lucena,Filipino,120.28,9,1082.52,Imus,Foodpanda,Bank Transfer,3.8,2024-12-21,2024-12-25,Okay lang. Might try other options next time.
+GreenBowl,Muntinlupa,Vegan,115.07,5,575.35,Mandaluyong,Foodpanda,Bank Transfer,4.7,2024-12-18,2024-12-20,Sulit na sulit! Will order again.
+Spice Garden,Pampanga,Indian,365.64,7,2559.48,Marikina,Borzo,Cash on Delivery,3.1,2024-10-17,2024-10-17,Okay lang. Might try other options next time.
+Dragon Palace,Binondo,Chinese,291.89,2,583.78,Bacoor,In-House Delivery,GCash,4.3,2024-09-11,2024-09-12,Food arrived hot and fresh. Love it!
+Seoul Corner,Bonifacio,Korean,493.3,3,1479.9,Bacoor,Angkas,GCash,3.5,2024-11-21,2024-11-21,Average experience. Nothing special.
+Dragon Palace,Binondo,Chinese,174.86,2,349.72,Taguig,In-House Delivery,GCash,3.3,2024-06-28,2024-06-30,Good food but packaging could be better.
+Burger Republic,Pasig,Burgers,203.94,7,1427.58,Santa Rosa,Angkas,Cash on Delivery,3.8,2024-03-26,2024-03-29,Okay lang. Might try other options next time.
+Burger Republic,Pasig,Burgers,116.37,8,930.96,Las Piñas,Foodpanda,Credit Card,3.1,2024-10-22,2024-10-27,Good food but packaging could be better.
+The Seafood Shack,Batangas,Seafood,622.88,5,3114.4,Caloocan,GrabFood,GCash,3.5,2024-01-11,2024-01-13,Average experience. Nothing special.
+Lolo Bertins BBQ,Davao City,Barbecue,275.34,3,826.02,Pasig,Lalamove,ShopeePay,2.9,2024-02-08,2024-02-12,Missing items in my order.
+Tita Belens Halo-Halo,Iloilo City,Desserts,122.41,1,122.41,Marikina,Borzo,Credit Card,5.0,2024-08-08,2024-08-13,Food arrived hot and fresh. Love it!
+Manang Celys Lutong Bahay,Quezon City,Filipino,79.24,4,316.96,Pila,In-House Delivery,Bank Transfer,3.9,2024-04-07,2024-04-10,Okay lang. Might try other options next time.
+Tokyo Bites,Makati,Japanese,447.27,5,2236.35,Makati,Angkas,ShopeePay,3.3,2024-05-01,2024-05-01,Okay lang. Might try other options next time.
+GreenBowl,Muntinlupa,Vegan,178.19,1,178.19,San Pedro,GrabFood,Cash on Delivery,4.1,2024-07-03,2024-07-03,Perfect for the whole family.
+Mamas Pancit Hub,Lucena,Filipino,178.77,8,1430.16,Quezon City,Foodpanda,Maya,3.8,2024-04-12,2024-04-12,Average experience. Nothing special.
+Aling Nenas Carinderia,Cebu City,Filipino,149.98,2,299.96,Santa Rosa,Angkas,Bank Transfer,3.7,2024-06-06,2024-06-09,Average experience. Nothing special.
+Aling Nenas Carinderia,Cebu City,Filipino,181.95,7,1273.65,Dasmariñas,Lalamove,Maya,4.4,2024-04-04,2024-04-06,Great portions and very tasty.
+Manang Celys Lutong Bahay,Quezon City,Filipino,110.03,8,880.24,Caloocan,Borzo,GCash,4.5,2024-05-14,2024-05-15,Food arrived hot and fresh. Love it!
+The Seafood Shack,Batangas,Seafood,548.24,2,1096.48,Imus,Borzo,Credit Card,3.5,2024-02-13,2024-02-18,Okay lang. Might try other options next time.
+Dragon Palace,Binondo,Chinese,266.08,7,1862.56,Pila,In-House Delivery,Credit Card,3.4,2024-09-24,2024-09-27,Okay lang. Might try other options next time.
+Tita Belens Halo-Halo,Iloilo City,Desserts,85.35,5,426.75,Makati,Borzo,ShopeePay,3.7,2024-02-10,2024-02-13,Okay lang. Might try other options next time.
+The Seafood Shack,Batangas,Seafood,485.74,10,4857.4,Biñan,Foodpanda,Maya,2.1,2024-03-16,2024-03-16,Food was cold on arrival. Not acceptable.
+The Seafood Shack,Batangas,Seafood,296.36,1,296.36,San Pedro,Foodpanda,Bank Transfer,2.7,2024-08-04,2024-08-04,Food was cold on arrival. Not acceptable.
+GreenBowl,Muntinlupa,Vegan,199.01,6,1194.06,Dasmariñas,Borzo,Credit Card,5.0,2024-02-04,2024-02-04,Fast delivery and delicious food!
+Seoul Corner,Bonifacio,Korean,445.52,9,4009.68,Muntinlupa,Borzo,ShopeePay,5.0,2024-08-22,2024-08-22,Perfect for the whole family.
+Burger Republic,Pasig,Burgers,119.25,3,357.75,Los Baños,Borzo,GCash,3.7,2024-03-16,2024-03-20,Good food but packaging could be better.
+Pizzeria Napoli,San Juan,Italian,461.82,5,2309.1,San Pedro,Lalamove,Credit Card,4.4,2024-10-01,2024-10-03,Highly recommended. Worth every peso.
+La Parilla Mexicana,Taguig,Mexican,243.01,8,1944.08,Caloocan,Angkas,Maya,4.1,2024-01-20,2024-01-21,Fast delivery and delicious food!
+Pizzeria Napoli,San Juan,Italian,422.33,7,2956.31,Bacoor,In-House Delivery,Maya,5.0,2024-01-20,2024-01-23,Sulit na sulit! Will order again.
+Spice Garden,Pampanga,Indian,233.06,5,1165.3,Bacoor,Lalamove,Cash on Delivery,4.8,2024-07-09,2024-07-09,Ang sarap! My new go-to stall.
+GreenBowl,Muntinlupa,Vegan,178.32,2,356.64,Antipolo,In-House Delivery,Credit Card,3.8,2024-04-26,2024-04-27,Average experience. Nothing special.
+Tokyo Bites,Makati,Japanese,477.96,10,4779.6,Parañaque,Angkas,Maya,3.1,2024-11-26,2024-11-26,"Food was decent, but arrived lukewarm."
+Spice Garden,Pampanga,Indian,235.65,9,2120.85,Calamba,Foodpanda,GCash,2.6,2024-07-10,2024-07-10,Too salty. Won't order again.
+Spice Garden,Pampanga,Indian,241.9,3,725.7,Quezon City,Foodpanda,Maya,4.1,2024-09-25,2024-09-29,Perfect for the whole family.
+Dragon Palace,Binondo,Chinese,351.09,4,1404.36,Makati,Lalamove,Bank Transfer,3.3,2024-01-17,2024-01-20,Taste is okay. Delivery was a bit slow.
+Tokyo Bites,Makati,Japanese,315.76,8,2526.08,Taguig,In-House Delivery,GCash,2.8,2024-09-15,2024-09-18,Food was cold on arrival. Not acceptable.
+Seoul Corner,Bonifacio,Korean,305.74,8,2445.92,Los Baños,Borzo,Cash on Delivery,3.4,2024-03-31,2024-04-03,Average experience. Nothing special.
+Lolo Bertins BBQ,Davao City,Barbecue,264.28,5,1321.4,Antipolo,GrabFood,Credit Card,3.0,2024-12-18,2024-12-18,Good food but packaging could be better.
+Lolo Bertins BBQ,Davao City,Barbecue,267.84,4,1071.36,Las Piñas,In-House Delivery,Maya,5.0,2024-04-23,2024-04-28,Ang sarap! My new go-to stall.
+Mamas Pancit Hub,Lucena,Filipino,137.81,1,137.81,Santa Rosa,Foodpanda,Bank Transfer,4.6,2024-12-15,2024-12-15,Food arrived hot and fresh. Love it!
+Pizzeria Napoli,San Juan,Italian,470.35,4,1881.4,Antipolo,In-House Delivery,Bank Transfer,3.9,2024-05-09,2024-05-13,Average experience. Nothing special.
+Burger Republic,Pasig,Burgers,322.83,6,1936.98,Parañaque,Angkas,Cash on Delivery,5.0,2024-08-23,2024-08-25,Highly recommended. Worth every peso.
+Pita & More,Mandaluyong,Middle Eastern,392.02,7,2744.14,Quezon City,Borzo,Bank Transfer,4.0,2024-10-26,2024-10-26,Perfect for the whole family.
+GreenBowl,Muntinlupa,Vegan,154.85,10,1548.5,Antipolo,In-House Delivery,GCash,3.2,2024-11-07,2024-11-09,"Food was decent, but arrived lukewarm."
+Aling Nenas Carinderia,Cebu City,Filipino,123.89,5,619.45,Caloocan,Lalamove,Bank Transfer,5.0,2024-11-23,2024-11-25,Highly recommended. Worth every peso.
+Tita Belens Halo-Halo,Iloilo City,Desserts,147.72,4,590.88,Las Piñas,GrabFood,ShopeePay,4.3,2024-03-17,2024-03-21,Great portions and very tasty.
+Mamas Pancit Hub,Lucena,Filipino,120.72,3,362.16,Santa Rosa,Lalamove,Cash on Delivery,3.1,2024-01-14,2024-01-19,"Food was decent, but arrived lukewarm."
+Burger Republic,Pasig,Burgers,190.95,1,190.95,Los Baños,Foodpanda,Cash on Delivery,3.7,2024-10-25,2024-10-30,Taste is okay. Delivery was a bit slow.
+Mamas Pancit Hub,Lucena,Filipino,161.58,8,1292.64,Calamba,Lalamove,Maya,3.2,2024-12-09,2024-12-11,Okay lang. Might try other options next time.
+Lolo Bertins BBQ,Davao City,Barbecue,144.63,8,1157.04,Caloocan,In-House Delivery,ShopeePay,2.8,2024-03-06,2024-03-11,Food was cold on arrival. Not acceptable.
+Mamas Pancit Hub,Lucena,Filipino,230.92,2,461.84,Las Piñas,In-House Delivery,Cash on Delivery,4.6,2024-04-23,2024-04-25,Great portions and very tasty.
+The Seafood Shack,Batangas,Seafood,643.42,6,3860.52,Antipolo,Angkas,GCash,5.0,2024-05-13,2024-05-17,Great portions and very tasty.
+Manang Celys Lutong Bahay,Quezon City,Filipino,224.61,10,2246.1,Pasig,Angkas,Maya,2.8,2024-10-24,2024-10-28,Missing items in my order.
+Aling Nenas Carinderia,Cebu City,Filipino,224.82,7,1573.74,San Pedro,GrabFood,Maya,4.4,2024-09-28,2024-09-30,Food arrived hot and fresh. Love it!
+Dragon Palace,Binondo,Chinese,202.8,10,2028.0,Bacoor,In-House Delivery,Maya,3.4,2024-08-22,2024-08-23,Good food but packaging could be better.
+La Parilla Mexicana,Taguig,Mexican,183.16,3,549.48,Makati,GrabFood,Credit Card,3.5,2024-06-09,2024-06-14,Average experience. Nothing special.
+Dragon Palace,Binondo,Chinese,328.36,3,985.08,Santa Rosa,GrabFood,Maya,3.4,2024-10-22,2024-10-23,Okay lang. Might try other options next time.
+Burger Republic,Pasig,Burgers,254.71,7,1782.97,Dasmariñas,GrabFood,GCash,3.2,2024-08-07,2024-08-10,Okay lang. Might try other options next time.
+Dragon Palace,Binondo,Chinese,319.2,1,319.2,Parañaque,GrabFood,Bank Transfer,3.9,2024-06-13,2024-06-17,Good food but packaging could be better.
+Mamas Pancit Hub,Lucena,Filipino,199.38,4,797.52,Antipolo,Foodpanda,GCash,3.2,2024-12-21,2024-12-23,"Food was decent, but arrived lukewarm."
+Pita & More,Mandaluyong,Middle Eastern,314.26,3,942.78,Antipolo,Lalamove,Credit Card,4.1,2024-02-03,2024-02-03,Highly recommended. Worth every peso.
+Pita & More,Mandaluyong,Middle Eastern,316.8,6,1900.8,Mandaluyong,Lalamove,Credit Card,3.9,2024-08-10,2024-08-15,Average experience. Nothing special.
+The Seafood Shack,Batangas,Seafood,294.21,7,2059.47,Las Piñas,In-House Delivery,Maya,3.7,2024-01-10,2024-01-11,Taste is okay. Delivery was a bit slow.
+Spice Garden,Pampanga,Indian,106.14,9,955.26,Imus,In-House Delivery,Bank Transfer,3.2,2024-03-27,2024-03-27,Good food but packaging could be better.
+Burger Republic,Pasig,Burgers,317.9,5,1589.5,Makati,Borzo,GCash,3.4,2024-09-30,2024-10-04,Good food but packaging could be better.
+Mamas Pancit Hub,Lucena,Filipino,218.86,1,218.86,San Pedro,Angkas,Credit Card,4.5,2024-12-19,2024-12-19,Sulit na sulit! Will order again.
+Pita & More,Mandaluyong,Middle Eastern,203.4,3,610.2,Quezon City,Lalamove,Credit Card,4.3,2024-04-15,2024-04-20,Highly recommended. Worth every peso.
+Aling Nenas Carinderia,Cebu City,Filipino,185.87,5,929.35,Mandaluyong,Angkas,GCash,3.1,2024-11-14,2024-11-18,Okay lang. Might try other options next time.
+Spice Garden,Pampanga,Indian,272.96,5,1364.8,Santa Rosa,Foodpanda,ShopeePay,4.0,2024-02-28,2024-02-28,Food arrived hot and fresh. Love it!
+The Seafood Shack,Batangas,Seafood,331.5,9,2983.5,San Pedro,Lalamove,Maya,4.5,2024-04-13,2024-04-15,Sulit na sulit! Will order again.
+Pita & More,Mandaluyong,Middle Eastern,283.8,4,1135.2,Bacoor,Foodpanda,GCash,2.6,2024-12-18,2024-12-21,Order was wrong. Very disappointing.
+Mamas Pancit Hub,Lucena,Filipino,76.91,2,153.82,Santa Rosa,Foodpanda,GCash,4.3,2024-10-20,2024-10-25,Perfect for the whole family.
+Pita & More,Mandaluyong,Middle Eastern,144.77,2,289.54,Las Piñas,Angkas,Cash on Delivery,3.4,2024-05-11,2024-05-16,Average experience. Nothing special.
+La Parilla Mexicana,Taguig,Mexican,112.52,3,337.56,Imus,In-House Delivery,Cash on Delivery,4.4,2024-01-21,2024-01-23,Great portions and very tasty.
+Spice Garden,Pampanga,Indian,132.45,1,132.45,Marikina,Lalamove,Cash on Delivery,3.3,2024-01-05,2024-01-06,"Food was decent, but arrived lukewarm."
+Pizzeria Napoli,San Juan,Italian,257.32,2,514.64,Marikina,GrabFood,Credit Card,2.5,2024-07-09,2024-07-11,Delivery took way too long.
+La Parilla Mexicana,Taguig,Mexican,167.96,7,1175.72,San Pedro,In-House Delivery,Maya,2.6,2024-12-19,2024-12-22,Order was wrong. Very disappointing.
+Lolo Bertins BBQ,Davao City,Barbecue,233.16,1,233.16,San Pedro,Borzo,Credit Card,3.9,2024-03-22,2024-03-22,Okay lang. Might try other options next time.
+Mamas Pancit Hub,Lucena,Filipino,143.25,10,1432.5,Muntinlupa,GrabFood,Bank Transfer,4.1,2024-07-13,2024-07-15,Perfect for the whole family.
+Spice Garden,Pampanga,Indian,372.56,3,1117.68,Taguig,Angkas,Credit Card,3.2,2024-09-04,2024-09-07,Good food but packaging could be better.
+Aling Nenas Carinderia,Cebu City,Filipino,109.71,6,658.26,Calamba,In-House Delivery,ShopeePay,4.4,2024-01-07,2024-01-12,Highly recommended. Worth every peso.
+Pizzeria Napoli,San Juan,Italian,239.59,6,1437.54,Muntinlupa,GrabFood,Credit Card,2.6,2024-09-22,2024-09-26,Food was cold on arrival. Not acceptable.
+La Parilla Mexicana,Taguig,Mexican,186.44,7,1305.08,Muntinlupa,GrabFood,GCash,3.8,2024-03-17,2024-03-21,Taste is okay. Delivery was a bit slow.
+Pita & More,Mandaluyong,Middle Eastern,400.12,8,3200.96,Santa Rosa,Lalamove,Maya,2.9,2024-03-25,2024-03-25,Too salty. Won't order again.
+Tokyo Bites,Makati,Japanese,172.66,4,690.64,Dasmariñas,Angkas,Maya,3.4,2024-10-08,2024-10-13,Good food but packaging could be better.
+La Parilla Mexicana,Taguig,Mexican,211.05,10,2110.5,Santa Rosa,Angkas,Cash on Delivery,3.9,2024-08-17,2024-08-17,Good food but packaging could be better.
+La Parilla Mexicana,Taguig,Mexican,286.31,1,286.31,San Pedro,GrabFood,ShopeePay,3.2,2024-02-22,2024-02-25,Okay lang. Might try other options next time.
+Manang Celys Lutong Bahay,Quezon City,Filipino,216.92,10,2169.2,Antipolo,Borzo,ShopeePay,3.6,2024-11-12,2024-11-17,Taste is okay. Delivery was a bit slow.
+Mamas Pancit Hub,Lucena,Filipino,187.58,6,1125.48,Las Piñas,Angkas,Cash on Delivery,4.7,2024-07-05,2024-07-05,Fast delivery and delicious food!
+The Seafood Shack,Batangas,Seafood,509.88,8,4079.04,Biñan,GrabFood,GCash,3.4,2024-12-02,2024-12-04,Taste is okay. Delivery was a bit slow.
+Manang Celys Lutong Bahay,Quezon City,Filipino,124.86,5,624.3,Imus,In-House Delivery,GCash,4.6,2024-10-07,2024-10-11,Sulit na sulit! Will order again.
+Tita Belens Halo-Halo,Iloilo City,Desserts,74.62,3,223.86,Caloocan,Borzo,Maya,3.0,2024-07-28,2024-07-28,Taste is okay. Delivery was a bit slow.
+Aling Nenas Carinderia,Cebu City,Filipino,236.74,7,1657.18,Parañaque,In-House Delivery,Cash on Delivery,4.3,2024-04-20,2024-04-23,Sulit na sulit! Will order again.
+The Seafood Shack,Batangas,Seafood,407.24,10,4072.4,Biñan,In-House Delivery,ShopeePay,5.0,2024-03-04,2024-03-07,Fast delivery and delicious food!
+Lolo Bertins BBQ,Davao City,Barbecue,292.05,1,292.05,Makati,Borzo,Credit Card,1.9,2024-09-28,2024-10-03,Missing items in my order.
+La Parilla Mexicana,Taguig,Mexican,331.09,3,993.27,Marikina,In-House Delivery,Maya,3.3,2024-12-20,2024-12-24,Good food but packaging could be better.
+Burger Republic,Pasig,Burgers,260.96,10,2609.6,Dasmariñas,Angkas,ShopeePay,4.4,2024-06-13,2024-06-17,Highly recommended. Worth every peso.
+The Seafood Shack,Batangas,Seafood,324.12,7,2268.84,Biñan,Foodpanda,Maya,3.7,2024-06-24,2024-06-26,"Food was decent, but arrived lukewarm."
+Pizzeria Napoli,San Juan,Italian,430.01,9,3870.09,Pila,Lalamove,Bank Transfer,4.2,2024-06-02,2024-06-07,Highly recommended. Worth every peso.
+Tita Belens Halo-Halo,Iloilo City,Desserts,133.04,4,532.16,Muntinlupa,In-House Delivery,Cash on Delivery,3.4,2024-04-12,2024-04-13,Average experience. Nothing special.
+Tita Belens Halo-Halo,Iloilo City,Desserts,150.86,3,452.58,Bacoor,In-House Delivery,GCash,4.0,2024-09-14,2024-09-18,Perfect for the whole family.
+Seoul Corner,Bonifacio,Korean,333.67,10,3336.7,San Pedro,In-House Delivery,Bank Transfer,3.8,2024-10-19,2024-10-24,Okay lang. Might try other options next time.
+Tokyo Bites,Makati,Japanese,544.86,7,3814.02,Taguig,GrabFood,Credit Card,4.8,2024-01-07,2024-01-11,Food arrived hot and fresh. Love it!
+Manang Celys Lutong Bahay,Quezon City,Filipino,187.35,4,749.4,Antipolo,In-House Delivery,Cash on Delivery,4.1,2024-05-16,2024-05-17,Food arrived hot and fresh. Love it!
+GreenBowl,Muntinlupa,Vegan,92.41,5,462.05,Makati,Lalamove,Credit Card,4.2,2024-04-14,2024-04-18,Sulit na sulit! Will order again.
+Pizzeria Napoli,San Juan,Italian,497.21,9,4474.89,Pila,Angkas,Maya,3.6,2024-04-24,2024-04-29,Okay lang. Might try other options next time.
+The Seafood Shack,Batangas,Seafood,598.42,5,2992.1,Makati,Angkas,Credit Card,3.5,2024-12-20,2024-12-25,"Food was decent, but arrived lukewarm."
+The Seafood Shack,Batangas,Seafood,687.91,6,4127.46,Quezon City,In-House Delivery,Cash on Delivery,3.6,2024-10-09,2024-10-09,Taste is okay. Delivery was a bit slow.
+Pizzeria Napoli,San Juan,Italian,497.54,8,3980.32,Imus,Borzo,ShopeePay,4.2,2024-04-25,2024-04-30,Highly recommended. Worth every peso.
+Pizzeria Napoli,San Juan,Italian,228.59,4,914.36,Marikina,In-House Delivery,GCash,3.6,2024-05-30,2024-06-02,Taste is okay. Delivery was a bit slow.
+Lolo Bertins BBQ,Davao City,Barbecue,241.72,2,483.44,San Pedro,Lalamove,ShopeePay,4.1,2024-07-12,2024-07-12,Ang sarap! My new go-to stall.
+Lolo Bertins BBQ,Davao City,Barbecue,115.4,5,577.0,Biñan,In-House Delivery,Maya,5.0,2024-01-03,2024-01-05,Sulit na sulit! Will order again.
+Lolo Bertins BBQ,Davao City,Barbecue,284.3,10,2843.0,Muntinlupa,In-House Delivery,Cash on Delivery,4.6,2024-01-27,2024-02-01,Great portions and very tasty.
+The Seafood Shack,Batangas,Seafood,486.34,6,2918.04,Bacoor,Borzo,Maya,3.6,2024-02-07,2024-02-12,Taste is okay. Delivery was a bit slow.
+Pita & More,Mandaluyong,Middle Eastern,142.5,9,1282.5,Pila,Borzo,Credit Card,4.9,2024-03-22,2024-03-25,Sulit na sulit! Will order again.
+Seoul Corner,Bonifacio,Korean,204.06,4,816.24,Bacoor,Lalamove,Cash on Delivery,3.6,2024-12-05,2024-12-07,Taste is okay. Delivery was a bit slow.
+The Seafood Shack,Batangas,Seafood,509.14,8,4073.12,Quezon City,GrabFood,Bank Transfer,2.3,2024-10-14,2024-10-19,Too salty. Won't order again.
+La Parilla Mexicana,Taguig,Mexican,160.09,10,1600.9,Makati,In-House Delivery,Cash on Delivery,3.1,2024-11-14,2024-11-15,"Food was decent, but arrived lukewarm."
+Tita Belens Halo-Halo,Iloilo City,Desserts,169.43,2,338.86,Pila,In-House Delivery,Cash on Delivery,2.4,2024-07-16,2024-07-18,Order was wrong. Very disappointing.
+Tita Belens Halo-Halo,Iloilo City,Desserts,127.53,6,765.18,Biñan,Angkas,GCash,3.6,2024-09-20,2024-09-24,Average experience. Nothing special.
+Tita Belens Halo-Halo,Iloilo City,Desserts,147.73,6,886.38,Taguig,Foodpanda,ShopeePay,3.9,2024-09-20,2024-09-20,Okay lang. Might try other options next time.
+Manang Celys Lutong Bahay,Quezon City,Filipino,179.12,4,716.48,Parañaque,In-House Delivery,Credit Card,5.0,2024-12-09,2024-12-14,Perfect for the whole family.
+Aling Nenas Carinderia,Cebu City,Filipino,99.06,7,693.42,Mandaluyong,GrabFood,Credit Card,4.2,2024-11-27,2024-11-27,Highly recommended. Worth every peso.
+Seoul Corner,Bonifacio,Korean,134.4,2,268.8,Caloocan,Borzo,GCash,3.7,2024-01-28,2024-01-29,Okay lang. Might try other options next time.
+GreenBowl,Muntinlupa,Vegan,125.53,5,627.65,Biñan,In-House Delivery,Credit Card,4.6,2024-07-27,2024-07-30,Great portions and very tasty.
+Seoul Corner,Bonifacio,Korean,126.42,2,252.84,Muntinlupa,GrabFood,Bank Transfer,2.1,2024-09-30,2024-09-30,Missing items in my order.
+Manang Celys Lutong Bahay,Quezon City,Filipino,193.17,2,386.34,Taguig,Lalamove,Bank Transfer,4.1,2024-07-02,2024-07-06,Ang sarap! My new go-to stall.
+Pizzeria Napoli,San Juan,Italian,184.6,8,1476.8,Quezon City,Angkas,Maya,4.5,2024-07-14,2024-07-17,Fast delivery and delicious food!
+Dragon Palace,Binondo,Chinese,140.91,7,986.37,Mandaluyong,Lalamove,Bank Transfer,2.7,2024-10-06,2024-10-08,Too salty. Won't order again.
+Manang Celys Lutong Bahay,Quezon City,Filipino,165.17,9,1486.53,Makati,GrabFood,ShopeePay,4.8,2024-03-13,2024-03-13,Fast delivery and delicious food!
+Burger Republic,Pasig,Burgers,229.66,2,459.32,Imus,Foodpanda,Credit Card,4.2,2024-06-05,2024-06-06,Highly recommended. Worth every peso.
+GreenBowl,Muntinlupa,Vegan,182.51,3,547.53,Muntinlupa,Lalamove,Maya,3.6,2024-04-04,2024-04-05,Good food but packaging could be better.
+Lolo Bertins BBQ,Davao City,Barbecue,227.62,10,2276.2,Biñan,In-House Delivery,ShopeePay,4.4,2024-01-28,2024-02-01,Sulit na sulit! Will order again.
+Tokyo Bites,Makati,Japanese,452.26,5,2261.3,Los Baños,Angkas,Cash on Delivery,5.0,2024-02-20,2024-02-21,Ang sarap! My new go-to stall.
+Lolo Bertins BBQ,Davao City,Barbecue,227.69,4,910.76,Muntinlupa,GrabFood,Maya,4.0,2024-02-21,2024-02-23,Ang sarap! My new go-to stall.
+La Parilla Mexicana,Taguig,Mexican,212.66,10,2126.6,Los Baños,Foodpanda,ShopeePay,4.1,2024-12-03,2024-12-05,Fast delivery and delicious food!
+Seoul Corner,Bonifacio,Korean,426.93,7,2988.51,Bacoor,Foodpanda,Maya,3.5,2024-03-27,2024-03-27,"Food was decent, but arrived lukewarm."
+Tokyo Bites,Makati,Japanese,528.05,3,1584.15,Bacoor,Angkas,Credit Card,3.2,2024-12-13,2024-12-18,"Food was decent, but arrived lukewarm."
+Seoul Corner,Bonifacio,Korean,414.41,8,3315.28,Marikina,In-House Delivery,ShopeePay,4.6,2024-10-09,2024-10-09,Sulit na sulit! Will order again.
+GreenBowl,Muntinlupa,Vegan,136.12,3,408.36,Caloocan,In-House Delivery,Bank Transfer,3.2,2024-10-02,2024-10-03,Good food but packaging could be better.
+Spice Garden,Pampanga,Indian,121.11,1,121.11,Quezon City,Borzo,ShopeePay,4.0,2024-09-16,2024-09-21,Great portions and very tasty.
+The Seafood Shack,Batangas,Seafood,495.02,1,495.02,Pila,Borzo,Credit Card,3.5,2024-10-09,2024-10-11,Taste is okay. Delivery was a bit slow.
+Seoul Corner,Bonifacio,Korean,269.15,10,2691.5,Biñan,Borzo,ShopeePay,4.3,2024-05-28,2024-05-29,Sulit na sulit! Will order again.
+Burger Republic,Pasig,Burgers,184.61,1,184.61,Muntinlupa,In-House Delivery,Maya,4.2,2024-12-05,2024-12-06,Perfect for the whole family.
+Pita & More,Mandaluyong,Middle Eastern,166.32,3,498.96,Los Baños,In-House Delivery,Maya,4.7,2024-04-01,2024-04-05,Highly recommended. Worth every peso.
+Spice Garden,Pampanga,Indian,235.38,6,1412.28,Santa Rosa,Foodpanda,GCash,3.5,2024-01-21,2024-01-22,Average experience. Nothing special.
+Seoul Corner,Bonifacio,Korean,208.93,4,835.72,Dasmariñas,Angkas,Credit Card,3.7,2024-09-22,2024-09-24,Good food but packaging could be better.
+Manang Celys Lutong Bahay,Quezon City,Filipino,246.31,6,1477.86,Calamba,In-House Delivery,Cash on Delivery,3.1,2024-02-22,2024-02-27,Average experience. Nothing special.
+Pizzeria Napoli,San Juan,Italian,367.74,3,1103.22,Dasmariñas,Lalamove,ShopeePay,3.5,2024-07-11,2024-07-16,Good food but packaging could be better.
+Pita & More,Mandaluyong,Middle Eastern,203.02,4,812.08,Imus,Lalamove,Credit Card,4.2,2024-09-21,2024-09-24,Perfect for the whole family.
+La Parilla Mexicana,Taguig,Mexican,321.79,1,321.79,Biñan,Foodpanda,Maya,4.5,2024-09-13,2024-09-14,Sulit na sulit! Will order again.
+Pita & More,Mandaluyong,Middle Eastern,332.35,4,1329.4,Marikina,Lalamove,ShopeePay,3.2,2024-03-17,2024-03-18,Good food but packaging could be better.
+Mamas Pancit Hub,Lucena,Filipino,103.77,6,622.62,Santa Rosa,Angkas,Maya,4.6,2024-02-28,2024-03-02,Fast delivery and delicious food!
+Lolo Bertins BBQ,Davao City,Barbecue,222.4,7,1556.8,Makati,Foodpanda,ShopeePay,5.0,2024-01-12,2024-01-13,Fast delivery and delicious food!
+Lolo Bertins BBQ,Davao City,Barbecue,109.64,9,986.76,Mandaluyong,GrabFood,Maya,4.2,2024-01-21,2024-01-25,Ang sarap! My new go-to stall.
+Tita Belens Halo-Halo,Iloilo City,Desserts,77.01,7,539.07,Quezon City,In-House Delivery,Bank Transfer,5.0,2024-11-02,2024-11-06,Highly recommended. Worth every peso.
+GreenBowl,Muntinlupa,Vegan,136.69,2,273.38,Muntinlupa,Angkas,Credit Card,3.3,2024-04-20,2024-04-23,Taste is okay. Delivery was a bit slow.
+Dragon Palace,Binondo,Chinese,349.11,10,3491.1,Marikina,Borzo,Bank Transfer,2.9,2024-03-14,2024-03-18,Missing items in my order.
+Tokyo Bites,Makati,Japanese,225.47,6,1352.82,Los Baños,GrabFood,Maya,2.5,2024-08-20,2024-08-24,Delivery took way too long.
+Burger Republic,Pasig,Burgers,124.38,1,124.38,Calamba,In-House Delivery,Credit Card,5.0,2024-04-13,2024-04-17,Perfect for the whole family.
+Lolo Bertins BBQ,Davao City,Barbecue,213.21,3,639.63,Muntinlupa,GrabFood,ShopeePay,4.4,2024-08-31,2024-09-04,Fast delivery and delicious food!
+The Seafood Shack,Batangas,Seafood,258.76,8,2070.08,Muntinlupa,Borzo,GCash,3.9,2024-12-03,2024-12-04,"Food was decent, but arrived lukewarm."
+Pita & More,Mandaluyong,Middle Eastern,258.83,1,258.83,San Pedro,Foodpanda,Credit Card,4.1,2024-12-23,2024-12-27,Perfect for the whole family.
+The Seafood Shack,Batangas,Seafood,390.62,10,3906.2,Taguig,Angkas,Maya,3.0,2024-12-22,2024-12-26,Average experience. Nothing special.
+La Parilla Mexicana,Taguig,Mexican,291.46,2,582.92,Pila,Angkas,Cash on Delivery,5.0,2024-05-25,2024-05-29,Food arrived hot and fresh. Love it!
+Manang Celys Lutong Bahay,Quezon City,Filipino,194.74,1,194.74,Taguig,Borzo,GCash,4.0,2024-10-22,2024-10-26,Great portions and very tasty.
+Mamas Pancit Hub,Lucena,Filipino,99.03,6,594.18,Taguig,Foodpanda,Credit Card,4.0,2024-07-28,2024-07-30,Highly recommended. Worth every peso.
+Pizzeria Napoli,San Juan,Italian,251.45,9,2263.05,Imus,Borzo,Cash on Delivery,4.5,2024-08-04,2024-08-08,Highly recommended. Worth every peso.
+Burger Republic,Pasig,Burgers,286.29,7,2004.03,Santa Rosa,Foodpanda,Cash on Delivery,4.3,2024-10-09,2024-10-13,Fast delivery and delicious food!
+Pita & More,Mandaluyong,Middle Eastern,279.64,5,1398.2,Dasmariñas,In-House Delivery,Maya,4.1,2024-10-22,2024-10-24,Perfect for the whole family.
+GreenBowl,Muntinlupa,Vegan,211.86,4,847.44,Marikina,GrabFood,Maya,3.3,2024-08-16,2024-08-21,Okay lang. Might try other options next time.
+Burger Republic,Pasig,Burgers,294.38,9,2649.42,Makati,Foodpanda,Credit Card,4.3,2024-11-10,2024-11-15,Highly recommended. Worth every peso.
+Manang Celys Lutong Bahay,Quezon City,Filipino,212.83,3,638.49,San Pedro,GrabFood,GCash,5.0,2024-08-29,2024-09-02,Ang sarap! My new go-to stall.
+Dragon Palace,Binondo,Chinese,211.25,10,2112.5,Dasmariñas,Angkas,ShopeePay,5.0,2024-01-20,2024-01-25,Highly recommended. Worth every peso.
+Pita & More,Mandaluyong,Middle Eastern,214.53,10,2145.3,Santa Rosa,Angkas,GCash,5.0,2024-01-30,2024-01-31,Food arrived hot and fresh. Love it!
+GreenBowl,Muntinlupa,Vegan,211.38,9,1902.42,Makati,Borzo,ShopeePay,3.5,2024-05-26,2024-05-27,Okay lang. Might try other options next time.
+Spice Garden,Pampanga,Indian,164.87,3,494.61,Imus,Foodpanda,Bank Transfer,3.1,2024-12-11,2024-12-11,Good food but packaging could be better.
+Lolo Bertins BBQ,Davao City,Barbecue,99.11,5,495.55,Dasmariñas,Angkas,ShopeePay,3.8,2024-07-23,2024-07-25,Taste is okay. Delivery was a bit slow.
+Pita & More,Mandaluyong,Middle Eastern,125.07,2,250.14,Antipolo,In-House Delivery,ShopeePay,3.9,2024-02-16,2024-02-20,Okay lang. Might try other options next time.
+Seoul Corner,Bonifacio,Korean,252.04,5,1260.2,Parañaque,Angkas,Credit Card,4.8,2024-04-25,2024-04-29,Fast delivery and delicious food!
+Manang Celys Lutong Bahay,Quezon City,Filipino,109.61,7,767.27,Pila,GrabFood,ShopeePay,2.5,2024-09-16,2024-09-16,Too salty. Won't order again.
+Seoul Corner,Bonifacio,Korean,479.87,9,4318.83,Los Baños,Lalamove,Bank Transfer,5.0,2024-05-11,2024-05-15,Great portions and very tasty.
+Burger Republic,Pasig,Burgers,236.42,4,945.68,Biñan,Borzo,GCash,3.8,2024-06-22,2024-06-25,"Food was decent, but arrived lukewarm."
+Aling Nenas Carinderia,Cebu City,Filipino,108.99,7,762.93,Las Piñas,Lalamove,Credit Card,3.6,2024-11-20,2024-11-21,Average experience. Nothing special.
+Pita & More,Mandaluyong,Middle Eastern,296.77,5,1483.85,Pasig,Angkas,Bank Transfer,3.1,2024-05-07,2024-05-09,Average experience. Nothing special.
+Aling Nenas Carinderia,Cebu City,Filipino,165.36,3,496.08,Imus,Foodpanda,ShopeePay,2.6,2024-08-31,2024-09-02,Too salty. Won't order again.
+Lolo Bertins BBQ,Davao City,Barbecue,288.37,4,1153.48,Parañaque,Foodpanda,Bank Transfer,4.6,2024-09-12,2024-09-17,Food arrived hot and fresh. Love it!
+GreenBowl,Muntinlupa,Vegan,133.08,4,532.32,Muntinlupa,Lalamove,Maya,4.0,2024-04-13,2024-04-14,Perfect for the whole family.
+Aling Nenas Carinderia,Cebu City,Filipino,82.78,2,165.56,Santa Rosa,Borzo,GCash,2.9,2024-12-12,2024-12-17,Missing items in my order.
+Manang Celys Lutong Bahay,Quezon City,Filipino,221.12,6,1326.72,Santa Rosa,Borzo,Cash on Delivery,2.9,2024-11-13,2024-11-15,Delivery took way too long.
+Lolo Bertins BBQ,Davao City,Barbecue,296.57,9,2669.13,Las Piñas,Borzo,Maya,3.6,2024-05-23,2024-05-26,Good food but packaging could be better.
+Pita & More,Mandaluyong,Middle Eastern,383.76,8,3070.08,Calamba,Lalamove,Credit Card,5.0,2024-10-03,2024-10-03,Perfect for the whole family.
+Mamas Pancit Hub,Lucena,Filipino,207.42,8,1659.36,Calamba,Angkas,Cash on Delivery,3.7,2024-03-02,2024-03-07,Good food but packaging could be better.
+Manang Celys Lutong Bahay,Quezon City,Filipino,188.08,7,1316.56,Bacoor,Lalamove,ShopeePay,2.7,2024-10-24,2024-10-24,Too salty. Won't order again.
+Lolo Bertins BBQ,Davao City,Barbecue,200.68,4,802.72,Muntinlupa,Lalamove,Cash on Delivery,3.7,2024-05-17,2024-05-20,Taste is okay. Delivery was a bit slow.
+La Parilla Mexicana,Taguig,Mexican,205.99,7,1441.93,Imus,Angkas,Cash on Delivery,3.7,2024-12-24,2024-12-26,"Food was decent, but arrived lukewarm."
+Lolo Bertins BBQ,Davao City,Barbecue,205.71,10,2057.1,Taguig,In-House Delivery,Cash on Delivery,1.7,2024-12-17,2024-12-18,Food was cold on arrival. Not acceptable.
+Pita & More,Mandaluyong,Middle Eastern,262.63,7,1838.41,Mandaluyong,Angkas,GCash,3.9,2024-04-10,2024-04-11,Taste is okay. Delivery was a bit slow.
+Burger Republic,Pasig,Burgers,219.9,9,1979.1,Bacoor,Angkas,Cash on Delivery,3.7,2024-09-30,2024-10-05,Average experience. Nothing special.
+Pita & More,Mandaluyong,Middle Eastern,403.31,1,403.31,Marikina,GrabFood,Maya,4.5,2024-07-22,2024-07-22,Perfect for the whole family.
+Tokyo Bites,Makati,Japanese,364.44,2,728.88,Bacoor,Lalamove,Cash on Delivery,5.0,2024-08-18,2024-08-23,Ang sarap! My new go-to stall.
+Pita & More,Mandaluyong,Middle Eastern,303.97,5,1519.85,San Pedro,GrabFood,Cash on Delivery,4.8,2024-06-25,2024-06-25,Perfect for the whole family.
+Mamas Pancit Hub,Lucena,Filipino,242.99,4,971.96,Pila,Foodpanda,Cash on Delivery,3.7,2024-10-22,2024-10-26,Average experience. Nothing special.
+Seoul Corner,Bonifacio,Korean,375.81,8,3006.48,Dasmariñas,Borzo,Cash on Delivery,3.0,2024-08-16,2024-08-16,"Food was decent, but arrived lukewarm."
+Mamas Pancit Hub,Lucena,Filipino,241.75,3,725.25,San Pedro,In-House Delivery,ShopeePay,5.0,2024-11-23,2024-11-25,Fast delivery and delicious food!
+Burger Republic,Pasig,Burgers,310.71,2,621.42,Bacoor,Foodpanda,Cash on Delivery,3.9,2024-02-10,2024-02-11,Average experience. Nothing special.
+Mamas Pancit Hub,Lucena,Filipino,115.36,5,576.8,Dasmariñas,Lalamove,Credit Card,3.9,2024-11-05,2024-11-10,Average experience. Nothing special.
+Spice Garden,Pampanga,Indian,264.34,8,2114.72,Marikina,GrabFood,Maya,3.9,2024-07-30,2024-07-31,Taste is okay. Delivery was a bit slow.
+Mamas Pancit Hub,Lucena,Filipino,107.81,2,215.62,Dasmariñas,GrabFood,GCash,4.1,2024-04-17,2024-04-18,Sulit na sulit! Will order again.
+Tita Belens Halo-Halo,Iloilo City,Desserts,181.8,9,1636.2,Dasmariñas,Borzo,GCash,3.8,2024-01-28,2024-01-28,Good food but packaging could be better.
+Tokyo Bites,Makati,Japanese,428.15,2,856.3,Antipolo,Foodpanda,Maya,3.4,2024-12-01,2024-12-04,Average experience. Nothing special.
+La Parilla Mexicana,Taguig,Mexican,256.62,3,769.86,Quezon City,GrabFood,Bank Transfer,3.5,2024-09-26,2024-09-27,Average experience. Nothing special.
+GreenBowl,Muntinlupa,Vegan,263.05,8,2104.4,Caloocan,Borzo,Credit Card,3.9,2024-08-27,2024-08-31,Taste is okay. Delivery was a bit slow.
+Spice Garden,Pampanga,Indian,251.0,10,2510.0,Los Baños,Angkas,ShopeePay,3.5,2024-11-01,2024-11-04,Okay lang. Might try other options next time.
+Tokyo Bites,Makati,Japanese,559.02,8,4472.16,Pasig,Angkas,Cash on Delivery,3.3,2024-10-03,2024-10-04,Average experience. Nothing special.
+Burger Republic,Pasig,Burgers,157.55,5,787.75,Calamba,Foodpanda,Cash on Delivery,4.0,2024-01-06,2024-01-06,Ang sarap! My new go-to stall.
+La Parilla Mexicana,Taguig,Mexican,233.77,8,1870.16,Quezon City,Angkas,Cash on Delivery,3.7,2024-09-01,2024-09-03,Okay lang. Might try other options next time.
+Dragon Palace,Binondo,Chinese,339.03,9,3051.27,San Pedro,Borzo,Credit Card,5.0,2024-07-10,2024-07-11,Great portions and very tasty.
+Dragon Palace,Binondo,Chinese,148.98,7,1042.86,Caloocan,GrabFood,Credit Card,1.8,2024-07-12,2024-07-13,Food was cold on arrival. Not acceptable.
+Pita & More,Mandaluyong,Middle Eastern,372.3,10,3723.0,Caloocan,Lalamove,Bank Transfer,4.8,2024-12-21,2024-12-26,Highly recommended. Worth every peso.
+Pita & More,Mandaluyong,Middle Eastern,386.91,7,2708.37,Marikina,Foodpanda,Cash on Delivery,4.9,2024-04-06,2024-04-06,Sulit na sulit! Will order again.
+Mamas Pancit Hub,Lucena,Filipino,146.52,8,1172.16,Muntinlupa,Angkas,Maya,2.2,2024-05-19,2024-05-24,Too salty. Won't order again.
+Manang Celys Lutong Bahay,Quezon City,Filipino,88.91,9,800.19,Taguig,Lalamove,Cash on Delivery,3.6,2024-01-12,2024-01-13,Taste is okay. Delivery was a bit slow.
+Spice Garden,Pampanga,Indian,222.76,1,222.76,Mandaluyong,GrabFood,Credit Card,3.6,2024-04-29,2024-04-29,Taste is okay. Delivery was a bit slow.
+Seoul Corner,Bonifacio,Korean,279.69,8,2237.52,Makati,Lalamove,GCash,2.8,2024-07-09,2024-07-12,Food was cold on arrival. Not acceptable.
+Manang Celys Lutong Bahay,Quezon City,Filipino,110.64,7,774.48,Santa Rosa,Foodpanda,Maya,3.3,2024-02-06,2024-02-10,Average experience. Nothing special.
+GreenBowl,Muntinlupa,Vegan,156.32,1,156.32,Las Piñas,Angkas,Credit Card,3.0,2024-03-03,2024-03-08,Taste is okay. Delivery was a bit slow.
+Spice Garden,Pampanga,Indian,378.47,4,1513.88,Taguig,Borzo,Bank Transfer,5.0,2024-08-23,2024-08-28,Food arrived hot and fresh. Love it!
+La Parilla Mexicana,Taguig,Mexican,197.28,5,986.4,Makati,In-House Delivery,ShopeePay,4.6,2024-06-14,2024-06-15,Fast delivery and delicious food!
+Aling Nenas Carinderia,Cebu City,Filipino,108.13,5,540.65,Makati,In-House Delivery,Maya,4.9,2024-04-11,2024-04-13,Sulit na sulit! Will order again.
+Dragon Palace,Binondo,Chinese,289.87,6,1739.22,Caloocan,Borzo,GCash,4.5,2024-01-08,2024-01-09,Great portions and very tasty.
+The Seafood Shack,Batangas,Seafood,321.54,1,321.54,Santa Rosa,In-House Delivery,ShopeePay,3.0,2024-10-24,2024-10-29,Taste is okay. Delivery was a bit slow.
+Seoul Corner,Bonifacio,Korean,412.9,4,1651.6,Pasig,In-House Delivery,ShopeePay,3.5,2024-03-21,2024-03-24,Average experience. Nothing special.
+Tita Belens Halo-Halo,Iloilo City,Desserts,195.45,1,195.45,Mandaluyong,In-House Delivery,ShopeePay,4.3,2024-01-31,2024-02-02,Perfect for the whole family.
+Aling Nenas Carinderia,Cebu City,Filipino,83.91,4,335.64,Imus,Angkas,Bank Transfer,2.9,2024-06-11,2024-06-15,Food was cold on arrival. Not acceptable.
+Manang Celys Lutong Bahay,Quezon City,Filipino,190.96,6,1145.76,Makati,Angkas,Bank Transfer,4.5,2024-03-09,2024-03-11,Great portions and very tasty.
+Pita & More,Mandaluyong,Middle Eastern,217.26,8,1738.08,Marikina,Borzo,Cash on Delivery,3.7,2024-04-07,2024-04-11,Average experience. Nothing special.
+Spice Garden,Pampanga,Indian,231.15,10,2311.5,Pasig,Borzo,Maya,3.6,2024-10-10,2024-10-11,"Food was decent, but arrived lukewarm."
+Tokyo Bites,Makati,Japanese,518.74,9,4668.66,Quezon City,In-House Delivery,ShopeePay,4.5,2024-07-06,2024-07-09,Great portions and very tasty.
+Spice Garden,Pampanga,Indian,151.95,1,151.95,Muntinlupa,Foodpanda,Cash on Delivery,4.3,2024-11-13,2024-11-15,Highly recommended. Worth every peso.
+Aling Nenas Carinderia,Cebu City,Filipino,185.07,9,1665.63,Calamba,In-House Delivery,Credit Card,3.6,2024-07-17,2024-07-18,Okay lang. Might try other options next time.
+Lolo Bertins BBQ,Davao City,Barbecue,214.87,6,1289.22,Bacoor,GrabFood,GCash,4.8,2024-07-28,2024-08-02,Fast delivery and delicious food!
+Mamas Pancit Hub,Lucena,Filipino,72.67,3,218.01,Parañaque,GrabFood,Credit Card,3.0,2024-04-01,2024-04-01,Taste is okay. Delivery was a bit slow.
+Aling Nenas Carinderia,Cebu City,Filipino,66.05,7,462.35,Calamba,Borzo,Bank Transfer,4.4,2024-12-02,2024-12-05,Fast delivery and delicious food!
+Tokyo Bites,Makati,Japanese,172.09,4,688.36,Pasig,GrabFood,Maya,4.4,2024-11-06,2024-11-11,Highly recommended. Worth every peso.
+La Parilla Mexicana,Taguig,Mexican,332.1,2,664.2,Makati,Lalamove,ShopeePay,3.7,2024-08-27,2024-09-01,"Food was decent, but arrived lukewarm."
+GreenBowl,Muntinlupa,Vegan,153.81,1,153.81,Calamba,GrabFood,Bank Transfer,4.2,2024-11-11,2024-11-13,Sulit na sulit! Will order again.
+GreenBowl,Muntinlupa,Vegan,140.78,4,563.12,Taguig,In-House Delivery,Maya,2.9,2024-09-22,2024-09-22,Missing items in my order.
+Burger Republic,Pasig,Burgers,139.26,9,1253.34,Los Baños,In-House Delivery,Maya,4.6,2024-12-02,2024-12-03,Fast delivery and delicious food!
+Spice Garden,Pampanga,Indian,256.28,2,512.56,Imus,In-House Delivery,Credit Card,3.8,2024-11-22,2024-11-26,"Food was decent, but arrived lukewarm."
+Tita Belens Halo-Halo,Iloilo City,Desserts,65.62,3,196.86,Calamba,Lalamove,Bank Transfer,3.5,2024-10-08,2024-10-11,Taste is okay. Delivery was a bit slow.
+Pita & More,Mandaluyong,Middle Eastern,449.48,8,3595.84,Pila,Lalamove,Cash on Delivery,4.7,2024-06-29,2024-07-01,Great portions and very tasty.
+The Seafood Shack,Batangas,Seafood,516.62,6,3099.72,Los Baños,Borzo,Maya,3.3,2024-11-07,2024-11-08,"Food was decent, but arrived lukewarm."
+The Seafood Shack,Batangas,Seafood,475.12,5,2375.6,Biñan,Angkas,GCash,2.8,2024-07-03,2024-07-06,Order was wrong. Very disappointing.
+Tokyo Bites,Makati,Japanese,418.09,9,3762.81,Quezon City,Lalamove,Maya,2.7,2024-03-10,2024-03-12,Food was cold on arrival. Not acceptable.
+GreenBowl,Muntinlupa,Vegan,142.98,5,714.9,Pila,Borzo,ShopeePay,4.4,2024-10-10,2024-10-14,Food arrived hot and fresh. Love it!
+Aling Nenas Carinderia,Cebu City,Filipino,67.17,6,403.02,Caloocan,Lalamove,ShopeePay,2.9,2024-03-20,2024-03-21,Food was cold on arrival. Not acceptable.
+Dragon Palace,Binondo,Chinese,176.87,5,884.35,Dasmariñas,Borzo,Maya,5.0,2024-02-17,2024-02-21,Highly recommended. Worth every peso.
+Aling Nenas Carinderia,Cebu City,Filipino,197.48,8,1579.84,Los Baños,GrabFood,ShopeePay,2.2,2024-03-29,2024-04-01,Too salty. Won't order again.
+Manang Celys Lutong Bahay,Quezon City,Filipino,198.85,10,1988.5,Makati,Lalamove,Cash on Delivery,5.0,2024-07-14,2024-07-14,Perfect for the whole family.
+Burger Republic,Pasig,Burgers,198.3,2,396.6,Muntinlupa,GrabFood,Bank Transfer,4.1,2024-04-26,2024-05-01,Perfect for the whole family.
+Mamas Pancit Hub,Lucena,Filipino,132.67,5,663.35,Bacoor,Borzo,ShopeePay,3.8,2024-09-25,2024-09-25,Taste is okay. Delivery was a bit slow.
+Seoul Corner,Bonifacio,Korean,310.91,4,1243.64,Dasmariñas,Angkas,ShopeePay,3.5,2024-03-19,2024-03-19,Okay lang. Might try other options next time.
+Pita & More,Mandaluyong,Middle Eastern,149.73,7,1048.11,Mandaluyong,Foodpanda,Cash on Delivery,4.2,2024-05-28,2024-05-31,Sulit na sulit! Will order again.
+La Parilla Mexicana,Taguig,Mexican,242.86,1,242.86,Caloocan,GrabFood,Credit Card,3.9,2024-10-07,2024-10-10,Okay lang. Might try other options next time.
+Burger Republic,Pasig,Burgers,291.19,3,873.57,Pila,Foodpanda,Credit Card,4.8,2024-03-10,2024-03-13,Great portions and very tasty.
+Mamas Pancit Hub,Lucena,Filipino,168.55,9,1516.95,Calamba,Foodpanda,Maya,4.0,2024-11-11,2024-11-16,Sulit na sulit! Will order again.
+Tokyo Bites,Makati,Japanese,499.55,6,2997.3,Pasig,GrabFood,Bank Transfer,4.0,2024-12-16,2024-12-20,Great portions and very tasty.
+Burger Republic,Pasig,Burgers,184.97,4,739.88,Muntinlupa,In-House Delivery,GCash,3.6,2024-06-13,2024-06-15,Average experience. Nothing special.
+Lolo Bertins BBQ,Davao City,Barbecue,297.28,10,2972.8,Mandaluyong,Angkas,GCash,3.9,2024-08-14,2024-08-18,Taste is okay. Delivery was a bit slow.
+Dragon Palace,Binondo,Chinese,305.61,3,916.83,Makati,Foodpanda,ShopeePay,4.1,2024-02-13,2024-02-13,Food arrived hot and fresh. Love it!
+GreenBowl,Muntinlupa,Vegan,246.49,5,1232.45,Taguig,Lalamove,Credit Card,2.5,2024-01-08,2024-01-10,Delivery took way too long.
+Manang Celys Lutong Bahay,Quezon City,Filipino,123.06,9,1107.54,Pila,Borzo,Cash on Delivery,2.8,2024-04-18,2024-04-19,Missing items in my order.
+La Parilla Mexicana,Taguig,Mexican,255.76,3,767.28,Quezon City,Angkas,ShopeePay,4.5,2024-12-21,2024-12-26,Highly recommended. Worth every peso.
+Pita & More,Mandaluyong,Middle Eastern,134.35,3,403.05,Parañaque,In-House Delivery,ShopeePay,4.0,2024-01-31,2024-02-02,Ang sarap! My new go-to stall.
+Manang Celys Lutong Bahay,Quezon City,Filipino,148.34,1,148.34,Caloocan,In-House Delivery,Bank Transfer,3.8,2024-02-04,2024-02-07,Average experience. Nothing special.
+GreenBowl,Muntinlupa,Vegan,101.58,5,507.9,Las Piñas,Angkas,ShopeePay,3.9,2024-11-28,2024-12-01,Good food but packaging could be better.
+Tita Belens Halo-Halo,Iloilo City,Desserts,97.32,10,973.2,Marikina,Foodpanda,ShopeePay,4.2,2024-09-29,2024-09-29,Great portions and very tasty.
+Pita & More,Mandaluyong,Middle Eastern,425.7,1,425.7,Calamba,Lalamove,Cash on Delivery,3.5,2024-01-21,2024-01-22,"Food was decent, but arrived lukewarm."
+Burger Republic,Pasig,Burgers,283.54,1,283.54,Imus,Lalamove,Bank Transfer,3.3,2024-06-26,2024-07-01,Average experience. Nothing special.
+Dragon Palace,Binondo,Chinese,398.8,9,3589.2,Caloocan,Angkas,GCash,4.1,2024-05-21,2024-05-21,Fast delivery and delicious food!
+Tokyo Bites,Makati,Japanese,251.51,6,1509.06,Mandaluyong,GrabFood,Bank Transfer,3.1,2024-07-20,2024-07-25,"Food was decent, but arrived lukewarm."
+Pita & More,Mandaluyong,Middle Eastern,437.0,10,4370.0,Las Piñas,Angkas,Maya,4.2,2024-11-16,2024-11-21,Fast delivery and delicious food!
+Lolo Bertins BBQ,Davao City,Barbecue,173.82,5,869.1,Biñan,Borzo,Maya,2.5,2024-11-05,2024-11-07,Food was cold on arrival. Not acceptable.
+Mamas Pancit Hub,Lucena,Filipino,86.33,9,776.97,Mandaluyong,Lalamove,Bank Transfer,4.7,2024-12-16,2024-12-17,Highly recommended. Worth every peso.
+Tita Belens Halo-Halo,Iloilo City,Desserts,128.57,3,385.71,Los Baños,Foodpanda,Cash on Delivery,4.3,2024-08-08,2024-08-09,Sulit na sulit! Will order again.
+Pita & More,Mandaluyong,Middle Eastern,295.88,2,591.76,Mandaluyong,In-House Delivery,GCash,4.1,2024-04-04,2024-04-06,Perfect for the whole family.
+Seoul Corner,Bonifacio,Korean,454.45,7,3181.15,Biñan,In-House Delivery,Bank Transfer,4.7,2024-07-29,2024-07-31,Highly recommended. Worth every peso.
+Tokyo Bites,Makati,Japanese,218.38,4,873.52,Marikina,GrabFood,ShopeePay,5.0,2024-02-24,2024-02-25,Fast delivery and delicious food!
+Tokyo Bites,Makati,Japanese,422.52,10,4225.2,Las Piñas,Foodpanda,Bank Transfer,4.7,2024-04-28,2024-05-02,Sulit na sulit! Will order again.
+Seoul Corner,Bonifacio,Korean,150.2,8,1201.6,Muntinlupa,Angkas,Bank Transfer,2.4,2024-03-09,2024-03-13,Too salty. Won't order again.
+Lolo Bertins BBQ,Davao City,Barbecue,267.47,8,2139.76,Marikina,Foodpanda,Maya,2.9,2024-08-30,2024-08-31,Order was wrong. Very disappointing.
+Burger Republic,Pasig,Burgers,288.78,1,288.78,Las Piñas,In-House Delivery,Bank Transfer,3.4,2024-05-18,2024-05-21,Taste is okay. Delivery was a bit slow.
+The Seafood Shack,Batangas,Seafood,302.28,3,906.84,Santa Rosa,In-House Delivery,Cash on Delivery,3.9,2024-08-12,2024-08-16,"Food was decent, but arrived lukewarm."
+Tita Belens Halo-Halo,Iloilo City,Desserts,87.02,7,609.14,Dasmariñas,In-House Delivery,Cash on Delivery,4.3,2024-01-22,2024-01-26,Great portions and very tasty.
+Pizzeria Napoli,San Juan,Italian,525.66,10,5256.6,Calamba,In-House Delivery,Bank Transfer,3.3,2024-10-31,2024-11-04,Good food but packaging could be better.
+Pita & More,Mandaluyong,Middle Eastern,156.07,8,1248.56,Calamba,Borzo,Credit Card,4.0,2024-01-22,2024-01-23,Highly recommended. Worth every peso.
+Manang Celys Lutong Bahay,Quezon City,Filipino,165.96,9,1493.64,Parañaque,Lalamove,Credit Card,3.3,2024-11-18,2024-11-18,"Food was decent, but arrived lukewarm."
+Tita Belens Halo-Halo,Iloilo City,Desserts,95.68,5,478.4,San Pedro,Lalamove,ShopeePay,3.4,2024-08-24,2024-08-25,Good food but packaging could be better.
+Spice Garden,Pampanga,Indian,244.75,3,734.25,Biñan,GrabFood,Bank Transfer,2.8,2024-08-25,2024-08-30,Missing items in my order.
+Aling Nenas Carinderia,Cebu City,Filipino,94.16,10,941.6,Mandaluyong,Angkas,Credit Card,3.2,2024-12-22,2024-12-26,Average experience. Nothing special.
+La Parilla Mexicana,Taguig,Mexican,106.23,8,849.84,Parañaque,Angkas,GCash,2.8,2024-10-29,2024-11-03,Too salty. Won't order again.
+Seoul Corner,Bonifacio,Korean,382.85,3,1148.55,Taguig,In-House Delivery,Credit Card,3.1,2024-03-04,2024-03-04,Average experience. Nothing special.
+Aling Nenas Carinderia,Cebu City,Filipino,159.53,7,1116.71,Marikina,Angkas,ShopeePay,4.7,2024-09-18,2024-09-22,Great portions and very tasty.
+Manang Celys Lutong Bahay,Quezon City,Filipino,205.97,6,1235.82,Mandaluyong,Foodpanda,Maya,3.1,2024-10-16,2024-10-21,Taste is okay. Delivery was a bit slow.
+The Seafood Shack,Batangas,Seafood,556.02,7,3892.14,Biñan,Lalamove,Bank Transfer,5.0,2024-06-06,2024-06-08,Food arrived hot and fresh. Love it!
+Aling Nenas Carinderia,Cebu City,Filipino,230.72,4,922.88,Caloocan,GrabFood,Credit Card,4.3,2024-01-02,2024-01-06,Great portions and very tasty.
+GreenBowl,Muntinlupa,Vegan,179.73,1,179.73,Las Piñas,Foodpanda,ShopeePay,4.0,2024-11-07,2024-11-10,Highly recommended. Worth every peso.
+La Parilla Mexicana,Taguig,Mexican,213.43,8,1707.44,Muntinlupa,GrabFood,Maya,3.2,2024-02-10,2024-02-14,Okay lang. Might try other options next time.
+Tokyo Bites,Makati,Japanese,428.89,9,3860.01,Marikina,Foodpanda,GCash,4.5,2024-04-16,2024-04-16,Highly recommended. Worth every peso.
+Seoul Corner,Bonifacio,Korean,133.95,1,133.95,Muntinlupa,Lalamove,Cash on Delivery,3.4,2024-12-07,2024-12-11,Good food but packaging could be better.
+Manang Celys Lutong Bahay,Quezon City,Filipino,80.69,3,242.07,Antipolo,Borzo,Bank Transfer,4.0,2024-03-23,2024-03-28,Highly recommended. Worth every peso.
+Spice Garden,Pampanga,Indian,266.59,9,2399.31,Los Baños,Lalamove,GCash,5.0,2024-03-31,2024-04-03,Sulit na sulit! Will order again.
+The Seafood Shack,Batangas,Seafood,349.65,6,2097.9,San Pedro,Borzo,GCash,3.8,2024-07-13,2024-07-13,Average experience. Nothing special.
+La Parilla Mexicana,Taguig,Mexican,133.64,5,668.2,San Pedro,Borzo,Maya,4.8,2024-06-17,2024-06-21,Highly recommended. Worth every peso.
+Dragon Palace,Binondo,Chinese,283.62,2,567.24,Calamba,GrabFood,Credit Card,3.3,2024-10-19,2024-10-24,Okay lang. Might try other options next time.
+Tita Belens Halo-Halo,Iloilo City,Desserts,168.23,5,841.15,Bacoor,Lalamove,ShopeePay,3.9,2024-08-06,2024-08-10,Okay lang. Might try other options next time.
+Pizzeria Napoli,San Juan,Italian,291.54,3,874.62,Santa Rosa,Borzo,Bank Transfer,5.0,2024-11-10,2024-11-14,Highly recommended. Worth every peso.
+La Parilla Mexicana,Taguig,Mexican,223.13,3,669.39,Antipolo,Foodpanda,GCash,3.4,2024-11-08,2024-11-09,Good food but packaging could be better.
+Manang Celys Lutong Bahay,Quezon City,Filipino,148.33,2,296.66,San Pedro,Angkas,GCash,5.0,2024-04-16,2024-04-20,Ang sarap! My new go-to stall.
+Seoul Corner,Bonifacio,Korean,332.96,4,1331.84,Parañaque,In-House Delivery,Cash on Delivery,4.5,2024-01-06,2024-01-11,Ang sarap! My new go-to stall.
+The Seafood Shack,Batangas,Seafood,233.92,5,1169.6,Bacoor,GrabFood,GCash,3.5,2024-09-16,2024-09-20,Average experience. Nothing special.
+Seoul Corner,Bonifacio,Korean,270.5,10,2705.0,Marikina,Foodpanda,Cash on Delivery,4.4,2024-11-11,2024-11-11,Perfect for the whole family.
+Seoul Corner,Bonifacio,Korean,470.47,8,3763.76,Mandaluyong,Angkas,Maya,4.7,2024-08-30,2024-08-30,Highly recommended. Worth every peso.
+La Parilla Mexicana,Taguig,Mexican,323.01,9,2907.09,San Pedro,In-House Delivery,GCash,4.4,2024-06-20,2024-06-23,Perfect for the whole family.
+Pita & More,Mandaluyong,Middle Eastern,218.78,6,1312.68,Quezon City,Foodpanda,ShopeePay,2.6,2024-10-11,2024-10-15,Too salty. Won't order again.
+The Seafood Shack,Batangas,Seafood,658.09,6,3948.54,Caloocan,GrabFood,Cash on Delivery,3.3,2024-02-03,2024-02-04,"Food was decent, but arrived lukewarm."
+Mamas Pancit Hub,Lucena,Filipino,161.51,3,484.53,Dasmariñas,Foodpanda,ShopeePay,3.7,2024-10-19,2024-10-23,Good food but packaging could be better.
+GreenBowl,Muntinlupa,Vegan,236.47,5,1182.35,Makati,Lalamove,Credit Card,3.8,2024-12-27,2024-12-29,Good food but packaging could be better.
+La Parilla Mexicana,Taguig,Mexican,319.26,6,1915.56,Parañaque,Borzo,Cash on Delivery,4.4,2024-08-19,2024-08-21,Food arrived hot and fresh. Love it!
+Aling Nenas Carinderia,Cebu City,Filipino,131.1,1,131.1,Biñan,Borzo,GCash,4.0,2024-04-13,2024-04-13,Perfect for the whole family.
+La Parilla Mexicana,Taguig,Mexican,326.24,3,978.72,Santa Rosa,In-House Delivery,ShopeePay,2.8,2024-04-07,2024-04-09,Too salty. Won't order again.
+The Seafood Shack,Batangas,Seafood,363.67,2,727.34,Mandaluyong,Foodpanda,Bank Transfer,4.2,2024-09-21,2024-09-26,Sulit na sulit! Will order again.
+La Parilla Mexicana,Taguig,Mexican,196.9,9,1772.1,Antipolo,GrabFood,Bank Transfer,4.4,2024-02-29,2024-02-29,Perfect for the whole family.
+Pizzeria Napoli,San Juan,Italian,498.75,6,2992.5,Taguig,Borzo,Bank Transfer,4.3,2024-08-27,2024-08-27,Highly recommended. Worth every peso.
+Tokyo Bites,Makati,Japanese,160.12,5,800.6,Bacoor,Foodpanda,Maya,4.8,2024-11-23,2024-11-24,Ang sarap! My new go-to stall.
+Tokyo Bites,Makati,Japanese,389.52,8,3116.16,Caloocan,Foodpanda,Maya,4.6,2024-12-09,2024-12-09,Ang sarap! My new go-to stall.
+Aling Nenas Carinderia,Cebu City,Filipino,62.9,10,629.0,Taguig,Foodpanda,ShopeePay,4.3,2024-10-13,2024-10-17,Ang sarap! My new go-to stall.
+Pita & More,Mandaluyong,Middle Eastern,225.1,3,675.3,Los Baños,Foodpanda,Maya,3.8,2024-12-26,2024-12-28,Good food but packaging could be better.
+Tokyo Bites,Makati,Japanese,425.97,6,2555.82,Makati,Foodpanda,GCash,2.6,2024-10-03,2024-10-06,Delivery took way too long.
+Tita Belens Halo-Halo,Iloilo City,Desserts,151.32,2,302.64,Pasig,Angkas,Credit Card,4.2,2024-07-15,2024-07-15,Food arrived hot and fresh. Love it!
+Spice Garden,Pampanga,Indian,266.91,10,2669.1,Biñan,Borzo,Cash on Delivery,4.1,2024-11-18,2024-11-23,Ang sarap! My new go-to stall.
+Seoul Corner,Bonifacio,Korean,430.63,9,3875.67,Los Baños,Foodpanda,GCash,4.1,2024-02-10,2024-02-13,Perfect for the whole family.
+The Seafood Shack,Batangas,Seafood,659.84,8,5278.72,Antipolo,In-House Delivery,Bank Transfer,2.9,2024-02-19,2024-02-22,Delivery took way too long.
+La Parilla Mexicana,Taguig,Mexican,157.92,4,631.68,Caloocan,Lalamove,Credit Card,3.0,2024-03-14,2024-03-18,Taste is okay. Delivery was a bit slow.
+Spice Garden,Pampanga,Indian,356.83,6,2140.98,Santa Rosa,GrabFood,GCash,4.7,2024-06-15,2024-06-18,Great portions and very tasty.
+Aling Nenas Carinderia,Cebu City,Filipino,126.77,8,1014.16,Imus,Borzo,ShopeePay,3.9,2024-03-28,2024-03-30,Taste is okay. Delivery was a bit slow.
+Pita & More,Mandaluyong,Middle Eastern,153.97,2,307.94,Pasig,Lalamove,ShopeePay,4.4,2024-06-15,2024-06-19,Great portions and very tasty.
+Burger Republic,Pasig,Burgers,243.54,4,974.16,Pila,Foodpanda,Credit Card,3.9,2024-11-13,2024-11-14,"Food was decent, but arrived lukewarm."
+Aling Nenas Carinderia,Cebu City,Filipino,124.74,10,1247.4,Los Baños,Lalamove,ShopeePay,3.9,2024-08-08,2024-08-11,Taste is okay. Delivery was a bit slow.
+Lolo Bertins BBQ,Davao City,Barbecue,225.77,2,451.54,Santa Rosa,GrabFood,ShopeePay,4.7,2024-12-30,2025-01-03,Fast delivery and delicious food!
+La Parilla Mexicana,Taguig,Mexican,181.34,2,362.68,Antipolo,Angkas,GCash,3.5,2024-08-15,2024-08-16,Okay lang. Might try other options next time.
+Aling Nenas Carinderia,Cebu City,Filipino,190.25,10,1902.5,Santa Rosa,In-House Delivery,Bank Transfer,4.0,2024-07-13,2024-07-15,Sulit na sulit! Will order again.
+Aling Nenas Carinderia,Cebu City,Filipino,101.35,3,304.05,Quezon City,Foodpanda,Bank Transfer,3.5,2024-10-24,2024-10-29,Taste is okay. Delivery was a bit slow.
+La Parilla Mexicana,Taguig,Mexican,232.81,7,1629.67,Biñan,Foodpanda,Maya,3.6,2024-11-11,2024-11-15,Average experience. Nothing special.
+Tokyo Bites,Makati,Japanese,406.62,5,2033.1,Imus,GrabFood,ShopeePay,3.7,2024-08-10,2024-08-15,Good food but packaging could be better.
+Pizzeria Napoli,San Juan,Italian,544.57,7,3811.99,Makati,Lalamove,ShopeePay,4.1,2024-03-06,2024-03-08,Sulit na sulit! Will order again.
+Manang Celys Lutong Bahay,Quezon City,Filipino,193.64,6,1161.84,Quezon City,Foodpanda,Credit Card,3.5,2024-02-26,2024-02-28,Okay lang. Might try other options next time.
+Burger Republic,Pasig,Burgers,252.56,7,1767.92,San Pedro,Borzo,Maya,4.9,2024-07-26,2024-07-29,Highly recommended. Worth every peso.
+Lolo Bertins BBQ,Davao City,Barbecue,184.47,4,737.88,Imus,Angkas,Maya,3.2,2024-10-11,2024-10-14,Average experience. Nothing special.
+GreenBowl,Muntinlupa,Vegan,214.01,3,642.03,Quezon City,Foodpanda,Bank Transfer,3.8,2024-01-06,2024-01-06,"Food was decent, but arrived lukewarm."
+Mamas Pancit Hub,Lucena,Filipino,142.98,3,428.94,San Pedro,Angkas,Bank Transfer,3.5,2024-02-13,2024-02-14,Okay lang. Might try other options next time.
+Tita Belens Halo-Halo,Iloilo City,Desserts,113.86,3,341.58,San Pedro,Borzo,Credit Card,5.0,2024-08-20,2024-08-24,Great portions and very tasty.
+Seoul Corner,Bonifacio,Korean,205.78,7,1440.46,Los Baños,Angkas,Bank Transfer,4.1,2024-11-05,2024-11-05,Food arrived hot and fresh. Love it!
+Spice Garden,Pampanga,Indian,240.48,7,1683.36,Imus,GrabFood,GCash,4.7,2024-10-06,2024-10-10,Fast delivery and delicious food!
+La Parilla Mexicana,Taguig,Mexican,276.22,2,552.44,Pasig,Foodpanda,Bank Transfer,2.7,2024-10-24,2024-10-27,Missing items in my order.
+GreenBowl,Muntinlupa,Vegan,276.73,5,1383.65,Pasig,Borzo,ShopeePay,4.1,2024-08-26,2024-08-30,Sulit na sulit! Will order again.
+Dragon Palace,Binondo,Chinese,241.74,2,483.48,Pila,Borzo,Cash on Delivery,4.6,2024-12-16,2024-12-21,Fast delivery and delicious food!
+Manang Celys Lutong Bahay,Quezon City,Filipino,231.68,9,2085.12,Biñan,Borzo,Credit Card,4.0,2024-01-06,2024-01-09,Fast delivery and delicious food!
+Spice Garden,Pampanga,Indian,192.82,6,1156.92,Marikina,GrabFood,Bank Transfer,4.8,2024-05-30,2024-06-01,Fast delivery and delicious food!
+Spice Garden,Pampanga,Indian,185.14,10,1851.4,Santa Rosa,Borzo,Maya,3.5,2024-05-13,2024-05-13,Okay lang. Might try other options next time.
+Manang Celys Lutong Bahay,Quezon City,Filipino,184.7,5,923.5,Antipolo,Angkas,GCash,5.0,2024-11-15,2024-11-15,Food arrived hot and fresh. Love it!
+Pita & More,Mandaluyong,Middle Eastern,145.36,5,726.8,Muntinlupa,Lalamove,Cash on Delivery,5.0,2024-05-09,2024-05-10,Perfect for the whole family.
+Tokyo Bites,Makati,Japanese,156.39,2,312.78,Los Baños,In-House Delivery,Maya,3.6,2024-11-05,2024-11-06,"Food was decent, but arrived lukewarm."
+Seoul Corner,Bonifacio,Korean,426.98,5,2134.9,Santa Rosa,Foodpanda,ShopeePay,3.5,2024-12-24,2024-12-25,Good food but packaging could be better.
+Seoul Corner,Bonifacio,Korean,493.95,3,1481.85,Santa Rosa,Angkas,Credit Card,5.0,2024-10-31,2024-11-01,Food arrived hot and fresh. Love it!
+Mamas Pancit Hub,Lucena,Filipino,143.64,3,430.92,Imus,GrabFood,Bank Transfer,5.0,2024-04-17,2024-04-21,Ang sarap! My new go-to stall.
+The Seafood Shack,Batangas,Seafood,609.77,1,609.77,Dasmariñas,Angkas,Cash on Delivery,3.5,2024-03-26,2024-03-29,"Food was decent, but arrived lukewarm."
+Spice Garden,Pampanga,Indian,365.51,9,3289.59,Dasmariñas,Angkas,Cash on Delivery,3.6,2024-04-29,2024-05-02,Taste is okay. Delivery was a bit slow.
+Pita & More,Mandaluyong,Middle Eastern,407.19,1,407.19,Dasmariñas,In-House Delivery,Cash on Delivery,3.7,2024-05-27,2024-05-30,Okay lang. Might try other options next time.
+Mamas Pancit Hub,Lucena,Filipino,241.62,2,483.24,Imus,Angkas,ShopeePay,2.8,2024-09-29,2024-10-04,Too salty. Won't order again.
+Seoul Corner,Bonifacio,Korean,222.72,2,445.44,Los Baños,Angkas,Credit Card,3.2,2024-05-10,2024-05-15,Taste is okay. Delivery was a bit slow.
+Spice Garden,Pampanga,Indian,288.13,4,1152.52,Marikina,Lalamove,ShopeePay,3.1,2024-09-23,2024-09-25,Good food but packaging could be better.
+Mamas Pancit Hub,Lucena,Filipino,61.61,2,123.22,Taguig,Borzo,GCash,3.3,2024-01-07,2024-01-10,"Food was decent, but arrived lukewarm."
+Seoul Corner,Bonifacio,Korean,203.38,5,1016.9,Makati,GrabFood,ShopeePay,3.9,2024-05-08,2024-05-09,Good food but packaging could be better.
+Manang Celys Lutong Bahay,Quezon City,Filipino,238.32,4,953.28,Taguig,In-House Delivery,GCash,4.1,2024-11-02,2024-11-07,Sulit na sulit! Will order again.
+GreenBowl,Muntinlupa,Vegan,200.94,7,1406.58,Los Baños,Foodpanda,GCash,5.0,2024-12-02,2024-12-07,Highly recommended. Worth every peso.
+Lolo Bertins BBQ,Davao City,Barbecue,135.73,8,1085.84,Biñan,Lalamove,Credit Card,3.1,2024-12-04,2024-12-04,Average experience. Nothing special.
+Tokyo Bites,Makati,Japanese,222.88,2,445.76,Dasmariñas,Angkas,Cash on Delivery,4.7,2024-05-21,2024-05-21,Sulit na sulit! Will order again.
+Tokyo Bites,Makati,Japanese,580.02,5,2900.1,Pasig,Angkas,Maya,3.7,2024-04-01,2024-04-04,Okay lang. Might try other options next time.
+Burger Republic,Pasig,Burgers,136.39,8,1091.12,Pila,Angkas,Maya,3.9,2024-02-25,2024-02-26,Okay lang. Might try other options next time.
+Mamas Pancit Hub,Lucena,Filipino,80.19,8,641.52,Makati,GrabFood,GCash,4.4,2024-05-12,2024-05-12,Fast delivery and delicious food!
+Spice Garden,Pampanga,Indian,170.17,8,1361.36,Mandaluyong,In-House Delivery,Bank Transfer,3.0,2024-01-10,2024-01-13,Good food but packaging could be better.
+Tita Belens Halo-Halo,Iloilo City,Desserts,55.68,7,389.76,Bacoor,Angkas,ShopeePay,4.2,2024-05-16,2024-05-17,Sulit na sulit! Will order again.
+Pita & More,Mandaluyong,Middle Eastern,353.51,8,2828.08,Dasmariñas,In-House Delivery,GCash,4.0,2024-09-01,2024-09-04,Fast delivery and delicious food!
+Dragon Palace,Binondo,Chinese,100.99,8,807.92,Pila,Lalamove,Cash on Delivery,4.3,2024-03-03,2024-03-07,Highly recommended. Worth every peso.
+Tokyo Bites,Makati,Japanese,330.28,2,660.56,Bacoor,GrabFood,Credit Card,4.1,2024-07-06,2024-07-10,Perfect for the whole family.
+The Seafood Shack,Batangas,Seafood,344.98,4,1379.92,Makati,Angkas,Bank Transfer,5.0,2024-03-31,2024-04-04,Food arrived hot and fresh. Love it!
+Tokyo Bites,Makati,Japanese,463.15,2,926.3,Imus,Angkas,GCash,3.4,2024-11-18,2024-11-23,"Food was decent, but arrived lukewarm."
+Spice Garden,Pampanga,Indian,153.05,1,153.05,Los Baños,Foodpanda,Credit Card,3.5,2024-04-08,2024-04-08,"Food was decent, but arrived lukewarm."
+Aling Nenas Carinderia,Cebu City,Filipino,210.62,5,1053.1,Biñan,GrabFood,GCash,3.4,2024-09-12,2024-09-16,Average experience. Nothing special.
+Manang Celys Lutong Bahay,Quezon City,Filipino,124.17,1,124.17,Parañaque,In-House Delivery,Bank Transfer,3.5,2024-07-26,2024-07-26,Okay lang. Might try other options next time.
+La Parilla Mexicana,Taguig,Mexican,335.02,9,3015.18,Los Baños,Foodpanda,GCash,3.4,2024-03-17,2024-03-22,Good food but packaging could be better.
+Spice Garden,Pampanga,Indian,139.65,1,139.65,Makati,Foodpanda,Bank Transfer,4.9,2024-08-29,2024-09-02,Highly recommended. Worth every peso.
+Lolo Bertins BBQ,Davao City,Barbecue,83.16,1,83.16,Biñan,Borzo,Maya,5.0,2024-06-06,2024-06-06,Perfect for the whole family.
+Pizzeria Napoli,San Juan,Italian,175.58,2,351.16,Muntinlupa,Borzo,Maya,3.4,2024-02-28,2024-03-02,Good food but packaging could be better.
+The Seafood Shack,Batangas,Seafood,301.32,6,1807.92,Bacoor,GrabFood,Bank Transfer,3.2,2024-12-13,2024-12-16,Okay lang. Might try other options next time.
+Pita & More,Mandaluyong,Middle Eastern,165.32,4,661.28,Marikina,Lalamove,GCash,4.3,2024-01-24,2024-01-28,Sulit na sulit! Will order again.
+Tokyo Bites,Makati,Japanese,213.56,7,1494.92,Imus,Borzo,Maya,3.5,2024-03-27,2024-04-01,"Food was decent, but arrived lukewarm."
+Dragon Palace,Binondo,Chinese,377.7,1,377.7,Muntinlupa,Angkas,Maya,4.4,2024-03-09,2024-03-09,Sulit na sulit! Will order again.
+Tita Belens Halo-Halo,Iloilo City,Desserts,123.05,1,123.05,Pasig,In-House Delivery,Bank Transfer,4.1,2024-01-04,2024-01-05,Fast delivery and delicious food!
+Tita Belens Halo-Halo,Iloilo City,Desserts,92.56,8,740.48,Parañaque,Foodpanda,Bank Transfer,2.7,2024-12-20,2024-12-21,Too salty. Won't order again.
+Pita & More,Mandaluyong,Middle Eastern,268.64,4,1074.56,Makati,Borzo,Maya,5.0,2024-03-30,2024-04-03,Highly recommended. Worth every peso.
+La Parilla Mexicana,Taguig,Mexican,253.01,2,506.02,Imus,Angkas,GCash,5.0,2024-11-17,2024-11-19,Fast delivery and delicious food!
+Dragon Palace,Binondo,Chinese,157.57,9,1418.13,Imus,Borzo,ShopeePay,3.4,2024-02-18,2024-02-22,Taste is okay. Delivery was a bit slow.
+La Parilla Mexicana,Taguig,Mexican,292.58,4,1170.32,Parañaque,GrabFood,Maya,3.6,2024-05-21,2024-05-21,"Food was decent, but arrived lukewarm."
+La Parilla Mexicana,Taguig,Mexican,144.08,1,144.08,Imus,Lalamove,Maya,4.1,2024-01-28,2024-02-02,Great portions and very tasty.
+Tokyo Bites,Makati,Japanese,300.43,8,2403.44,Makati,Borzo,Maya,4.2,2024-01-23,2024-01-23,Food arrived hot and fresh. Love it!
+The Seafood Shack,Batangas,Seafood,214.53,9,1930.77,Las Piñas,In-House Delivery,Credit Card,4.4,2024-02-29,2024-02-29,Fast delivery and delicious food!
+Pizzeria Napoli,San Juan,Italian,280.39,4,1121.56,Las Piñas,GrabFood,Cash on Delivery,5.0,2024-12-12,2024-12-14,Food arrived hot and fresh. Love it!
+Aling Nenas Carinderia,Cebu City,Filipino,105.05,7,735.35,Las Piñas,GrabFood,Credit Card,3.8,2024-04-12,2024-04-15,Okay lang. Might try other options next time.
+La Parilla Mexicana,Taguig,Mexican,113.58,7,795.06,Muntinlupa,Angkas,Maya,3.3,2024-03-15,2024-03-16,"Food was decent, but arrived lukewarm."
+Seoul Corner,Bonifacio,Korean,171.83,4,687.32,Caloocan,Foodpanda,Cash on Delivery,2.8,2024-11-19,2024-11-21,Food was cold on arrival. Not acceptable.
+Manang Celys Lutong Bahay,Quezon City,Filipino,191.52,1,191.52,Taguig,Angkas,Credit Card,3.3,2024-05-23,2024-05-24,"Food was decent, but arrived lukewarm."
+Lolo Bertins BBQ,Davao City,Barbecue,247.27,4,989.08,Marikina,In-House Delivery,ShopeePay,3.9,2024-05-31,2024-06-04,Taste is okay. Delivery was a bit slow.
+Pizzeria Napoli,San Juan,Italian,538.05,4,2152.2,Calamba,Angkas,Maya,5.0,2024-02-14,2024-02-17,Fast delivery and delicious food!
+La Parilla Mexicana,Taguig,Mexican,309.25,5,1546.25,San Pedro,In-House Delivery,Maya,3.5,2024-01-08,2024-01-13,Taste is okay. Delivery was a bit slow.
+Seoul Corner,Bonifacio,Korean,285.01,4,1140.04,Los Baños,GrabFood,Credit Card,4.1,2024-10-29,2024-10-30,Sulit na sulit! Will order again.
+Manang Celys Lutong Bahay,Quezon City,Filipino,248.34,9,2235.06,Calamba,Angkas,Credit Card,3.9,2024-01-18,2024-01-21,Good food but packaging could be better.
+La Parilla Mexicana,Taguig,Mexican,223.82,2,447.64,San Pedro,Foodpanda,Maya,4.9,2024-10-12,2024-10-12,Ang sarap! My new go-to stall.
+Tokyo Bites,Makati,Japanese,257.58,2,515.16,Antipolo,Foodpanda,Bank Transfer,5.0,2024-01-09,2024-01-12,Great portions and very tasty.
+GreenBowl,Muntinlupa,Vegan,194.08,10,1940.8,Biñan,Foodpanda,Bank Transfer,3.5,2024-01-13,2024-01-16,"Food was decent, but arrived lukewarm."
+Lolo Bertins BBQ,Davao City,Barbecue,253.77,6,1522.62,Quezon City,In-House Delivery,GCash,3.5,2024-11-16,2024-11-19,"Food was decent, but arrived lukewarm."
+Tita Belens Halo-Halo,Iloilo City,Desserts,153.61,9,1382.49,San Pedro,Lalamove,Bank Transfer,4.7,2024-01-17,2024-01-19,Fast delivery and delicious food!
+Pita & More,Mandaluyong,Middle Eastern,309.83,4,1239.32,Muntinlupa,Lalamove,Bank Transfer,4.4,2024-12-16,2024-12-16,Sulit na sulit! Will order again.
+Pita & More,Mandaluyong,Middle Eastern,431.96,6,2591.76,Dasmariñas,Lalamove,Credit Card,5.0,2024-01-27,2024-01-27,Fast delivery and delicious food!
+Manang Celys Lutong Bahay,Quezon City,Filipino,129.46,3,388.38,Pasig,Borzo,Bank Transfer,4.4,2024-11-27,2024-12-01,Perfect for the whole family.
+Dragon Palace,Binondo,Chinese,141.52,6,849.12,Taguig,In-House Delivery,Credit Card,3.6,2024-05-02,2024-05-06,Okay lang. Might try other options next time.
+GreenBowl,Muntinlupa,Vegan,271.82,4,1087.28,Imus,Lalamove,ShopeePay,4.4,2024-04-25,2024-04-27,Highly recommended. Worth every peso.
+Burger Republic,Pasig,Burgers,162.06,2,324.12,Biñan,Angkas,ShopeePay,4.8,2024-07-09,2024-07-11,Fast delivery and delicious food!
+GreenBowl,Muntinlupa,Vegan,104.54,9,940.86,Antipolo,Angkas,ShopeePay,4.6,2024-12-13,2024-12-17,Ang sarap! My new go-to stall.
+The Seafood Shack,Batangas,Seafood,536.65,2,1073.3,Pasig,GrabFood,Credit Card,4.3,2024-04-06,2024-04-09,Food arrived hot and fresh. Love it!
+Tokyo Bites,Makati,Japanese,581.22,2,1162.44,Caloocan,GrabFood,Bank Transfer,4.8,2024-02-25,2024-02-26,Food arrived hot and fresh. Love it!
+La Parilla Mexicana,Taguig,Mexican,137.62,4,550.48,Quezon City,Lalamove,Credit Card,4.8,2024-09-23,2024-09-28,Highly recommended. Worth every peso.
+Pita & More,Mandaluyong,Middle Eastern,427.47,8,3419.76,Biñan,In-House Delivery,Bank Transfer,5.0,2024-06-26,2024-06-29,Sulit na sulit! Will order again.
+Tokyo Bites,Makati,Japanese,235.08,1,235.08,Bacoor,Angkas,ShopeePay,4.4,2024-04-28,2024-05-02,Ang sarap! My new go-to stall.
+Mamas Pancit Hub,Lucena,Filipino,182.75,6,1096.5,Calamba,Borzo,Credit Card,3.8,2024-09-05,2024-09-09,"Food was decent, but arrived lukewarm."
+Tokyo Bites,Makati,Japanese,405.26,5,2026.3,Las Piñas,Angkas,Cash on Delivery,4.0,2024-03-28,2024-03-30,Ang sarap! My new go-to stall.
+The Seafood Shack,Batangas,Seafood,622.76,3,1868.28,Biñan,Foodpanda,ShopeePay,4.9,2024-06-29,2024-07-01,Food arrived hot and fresh. Love it!
+Spice Garden,Pampanga,Indian,249.89,3,749.67,Mandaluyong,Foodpanda,Maya,3.2,2024-03-30,2024-04-04,Good food but packaging could be better.
+Manang Celys Lutong Bahay,Quezon City,Filipino,248.82,10,2488.2,Caloocan,Lalamove,Maya,4.2,2024-03-05,2024-03-08,Food arrived hot and fresh. Love it!
+Pita & More,Mandaluyong,Middle Eastern,353.35,6,2120.1,Imus,Angkas,ShopeePay,3.6,2024-06-25,2024-06-26,Taste is okay. Delivery was a bit slow.
+Pita & More,Mandaluyong,Middle Eastern,219.51,1,219.51,Mandaluyong,Angkas,Cash on Delivery,3.9,2024-07-26,2024-07-29,Taste is okay. Delivery was a bit slow.
+Manang Celys Lutong Bahay,Quezon City,Filipino,244.33,9,2198.97,Antipolo,Angkas,Cash on Delivery,4.9,2024-09-16,2024-09-18,Perfect for the whole family.
+Pizzeria Napoli,San Juan,Italian,416.76,10,4167.6,Taguig,In-House Delivery,Credit Card,4.1,2024-08-14,2024-08-16,Sulit na sulit! Will order again.
+Lolo Bertins BBQ,Davao City,Barbecue,229.16,2,458.32,Dasmariñas,Borzo,Maya,3.9,2024-06-06,2024-06-06,"Food was decent, but arrived lukewarm."
+Seoul Corner,Bonifacio,Korean,155.14,1,155.14,Parañaque,Borzo,ShopeePay,2.8,2024-11-07,2024-11-12,Food was cold on arrival. Not acceptable.
+The Seafood Shack,Batangas,Seafood,667.83,5,3339.15,Pasig,Borzo,Credit Card,4.5,2024-04-10,2024-04-10,Highly recommended. Worth every peso.
+Mamas Pancit Hub,Lucena,Filipino,241.95,9,2177.55,Santa Rosa,Lalamove,ShopeePay,4.4,2024-07-20,2024-07-21,Fast delivery and delicious food!
+Pita & More,Mandaluyong,Middle Eastern,431.32,6,2587.92,San Pedro,Lalamove,Credit Card,5.0,2024-07-22,2024-07-23,Ang sarap! My new go-to stall.
+Manang Celys Lutong Bahay,Quezon City,Filipino,114.08,6,684.48,Pila,GrabFood,Maya,3.7,2024-06-06,2024-06-09,"Food was decent, but arrived lukewarm."
+Spice Garden,Pampanga,Indian,377.93,8,3023.44,San Pedro,In-House Delivery,Credit Card,4.1,2024-05-27,2024-05-28,Food arrived hot and fresh. Love it!
+GreenBowl,Muntinlupa,Vegan,197.44,2,394.88,Antipolo,Angkas,ShopeePay,4.1,2024-03-14,2024-03-15,Ang sarap! My new go-to stall.
+Aling Nenas Carinderia,Cebu City,Filipino,237.3,10,2373.0,Quezon City,Angkas,Bank Transfer,5.0,2024-07-11,2024-07-11,Ang sarap! My new go-to stall.
+Burger Republic,Pasig,Burgers,135.47,8,1083.76,Mandaluyong,Foodpanda,Maya,3.8,2024-12-29,2025-01-02,"Food was decent, but arrived lukewarm."
+Tokyo Bites,Makati,Japanese,399.24,1,399.24,Antipolo,Angkas,ShopeePay,4.1,2024-06-03,2024-06-07,Highly recommended. Worth every peso.
+La Parilla Mexicana,Taguig,Mexican,156.13,1,156.13,Antipolo,In-House Delivery,Bank Transfer,4.4,2024-03-19,2024-03-21,Great portions and very tasty.
+Aling Nenas Carinderia,Cebu City,Filipino,184.22,5,921.1,Santa Rosa,In-House Delivery,Bank Transfer,4.0,2024-08-01,2024-08-02,Food arrived hot and fresh. Love it!
+Manang Celys Lutong Bahay,Quezon City,Filipino,82.68,5,413.4,Muntinlupa,In-House Delivery,Cash on Delivery,3.5,2024-09-09,2024-09-09,Okay lang. Might try other options next time.
+La Parilla Mexicana,Taguig,Mexican,241.39,5,1206.95,Santa Rosa,In-House Delivery,GCash,4.1,2024-11-17,2024-11-22,Ang sarap! My new go-to stall.
+Pita & More,Mandaluyong,Middle Eastern,361.88,1,361.88,Los Baños,GrabFood,Maya,4.8,2024-05-12,2024-05-13,Ang sarap! My new go-to stall.
+La Parilla Mexicana,Taguig,Mexican,319.58,3,958.74,Makati,Lalamove,Cash on Delivery,3.1,2024-07-01,2024-07-02,"Food was decent, but arrived lukewarm."
+Mamas Pancit Hub,Lucena,Filipino,233.3,6,1399.8,Antipolo,Borzo,Bank Transfer,4.0,2024-01-25,2024-01-27,Sulit na sulit! Will order again.
+Pita & More,Mandaluyong,Middle Eastern,183.96,3,551.88,Marikina,Borzo,Cash on Delivery,3.3,2024-02-18,2024-02-22,Average experience. Nothing special.
+GreenBowl,Muntinlupa,Vegan,249.0,5,1245.0,Imus,GrabFood,ShopeePay,4.9,2024-05-18,2024-05-23,Fast delivery and delicious food!
+Seoul Corner,Bonifacio,Korean,432.86,1,432.86,Antipolo,Lalamove,Credit Card,2.7,2024-03-11,2024-03-15,Delivery took way too long.
+Seoul Corner,Bonifacio,Korean,469.94,3,1409.82,Mandaluyong,Borzo,Maya,3.5,2024-02-22,2024-02-23,Taste is okay. Delivery was a bit slow.
+The Seafood Shack,Batangas,Seafood,648.53,10,6485.3,Pila,In-House Delivery,ShopeePay,4.2,2024-12-19,2024-12-23,Highly recommended. Worth every peso.
+The Seafood Shack,Batangas,Seafood,601.29,7,4209.03,Taguig,Foodpanda,GCash,5.0,2024-08-23,2024-08-23,Great portions and very tasty.
+Seoul Corner,Bonifacio,Korean,238.4,6,1430.4,Muntinlupa,Borzo,Cash on Delivery,3.8,2024-03-12,2024-03-15,Taste is okay. Delivery was a bit slow.
+Spice Garden,Pampanga,Indian,185.31,2,370.62,Mandaluyong,In-House Delivery,Maya,3.5,2024-04-23,2024-04-24,Average experience. Nothing special.
+Lolo Bertins BBQ,Davao City,Barbecue,126.17,2,252.34,Taguig,GrabFood,GCash,5.0,2024-08-05,2024-08-10,Perfect for the whole family.
+La Parilla Mexicana,Taguig,Mexican,289.33,1,289.33,Makati,In-House Delivery,ShopeePay,2.7,2024-04-10,2024-04-10,Missing items in my order.
+Manang Celys Lutong Bahay,Quezon City,Filipino,149.13,5,745.65,Antipolo,In-House Delivery,GCash,2.1,2024-01-23,2024-01-23,Order was wrong. Very disappointing.
+The Seafood Shack,Batangas,Seafood,261.9,10,2619.0,Parañaque,Foodpanda,Bank Transfer,4.3,2024-04-15,2024-04-19,Ang sarap! My new go-to stall.
+Manang Celys Lutong Bahay,Quezon City,Filipino,77.25,5,386.25,Imus,Foodpanda,ShopeePay,3.5,2024-10-23,2024-10-25,Okay lang. Might try other options next time.
+Dragon Palace,Binondo,Chinese,251.47,2,502.94,Quezon City,Borzo,Maya,3.1,2024-02-20,2024-02-24,Taste is okay. Delivery was a bit slow.
+Tokyo Bites,Makati,Japanese,227.3,9,2045.7,Taguig,Foodpanda,ShopeePay,4.5,2024-01-03,2024-01-08,Perfect for the whole family.
+Spice Garden,Pampanga,Indian,232.92,10,2329.2,Taguig,Foodpanda,Cash on Delivery,4.1,2024-04-04,2024-04-07,Great portions and very tasty.
+Burger Republic,Pasig,Burgers,145.71,4,582.84,Bacoor,GrabFood,Credit Card,3.4,2024-07-27,2024-07-27,Good food but packaging could be better.
+Pita & More,Mandaluyong,Middle Eastern,164.85,6,989.1,Pila,In-House Delivery,GCash,2.9,2024-12-26,2024-12-28,Order was wrong. Very disappointing.
+Seoul Corner,Bonifacio,Korean,307.61,7,2153.27,Muntinlupa,In-House Delivery,Cash on Delivery,4.6,2024-05-25,2024-05-28,Highly recommended. Worth every peso.
+GreenBowl,Muntinlupa,Vegan,168.79,9,1519.11,San Pedro,Foodpanda,GCash,4.4,2024-07-27,2024-07-29,Perfect for the whole family.
+The Seafood Shack,Batangas,Seafood,437.84,6,2627.04,Santa Rosa,In-House Delivery,GCash,3.8,2024-04-01,2024-04-01,"Food was decent, but arrived lukewarm."
+La Parilla Mexicana,Taguig,Mexican,230.67,2,461.34,Dasmariñas,Angkas,Bank Transfer,5.0,2024-03-02,2024-03-03,Fast delivery and delicious food!
+Aling Nenas Carinderia,Cebu City,Filipino,200.87,3,602.61,Parañaque,Lalamove,Maya,3.0,2024-02-03,2024-02-05,Okay lang. Might try other options next time.
+GreenBowl,Muntinlupa,Vegan,278.13,2,556.26,Santa Rosa,Lalamove,Bank Transfer,2.7,2024-04-29,2024-05-02,Missing items in my order.
+Pizzeria Napoli,San Juan,Italian,259.19,7,1814.33,Muntinlupa,Angkas,Credit Card,3.3,2024-07-01,2024-07-04,Okay lang. Might try other options next time.
+Tokyo Bites,Makati,Japanese,216.32,8,1730.56,Caloocan,Angkas,Credit Card,3.9,2024-02-25,2024-02-25,Taste is okay. Delivery was a bit slow.
+Mamas Pancit Hub,Lucena,Filipino,239.06,1,239.06,Makati,GrabFood,Credit Card,4.1,2024-02-20,2024-02-25,Highly recommended. Worth every peso.
+Manang Celys Lutong Bahay,Quezon City,Filipino,244.69,7,1712.83,Bacoor,Foodpanda,Cash on Delivery,3.7,2024-11-05,2024-11-10,Okay lang. Might try other options next time.
+Pizzeria Napoli,San Juan,Italian,188.53,2,377.06,Santa Rosa,Angkas,Maya,4.2,2024-12-04,2024-12-08,Ang sarap! My new go-to stall.
+Mamas Pancit Hub,Lucena,Filipino,154.6,9,1391.4,Bacoor,Borzo,ShopeePay,2.9,2024-05-13,2024-05-17,Order was wrong. Very disappointing.
+The Seafood Shack,Batangas,Seafood,215.8,7,1510.6,Biñan,Lalamove,Credit Card,5.0,2024-03-01,2024-03-04,Great portions and very tasty.
+La Parilla Mexicana,Taguig,Mexican,109.0,3,327.0,Antipolo,In-House Delivery,Maya,3.8,2024-10-12,2024-10-17,"Food was decent, but arrived lukewarm."
+Burger Republic,Pasig,Burgers,124.97,7,874.79,Los Baños,In-House Delivery,Credit Card,4.8,2024-09-06,2024-09-06,Highly recommended. Worth every peso.
+Pita & More,Mandaluyong,Middle Eastern,346.17,10,3461.7,Pila,Foodpanda,ShopeePay,4.2,2024-08-28,2024-08-31,Sulit na sulit! Will order again.
+Burger Republic,Pasig,Burgers,158.48,10,1584.8,Imus,Lalamove,Cash on Delivery,4.3,2024-07-12,2024-07-16,Sulit na sulit! Will order again.
+Manang Celys Lutong Bahay,Quezon City,Filipino,172.19,3,516.57,Los Baños,GrabFood,Bank Transfer,4.4,2024-07-06,2024-07-08,Ang sarap! My new go-to stall.
+Burger Republic,Pasig,Burgers,115.31,6,691.86,Imus,GrabFood,Bank Transfer,4.3,2024-07-01,2024-07-04,Food arrived hot and fresh. Love it!
+Dragon Palace,Binondo,Chinese,170.39,5,851.95,Pasig,Lalamove,GCash,4.4,2024-10-30,2024-10-30,Ang sarap! My new go-to stall.
+Lolo Bertins BBQ,Davao City,Barbecue,84.34,6,506.04,San Pedro,Borzo,ShopeePay,5.0,2024-01-20,2024-01-23,Great portions and very tasty.
+Tokyo Bites,Makati,Japanese,159.18,8,1273.44,Bacoor,Angkas,ShopeePay,4.1,2024-10-28,2024-10-28,Great portions and very tasty.
+Seoul Corner,Bonifacio,Korean,337.56,8,2700.48,Parañaque,Lalamove,Credit Card,4.5,2024-02-21,2024-02-26,Fast delivery and delicious food!
+The Seafood Shack,Batangas,Seafood,582.45,6,3494.7,Antipolo,Lalamove,Credit Card,3.8,2024-03-26,2024-03-30,Taste is okay. Delivery was a bit slow.
+La Parilla Mexicana,Taguig,Mexican,258.86,2,517.72,Antipolo,Lalamove,GCash,5.0,2024-10-01,2024-10-02,Ang sarap! My new go-to stall.
+Pizzeria Napoli,San Juan,Italian,310.81,4,1243.24,Pasig,In-House Delivery,ShopeePay,3.4,2024-11-15,2024-11-20,Good food but packaging could be better.
+Pizzeria Napoli,San Juan,Italian,284.74,2,569.48,Santa Rosa,Angkas,Maya,5.0,2024-10-17,2024-10-21,Ang sarap! My new go-to stall.
+The Seafood Shack,Batangas,Seafood,238.33,5,1191.65,San Pedro,In-House Delivery,ShopeePay,3.9,2024-09-15,2024-09-17,Average experience. Nothing special.
+Dragon Palace,Binondo,Chinese,224.29,5,1121.45,Biñan,In-House Delivery,ShopeePay,2.8,2024-11-15,2024-11-19,Food was cold on arrival. Not acceptable.
+Tita Belens Halo-Halo,Iloilo City,Desserts,52.79,9,475.11,Santa Rosa,Foodpanda,Bank Transfer,4.0,2024-04-05,2024-04-09,Perfect for the whole family.
+Spice Garden,Pampanga,Indian,362.67,5,1813.35,Muntinlupa,Angkas,ShopeePay,3.4,2024-11-22,2024-11-26,Good food but packaging could be better.
+Pita & More,Mandaluyong,Middle Eastern,186.21,8,1489.68,Mandaluyong,In-House Delivery,Bank Transfer,4.6,2024-03-16,2024-03-17,Perfect for the whole family.
+Tokyo Bites,Makati,Japanese,529.85,7,3708.95,Parañaque,Angkas,Cash on Delivery,3.4,2024-06-12,2024-06-12,Average experience. Nothing special.
+Mamas Pancit Hub,Lucena,Filipino,90.51,10,905.1,Las Piñas,GrabFood,Maya,3.5,2024-04-30,2024-05-03,Taste is okay. Delivery was a bit slow.
+Manang Celys Lutong Bahay,Quezon City,Filipino,106.66,5,533.3,Pila,Angkas,Credit Card,2.4,2024-08-25,2024-08-28,Order was wrong. Very disappointing.
+Dragon Palace,Binondo,Chinese,147.81,3,443.43,Caloocan,In-House Delivery,ShopeePay,3.5,2024-01-15,2024-01-17,Taste is okay. Delivery was a bit slow.
+Mamas Pancit Hub,Lucena,Filipino,221.98,8,1775.84,Pasig,Lalamove,ShopeePay,2.0,2024-01-11,2024-01-11,Too salty. Won't order again.
+GreenBowl,Muntinlupa,Vegan,92.72,7,649.04,Pasig,Angkas,Bank Transfer,2.6,2024-07-05,2024-07-10,Food was cold on arrival. Not acceptable.
+Dragon Palace,Binondo,Chinese,133.58,9,1202.22,Los Baños,Borzo,Cash on Delivery,4.5,2024-03-02,2024-03-06,Great portions and very tasty.
+Tita Belens Halo-Halo,Iloilo City,Desserts,63.54,10,635.4,Bacoor,Borzo,Bank Transfer,4.5,2024-03-03,2024-03-05,Great portions and very tasty.
+The Seafood Shack,Batangas,Seafood,574.19,4,2296.76,Mandaluyong,GrabFood,Maya,4.2,2024-08-04,2024-08-05,Food arrived hot and fresh. Love it!
+Tokyo Bites,Makati,Japanese,347.76,5,1738.8,Santa Rosa,Borzo,Cash on Delivery,3.1,2024-10-28,2024-10-28,Good food but packaging could be better.
+Seoul Corner,Bonifacio,Korean,327.38,8,2619.04,Caloocan,Foodpanda,Cash on Delivery,3.9,2024-12-15,2024-12-16,"Food was decent, but arrived lukewarm."
+Spice Garden,Pampanga,Indian,202.97,5,1014.85,Muntinlupa,GrabFood,Bank Transfer,3.9,2024-01-11,2024-01-16,Good food but packaging could be better.
+Spice Garden,Pampanga,Indian,356.89,4,1427.56,Dasmariñas,Lalamove,Bank Transfer,3.0,2024-05-09,2024-05-13,Average experience. Nothing special.
+Tita Belens Halo-Halo,Iloilo City,Desserts,171.84,2,343.68,Biñan,Angkas,GCash,5.0,2024-09-30,2024-10-01,Great portions and very tasty.
+Tita Belens Halo-Halo,Iloilo City,Desserts,196.7,5,983.5,Las Piñas,Lalamove,Maya,4.6,2024-06-03,2024-06-03,Perfect for the whole family.
+Tita Belens Halo-Halo,Iloilo City,Desserts,74.03,8,592.24,San Pedro,GrabFood,Cash on Delivery,3.7,2024-11-19,2024-11-21,Good food but packaging could be better.
+GreenBowl,Muntinlupa,Vegan,235.89,8,1887.12,San Pedro,Lalamove,Bank Transfer,3.9,2024-08-29,2024-09-03,"Food was decent, but arrived lukewarm."
+Tita Belens Halo-Halo,Iloilo City,Desserts,187.78,2,375.56,Caloocan,Borzo,GCash,4.1,2024-03-23,2024-03-28,Ang sarap! My new go-to stall.
+Burger Republic,Pasig,Burgers,246.55,9,2218.95,Quezon City,GrabFood,Bank Transfer,2.3,2024-06-16,2024-06-19,Food was cold on arrival. Not acceptable.
+Mamas Pancit Hub,Lucena,Filipino,144.25,3,432.75,Parañaque,In-House Delivery,Cash on Delivery,3.7,2024-01-02,2024-01-05,Average experience. Nothing special.
+Pizzeria Napoli,San Juan,Italian,182.89,3,548.67,Mandaluyong,Borzo,Bank Transfer,3.4,2024-05-07,2024-05-11,"Food was decent, but arrived lukewarm."
+The Seafood Shack,Batangas,Seafood,669.71,8,5357.68,Mandaluyong,Lalamove,Maya,3.1,2024-09-01,2024-09-06,Okay lang. Might try other options next time.
+GreenBowl,Muntinlupa,Vegan,145.52,5,727.6,San Pedro,Lalamove,Maya,3.7,2024-04-11,2024-04-11,"Food was decent, but arrived lukewarm."
+Tita Belens Halo-Halo,Iloilo City,Desserts,106.6,10,1066.0,Quezon City,Borzo,Bank Transfer,5.0,2024-04-24,2024-04-24,Fast delivery and delicious food!
+Mamas Pancit Hub,Lucena,Filipino,103.45,2,206.9,Caloocan,In-House Delivery,Maya,4.4,2024-08-24,2024-08-25,Sulit na sulit! Will order again.
+Burger Republic,Pasig,Burgers,250.68,10,2506.8,Pasig,Lalamove,Maya,3.4,2024-05-13,2024-05-14,Okay lang. Might try other options next time.
+Aling Nenas Carinderia,Cebu City,Filipino,62.68,9,564.12,Santa Rosa,GrabFood,Maya,4.4,2024-08-10,2024-08-13,Highly recommended. Worth every peso.
