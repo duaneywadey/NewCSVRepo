@@ -1,0 +1,56 @@
+employee_id,full_name,email,phone_number,date_of_birth,hire_date,department,job_title,salary_php,age,performance_rating,employment_status,sss_number,home_address,manager_id
+EMP-0001,Maria Santos,maria.santos@company.com,+63-960-766-1791,1984-07-11,2016-09-09,HR,HR Specialist,29494.0,40.0,4.5,Active,22-7135241-1,"932 Del Pilar St, Quezon City",
+EMP-0002,Jose Reyes,jose.reyes@company.com,09171234567,1971-09-07,2015-12-19,Human Resources,Financial Analyst,51544.0,53.0,2.3,active,64-1991709-2,"971 Rizal St, Davao City",
+EMP-0003,Juan Cruz,juan.cruz@company.com,+63-984-506-1812,15/03/1985,2021-06-21,IT,IT Manager,48977.0,52.0,2.1,Active,27-5858837-7,"148 Del Pilar St, Makati",
+EMP-0004,Ana Bautista,,+63-981-935-3961,1995-08-11,2018-06-17,Sales,Sales Associate,33507.0,29.0,3.7,Active,,"100 Del Pilar St, Makati",
+EMP-0005,Pedro Ocampo,pedro.ocampo@company.com,+63-989-310-9133,1995-04-26,12/03/2019,Marketing,Content Writer,89693.0,29.0,3.3,Active,50-8811503-8,"371 Mabini St, Quezon City",
+EMP-0006,Rosa Garcia,john.doeexample.com,+63-941-183-5919,1978-01-24,2022-11-03,Operations,Operations Manager,88838.0,46.0,3.5,Active,53-8530188-5,"624 Main St, Makati",EMP-0033
+EMP-0007,Carlos Mendoza,carlos.mendoza@company.com,+63-953-255-9011,03/25/1982,2016-11-06,HR,HR Specialist,75272.0,36.0,2.1,Active,95-2302255-9,"587 Mabini St, Pasig",EMP-0045
+EMP-0008,Liza Torres,liza.torres@company.com,,1985-09-16,2021-08-31,Finance,software engineer,29012.0,39.0,4.5,Active,44-8954050-2,"63 Mabini St, Davao City",EMP-0044
+EMP-0009,Mark Flores,mark.flores@company.com,(02) 8123 4567,1989-12-28,2018-03-11,hr,IT Manager,22957.0,35.0,4.8,ACTIVE,55-3819383-2,"506 Main St, Quezon City",EMP-0050
+EMP-0010,Grace Ramos,grace.ramos@company.com,+63-941-507-7405,03/04/1990,2016-06-13,Sales,Sales Associate,85078.0,42.0,2.2,Active,67-7738472-9,,EMP-0036
+EMP-0011,Ramon Villanueva,ramon.villanueva@company.com,+63-963-467-7233,1982-06-28,2022-12-03,finance,Content Writer,50245.0,42.0,2.5,Active,32-3538365-4,"675 Rizal St, Makati",EMP-0032
+EMP-0012,Elena Aquino,elena.aquino@company.com,+63-943-388-1067,1996-06-05,2017-01-16,Operations,Operations Manager,-5000.0,28.0,3.3,Active,57-6345416-3,"708 Del Pilar St, Davao City",EMP-0042
+EMP-0013,Miguel Navarro,,+63-997-917-7428,1972-06-03,2020-02-14,HR,HR Specialist,72175.0,52.0,3.2,Active,23-9078612-7,"64 Rizal St, Makati",EMP-0014
+EMP-0014,Sofia Domingo,sofia.domingo@company.com,+63-924-448-1861,1989-10-07,2016-10-26,Finance,Financial Analyst,33419.0,200.0,2.0,Active,29-2702289-6,"629 Main St, Makati",EMP-0014
+EMP-0015,Andres Salazar,andres.salazar@company.com,917 123 4567,1997-07-18,2019-03-22,H.R.,IT Manager,65533.0,27.0,3.8,A,70-3060950-2,"870 Bonifacio St, Cebu City",EMP-0031
+EMP-0016,Isabel Castillo,isabel.castillo@company.com,+63-920-247-2674,12/11/1978,2018-07-01,Sales,Sales Associate,64909.0,33.0,4.2,Active,71-3708490-9,"24 Rizal St, Davao City",EMP-0024
+EMP-0017,Paolo Fernandez,paolo.fernandez@company.com,+63-979-127-9652,1976-07-29,07/08/2021,Marketing,Content Writer,59071.0,48.0,4.9,Active,,"376 Rizal St, Pasig",EMP-0050
+EMP-0018,Camille Rivera,camille.rivera@company.com,+63 917 123 4567,1979-12-30,2020-12-21,Operations,Operations Manager,0.0,45.0,3.9,Active,88-4274007-4,"838 Bonifacio St, Quezon City",EMP-0013
+EMP-0019,Diego Gonzales,maria.santos@,+63-955-848-1474,1993-03-21,2020-07-11,HR,HR Specialist,23661.0,31.0,4.4,Active,70-5348224-4,"710 Del Pilar St, Pasig",EMP-9999
+EMP-0020,Bea Pascual,bea.pascual@company.com,+63-920-325-2673,1985-09-05,2019-02-02,I.T.,Financial Analyst,49733.0,39.0,3.4,Active,123-45-6,"640 Del Pilar St, Makati",EMP-0031
+EMP-0021,Rafael Lopez,rafael.lopez@company.com,+63-992-186-2964,07/14/1991,2018-11-10,IT,IT Manager,70926.0,25.0,4.3,Active,35-9020058-3,"445 Mabini St, Makati",EMP-0047
+EMP-0022,Nina Del Rosario,maria.santos@company.com,+63-961-861-2391,1987-10-04,2020-03-12,Sales,Sales Associate,40821.0,37.0,2.5,Inactive,26-1462193-3,"605 Bonifacio St, Quezon City",EMP-0040
+EMP-0023,Jorge Mercado,jorge.mercado@company.com,,1996-09-23,2020-04-26,Marketing,SWE,37168.0,28.0,2.1,Active,93-2724228-9,"768 Rizal St, Cebu City",EMP-0013
+EMP-0024,Aileen Aguilar,aileen.aguilar@company.com,+63-942-317-5799,1979-06-20,2015-04-25,Operations,Operations Manager,,45.0,2.7,Active,85-6469193-5,"558 Bonifacio St, Quezon City",EMP-0004
+EMP-0025,Victor Panganiban,victor.panganiban@company.com,+63-994-697-9466,1985-11-14,2020-02-20,HR,HR Specialist,75132.0,39.0,7.5,Active,74-3193843-9,"156 Del Pilar St, Davao City",EMP-0002
+EMP-0026,Tanya Lim,tanya.lim@company.com,+63-987-104-3454,1989-09-29,"March 3, 2020",Finance,Financial Analyst,42589.0,35.0,2.4,Active,89-3018913-9,"64 Mabini St, Davao City",EMP-0034
+EMP-0027,Luis Tan,luis.tan@company.com,+63-923-673-1930,1994-12-01,2020-05-30,FIN,IT Manager,52570.0,150.0,2.6,Active,15-2639893-9,"464 Del Pilar St, Makati",EMP-0049
+EMP-0028,Mika Sy,,0917-123-4567,1972-11-04,2019-12-21,Sales,Sales Associate,87130.0,52.0,2.6,Active,45-8589103-9,"547 Bonifacio St, Davao City",EMP-0016
+EMP-0029,Ernesto Cheng,ernesto.cheng@company.com,+63-981-307-8332,1993-06-21,2017-11-29,Marketing,Content Writer,37974.0,31.0,3.2,Terminated,60-8417510-6,"75 Rizal St, Cebu City",EMP-0005
+EMP-0030,Carla Go,carla.go@company.com,+63-948-902-3004,1979-07-17,2022-07-05,Operations,Operations Manager,-1.0,45.0,4.8,Active,,"260 Rizal St, Cebu City",EMP-0015
+EMP-0006,Ferdinand Manalo,ferdinand.manalo@company.com,+63-972-266-4665,11/30/1975,2019-06-20,HR,HR Specialist,41163.0,50.0,4.1,Active,75-7774803-6,,EMP-0021
+EMP-0032,Diana Perez,diana.perez@company.com,02-8123-4567,1974-02-19,2019-02-07,sales,Financial Analyst,77731.0,50.0,4.1,Active,59-6561611-9,"639 Mabini St, Davao City",EMP-0005
+EMP-0033,Gabriel Diaz,gabriel.diaz@company.com,+63-923-186-5351,1975-01-23,2017-07-25,IT,IT Manager,55641.0,,2.1,Active,33-5537332-3,"840 Bonifacio St, Pasig",EMP-0026
+EMP-0034,Joanna Morales,noatsign.email,+63-975-684-9103,1976-09-13,2021-01-06,Sales,Sales Associate,62866.0,48.0,2.3,Active,99-1234,"917 Main St, Pasig",EMP-8888
+EMP-0035,Hector Castro,hector.castro@company.com,+63-943-185-4643,1998-06-17,2015-12-29,Marketing,Content Writer,28732.0,26.0,6.0,Active,25-8613056-1,"348 Del Pilar St, Cebu City",EMP-0018
+EMP-0036,Kris Ortiz,kris.ortiz@company.com,+63-915-639-4906,1997-11-20,3 Mar 2018,Operations,Operations Manager,34346.0,27.0,4.9,inactive,43-1845231-3,"207 Mabini St, Pasig",EMP-0034
+EMP-0037,Ivan Jimenez,ivan.jimenez@company.com,+63-967-612-3914,1979-03-27,2018-04-02,HR,HR Specialist,55457.0,45.0,3.0,Active,12-5201832-1,"16 Main St, Davao City",EMP-0036
+EMP-0038,Lorna Santiago,lorna.santiago@company.com,+63-970-351-8324,1978-07-02,2020-10-07,Finance,Financial Analyst,999999999.0,46.0,4.0,Active,93-8250736-8,"560 Bonifacio St, Davao City",EMP-0020
+EMP-0039,Nestor Valdez,nestor.valdez@company.com,,1979-08-27,2017-07-29,IT,IT Manager,73044.0,45.0,5.0,Active,16-3177994-1,"73 Mabini St, Cebu City",EMP-0011
+EMP-0040,Maya Basco,maya.basco@company.com,+63-995-961-7240,1972-06-26,2015-12-13,Sales,Sales Associate,86314.0,52.0,-1.0,Active,46-5063658-5,"47 Bonifacio St, Quezon City",EMP-0011
+EMP-0041,Oscar Cortez,oscar.cortez@company.com,+63-910-369-6966,1982-01-25,2020-01-01,Marketing,Content Writer,,42.0,4.9,Active,80-6427998-4,"36 Mabini St, Quezon City",EMP-0023
+EMP-0021,Patricia Magsaysay,,+63-952-490-2374,1978-03-17,2015-01-05,Operations,Operations Manager,82212.0,46.0,2.8,Active,,"517 Main St, Makati",EMP-0017
+EMP-0043,Quinto Padilla,quinto.padilla@company.com,+63-961-700-1682,1974-01-10,2016-08-12,HR,HR Specialist,71639.0,50.0,,Active,48-4905896-2,"600 Del Pilar St, Quezon City",EMP-0043
+EMP-0044,Rosa  Ocampo ,rita.rosales@company.com,+63-951-837-9096,1996-10-05,2019-05-15,Finance,Financial Analyst,39590.0,28.0,2.9,Active,89-3428539-1,"845 Del Pilar St, Cebu City",EMP-0047
+EMP-0045,Samuel Tolentino,samuel.tolentino@company.com,+63-977-870-9263,1992-09-04,2016-07-24,IT,IT Manager,22107.0,-5.0,4.5,Active,84-4857765-2,"32 Main St, Quezon City",EMP-0041
+EMP-0046,Tess Uy,tess.uy@company.com,+63-958-955-8395,1986-03-07,2016-03-05,Sales,Sales Associate,26655.0,38.0,3.9,Active,90-9916148-4,,EMP-0030
+EMP-0047,Ulysses Velasco,ulysses.velasco@company.com,+63-978-194-9617,1973-02-22,2020-08-22,Marketing,Content Writer,28657.0,,4.2,Active,70-5231105-2,"867 Mabini St, Quezon City",EMP-0047
+EMP-0048,Vera Yap,vera.yap@company.com,+63-993-571-9092,1979-03-17,2017-08-03,Operations,Operations Manager,70142.0,45.0,2.2,Active,AB-1234567-8,"632 Rizal St, Makati",EMP-0039
+EMP-0049,Wesley Zamora,wesley.zamora@company.com,+63-942-767-5987,1976-08-12,2018-09-20,HR,HR Specialist,,48.0,2.0,Active,17-9150338-5,"996 Main St, Quezon City",EMP-0044
+EMP-0050,Xenia Abad,xenia.abad@company.com,+63-976-392-8613,1991-12-18,2018-04-06,Finance,Financial Analyst,81066.0,33.0,,Active,25-4342860-5,"88 Bonifacio St, Makati",EMP-0019
+EMP-0001,Maria Santos,maria.santos@company.com,+63-960-766-1791,1984-07-11,2016-09-09,HR,HR Specialist,29494.0,40.0,4.5,Active,22-7135241-1,"932 Del Pilar St, Quezon City",
+EMP-0008,Liza Torres,liza.torres@company.com,+63-973-693-8474,1985-09-16,2021-08-31,Finance,Financial Analyst,29012.0,39.0,4.5,Active,44-8954050-2,"63 Mabini St, Davao City",EMP-0044
+EMP-0014,Sofia Domingo,sofia.domingo@company.com,+63-924-448-1861,1989-10-07,2016-10-26,Finance,Financial Analyst,33419.0,35.0,2.0,Active,29-2702289-6,"629 Main St, Makati",EMP-0014
+EMP-0022,Nina Del Rosario,nina.delrosario@company.com,+63-961-861-2391,1987-10-04,2020-03-12,Sales,Sales Associate,40821.0,37.0,2.5,Active,26-1462193-3,"605 Bonifacio St, Quezon City",EMP-0040
+EMP-0035,Hector Castro,hector.castro@company.com,+63-943-185-4643,1998-06-17,2015-12-29,Marketing,Content Writer,28732.0,26.0,2.8,Active,25-8613056-1,"348 Del Pilar St, Cebu City",EMP-0018
