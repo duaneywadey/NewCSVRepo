@@ -1,0 +1,1001 @@
+EmployeeID,FullName,Email,Phone,BirthDate,Gender,Department,JobTitle,HireDate,Salary,PerformanceScore,City,EmploymentStatus,ManagerID,LastLoginDate,NationalID,BankAccount,YearsExperience
+emp-0001,Clara aRmos,,09826600539,07-25-1989,female,finance,Accountant,01-11-2024,,7.0,Cebu,Resigned,EMP0014,11-01-2026,ABC-DEFG-HIJ,,999
+emp-0002,Miguel Batuista,,+639146654552,05-26-1982,Male,finance,Accountant,09-15-2014,,6.0,Taguig,On Leave,EMP0006,17/09/2026,12-345-678,,150
+emp-0003,MarkG o,,09283758720,12-27-1960,female,marketing,SEO Specialist,28 Mar 2025,,-1.0,Quezon City,active,EMP0044,28 Sep 2026,12345,,-2
+emp-0004,Clraa Tan,,0924 853 2577,25 Jan 1977,m,Customer Support,CS Team Lead,09-30-2018,,99.0,Cebu,On Leave,EMP0010,10-24-2026,XX-XXXXXXX-X,,999
+emp-0005,Juan aRmos,,0977 141 0971,21 Aug 1972,f,human resources,Recruiter,09/08/2016,,-1.0,Quezon City,resigned,EMP0010,11-01-2026,XX-XXXXXXX-X,,150
+emp-0006,PedroS y,,0975-132-5257,12 Feb 1974,M,Customer Support,CS Representative,21 May 2023,,-1.0,Quezon City,On Leave,EMP0046,05/10/2026,12-345-678,,3
+emp-0007,Marai Aquino,,09621209849,24 Feb 2000,F,marketing,Marketing Associate,17/10/2024,,99.0,Caloocan,ACTIVE,EMP0016,26/09/2026,XX-XXXXXXX-X,,8
+emp-0008,Sofia Mnedoza,,0918-094-3908,26 Mar 1987,FEMALE,Legal,Legal Counsel,16/09/2021,,-1.0,Cebu,active,EMP0004,09 Sep 2026,12-345-678,,17
+emp-0009,Carlo Villanuvea,,09165452690,10-18-1991,m,Legal,Legal Counsel,04/12/2016,,11.0,Davao,resigned,EMP0004,04 Oct 2026,12345,,16
+emp-0010,Carl oSy,,0982 122 1887,18/07/1984,f,Operations,Logistics Coordinator,24 May 2021,,0.0,Cebu,AWOL,EMP0001,30 Oct 2026,INVALID,,0
+emp-0011,Bea Bauitsta,,+639897163846,02 Jul 1996,Female,Customer Support,CS Team Lead,16 Apr 2025,,-1.0,Pasig,active,EMP0014,11-01-2026,INVALID,,0
+emp-0012,Ramon Gracia,,09693269304,03/11/1970,FEMALE,FINANCE,Accountant,19/02/2010,,7.0,Pasig,On Leave,EMP0003,10-01-2026,12345,,10
+emp-0013,Maria Mercdao,,0947 544 2872,06/08/1990,FEMALE,finance,Financial Analyst,16/02/2012,,4.5,Quezon City,ACTIVE,EMP0002,10-09-2026,INVALID,,3
+emp-0014,Andrea Auqino,,0951-360-0440,13 Jan 1977,Male,Administration,Office Manager,06/03/2007,,3.8,Manila,On Leave,EMP0034,31/10/2026,12345,,26
+emp-0015,Clara Mednoza,,0999-520-5588,04/02/1965,m,IT,Network Engineer,09-11-2020,,1.8,Pasig,RESIGNED,EMP0030,03 Oct 2026,ABC-DEFG-HIJ,,15
+emp-0016,Rafae lDomingo,,09512293741,02 Feb 1964,m,Legal,Legal Counsel,21/10/2022,,1.6,Manila,Active,EMP0049,24 Sep 2026,23-8132769-3,,32
+emp-0017,Rafael eMndoza,,+639784683755,04/04/1974,f,IT,Network Engineer,10/07/2021,,3.1,Quezon City,resigned,EMP0018,23/10/2026,66-2299954-4,,34
+emp-0018,Maria Torres,,0984-681-2123,05-04-1978,f,Legal,Paralegal,30 Sep 2008,,4.1,Taguig,RESIGNED,EMP0031,01/10/2026,10-6901533-4,,26
+emp-0019,Patrici aLim,,+639129100607,26 Apr 2003,M,Legal,Legal Counsel,24 Oct 2023,,1.5,Caloocan,ACTIVE,EMP0012,09-26-2026,16-5364698-6,,5
+emp-0020,Maria aSntos,,09263619298,06 Aug 1989,FEMALE,Finace,Payroll Specialist,11-19-2010,,3.7,Quezon City,ACTIVE,EMP0030,29/09/2026,99-5299055-5,,7
+EMP0021,Vicotr Villanueva,,0970 766 5448,01-20-1961,M,Finace,Payroll Specialist,09-17-2010,,2.7,Pasig,AWOL,EMP0005,18/09/2026,74-6724909-0,6716572628498776,37
+EMP0022,Liza Curz,,+639711871397,01/04/1987,MALE,sales,Account Manager,29/10/2021,,3.0,Pasig,On Leave,EMP0012,09 Oct 2026,72-4558780-5,4549480831367837,20
+EMP0023,Elnea Santos,,0936-124-6928,17/06/1999,F,Legal,Paralegal,09-13-2024,,2.5,Pasig,AWOL,EMP0028,24/09/2026,80-6549757-5,7444313518233749,8
+EMP0024,AnaT orres,,09115191689,24 Jul 1986,FEMALE,Administration,Office Manager,07-06-2019,,4.9,Makati,On Leave,EMP0045,19 Oct 2026,26-9235577-1,0947775204711671,18
+EMP0025,Pedro aTn,,09699226355,10-05-1985,Female,Enginering,Senior Engineer,26/12/2006,,4.2,Quezon City,On Leave,EMP0050,10-31-2026,76-7381684-7,7496499091334123,5
+EMP0026,Rosa Satnos,,0941-273-7284,04-03-1978,male,Customer Support,CS Representative,04 Jan 2013,,3.8,Caloocan,On Leave,EMP0005,08 Oct 2026,97-4916201-4,9361832421024994,14
+EMP0027,Ramon Villnaueva,,0957 004 0006,03/07/1979,m,FINANCE,Financial Analyst,30 Sep 2016,,4.6,Pasig,RESIGNED,EMP0039,07 Oct 2026,42-1433940-1,3990490278742967,2
+EMP0028,Sofi aAquino,,0945 412 3990,10/12/1983,M,Legal,Paralegal,31 Jul 2024,,2.2,Taguig,resigned,EMP0049,10-28-2026,80-1615675-7,1545168087603859,24
+EMP0029,Victor eRyes,,0940 926 8943,07-03-1991,F,Legal,Paralegal,06 Jun 2017,,2.9,Manila,resigned,EMP0041,09 Sep 2026,87-5014745-2,4808613171274846,15
+EMP0030,Rafeal Lim,,09645719501,03/05/1995,female,Legal,Legal Counsel,18/03/2024,,2.1,Taguig,RESIGNED,EMP0022,30/09/2026,74-5482413-0,4499727875588675,13
+EMP0031,  Liza Tan  ,,0914-686-5930,22/07/1980,m,marketing,SEO Specialist,17/09/2009,,3.8,Taguig,resigned,EMP0025,12/10/2026,94-3551903-7,0289517187026217,25
+EMP0032,patricia go,,09824085842,22/12/1978,m,SALES,Account Manager,22/01/2025,,3.5,Caloocan,On Leave,EMP0035,10-17-2026,14-2147909-3,4316117240050455,13
+EMP0033,  Gabriel Domingo  ,,+639287979290,12-08-1967,F,Human Resourses,HR Specialist,20/12/2010,,2.5,Quezon City,resigned,EMP0032,28/10/2026,84-3401116-3,7474074821759464,29
+EMP0034,miguel mercado,,+639717199615,07-16-1998,M,sales,Sales Representative,12-01-2022,,2.2,Taguig,active,EMP0018,16/10/2026,11-1822825-9,7439533942104709,5
+EMP0035,  Grace Aquino  ,,+639679184667,08-22-1978,f,Human Resourses,HR Specialist,09-05-2022,,4.7,Davao,Resigned,EMP0017,18 Sep 2026,71-5951651-5,1712368516048175,21
+EMP0036,miguel chua,,+639126870011,24/09/1981,f,SALES,Sales Lead,19/04/2013,-43720.54,1.9,Cebu,resigned,EMP0041,08/10/2026,69-6069909-6,1200471138267586,18
+EMP0037,  Antonio Bautista  ,,09400368694,09/01/1973,f,human resources,Recruiter,29 Jul 2018,-86098.75,1.9,Caloocan,Active,EMP0016,08/09/2026,56-2666893-5,8506431713900532,13
+EMP0038,carlo tan,,+639946799779,20 Jul 1991,FEMALE,finance,Payroll Specialist,18 Feb 2021,-85810.88,4.9,Davao,active,EMP0035,29/10/2026,42-3927575-1,0205395024026811,15
+EMP0039,  Gabriel Tan  ,,+639760465943,28 Mar 1998,Female,Legal,Paralegal,09-19-2021,-61363.33,4.6,Makati,ACTIVE,EMP0030,09-08-2026,92-1522621-0,7661771159212499,8
+EMP0040,patricia pascual,,+639206492059,30 Mar 1986,MALE,Operations,Logistics Coordinator,24 Aug 2016,-90749.66,3.6,Quezon City,Resigned,EMP0028,11/10/2026,67-4833486-6,5766156545271111,13
+EMP0041,  Clara Navarro  ,@company.com,0970 310 2938,04/02/1996,male,Finace,Payroll Specialist,11/12/2025,-58741.57,2.6,Taguig,AWOL,EMP0047,10-03-2026,16-5825620-9,4519832731585149,3
+EMP0042,victor ong,USER@COMPANY,0975 390 3309,12-12-1964,m,IT,Network Engineer,12-07-2013,-83334.79,2.1,Makati,Active,EMP0022,06/11/2026,54-1102438-2,2961201836675254,20
+EMP0043,  Maria Garcia  ,user@,09392168202,01-03-1994,F,Administration,Admin Assistant,18 Dec 2025,-89157.05,2.9,Caloocan,RESIGNED,EMP0027,02/11/2026,44-4616647-8,1561497840369003,4
+EMP0044,victor ramos,not-an-email,09902100304,06-03-1986,MALE,marketing,Marketing Associate,11/04/2024,0.0,2.5,Quezon City,AWOL,EMP0033,07/10/2026,81-6941939-1,6060715969664160,10
+EMP0045,  Rafael Go  ,not-an-email,0936-125-9074,04/10/1981,F,HR,HR Manager,01-04-2018,0.0,3.1,Taguig,ACTIVE,EMP0020,11-01-2026,53-4717362-5,2181883552312432,19
+EMP0046,jose mendoza,@company.com,09915911873,15/03/1964,male,human resources,HR Manager,21 Jun 2017,0.0,4.5,Pasig,On Leave,EMP0041,02/10/2026,50-3532644-7,1774490581477005,18
+EMP0047,  Jose Ong  ,user@@company.com,0969-519-2667,08 Mar 1966,female,finance,Payroll Specialist,16 Jan 2019,0.0,4.2,Quezon City,RESIGNED,EMP0021,01/10/2026,87-8979730-8,2071518203778892,23
+EMP0048,miguel domingo,user company@test.com,09777409303,06/12/1982,f,Operations,Logistics Coordinator,27 Oct 2014,0.0,1.4,Taguig,active,EMP0019,18 Sep 2026,42-3522845-5,1925462914865281,20
+EMP0049,  Andrea Santos  ,user@,+639466932310,13/06/1981,Male,IT,Network Engineer,31/01/2023,44960.68,5.0,Davao,Resigned,EMP0005,25 Oct 2026,47-2696860-8,8805929622292706,11
+EMP0050,patricia villanueva,user@,+639968253265,23/07/1976,Male,Markting,Content Strategist,02-01-2016,137516.66,1.8,Caloocan,resigned,EMP0030,19 Oct 2026,46-7406756-8,8623924075818141,10
+EMP0051,  Gabriel Garcia  ,user.company.com,0997-692-8440,04 Oct 1977,Male,sales,Account Manager,12-04-2007,135001.87,4.7,Taguig,AWOL,EMP0004,24/10/2026,60-9422281-5,3615305152204727,28
+EMP0052,jose santos,user.company.com,+639880862406,29 Jul 1988,Male,Administration,Admin Assistant,02-17-2010,34454.29,2.2,Makati,Resigned,EMP0008,03/10/2026,16-5000351-6,9711798089324609,11
+EMP0053,  Sofia Mendoza  ,not-an-email,09172670118,12-16-1961,M,Markting,SEO Specialist,12-15-2024,70758.99,2.9,Taguig,Active,EMP0024,15 Oct 2026,42-1272499-5,1531952058527722,4
+EMP0054,grace torres,user@@company.com,+639432941445,03 Aug 2002,FEMALE,Legal,Legal Counsel,08/07/2021,148585.95,3.2,Makati,active,EMP0003,18/10/2026,92-4206183-4,5054156676527758,2
+EMP0055,  Sofia Cruz  ,user.company.com,0968 569 8675,01-15-1977,F,Finace,Payroll Specialist,17/12/2006,61757.49,1.3,Makati,ACTIVE,EMP0020,27 Oct 2026,67-8149041-2,7570596401658202,28
+EMP0056,Jose Flores,@company.com,09709074302,05-20-1963,Male,engineering,Senior Engineer,27/06/2019,98662.33,3.7,Pasig,resigned,EMP0024,09-08-2026,66-2289923-9,2856543102786814,16
+EMP0057,Patricia Villanueva,user.company.com,0917 951 2774,08-10-1973,FEMALE,Legal,Legal Counsel,23/03/2024,42445.33,3.9,Cebu,resigned,EMP0044,14 Sep 2026,50-6828829-1,8844225831323705,35
+EMP0058,Rafael Lim,@company.com,+639432098383,06/01/1996,m,Administration,Office Manager,22 Mar 2016,149947.36,3.9,Taguig,resigned,EMP0050,03/11/2026,62-2237331-2,5177852892268018,2
+EMP0059,Rosa Aquino,@company.com,0940-499-4549,23/05/1990,Female,SALES,Sales Representative,18 Oct 2009,52578.69,3.5,Makati,On Leave,EMP0009,05 Oct 2026,90-6080553-9,8182992299590010,18
+EMP0060,Carlo Tan,@company.com,+639773412230,01-07-1978,Female,sales,Sales Lead,03/01/2014,103447.95,2.2,Quezon City,Resigned,EMP0044,10-07-2026,61-5990112-7,1027677359255562,24
+EMP0061,Paolo Flores,@company.com,0925-126-6214,19/09/1975,,Operations,Operations Analyst,11 May 2021,26578.69,4.8,Taguig,AWOL,EMP0016,23/10/2026,30-6493461-9,5327877470168733,22
+EMP0062,Grace Mercado,user.company.com,+639676267306,12-23-1965,,ENGINEERING,Software Engineer,06 May 2013,130132.41,2.7,Makati,RESIGNED,EMP0047,10-20-2026,56-7765480-5,0609835841687849,39
+EMP0063,Ana Castillo,user@@company.com,0991 063 7681,29/05/1981,,finance,Accountant,12 Aug 2015,45877.52,3.0,Manila,AWOL,EMP0003,10-15-2026,14-3299088-5,7872982595269495,16
+EMP0064,Ramon Tan,not-an-email,09455665802,03-19-1985,,Customer Support,CS Team Lead,05/07/2010,147386.74,3.3,Manila,active,EMP0039,15/10/2026,70-5454861-9,9309728962309130,14
+EMP0065,Pedro Domingo,user.company.com,09606382505,04-20-1991,,Operations,Logistics Coordinator,24 Mar 2018,111750.78,3.1,Pasig,active,EMP0043,29 Sep 2026,71-9816043-6,5278585497334843,9
+EMP0066,Carlo Go,carlo.go66@company.com,+639954059995,11/06/1973,,SALES,Sales Lead,26/02/2017,57412.62,3.3,Taguig,RESIGNED,EMP0026,03/10/2026,54-3457461-4,0415747338484219,15
+EMP0067,Bea Pascual,bea.pascual67@company.com,+639543778963,25/12/1989,,marketing,Marketing Associate,07-05-2022,113256.55,1.4,Davao,AWOL,EMP0001,11-01-2026,80-3649811-6,7734540193802620,12
+EMP0068,Clara Villanueva,clara.villanueva68@company.com,09215213239,11-09-2002,,Legal,Legal Counsel,02/12/2024,56993.01,5.0,Caloocan,AWOL,EMP0009,30 Sep 2026,74-8852085-4,3152742054932966,4
+EMP0069,Miguel Sy,miguel.sy69@company.com,0944-746-4644,08-12-1998,,Operations,Operations Analyst,13 Jan 2017,20887.92,2.5,Caloocan,ACTIVE,EMP0049,08/10/2026,44-6530194-4,9904530174268414,5
+EMP0070,Liza Garcia,liza.garcia70@company.com,09501176618,09-03-1974,,Administration,Admin Assistant,25/08/2017,111252.29,4.7,Quezon City,ACTIVE,EMP0049,30 Sep 2026,41-2373555-8,7851910883982258,28
+EMP0071,Carlo Go,carlo.go71@company.com,+639578333394,17 Mar 1967,,Finace,Payroll Specialist,07 Nov 2024,78946.2,3.1,Caloocan,Resigned,EMP0037,06/10/2026,17-8757420-4,0640391065180170,18
+EMP0072,Victor Garcia,victor.garcia72@company.com,09510684364,12-28-1962,,IT,IT Support,08-01-2007,133050.64,4.6,Taguig,Active,EMP0006,15 Oct 2026,97-3231198-5,1286823004786863,15
+EMP0073,Pedro Ramos,pedro.ramos73@company.com,0955 015 6166,09-19-1992,,Legal,Paralegal,02-21-2026,51286.62,1.3,Manila,On Leave,EMP0029,26/09/2026,86-1816653-3,0673830284395995,7
+EMP0074,Bea Pascual,bea.pascual74@company.com,09697771523,19 Apr 1990,,sales,Sales Representative,22/04/2021,101379.11,2.7,Caloocan,Active,EMP0004,11-04-2026,54-7394713-8,5662462873342708,13
+EMP0075,Gabriel Garcia,gabriel.garcia75@company.com,09794395127,07-17-1980,,IT,Network Engineer,09/08/2021,139889.39,4.4,Cebu,AWOL,EMP0035,17 Oct 2026,34-1864641-4,6990139837354033,23
+EMP0076,Victor Mercado,victor.mercado76@company.com,+639525880424,25 Nov 1988,,FINANCE,Payroll Specialist,04-18-2015,91770.31,4.1,Taguig,RESIGNED,EMP0030,10-25-2026,78-7027375-4,4587717535560932,0
+EMP0077,Daniel Tan,daniel.tan77@company.com,0934-698-0616,06-21-1978,,SALES,Sales Lead,20 Aug 2023,94072.64,2.0,Pasig,resigned,EMP0017,17/10/2026,72-9230828-7,2522872808010062,26
+EMP0078,Ramon Garcia,ramon.garcia78@company.com,+639164907817,24 Jul 2004,,Marketing,Marketing Associate,23/09/2024,105706.96,1.1,Taguig,Active,EMP0001,15/10/2026,12-9882154-4,8408621182339845,2
+EMP0079,Andrea Castillo,andrea.castillo79@company.com,0934 251 2383,04 Feb 1975,,IT,IT Support,11-02-2021,108925.41,4.4,Manila,RESIGNED,EMP0006,09-24-2026,61-7362994-6,8700217659180339,30
+EMP0080,Jose Sy,jose.sy80@company.com,09292580427,12 Feb 1987,,Sales,Sales Representative,02 Jul 2015,22035.55,1.8,Davao,Resigned,EMP0049,11-05-2026,60-2290796-4,2939685621850163,2
+EMP0081,Victor Aquino,victor.aquino81@company.com,0962-678-1451,24 Dec 2002,Male,Operations,Logistics Coordinator,05-04-2025,66255.46,4.8,Taguig,,EMP0012,10 Oct 2026,97-7376562-1,9431142626551104,3
+EMP0082,Ana Garcia,ana.garcia82@company.com,0969 564 7539,11 Aug 1999,Female,Operations,Logistics Coordinator,11 Nov 2022,33428.08,1.4,Cebu,,EMP0039,10-03-2026,86-6443037-6,0466183982622444,7
+EMP0083,Rosa Domingo,rosa.domingo83@company.com,09182593686,04-16-1987,Female,Human Resources,HR Specialist,20 Sep 2020,52720.97,2.0,Caloocan,,EMP0039,18 Sep 2026,88-4280754-7,1240659657569245,19
+EMP0084,Paolo Mendoza,paolo.mendoza84@company.com,0977 957 3843,09 Jun 1979,Female,Marketing,Content Strategist,19 Nov 2020,145809.2,4.1,Pasig,,EMP0025,09-24-2026,45-7592357-5,1939828073741672,20
+EMP0085,Mark Sy,mark.sy85@company.com,09582181718,04-13-1995,Female,Sales,Sales Representative,07-22-2016,95691.72,3.1,Taguig,,EMP0035,03 Nov 2026,14-7031903-8,9113529096561014,3
+EMP0086,Rafael Navarro,rafael.navarro86@company.com,09841351411,27 Mar 1979,Male,Customer Support,CS Representative,15/05/2011,64845.76,1.1,Cebu,,EMP0019,01 Oct 2026,63-2440404-1,2545738757177514,1
+EMP0087,Paolo Chua,paolo.chua87@company.com,09895094534,03/12/1997,Male,Finance,Accountant,25/10/2018,87079.21,3.2,Pasig,,EMP0036,09-09-2026,64-8751982-3,6226609379660334,1
+EMP0088,Elena Lim,elena.lim88@company.com,0922 235 8216,05-12-1993,Female,Administration,Admin Assistant,10-30-2021,107191.19,3.0,Pasig,,EMP0039,09/10/2026,59-7585795-9,1557924991251341,5
+EMP0089,Gabriel Castillo,gabriel.castillo89@company.com,0955-423-4434,18/01/1978,Male,Operations,Operations Analyst,04/12/2023,83267.13,3.1,Davao,,EMP0036,14/10/2026,31-9214830-4,2257905072368876,21
+EMP0090,Ramon Salazar,ramon.salazar90@company.com,+639954570592,27 Aug 1973,Male,Legal,Paralegal,05 Jan 2025,57971.69,2.1,Makati,,EMP0011,06/11/2026,68-9309978-8,8191485807836134,2
+EMP0091,Andrea Cruz,andrea.cruz91@company.com,0932 535 4965,20/09/1976,Female,Legal,Paralegal,04-21-2011,131936.33,3.4,Taguig,,EMP0011,23/10/2026,88-3335975-3,3095849825449481,8
+EMP0092,Mark Chua,mark.chua92@company.com,0925 702 7702,11-21-1995,Female,IT,IT Support,06-09-2016,127702.63,4.0,Taguig,,EMP0032,10-23-2026,28-5508325-6,6711684577590175,1
+EMP0093,Carlo Domingo,carlo.domingo93@company.com,09404505751,08/03/1991,Female,Customer Support,CS Team Lead,02-21-2022,91150.37,1.5,Caloocan,,EMP0022,09-15-2026,97-1812172-0,1701277063242415,8
+EMP0094,Bea Chua,bea.chua94@company.com,0987-952-4067,20/10/1994,Male,Finance,Financial Analyst,03-09-2021,75800.02,1.4,Cebu,,EMP0001,10-19-2026,37-8999489-1,2938700516271361,11
+EMP0095,Paolo Navarro,paolo.navarro95@company.com,09908697030,08/09/1985,Male,Finance,Accountant,29 Jan 2019,103404.9,3.7,Cebu,,EMP0034,09-16-2026,82-1142182-9,2753269731121965,13
+EMP0096,Liza Ramos,liza.ramos96@company.com,0974-425-3537,10-11-1963,Female,Operations,Operations Analyst,27 Sep 2021,121266.05,3.8,Makati,Active,EMP0014,30/09/2026,76-9548370-3,6403761379180552,24
+EMP0097,Andrea Lim,andrea.lim97@company.com,0917-837-4393,08-27-1961,Male,Administration,Office Manager,07-24-2011,96357.25,1.1,Quezon City,Active,EMP0003,19/09/2026,17-7676912-8,4866618892414183,9
+EMP0098,Miguel Tan,miguel.tan98@company.com,0943-304-1955,26/12/1963,Female,Customer Support,CS Team Lead,05/03/2013,114894.59,4.4,Manila,Active,EMP0016,11-03-2026,21-8289425-1,7990421020275884,10
+EMP0099,Clara Ramos,clara.ramos99@company.com,0939-203-6942,30/10/1997,Male,Operations,Operations Analyst,13 Jan 2023,54183.45,4.9,Cebu,Active,EMP0032,11/10/2026,68-9569497-5,0792524191380003,0
+EMP0100,Miguel Garcia,miguel.garcia100@company.com,+639866673993,10-28-1993,Female,Legal,Paralegal,22 Jun 2018,49186.99,2.0,Pasig,Active,EMP0018,09-10-2026,19-7254683-1,8023806174451870,11
+EMP0101,Daniel Villanueva,daniel.villanueva101@company.com,+639629741991,07-21-1965,Male,Marketing,Content Strategist,06-21-2017,115220.23,3.2,Quezon City,Active,,10-01-2026,10-7879264-0,3850506413836702,17
+EMP0102,Liza Pascual,liza.pascual102@company.com,0990 305 0869,26/11/1977,Male,Finance,Accountant,06 Dec 2008,95500.18,3.0,Taguig,Active,,10-09-2026,85-2044933-6,2344565574313291,4
+EMP0103,Rafael Salazar,rafael.salazar103@company.com,0992-714-2786,23 Apr 1984,Male,Finance,Accountant,05 Apr 2024,78749.22,2.9,Cebu,Active,,16 Oct 2026,30-6103880-9,0352135680442067,17
+EMP0104,Ana Salazar,ana.salazar104@company.com,0999-160-5503,09-04-1998,Male,Customer Support,CS Representative,17 Jun 2025,36992.98,4.3,Pasig,Active,,11-04-2026,90-2409947-9,9410137215107029,6
+EMP0105,Juan Castillo,juan.castillo105@company.com,09300951978,04-19-1961,Female,IT,Systems Administrator,03-26-2023,56381.09,4.5,Manila,Active,,25/10/2026,89-5123584-4,7687014626383806,22
+EMP0106,Andrea Tan,andrea.tan106@company.com,+639127984900,09 Jun 1972,Female,Legal,Paralegal,19 Dec 2018,97625.13,1.1,Makati,Active,,27/10/2026,70-9882399-5,9321334803965223,20
+EMP0107,Ramon Go,ramon.go107@company.com,0930-211-4356,02-01-1982,Female,Operations,Operations Analyst,02/07/2015,90476.2,1.7,Manila,Active,,02 Oct 2026,17-4902772-9,3087059325250029,22
+EMP0108,Gabriel Navarro,gabriel.navarro108@company.com,+639524767500,06 May 2000,Male,Human Resources,HR Specialist,27/02/2021,63752.94,2.3,Davao,Active,,26 Sep 2026,65-9173859-5,2895392644220969,0
+EMP0109,Paolo Ong,paolo.ong109@company.com,0963 277 4653,24/12/1989,Male,Human Resources,HR Manager,04/08/2016,63051.9,1.3,Pasig,Active,,09-09-2026,31-2488575-5,7043315410067626,15
+EMP0110,Camille Castillo,camille.castillo110@company.com,0979-897-3247,14/03/1998,Male,IT,Systems Administrator,12-05-2018,41145.35,1.3,Manila,Active,,10-02-2026,12-6347182-4,1152621815997062,9
+EMP0111,Maria Bautista,maria.bautista111@company.com,0984-860-9261,05/08/1983,Female,IT,IT Support,16/05/2007,105877.73,2.2,Cebu,Active,,12 Oct 2026,60-9236745-2,0506149731032417,3
+EMP0112,Isabel Mercado,isabel.mercado112@company.com,0951 610 4074,07-11-1962,Male,Sales,Account Manager,05/11/2024,68232.67,2.5,Davao,Active,,10-04-2026,15-5417373-7,7434902115869380,24
+EMP0113,Camille Sy,camille.sy113@company.com,0942-089-0008,31 Jan 1974,Male,Customer Support,CS Team Lead,16/03/2009,71324.57,4.4,Manila,Active,,08 Oct 2026,83-9670757-9,9217223320616329,16
+EMP0114,Jose Castillo,jose.castillo114@company.com,09396568375,02/05/1969,Female,Operations,Operations Analyst,09-23-2015,139231.05,1.0,Taguig,Active,,14/09/2026,63-3510581-2,9991191485646799,30
+EMP0115,Mark Castillo,mark.castillo115@company.com,+639531343461,03/01/1995,Male,Engineering,Senior Engineer,11-12-2018,71453.06,4.5,Quezon City,Active,,24/09/2026,70-5506097-5,0544471324754691,3
+EMP0116,Sofia Mercado,sofia.mercado116@company.com,0994-985-6342,14/05/1971,Male,Legal,Legal Counsel,28/05/2010,28530.21,3.8,Taguig,Active,,10-06-2026,77-1485669-2,3303070534578610,15
+EMP0117,Patricia Salazar,patricia.salazar117@company.com,0946-963-4556,03-18-1993,Male,Operations,Logistics Coordinator,21 Dec 2017,128894.99,2.0,Cebu,Active,,16 Oct 2026,13-7485495-0,2933334680072290,7
+EMP0118,Elena Villanueva,elena.villanueva118@company.com,09474423649,06/07/1963,Female,Sales,Sales Lead,07 Apr 2018,52759.83,2.9,Taguig,Active,,14 Oct 2026,23-1123271-8,5899441715454443,9
+EMP0119,Maria Ong,maria.ong119@company.com,0987-447-1936,16 Dec 1978,Male,Customer Support,CS Representative,29 Apr 2020,105202.07,5.0,Makati,Active,,30/10/2026,61-7514172-0,9935387584282417,4
+EMP0120,Elena Lim,elena.lim120@company.com,+639195884955,02 Dec 1992,Male,Sales,Sales Lead,06/05/2013,66186.84,4.0,Makati,Active,,09-27-2026,52-7235796-4,9471709991738168,9
+EMP0121,Pedro Garcia,pedro.garcia121@company.com,+639591313587,05-24-1992,Male,IT,IT Support,03-10-2020,61129.85,3.9,Cebu,Active,,10-02-2026,52-3966618-5,0074329271296666,15
+EMP0122,Maria Lim,maria.lim122@company.com,0944 597 3716,08/05/1992,Male,IT,IT Support,26 Aug 2011,22329.1,1.0,Quezon City,Active,,09-11-2026,98-6777230-4,2168942104478985,13
+EMP0123,Isabel Navarro,isabel.navarro123@company.com,+639971887294,23/08/1992,Female,Human Resources,Recruiter,09-06-2011,22486.22,1.9,Davao,Active,,10/09/2026,12-9466346-2,1506489090100167,12
+EMP0124,Mark Mercado,mark.mercado124@company.com,09109990686,08-02-1995,Female,Finance,Payroll Specialist,10-04-2017,74713.29,1.4,Makati,Active,,28 Sep 2026,87-3301222-6,1891411739348356,4
+EMP0125,Camille Mercado,camille.mercado125@company.com,0935-179-8116,29 Nov 1990,Male,Human Resources,HR Specialist,26/12/2010,21657.42,1.4,Cebu,Active,,10-17-2026,95-9289690-2,1811437447012045,10
+EMP0126,Ana Bautista,ana.bautista126@company.com,+639794924237,09/11/2002,Male,IT,Network Engineer,09-17-2021,62725.91,4.6,Makati,Active,,26 Sep 2026,21-7251562-5,2166746762120216,4
+EMP0127,Rosa Ong,rosa.ong127@company.com,0983 493 7767,19/05/1980,Male,Legal,Paralegal,07-22-2014,82800.36,3.0,Taguig,Active,,13/09/2026,15-2062602-4,5089935889163756,4
+EMP0128,Juan Chua,juan.chua128@company.com,0963-239-8698,02/03/1994,Male,Customer Support,CS Representative,11 Dec 2014,29732.48,3.0,Quezon City,Active,,14 Sep 2026,45-1844744-8,3866317797177517,11
+EMP0129,Miguel Domingo,miguel.domingo129@company.com,0919-759-8351,02-01-2002,Female,Engineering,Software Engineer,06-20-2023,135714.42,3.2,Caloocan,Active,,16/09/2026,56-1910586-3,7589975711305548,4
+EMP0130,Maria Mendoza,maria.mendoza130@company.com,0987-476-8179,09-10-1973,Female,Operations,Operations Analyst,22 May 2010,33905.0,3.4,Quezon City,Active,,21 Sep 2026,60-4616991-7,3516091779827080,35
+EMP0131,Isabel Pascual,isabel.pascual131@company.com,0997-536-1748,11-26-1992,Male,IT,Network Engineer,04 Feb 2018,33462.01,3.6,Pasig,Active,,22/09/2026,59-8024028-9,3465472269848583,6
+EMP0132,Ramon Villanueva,ramon.villanueva132@company.com,+639862782374,31/05/1961,Male,Marketing,SEO Specialist,03 Jun 2008,85506.15,3.8,Pasig,Active,,10-30-2026,24-6909569-8,7996846081062003,17
+EMP0133,Bea Ramos,bea.ramos133@company.com,09319044298,10-15-1995,Male,Human Resources,Recruiter,25 Oct 2017,66628.72,2.8,Quezon City,Active,,20/10/2026,92-7524435-3,8406665800439735,12
+EMP0134,Victor Torres,victor.torres134@company.com,09179960473,04-02-1986,Male,Administration,Admin Assistant,21/02/2023,145121.78,3.9,Cebu,Active,,25/09/2026,15-8189168-4,8422940572025909,21
+EMP0135,Elena Tan,elena.tan135@company.com,0944 129 8507,22 May 1969,Male,Sales,Account Manager,17 Mar 2025,144408.4,3.1,Davao,Active,,09-23-2026,79-7768215-1,5335554398780157,15
+EMP0136,Maria Sy,maria.sy136@company.com,+639221734439,05-06-1984,Female,Administration,Admin Assistant,07-11-2008,53356.77,3.9,Manila,Active,,08/09/2026,57-9628674-8,7704358112880133,21
+EMP0137,Carlo Lim,carlo.lim137@company.com,09901967913,12-23-1976,Male,IT,IT Support,28 Jun 2010,23087.88,3.9,Manila,Active,,11-03-2026,19-1910467-2,4819346676650618,0
+EMP0138,Victor Tan,victor.tan138@company.com,+639639917068,11-20-2001,Male,Administration,Admin Assistant,25/09/2021,57678.76,3.7,Cebu,Active,,16/10/2026,66-7399057-6,0728326842450882,0
+EMP0139,Daniel Ong,daniel.ong139@company.com,0942 715 9637,17/02/1979,Male,Engineering,Software Engineer,10-26-2015,117278.56,4.6,Pasig,Active,,02 Nov 2026,62-9599207-2,2239431290878141,8
+EMP0140,Clara Tan,clara.tan140@company.com,0980-380-8754,04/06/1973,Male,Finance,Accountant,02 Aug 2019,33005.86,3.5,Quezon City,Active,,26 Sep 2026,72-8560584-5,9492995562053364,23
+EMP0141,Clara Aquino,clara.aquino141@company.com,+639427997841,29/03/1974,Female,Human Resources,HR Manager,11-02-2017,91717.34,1.7,Cebu,Active,EMP5836,09-19-2026,27-4295580-4,1108099693084887,9
+EMP0142,Liza Tan,liza.tan142@company.com,+639197231642,10 Sep 1986,Female,Operations,Logistics Coordinator,16 Jun 2017,67302.52,1.0,Quezon City,Active,EMP8102,06 Oct 2026,97-3782393-8,2722992750373145,7
+EMP0143,Gabriel Navarro,gabriel.navarro143@company.com,+639149861842,23 Mar 1980,Male,Engineering,Senior Engineer,27/06/2008,147476.67,2.3,Makati,Active,EMP5287,12 Sep 2026,43-3916715-6,6591846386557790,16
+EMP0144,Rosa Flores,rosa.flores144@company.com,+639261319410,24 Feb 2000,Male,Human Resources,Recruiter,20/08/2021,40456.46,3.4,Cebu,Active,EMP6075,25 Oct 2026,39-7956063-5,1777392603029922,8
+EMP0145,Maria Mendoza,maria.mendoza145@company.com,09743555234,08-16-1988,Male,Engineering,Senior Engineer,06-05-2016,134206.17,3.9,Makati,Active,EMP6069,10-13-2026,37-8536381-9,7723692929842579,18
+EMP0146,Miguel Castillo,miguel.castillo146@company.com,0964 155 1915,20 Sep 1996,Female,Finance,Accountant,16 Jun 2026,127446.84,3.4,Davao,Active,EMP8682,05/10/2026,88-1654924-8,8117298068650863,12
+EMP0147,Andrea Tan,andrea.tan147@company.com,0961-232-6496,02 Oct 1968,Male,Legal,Paralegal,26/03/2018,138311.1,1.3,Taguig,Active,EMP7453,22 Oct 2026,34-1091762-0,9818063565126944,34
+EMP0148,Andrea Ong,andrea.ong148@company.com,0954 370 0355,04 Dec 1986,Female,IT,Network Engineer,15 Oct 2018,43233.55,3.2,Caloocan,Active,EMP6976,25 Oct 2026,49-6777340-6,2137213865890260,2
+EMP0149,Patricia Domingo,patricia.domingo149@company.com,0918 594 2015,10-13-1999,Male,Human Resources,Recruiter,03/05/2024,114184.31,4.7,Taguig,Active,EMP7032,15/10/2026,93-9741022-4,9027703843098839,2
+EMP0150,Liza Chua,liza.chua150@company.com,09937167377,24 Aug 2004,Female,Engineering,QA Engineer,27/04/2026,65906.6,2.6,Quezon City,Active,EMP5433,21/10/2026,11-2151205-1,8489554393769042,3
+EMP0151,Camille Cruz,camille.cruz151@company.com,0996 215 2669,06-23-1972,Female,Customer Support,CS Representative,04 Dec 2019,133894.7,4.3,Makati,Active,EMP6746,10-31-2026,66-7326357-9,7357790714163356,22
+EMP0152,Ramon Ramos,ramon.ramos152@company.com,09904005131,06-22-1989,Female,Customer Support,CS Representative,26 Nov 2024,29883.75,4.7,Caloocan,Active,EMP8604,25/09/2026,55-4666931-9,4237333433339521,3
+EMP0153,Bea Mercado,bea.mercado153@company.com,+639145379683,19/11/1965,Female,Finance,Payroll Specialist,07-13-2011,68255.55,2.3,Makati,Active,EMP6443,04 Oct 2026,33-9575399-4,6392086780856271,33
+EMP0154,Ramon Santos,ramon.santos154@company.com,0920 817 7158,03/12/2003,Female,Legal,Paralegal,11-07-2025,67008.3,4.4,Davao,Active,EMP9030,10-01-2026,43-4978534-4,7955276365564729,1
+EMP0155,Ana Ramos,ana.ramos155@company.com,0931-052-1278,05 Feb 1989,Male,Administration,Admin Assistant,13/07/2018,124004.87,4.0,Caloocan,Active,EMP5552,10-14-2026,32-8071943-7,2885744890612034,15
+EMP0156,Clara Aquino,clara.aquino156@company.com,09969747935,16/05/1988,Female,Finance,Financial Analyst,07-10-2019,64738.24,2.6,Pasig,Active,EMP0044,03/10/2026,87-4337963-9,9824558771694722,20
+EMP0157,Antonio Ong,antonio.ong157@company.com,+639184945787,04-28-1968,Male,Operations,Logistics Coordinator,08/11/2009,64671.31,2.3,Makati,Active,EMP0046,03 Nov 2026,44-7634639-4,7598762202341326,6
+EMP0158,Isabel Lim,isabel.lim158@company.com,+639921408597,31 Oct 2001,Male,Finance,Accountant,30/05/2021,33510.69,3.5,Cebu,Active,EMP0042,05/10/2026,59-6190378-3,3472282005577848,7
+EMP0159,Camille Mendoza,camille.mendoza159@company.com,+639782739957,21/01/1967,Female,Human Resources,HR Manager,08-13-2017,88049.77,3.6,Makati,Active,EMP0023,21 Sep 2026,71-4810582-1,7456424008254780,31
+EMP0160,Juan Domingo,juan.domingo160@company.com,+639688638365,16/01/1986,Female,Legal,Paralegal,28/01/2022,44514.23,4.5,Taguig,Active,EMP0026,07/11/2026,41-3739207-6,6341638944846312,4
+EMP0161,Antonio Salazar,antonio.salazar161@company.com,09628276702,05 Apr 1965,Male,Sales,Sales Representative,07 Apr 2021,61683.68,1.6,Manila,Active,EMP0012,29/09/2026,23-5733096-4,2703120735647570,21
+EMP0162,Maria Ramos,maria.ramos162@company.com,09306364903,14/10/1979,Female,Finance,Accountant,11-26-2015,126242.59,4.3,Cebu,Active,EMP0050,27 Oct 2026,41-7455837-7,3037183764520881,8
+EMP0163,Carlo Navarro,carlo.navarro163@company.com,0935 336 6389,12-07-2000,Female,Legal,Paralegal,03-03-2025,62186.75,1.7,Makati,Active,EMP0038,31 Oct 2026,25-7640561-3,0097925132719500,5
+EMP0164,Camille Bautista,camille.bautista164@company.com,0994-671-1815,10/03/1996,Female,Human Resources,HR Manager,28 Nov 2023,124718.3,2.8,Quezon City,Active,EMP0002,03/10/2026,98-7337911-5,2407784873928557,4
+EMP0165,Jose Pascual,jose.pascual165@company.com,0968 154 4961,30/03/1995,Female,Administration,Admin Assistant,14/11/2022,79030.27,4.1,Taguig,Active,EMP0047,10-22-2026,33-1314067-9,5935186387829456,10
+EMP0166,Ana Pascual,ana.pascual166@company.com,0923-934-4057,20/10/1962,Male,Operations,Operations Analyst,14/10/2025,133554.06,1.8,Caloocan,Active,EMP0013,08 Sep 2026,22-1533803-9,6789940539103717,40
+EMP0167,Camille Domingo,camille.domingo167@company.com,0938 541 7366,11-21-1980,Male,Engineering,QA Engineer,01/07/2025,115459.04,4.3,Cebu,Active,EMP0014,29 Sep 2026,76-2629390-1,3863383928861957,22
+EMP0168,Rosa Mendoza,rosa.mendoza168@company.com,0926-984-0673,30 Apr 1969,Female,IT,IT Support,30/08/2016,141357.6,4.6,Pasig,Active,EMP0024,26/09/2026,62-8224069-5,9398368457760049,1
+EMP0169,Grace Santos,grace.santos169@company.com,09123301671,27 Jul 1985,Female,Customer Support,CS Representative,05-26-2022,139484.57,3.0,Davao,Active,EMP0007,10-18-2026,14-8723723-5,2245933441969315,15
+EMP0170,Ramon Go,ramon.go170@company.com,0914 012 7441,04 Oct 1968,Female,Human Resources,Recruiter,15 Nov 2014,30202.06,1.2,Pasig,Active,EMP0023,19 Oct 2026,65-7988074-1,3906048058925832,3
+EMP0171,Victor Ong,victor.ong171@company.com,09411152157,08 Mar 1968,Female,IT,Systems Administrator,11-13-2024,39241.61,2.3,Caloocan,Active,EMP0037,10-11-2026,16-7697318-4,1686227837693898,15
+EMP0172,Mark Domingo,mark.domingo172@company.com,+639220828027,03/12/1983,Female,Marketing,Marketing Associate,13/05/2008,75060.28,2.4,Pasig,Active,EMP0023,02 Nov 2026,86-1406123-4,2597927033521103,19
+EMP0173,Juan Aquino,juan.aquino173@company.com,0945 634 9916,06-11-1997,Male,Human Resources,Recruiter,17 Oct 2021,116201.69,1.8,Makati,Active,EMP0036,11-06-2026,71-3371416-0,6980420439407016,10
+EMP0174,Bea Navarro,bea.navarro174@company.com,09797299908,05 Nov 1998,Female,Sales,Sales Lead,15/10/2023,50051.92,2.5,Cebu,Active,EMP0021,12/09/2026,72-9918107-1,2387800384576205,10
+EMP0175,Antonio Villanueva,antonio.villanueva175@company.com,09771939435,03-05-1989,Female,Operations,Logistics Coordinator,20/06/2021,134228.05,4.6,Manila,Active,EMP0036,11-04-2026,45-4784649-2,5621689363926495,14
+EMP0176,Carlo Chua,carlo.chua176@company.com,0931 722 8954,01-22-1996,Male,Customer Support,CS Representative,07 Apr 2020,60169.79,3.8,Davao,Active,EMP0028,09-17-2026,28-3651604-5,1881252056647423,1
+EMP0177,Juan Ong,juan.ong177@company.com,0934-793-9168,09/07/1965,Male,Human Resources,HR Specialist,09-01-2014,50018.61,1.1,Cebu,Active,EMP0045,29 Sep 2026,71-3249600-8,9752677223306046,14
+EMP0178,Jose Mendoza,jose.mendoza178@company.com,0959-128-5126,09 Jan 1976,Male,Marketing,Marketing Associate,12-15-2016,75582.24,4.1,Taguig,Active,EMP0047,18/10/2026,50-7612751-9,9988081770388608,24
+EMP0179,Carlo Villanueva,carlo.villanueva179@company.com,0998-865-1295,04-30-1976,Female,Customer Support,CS Representative,24 Feb 2009,79975.13,2.7,Manila,Active,EMP0045,19 Sep 2026,76-3386384-7,7181298266570279,12
+EMP0180,Mark Aquino,mark.aquino180@company.com,0988-733-4437,24 Nov 1962,Male,Legal,Legal Counsel,22 Nov 2010,31854.86,3.8,Pasig,Active,EMP0006,23 Sep 2026,77-7443916-8,9268602592222064,19
+EMP0181,Antonio Mendoza,antonio.mendoza181@company.com,0976 846 9061,08/09/1997,Female,Legal,Paralegal,14 Apr 2016,21587.01,3.0,Caloocan,Active,EMP0035,11-07-2026,10-9278999-3,3977671990384983,0
+EMP0182,Maria Chua,maria.chua182@company.com,+639816182084,31 Oct 1982,Female,Human Resources,HR Specialist,10 Oct 2023,63044.44,1.4,Cebu,Active,EMP0027,11-05-2026,32-3706755-4,9998279501455616,26
+EMP0183,Grace Mercado,grace.mercado183@company.com,09453484964,13 Sep 1996,Female,Customer Support,CS Representative,06-17-2018,88204.01,3.8,Manila,Active,EMP0007,10-21-2026,83-9874251-1,7946954899529978,11
+EMP0184,Elena Mendoza,elena.mendoza184@company.com,+639101697496,07-26-1965,Male,Legal,Paralegal,08-18-2012,23118.28,3.5,Cebu,Active,EMP0048,26/10/2026,36-7956372-6,0558303441448850,7
+EMP0185,Miguel Tan,miguel.tan185@company.com,+639454887598,08 Nov 1965,Female,Operations,Logistics Coordinator,10/03/2010,139896.37,2.9,Caloocan,Active,EMP0003,10-26-2026,92-3277572-7,2785760849588039,21
+EMP0186,Pedro Ramos,pedro.ramos186@company.com,09673671448,05-24-2003,Male,Operations,Operations Analyst,07 Dec 2021,94227.61,2.6,Cebu,Active,EMP0049,28 Sep 2026,49-6276424-0,4617357438421503,0
+EMP0187,Elena Mercado,elena.mercado187@company.com,+639619124046,03/09/1972,Female,Legal,Legal Counsel,11-20-2022,120819.32,1.6,Cebu,Active,EMP0034,09 Sep 2026,96-3226624-3,0768104091570184,1
+EMP0188,Antonio Torres,antonio.torres188@company.com,0967-152-6798,07/08/1984,Female,Administration,Office Manager,03 Nov 2022,120462.32,3.7,Makati,Active,EMP0010,21/10/2026,30-5590865-1,0988138585424932,2
+EMP0189,Paolo Lim,paolo.lim189@company.com,0982 530 8245,10-25-1976,Male,Sales,Sales Lead,29/01/2024,33770.5,1.2,Taguig,Active,EMP0026,08 Oct 2026,32-8479891-9,5453817921717477,14
+EMP0190,Patricia Ramos,patricia.ramos190@company.com,+639814232253,02/05/1981,Female,Marketing,Marketing Associate,09 Jan 2023,122541.23,4.5,Caloocan,Active,EMP0032,09-10-2026,13-2096646-7,1577245992816158,20
+EMP0191,Camille Salazar,camille.salazar191@company.com,+639361661280,21 Jan 1979,Male,Finance,Financial Analyst,06-21-2018,146605.93,2.5,Pasig,Active,EMP0014,29/09/2026,98-8233471-6,9583219719975817,5
+EMP0192,Jose Ong,jose.ong192@company.com,+639980324126,11-29-1997,Female,Sales,Account Manager,09-05-2018,62563.07,3.6,Manila,Active,EMP0006,19/09/2026,37-3330636-9,0227846997335494,6
+EMP0193,Daniel Santos,daniel.santos193@company.com,+639415878379,03-06-1965,Male,Operations,Operations Analyst,27 Aug 2018,67998.98,3.2,Manila,Active,EMP0001,30/10/2026,81-7027124-1,4036965666683272,12
+EMP0194,Andrea Domingo,andrea.domingo194@company.com,+639234807378,21 Jun 1995,Male,Customer Support,CS Team Lead,11-22-2013,21508.36,3.6,Davao,Active,EMP0047,26/09/2026,72-8327199-2,1267969278687653,2
+EMP0195,Juan Tan,juan.tan195@company.com,+639541133739,22/07/1973,Female,IT,Network Engineer,07-23-2012,24350.04,1.2,Caloocan,Active,EMP0046,10-21-2026,57-2898583-9,7128478189137189,19
+EMP0196,Paolo Lim,paolo.lim196@company.com,0960 383 4447,03-17-2004,Female,Administration,Admin Assistant,04/12/2024,74732.09,4.8,Makati,Active,EMP0019,11/09/2026,31-1592675-9,4940792904904712,4
+EMP0197,Mark Garcia,mark.garcia197@company.com,0911-525-0362,02 Jul 1965,Male,Finance,Financial Analyst,16 Mar 2021,98496.8,4.6,Davao,Active,EMP0043,10-22-2026,67-7203657-2,4372805129276637,40
+EMP0198,Daniel Navarro,daniel.navarro198@company.com,09224548001,12-20-2000,Male,Human Resources,HR Specialist,08 Nov 2024,41788.05,2.6,Makati,Active,EMP0031,09-16-2026,78-4920186-6,6742860476580185,6
+EMP0199,Paolo Ramos,paolo.ramos199@company.com,0951-999-8159,28 Sep 1987,Female,Administration,Office Manager,07/08/2021,120509.63,4.0,Quezon City,Active,EMP0034,01 Oct 2026,53-4018500-5,8001061817534430,0
+EMP0200,Maria Ong,maria.ong200@company.com,+639230771153,04 Aug 1962,Male,Administration,Admin Assistant,11-05-2007,31230.23,3.4,Taguig,Active,EMP0043,28 Sep 2026,92-4099902-1,2447174654214066,21
+EMP0201,Mark Mendoza,mark.mendoza201@company.com,09315466821,15/10/1976,Female,Engineering,QA Engineer,02 Dec 2016,43197.48,3.0,Davao,Active,EMP0035,09-09-2026,65-4663917-9,1741011947072006,17
+EMP0202,Paolo Castillo,paolo.castillo202@company.com,0992 784 4881,20/11/1968,Female,Human Resources,HR Manager,06-14-2016,82158.13,2.6,Cebu,Active,EMP0035,08/09/2026,38-1055488-6,7198554601585174,12
+EMP0203,Maria Castillo,maria.castillo203@company.com,09214641286,18 Aug 1962,Female,Human Resources,HR Manager,09-26-2020,83245.46,4.5,Caloocan,Active,EMP0048,10-14-2026,34-3347853-0,3093761847870050,21
+EMP0204,Ana Torres,ana.torres204@company.com,09828080516,17 Dec 1962,Male,Engineering,DevOps Engineer,19 Apr 2016,116336.69,1.9,Cebu,Active,EMP0003,09-08-2026,28-9202292-0,7903202041792911,7
+EMP0205,Jose Torres,jose.torres205@company.com,09828424128,05-31-1977,Female,Legal,Legal Counsel,05/08/2010,62150.54,4.9,Davao,Active,EMP0021,21 Sep 2026,37-1764815-9,2511426258273902,6
+EMP0206,Victor Mendoza,victor.mendoza206@company.com,+639292643087,09 Mar 2003,Male,Administration,Office Manager,06/04/2026,111876.36,3.4,Makati,Active,EMP0027,07 Nov 2026,98-8986164-2,3248763290927914,2
+EMP0207,Camille Flores,camille.flores207@company.com,0976-456-1301,09-16-1992,Female,IT,IT Support,27/01/2011,132155.04,4.9,Quezon City,Active,EMP0030,01 Nov 2026,90-4491484-4,0312772200543645,14
+EMP0208,Clara Reyes,clara.reyes208@company.com,0962-083-0707,08-23-1970,Male,Engineering,Software Engineer,07-11-2023,29211.73,1.9,Caloocan,Active,EMP0038,06 Nov 2026,84-6468907-6,3531531363631797,3
+EMP0209,Carlo Ong,carlo.ong209@company.com,0959-149-4788,21 Aug 1975,Male,IT,IT Support,27 Dec 2018,102162.75,4.9,Quezon City,Active,EMP0022,30/10/2026,26-1538457-9,0421776253492929,14
+EMP0210,Gabriel Mercado,gabriel.mercado210@company.com,09399757448,18/01/1991,Male,Finance,Financial Analyst,13/09/2018,114902.31,3.9,Quezon City,Active,EMP0016,10-09-2026,51-8285484-9,3929060078068671,14
+EMP0211,Jose Lim,jose.lim211@company.com,09334082685,24 Nov 2003,Male,Legal,Legal Counsel,11-15-2023,66592.74,2.0,Cebu,Active,EMP0002,08/09/2026,71-6114309-2,7990772625701658,0
+EMP0212,Victor Ramos,victor.ramos212@company.com,0994-577-7677,18/02/1965,Male,Sales,Account Manager,04-09-2015,100659.18,2.3,Manila,Active,EMP0033,25/10/2026,96-7106747-0,1657905528183253,34
+EMP0213,Isabel Tan,isabel.tan213@company.com,0938 707 3305,07-24-1991,Female,Finance,Payroll Specialist,09/04/2021,56028.89,1.3,Pasig,Active,EMP0029,11/09/2026,72-9412936-8,1788479513711624,2
+EMP0214,Mark Bautista,mark.bautista214@company.com,+639659084094,06 Mar 1995,Male,Finance,Accountant,22/09/2024,58112.03,4.9,Davao,Active,EMP0031,10-25-2026,54-8048611-7,0431038569557988,7
+EMP0215,Daniel Garcia,daniel.garcia215@company.com,09619952085,08-22-1985,Female,Legal,Paralegal,13 Jan 2011,146194.13,4.1,Manila,Active,EMP0010,10-24-2026,55-5771138-7,2928422223105927,8
+EMP0216,Carlo Lim,carlo.lim216@company.com,0925 885 3889,08 Dec 2001,Female,Operations,Operations Analyst,24 Oct 2024,78295.78,4.9,Makati,Active,EMP0008,16 Oct 2026,13-7787429-7,2752088547492975,5
+EMP0217,Isabel Reyes,isabel.reyes217@company.com,0912 662 4066,12-03-1995,Female,Finance,Payroll Specialist,02-26-2020,100277.86,1.9,Pasig,Active,EMP0006,19 Oct 2026,51-1923311-9,3983430187186375,9
+EMP0218,Bea Navarro,bea.navarro218@company.com,0949-688-7155,05 Sep 1979,Female,Administration,Admin Assistant,26/06/2012,68468.05,2.1,Pasig,Active,EMP0020,11/10/2026,67-2469661-3,7674266299123478,10
+EMP0219,Victor Castillo,victor.castillo219@company.com,0939-348-4627,11/11/1999,Female,Finance,Payroll Specialist,01-19-2023,42736.09,2.8,Davao,Active,EMP0013,10/09/2026,33-7405029-4,8704947873002447,1
+EMP0220,Rosa Mercado,rosa.mercado220@company.com,09397659522,07-21-1963,Female,Sales,Account Manager,02-01-2026,149263.28,1.3,Pasig,Active,EMP0038,20/09/2026,71-8316015-4,7158904290257252,3
+EMP0221,Sofia Chua,sofia.chua221@company.com,09786063606,25 Oct 1982,Male,Sales,Account Manager,30 Nov 2020,86802.64,4.1,Davao,Active,EMP0049,10-05-2026,22-3804075-8,5544518952028457,13
+EMP0222,Ana Torres,ana.torres222@company.com,0995-373-9357,03/03/1995,Male,Operations,Operations Analyst,10-28-2023,74255.01,4.7,Cebu,Active,EMP0009,10-26-2026,12-9044980-5,4527985240132234,2
+EMP0223,Jose Domingo,jose.domingo223@company.com,09913181224,06/10/1997,Female,Marketing,Marketing Associate,06-13-2026,25527.2,1.4,Manila,Active,EMP0031,08 Oct 2026,25-5244844-0,1401193932501249,5
+EMP0224,Gabriel Ong,gabriel.ong224@company.com,0998 002 4307,03-03-1989,Male,Operations,Operations Analyst,09/12/2015,88749.04,3.9,Makati,Active,EMP0011,01 Nov 2026,78-1072627-1,3875927125663836,3
+EMP0225,Rafael Bautista,rafael.bautista225@company.com,0985-669-9057,13 Sep 1971,Female,Operations,Operations Analyst,03/11/2016,92427.18,1.2,Pasig,Active,EMP0032,15/10/2026,24-7455555-4,7947386463175207,6
+EMP0226,Gabriel Sy,gabriel.sy226@company.com,0953-016-7052,11/10/1961,Male,IT,Systems Administrator,16/04/2024,116386.18,4.6,Davao,Active,EMP0005,13 Oct 2026,56-4340115-5,3961367499465796,31
+EMP0227,Pedro Salazar,pedro.salazar227@company.com,0934-784-3014,13/09/1998,Male,Customer Support,CS Team Lead,03-12-2024,23864.06,4.0,Cebu,Active,EMP0032,07 Oct 2026,96-1448771-2,6952499118773477,8
+EMP0228,Paolo Lim,paolo.lim228@company.com,0956 214 5358,11-12-1970,Male,Sales,Sales Lead,21 Oct 2007,69871.88,2.3,Taguig,Active,EMP0029,11-05-2026,68-1603663-0,2842762467197889,30
+EMP0229,Gabriel Reyes,gabriel.reyes229@company.com,09762433935,08 Jul 1979,Female,Legal,Legal Counsel,11-11-2016,119641.2,2.1,Manila,Active,EMP0002,14/10/2026,85-1756962-2,5590561655650333,20
+EMP0230,Jose Go,jose.go230@company.com,+639121165586,06-10-2000,Female,Sales,Sales Lead,04 Oct 2025,24859.09,3.6,Taguig,Active,EMP0037,28 Oct 2026,75-8066104-4,0790569659171357,8
+EMP0231,Patricia Villanueva,patricia.villanueva231@company.com,+639945195456,04-09-1981,Male,Operations,Operations Analyst,29/08/2022,129249.46,3.1,Makati,Active,EMP0017,09-28-2026,16-5988206-9,6391919541987635,25
+EMP0232,Grace Pascual,grace.pascual232@company.com,0931 483 1026,10/04/1985,Female,Finance,Payroll Specialist,10/07/2013,72299.12,3.5,Caloocan,Active,EMP0043,18/10/2026,80-4029979-0,8297374896908357,4
+EMP0233,Clara Sy,clara.sy233@company.com,09991435903,04-09-1985,Male,Marketing,Marketing Associate,14/07/2018,102410.57,4.4,Makati,Active,EMP0019,09-13-2026,92-3694157-4,9363123034778660,6
+EMP0234,Pedro Santos,pedro.santos234@company.com,0979 180 5218,27/06/1988,Male,Human Resources,Recruiter,14/08/2013,145292.3,2.9,Manila,Active,EMP0004,27/10/2026,20-6266448-9,4165162319818984,15
+EMP0235,Patricia Bautista,patricia.bautista235@company.com,09518706339,06-02-1984,Male,Finance,Accountant,08/03/2010,141615.01,1.9,Cebu,Active,EMP0012,21/09/2026,37-5606139-7,6490785158673425,15
+EMP0236,Juan Chua,juan.chua236@company.com,0995 785 6711,11-05-1966,Male,Operations,Logistics Coordinator,01 Jan 2010,109788.72,4.2,Quezon City,Active,EMP0017,26 Sep 2026,80-7454030-4,5183760644134327,40
+EMP0237,Elena Reyes,elena.reyes237@company.com,09627950113,07 Oct 1987,Female,Operations,Logistics Coordinator,13/05/2010,115802.46,4.7,Pasig,Active,EMP0046,08/09/2026,64-2684358-2,4815698570027206,6
+EMP0238,Daniel Cruz,daniel.cruz238@company.com,09924212122,26 Aug 1997,Male,Sales,Account Manager,12-16-2023,130104.86,3.7,Pasig,Active,EMP0029,09-23-2026,71-3239922-4,2954316526693008,10
+EMP0239,Jose Salazar,jose.salazar239@company.com,0915 345 4051,04/07/1992,Female,Administration,Admin Assistant,07-31-2015,100340.53,3.4,Davao,Active,EMP0006,28 Oct 2026,57-3854188-9,1086771333447626,6
+EMP0240,Grace Sy,grace.sy240@company.com,0925 670 4945,04-15-1992,Male,Administration,Admin Assistant,21/10/2023,57725.08,2.0,Caloocan,Active,EMP0016,09-18-2026,57-8686718-1,0725636694118005,7
+EMP0241,Patricia Sy,patricia.sy241@company.com,+639105756315,24/11/1965,Female,Legal,Paralegal,05/11/2011,85590.46,2.5,Taguig,Active,EMP0043,05 Nov 2026,57-3218589-8,0924287572158624,7
+EMP0242,Pedro Mercado,pedro.mercado242@company.com,0938 262 6443,05-17-1987,Female,Operations,Operations Analyst,28 Apr 2008,87206.45,2.7,Davao,Active,EMP0021,10-20-2026,72-3537801-8,7032032074276170,14
+EMP0243,Rafael Mercado,rafael.mercado243@company.com,0931-875-7401,08-31-1997,Female,Operations,Logistics Coordinator,25 Apr 2025,43485.15,1.7,Makati,Active,EMP0037,02 Nov 2026,94-4563416-9,0892613715041659,1
+EMP0244,Juan Cruz,juan.cruz244@company.com,0977 469 2904,23 Nov 1974,Female,Operations,Operations Analyst,07 Aug 2013,97246.55,1.0,Manila,Active,EMP0042,09 Oct 2026,89-8601790-5,9230450189616423,25
+EMP0245,Carlo Mendoza,carlo.mendoza245@company.com,0980 229 6197,26/04/1980,Male,Finance,Accountant,05/01/2021,35678.26,3.0,Taguig,Active,EMP0048,09-20-2026,49-3202624-5,1583776749961659,5
+EMP0246,Sofia Cruz,sofia.cruz246@company.com,0982-632-1952,24/02/2002,Male,IT,Network Engineer,01 Sep 2024,104189.38,3.9,Caloocan,Active,EMP0034,09 Oct 2026,90-9802632-1,4761742243864908,0
+EMP0247,Gabriel Domingo,gabriel.domingo247@company.com,0971-039-8824,02 Oct 1978,Female,Engineering,Software Engineer,16/06/2017,66209.49,3.3,Manila,Active,EMP0008,22/09/2026,94-8765820-2,2601645977945232,2
+EMP0248,Bea Bautista,bea.bautista248@company.com,+639225282335,19/02/1977,Male,Administration,Office Manager,18 Apr 2026,42325.6,2.9,Taguig,Active,EMP0043,13/10/2026,87-9165848-4,9956412203103037,9
+EMP0249,Antonio Lim,antonio.lim249@company.com,+639259091651,10-02-1992,Female,Marketing,Content Strategist,11-25-2021,74844.3,1.5,Davao,Active,EMP0048,10-09-2026,99-8470322-7,7079334960501667,9
+EMP0250,Miguel Mercado,miguel.mercado250@company.com,0982 871 4124,23/01/1972,Female,Engineering,DevOps Engineer,24 Apr 2012,50147.75,1.2,Manila,Active,EMP0028,09 Sep 2026,83-6299086-8,1467179576024375,28
+EMP0251,Liza Tan,liza.tan251@company.com,09867939251,06-03-1961,Female,Marketing,SEO Specialist,31 May 2008,37050.61,2.2,Taguig,Active,EMP0027,09-14-2026,96-7044085-7,2934172232971674,15
+EMP0252,Maria Santos,maria.santos252@company.com,09287598577,08/07/1982,Male,Marketing,SEO Specialist,03/08/2019,124886.02,2.4,Cebu,Active,EMP0040,28 Oct 2026,39-3024809-8,3745508428910771,3
+EMP0253,Camille Reyes,camille.reyes253@company.com,09320531781,09-28-1972,Female,Administration,Admin Assistant,07 May 2023,40414.23,2.2,Caloocan,Active,EMP0049,10-31-2026,74-9361613-1,2552137603754821,17
+EMP0254,Andrea Chua,andrea.chua254@company.com,0966-870-7653,21 Jul 1962,Female,Operations,Logistics Coordinator,08-26-2023,122338.05,1.6,Taguig,Active,EMP0027,09-20-2026,62-8696599-8,5072081155626060,9
+EMP0255,Antonio Go,antonio.go255@company.com,0953 164 7235,02 Mar 1962,Female,Administration,Admin Assistant,28/05/2007,113801.64,2.3,Pasig,Active,EMP0001,10-12-2026,45-9854875-9,2673899756341085,24
+EMP0256,Camille Villanueva,camille.villanueva256@company.com,09659780124,30 Sep 1991,Female,Human Resources,HR Manager,22/01/2018,118416.02,1.6,Manila,Active,EMP0035,10-19-2026,85-5340101-3,4681054851017490,14
+EMP0257,Elena Tan,elena.tan257@company.com,0973-946-5782,05 Jan 1968,Male,Operations,Operations Analyst,25/06/2013,65543.83,2.1,Davao,Active,EMP0046,09-14-2026,58-9718559-3,1589357126611062,30
+EMP0258,Jose Navarro,jose.navarro258@company.com,0965 721 2948,27/02/1961,Female,Marketing,Content Strategist,06/09/2018,133361.92,3.3,Taguig,Active,EMP0029,03 Oct 2026,98-9213136-6,2282772881377028,23
+EMP0259,Sofia Bautista,sofia.bautista259@company.com,0966-132-8067,05-09-1997,Male,Finance,Payroll Specialist,06-24-2020,35306.49,2.2,Pasig,Active,EMP0020,05 Nov 2026,47-9152477-0,2296044327018510,6
+EMP0260,Daniel Salazar,daniel.salazar260@company.com,0999-516-0803,05-09-1983,Male,Legal,Paralegal,31 Mar 2017,119053.66,3.0,Caloocan,Active,EMP0049,22/09/2026,67-8534223-2,5199663658074120,18
+EMP0261,Antonio Bautista,antonio.bautista261@company.com,0968-179-0182,02-10-1963,Male,Sales,Sales Lead,19 Dec 2024,144448.06,3.1,Caloocan,Active,EMP0033,29/09/2026,12-3018016-8,2043397189569070,21
+EMP0262,Sofia Santos,sofia.santos262@company.com,0922 309 8723,06-12-1971,Male,IT,IT Support,03 Feb 2019,90431.31,2.1,Davao,Active,EMP0017,02 Nov 2026,21-3587505-4,6209520046152654,24
+EMP0263,Carlo Flores,carlo.flores263@company.com,0990-787-2588,01-26-1966,Female,Finance,Accountant,21 Dec 2021,143416.42,2.1,Pasig,Active,EMP0030,06/10/2026,80-7829609-1,7063048913824967,5
+EMP0264,Elena Garcia,elena.garcia264@company.com,09363240138,15/02/1981,Female,Customer Support,CS Representative,26/02/2007,144975.77,3.2,Manila,Active,EMP0001,09-18-2026,69-5852800-2,0074946539840289,2
+EMP0265,Miguel Go,miguel.go265@company.com,0956-381-6134,04 Sep 1997,Male,Sales,Sales Representative,29/10/2018,99357.89,4.8,Pasig,Active,EMP0044,21 Oct 2026,53-5384902-7,4355379502097002,6
+EMP0266,Victor Castillo,victor.castillo266@company.com,0979 929 2052,11 Oct 1970,Male,Customer Support,CS Team Lead,27/01/2011,90024.41,4.6,Caloocan,Active,EMP0044,27 Sep 2026,25-6922268-6,9562017537030453,5
+EMP0267,Elena Go,elena.go267@company.com,0913 950 9449,20 Jul 1990,Female,Administration,Office Manager,20 Mar 2009,84068.92,3.8,Quezon City,Active,EMP0001,15/10/2026,35-7645223-1,4987283999219212,8
+EMP0268,Gabriel Ramos,gabriel.ramos268@company.com,+639827711835,04 Dec 1991,Female,Administration,Admin Assistant,04-15-2026,108488.45,4.5,Manila,Active,EMP0028,24/09/2026,92-1870113-5,6641877580304687,10
+EMP0269,Carlo Aquino,carlo.aquino269@company.com,0934-226-6216,01-26-1999,Female,Engineering,DevOps Engineer,20/07/2019,144510.84,4.7,Quezon City,Active,EMP0011,21 Sep 2026,52-6214457-1,1076095431735058,3
+EMP0270,Patricia Salazar,patricia.salazar270@company.com,0919 184 2179,29/12/1997,Male,Finance,Payroll Specialist,12 Apr 2022,139172.87,2.5,Cebu,Active,EMP0009,10-31-2026,17-8414160-0,4961108046619639,10
+EMP0271,Rafael Castillo,rafael.castillo271@company.com,09208746345,15/04/1975,Female,Administration,Admin Assistant,03-29-2009,104619.79,3.7,Manila,Active,EMP0030,09-29-2026,76-6506176-9,3110919392845679,28
+EMP0272,Pedro Reyes,pedro.reyes272@company.com,0965 096 4560,09-09-2001,Female,Human Resources,HR Specialist,07-13-2024,60454.47,4.5,Davao,Active,EMP0010,10-11-2026,70-6178697-9,5450892038806533,3
+EMP0273,Carlo Sy,carlo.sy273@company.com,0974-398-9866,30 Nov 1973,Female,Finance,Financial Analyst,12-17-2012,130761.13,3.3,Pasig,Active,EMP0040,10-09-2026,48-8024541-5,2170730337933756,13
+EMP0274,Juan Navarro,juan.navarro274@company.com,0922-368-3564,06 Oct 2004,Male,IT,IT Support,17 Apr 2025,57774.91,1.8,Pasig,Active,EMP0003,03/10/2026,13-4340727-3,4234258323024102,3
+EMP0275,Carlo Villanueva,carlo.villanueva275@company.com,09809645329,21 Jul 1975,Male,Finance,Financial Analyst,05-04-2019,142351.03,4.9,Taguig,Active,EMP0046,10-15-2026,18-2987988-2,2338655963099384,9
+EMP0276,Maria Chua,maria.chua276@company.com,0962 504 9703,09-14-1987,Male,Operations,Operations Analyst,20/10/2009,114548.81,4.1,Cebu,Active,EMP0011,10-01-2026,75-7511503-8,5787255877749690,6
+EMP0277,Rafael Flores,rafael.flores277@company.com,0950 488 9751,07-31-1979,Male,Marketing,Marketing Associate,05/08/2020,141614.86,2.5,Cebu,Active,EMP0009,09-12-2026,20-5950084-7,8539078956776657,10
+EMP0278,Juan Mendoza,juan.mendoza278@company.com,0948-557-3103,07-23-1976,Male,Sales,Account Manager,24/05/2021,58287.32,3.0,Cebu,Active,EMP0018,03 Nov 2026,39-2651030-1,1508353544439284,0
+EMP0279,Andrea Castillo,andrea.castillo279@company.com,0960-681-0427,27/01/1979,Male,Sales,Account Manager,08-28-2011,132510.6,1.9,Quezon City,Active,EMP0031,07/11/2026,39-9654113-9,8775153663778052,18
+EMP0280,Clara Santos,clara.santos280@company.com,0934-211-8734,18/12/1972,Female,Human Resources,Recruiter,21/02/2010,75343.52,4.0,Makati,Active,EMP0021,17/10/2026,85-1389899-9,0225999966361863,30
+EMP0281,Daniel Salazar,daniel.salazar281@company.com,09824652824,20 Jun 1964,Male,Finance,Financial Analyst,21/10/2024,24167.69,3.8,Caloocan,Active,EMP0002,11-01-2026,33-4338644-1,6433481705802566,10
+EMP0282,Camille Domingo,camille.domingo282@company.com,09321705882,16 Oct 1974,Male,Finance,Accountant,15/12/2018,133158.38,2.2,Caloocan,Active,EMP0011,11/09/2026,87-6206200-9,3874302716938597,29
+EMP0283,Clara Cruz,clara.cruz283@company.com,+639472354161,22/12/1985,Female,Legal,Legal Counsel,21 Mar 2009,70841.75,4.3,Davao,Active,EMP0027,09 Oct 2026,41-4012820-9,6762916032484137,13
+EMP0284,Andrea Cruz,andrea.cruz284@company.com,0954-033-7297,03-01-1998,Female,Customer Support,CS Representative,02-22-2019,41429.08,1.8,Manila,Active,EMP0030,18 Oct 2026,13-2228016-7,6563600412577711,8
+EMP0285,Rafael Garcia,rafael.garcia285@company.com,09119398359,01 Jul 1974,Male,Marketing,SEO Specialist,31/12/2009,43040.76,1.5,Taguig,Active,EMP0011,10-28-2026,19-1188082-4,2752308370816470,0
+EMP0286,Victor Torres,victor.torres286@company.com,0919 812 5433,09/05/1989,Male,Engineering,DevOps Engineer,30 Jul 2009,74818.75,5.0,Pasig,Active,EMP0013,26 Oct 2026,97-2059841-3,1220681558393866,3
+EMP0287,Ana Navarro,ana.navarro287@company.com,+639439560357,08-21-1984,Male,Marketing,Marketing Associate,05-10-2026,70594.27,2.8,Cebu,Active,EMP0043,27 Sep 2026,45-7190456-0,1364971892419562,10
+EMP0288,Victor Go,victor.go288@company.com,+639118950252,12 Dec 1983,Female,Human Resources,HR Manager,10/02/2017,69708.28,3.6,Quezon City,Active,EMP0033,10-17-2026,85-1222997-3,0914363910257432,12
+EMP0289,Maria Flores,maria.flores289@company.com,+639244168106,09/04/1966,Female,Marketing,SEO Specialist,09 Jan 2012,61280.03,4.1,Manila,Active,EMP0034,17/10/2026,63-5839473-0,3553380339685270,4
+EMP0290,Carlo Reyes,carlo.reyes290@company.com,09198525897,11 Sep 1964,Male,Legal,Legal Counsel,02-01-2008,97041.98,4.3,Quezon City,Active,EMP0016,30/10/2026,74-2311382-6,7423362934497347,5
+EMP0291,Miguel Mendoza,miguel.mendoza291@company.com,09889123047,09 Apr 1974,Female,Operations,Logistics Coordinator,04-15-2018,118842.18,4.3,Caloocan,Active,EMP0002,09-29-2026,58-8170536-1,4982824674746897,4
+EMP0292,Ramon Mercado,ramon.mercado292@company.com,0911-378-0688,08-28-1992,Female,Operations,Operations Analyst,09 Mar 2012,83888.98,4.7,Taguig,Active,EMP0048,07 Nov 2026,57-7443078-7,4916016923645875,1
+EMP0293,Clara Flores,clara.flores293@company.com,0948-806-5635,03-17-1989,Male,IT,Systems Administrator,01/01/2026,110671.28,3.6,Makati,Active,EMP0039,16/09/2026,68-3472414-4,3992011669183626,8
+EMP0294,Camille Sy,camille.sy294@company.com,0990 795 0191,23 Jan 1980,Male,Sales,Sales Lead,07-22-2020,34205.63,3.3,Pasig,Active,EMP0010,12/10/2026,44-4515255-6,4027011686462252,22
+EMP0295,Isabel Mendoza,isabel.mendoza295@company.com,09328248925,25 Sep 1972,Male,Human Resources,HR Specialist,25 Sep 2017,46122.31,4.0,Quezon City,Active,EMP0017,16/09/2026,62-8394229-9,1214161415093771,0
+EMP0296,Victor Santos,victor.santos296@company.com,0920-398-3146,29/01/1962,Male,Engineering,QA Engineer,13 Jan 2011,87903.49,1.0,Makati,Active,EMP0032,05/11/2026,70-6654424-9,6555535669055107,25
+EMP0297,Patricia Bautista,patricia.bautista297@company.com,0997-515-5164,07-01-1971,Male,Human Resources,HR Specialist,01/11/2007,67895.89,3.5,Caloocan,Active,EMP0033,20/09/2026,62-4153025-0,5050573976915671,24
+EMP0298,Carlo Go,carlo.go298@company.com,0986-951-3858,02-22-1995,Male,Sales,Sales Lead,06-11-2015,36621.98,4.2,Makati,Active,EMP0044,09-18-2026,80-8831655-2,7178333211602564,3
+EMP0299,Isabel Sy,isabel.sy299@company.com,0978 026 7188,09/12/1996,Female,Sales,Sales Lead,09 Mar 2025,31757.43,3.8,Quezon City,Active,EMP0037,04 Oct 2026,86-2084932-5,6686334141115931,9
+EMP0300,Paolo Castillo,paolo.castillo300@company.com,0967 509 9391,21 Nov 1968,Male,Operations,Operations Analyst,02 Jul 2020,130125.42,4.9,Pasig,Active,EMP0050,01 Oct 2026,56-3119085-8,9931608752437729,18
+EMP0301,Bea Go,bea.go301@company.com,0983-937-8623,11 Jan 2002,Male,Human Resources,HR Manager,2030-01-01,55548.83,4.4,Caloocan,Active,EMP0041,2030-03-15,37-9305150-4,6052330276420865,3
+EMP0302,Victor Castillo,victor.castillo302@company.com,09403186123,14/10/1979,Male,Legal,Paralegal,2030-01-01,111144.13,3.2,Cebu,Active,EMP0009,2030-03-15,51-1908038-4,7292774233305912,12
+EMP0303,Rosa Reyes,rosa.reyes303@company.com,0915 634 1511,05-16-1998,Male,IT,Network Engineer,2030-01-01,147435.98,3.6,Taguig,Active,EMP0010,2030-03-15,90-7777894-3,0136749261764750,1
+EMP0304,Ana Mercado,ana.mercado304@company.com,+639124724799,16/12/1962,Female,Finance,Accountant,2030-01-01,55584.22,4.0,Davao,Active,EMP0025,2030-03-15,71-8275548-4,9215182606888718,37
+EMP0305,Victor Torres,victor.torres305@company.com,+639846482380,24 Sep 1962,Male,Customer Support,CS Representative,2030-01-01,20692.12,2.8,Pasig,Active,EMP0008,2030-03-15,15-3161173-9,3218401184582603,19
+EMP0306,Bea Lim,bea.lim306@company.com,09436012520,09/09/1976,Female,Engineering,QA Engineer,2030-01-01,98802.38,3.0,Cebu,Active,EMP0043,2030-03-15,15-4977883-0,3243298395429618,16
+EMP0307,Antonio Mendoza,antonio.mendoza307@company.com,09826413906,03-31-1979,Female,Sales,Account Manager,2030-01-01,142225.91,1.6,Quezon City,Active,EMP0005,2030-03-15,90-5519776-3,5989262566093141,17
+EMP0308,Camille Domingo,camille.domingo308@company.com,+639458111525,29/05/2000,Female,Finance,Payroll Specialist,2030-01-01,39022.85,4.2,Makati,Active,EMP0001,2030-03-15,22-7327627-3,6112849718594849,1
+EMP0309,Paolo Castillo,paolo.castillo309@company.com,+639946911070,23/05/1993,Female,Engineering,Senior Engineer,2030-01-01,81992.04,1.5,Manila,Active,EMP0044,2030-03-15,75-3608710-2,2694053967275784,8
+EMP0310,Ramon Flores,ramon.flores310@company.com,0942-820-1538,27/12/1984,Female,IT,Network Engineer,2030-01-01,120175.19,4.4,Cebu,Active,EMP0005,2030-03-15,40-2570911-2,9014870682778816,0
+EMP0311,Clara Santos,clara.santos311@company.com,+639362235929,25 Nov 1976,Male,Administration,Admin Assistant,2016-01-29,98958.56,4.9,Quezon City,Active,EMP0012,2026-10-16,19-7158092-2,8506762515381447,18
+EMP0312,Juan Chua,juan.chua312@company.com,09790387684,04/05/1968,Male,Sales,Sales Representative,2022-05-07,141603.87,4.6,Caloocan,Active,EMP0004,2026-10-19,55-1098836-9,7545105265016731,33
+EMP0313,Sofia Bautista,sofia.bautista313@company.com,09368580150,17/11/1973,Male,Customer Support,CS Representative,2023-07-28,81190.83,2.5,Pasig,Active,EMP0028,2026-09-26,33-9999758-4,1772256053134026,26
+EMP0314,Rosa Sy,rosa.sy314@company.com,0922 755 2271,15 Mar 1992,Female,Operations,Operations Analyst,2011-07-01,83578.82,3.0,Davao,Active,EMP0021,2026-10-21,61-9419789-6,2110225803056906,15
+EMP0315,Isabel Cruz,isabel.cruz315@company.com,09648939598,16 Jul 1977,Male,Sales,Account Manager,2014-06-06,52430.68,4.1,Makati,Active,EMP0045,2026-09-22,41-8200092-3,7189239231260432,27
+EMP0316,Jose Reyes,jose.reyes316@company.com,0978 001 1404,24/04/1980,Male,Engineering,Senior Engineer,2016-04-06,48830.78,2.7,Manila,Active,EMP0033,2026-09-24,64-1866635-4,1454563502000534,15
+EMP0317,Ana Domingo,ana.domingo317@company.com,09458932723,09/07/1993,Female,Sales,Sales Lead,2012-08-16,34498.72,3.7,Davao,Active,EMP0022,2026-10-15,56-7063033-9,8953439611291093,6
+EMP0318,Jose Lim,jose.lim318@company.com,+639917104656,05-31-1965,Male,Legal,Legal Counsel,2020-09-07,89362.48,1.6,Davao,Active,EMP0013,2026-10-08,63-5236674-8,5571617688029424,2
+EMP0319,Elena Go,elena.go319@company.com,09651353212,04-26-1992,Male,Administration,Admin Assistant,2018-11-01,41517.37,4.0,Taguig,Active,EMP0036,2026-10-04,59-7725129-9,4320293908788443,9
+EMP0320,Ana Mendoza,ana.mendoza320@company.com,0914-197-3293,24/10/1990,Male,Sales,Sales Lead,2017-02-27,142465.98,2.1,Davao,Active,EMP0018,2026-10-20,16-5177662-3,8105955184269450,0
+EMP0321,Clara Ramos,clara.ramos321@company.com,+639805789384,07-07-1993,Male,Operations,Operations Analyst,2012-04-12,113938.29,3.8,Makati,Active,EMP0041,2026-10-04,91-4458774-7,3543962736527172,14
+EMP0322,Carlo Tan,carlo.tan322@company.com,+639433032005,20/08/1973,Male,Human Resources,HR Specialist,2013-11-02,135082.9,4.3,Quezon City,Active,EMP0005,2026-11-06,28-2208776-6,3761820916601002,15
+EMP0323,Pedro Chua,pedro.chua323@company.com,0995-003-9201,16 Nov 1966,Male,Finance,Financial Analyst,2010-12-21,90508.12,4.3,Cebu,Active,EMP0013,2026-11-07,27-9060201-9,7245723084810018,18
+EMP0324,Sofia Garcia,sofia.garcia324@company.com,+639513801909,07-21-2004,Male,Finance,Payroll Specialist,2026-07-24,65930.29,2.1,Taguig,Active,EMP0044,2026-10-11,24-9251380-2,1314519515109226,4
+EMP0325,Bea Domingo,bea.domingo325@company.com,09977851100,09/12/1994,Female,Operations,Operations Analyst,2017-11-10,65290.14,1.4,Caloocan,Active,EMP0043,2026-09-29,57-5452689-1,0225267711964215,2
+EMP0326,Andrea Aquino,andrea.aquino326@company.com,0974-611-6751,17 Apr 1973,Female,Human Resources,Recruiter,2017-02-16,37968.77,4.8,Quezon City,Active,EMP0025,2026-10-12,63-9339992-8,8788361968931350,13
+EMP0327,Camille Mercado,camille.mercado327@company.com,09487468897,09-19-1996,Male,Engineering,QA Engineer,2025-12-12,58310.65,1.6,Taguig,Active,EMP0016,2026-10-16,36-4767947-0,2126065019179202,5
+EMP0328,Liza Cruz,liza.cruz328@company.com,09260757642,01-26-2004,Male,Human Resources,HR Specialist,2023-06-30,81069.42,1.6,Makati,Active,EMP0031,2026-10-12,62-6659575-7,0412009282066784,4
+EMP0329,Ramon Flores,ramon.flores329@company.com,+639659957480,31 Aug 1977,Female,Customer Support,CS Team Lead,2021-04-09,147130.42,1.5,Quezon City,Active,EMP0026,2026-11-02,89-1939470-3,6289177566205634,6
+EMP0330,Andrea Ong,andrea.ong330@company.com,09681504122,04 Nov 1983,Male,Finance,Accountant,2021-11-29,28491.49,3.4,Makati,Active,EMP0013,2026-10-28,80-4384399-0,3419909700514054,12
+EMP0331,Paolo Castillo,paolo.castillo331@company.com,09455750197,13 Sep 1982,Female,Customer Support,CS Representative,2012-09-30,136546.45,3.0,Davao,Active,EMP0002,2026-11-01,85-7410771-7,9042271133228898,24
+EMP0332,Elena Garcia,elena.garcia332@company.com,+639562676904,23 Jun 1983,Male,Operations,Logistics Coordinator,2019-07-10,135788.39,4.1,Taguig,Active,EMP0016,2026-09-14,36-2258262-2,9710248171752421,8
+EMP0333,Andrea Cruz,andrea.cruz333@company.com,0937 696 5362,14/08/2000,Female,Administration,Office Manager,2021-02-10,147202.89,4.1,Caloocan,Active,EMP0042,2026-10-09,27-3079808-9,7054669275895516,8
+EMP0334,Bea Reyes,bea.reyes334@company.com,09362870021,28/12/1964,Male,Legal,Paralegal,2025-07-10,40093.09,1.4,Taguig,Active,EMP0011,2026-09-18,82-7698813-1,3671577871121663,25
+EMP0335,Paolo Aquino,paolo.aquino335@company.com,0961 133 6760,19/03/1966,Male,Operations,Operations Analyst,2022-06-11,56188.76,1.2,Davao,Active,EMP0031,2026-09-21,28-4581434-5,9096056730306442,5
+EMP0336,Mark Castillo,mark.castillo336@company.com,+639550672916,15/06/1999,Male,Human Resources,HR Specialist,2018-12-19,107053.77,2.0,Manila,Active,EMP0006,2026-10-10,64-6738129-4,2356778265960893,1
+EMP0337,Paolo Sy,paolo.sy337@company.com,09258362512,10/11/1984,Female,Administration,Admin Assistant,2023-09-03,132359.18,1.5,Taguig,Active,EMP0017,2026-10-09,76-1061687-7,2791033682963533,21
+EMP0338,Andrea Navarro,andrea.navarro338@company.com,+639979449864,12/06/2003,Male,Administration,Admin Assistant,2022-05-08,110911.23,3.6,Caloocan,Active,EMP0027,2026-10-06,62-6901033-5,8685127652892866,2
+EMP0339,Grace Go,grace.go339@company.com,09998973719,03 Oct 1965,Male,IT,Network Engineer,2006-12-15,31652.93,1.1,Taguig,Active,EMP0007,2026-09-17,73-2672723-7,8904633786137157,26
+EMP0340,Andrea Flores,andrea.flores340@company.com,09384003716,28 Jun 1972,Female,IT,IT Support,2021-05-10,129002.94,4.2,Taguig,Active,EMP0044,2026-09-26,40-1069752-6,0002589552963863,25
+EMP0341,Pedro Chua,pedro.chua341@company.com,09655422035,22 Aug 1980,Male,Engineering,DevOps Engineer,2018-09-04,76862.21,1.4,Davao,Active,EMP0033,2026-10-18,25-7576872-4,8253110609209819,12
+EMP0342,Rafael Chua,rafael.chua342@company.com,0933 810 7857,23 May 1964,Female,Engineering,Senior Engineer,2022-12-17,45197.76,4.4,Taguig,Active,EMP0050,2026-09-27,43-1868201-4,1209117911244211,31
+EMP0343,Miguel Bautista,miguel.bautista343@company.com,09771821748,09/11/1973,Male,Operations,Operations Analyst,2018-06-19,47338.48,2.7,Pasig,Active,EMP0041,2026-10-07,67-3702870-2,4029901557998028,16
+EMP0344,Patricia Santos,patricia.santos344@company.com,0926 358 0290,10 Nov 1970,Male,Finance,Accountant,2016-05-26,132693.65,1.5,Quezon City,Active,EMP0002,2026-09-20,51-3324735-3,1244731584776863,16
+EMP0345,Bea Go,bea.go345@company.com,0992-296-8202,30/04/1987,Female,Human Resources,HR Specialist,2024-08-12,41534.91,1.8,Caloocan,Active,EMP0028,2026-09-18,67-8109132-9,4591966395517208,8
+EMP0346,Grace Ong,grace.ong346@company.com,09223104450,25 Feb 1963,Male,Administration,Office Manager,2019-09-06,125175.26,2.7,Davao,Active,EMP0023,2026-11-06,41-2218702-3,5525105053795381,24
+EMP0347,Carlo Pascual,carlo.pascual347@company.com,0975-273-2351,09-25-1991,Male,Sales,Sales Lead,2017-03-26,94613.29,3.6,Taguig,Active,EMP0021,2026-09-23,50-4324412-3,0770461172959639,0
+EMP0348,Antonio Tan,antonio.tan348@company.com,+639532514798,21 Mar 2004,Male,Sales,Sales Representative,2025-07-27,136457.84,4.7,Manila,Active,EMP0022,2026-09-15,92-1273003-1,7164455618579064,3
+EMP0349,Andrea Ong,andrea.ong349@company.com,0911-116-2649,10-31-1998,Male,Legal,Legal Counsel,2024-06-16,33667.64,2.3,Taguig,Active,EMP0015,2026-09-16,31-2476675-3,5800401041459642,2
+EMP0350,Ana Garcia,ana.garcia350@company.com,09543770966,03 Sep 1984,Female,Administration,Office Manager,2011-10-02,106870.58,3.1,Quezon City,Active,EMP0037,2026-09-12,71-9222577-4,5731441583311703,0
+EMP0351,Miguel Torres,miguel.torres351@company.com,0973 406 9344,1890-01-01,Female,Marketing,Content Strategist,2019-11-30,118863.43,2.2,Caloocan,Active,EMP0042,2026-09-16,29-9464296-1,2356798363146249,6
+EMP0352,Ana Bautista,ana.bautista352@company.com,0938-642-7794,2027-12-31,Male,Human Resources,Recruiter,2009-11-08,81911.26,3.1,Pasig,Active,EMP0017,2026-10-27,25-2410406-5,6326868507451066,6
+EMP0353,Miguel Mendoza,miguel.mendoza353@company.com,0965-686-2328,2027-12-31,Female,Sales,Sales Representative,2016-03-04,34193.99,1.2,Quezon City,Active,EMP0008,2026-10-07,38-2932532-0,0943181439666134,31
+EMP0354,Elena Torres,elena.torres354@company.com,09409214702,1885-06-15,Male,Marketing,Marketing Associate,2020-12-14,32251.53,3.0,Caloocan,Active,EMP0048,2026-09-30,49-5003370-2,5122572076502412,21
+EMP0355,Isabel Tan,isabel.tan355@company.com,0921 745 2325,1885-06-15,Male,Engineering,QA Engineer,2023-05-03,126460.44,3.3,Makati,Active,EMP0015,2026-10-08,77-9441397-2,2114577584745705,2
+EMP0356,Ana Ramos,ana.ramos356@company.com,09258806824,1885-06-15,Female,Operations,Logistics Coordinator,2012-03-29,131314.52,3.6,Davao,Active,EMP0023,2026-11-06,73-1518494-3,9653136148782455,25
+EMP0357,Mark Villanueva,mark.villanueva357@company.com,+639468588126,1890-01-01,Male,Administration,Office Manager,2017-07-02,76349.75,2.8,Pasig,Active,EMP0019,2026-09-24,24-1139836-7,2728498247414070,6
+EMP0358,Ana Reyes,ana.reyes358@company.com,0980 894 1598,1890-01-01,Male,Sales,Sales Lead,2026-07-20,26487.27,1.6,Makati,Active,EMP0033,2026-10-16,95-3601089-1,4236914307536661,16
+EMP0359,Grace Mendoza,grace.mendoza359@company.com,09963696719,2030-05-15,Male,Sales,Sales Lead,2013-03-20,108831.75,1.8,Davao,Active,EMP0027,2026-10-18,80-4347443-4,4149782661287585,29
+EMP0360,Rafael Domingo,rafael.domingo360@company.com,0912 837 0531,2030-05-15,Female,Operations,Logistics Coordinator,2026-02-07,31495.77,1.6,Makati,Active,EMP0016,2026-10-03,84-9593404-5,2989406260787010,8
+EMP0361,Patricia Bautista,patricia.bautista361@company.com,0916 535 3048,1890-01-01,Male,Finance,Financial Analyst,2017-02-14,116261.48,3.7,Manila,Active,EMP0045,2026-10-17,36-9661473-2,8723244079311029,3
+EMP0362,Liza Torres,liza.torres362@company.com,+639576543671,2027-12-31,Female,Customer Support,CS Representative,2026-05-30,27234.91,1.5,Taguig,Active,EMP0031,2026-10-06,33-4941435-8,4979162022328837,7
+EMP0363,Bea Bautista,bea.bautista363@company.com,0952-003-6225,2027-12-31,Female,Sales,Account Manager,2019-05-20,110694.85,1.4,Taguig,Active,EMP0028,2026-10-21,28-1469269-4,7196094097052774,0
+EMP0364,Gabriel Pascual,gabriel.pascual364@company.com,09519429677,1885-06-15,Male,Human Resources,Recruiter,2011-07-01,42684.59,1.6,Pasig,Active,EMP0030,2026-10-05,27-5669772-4,6176792988425995,12
+EMP0365,Juan Mendoza,juan.mendoza365@company.com,0982 941 6737,2027-12-31,Female,Finance,Accountant,2014-10-26,62075.72,1.9,Quezon City,Active,EMP0007,2026-10-07,32-7443851-6,1094101759025176,4
+EMP0366,Carlo Ramos,carlo.ramos366@company.com,09316029059,1973-04-10,Male,Administration,Admin Assistant,2013-03-21,76428.19,3.1,Quezon City,Active,EMP0006,2026-10-24,84-1406730-1,3020569815287339,30
+EMP0367,Andrea Ong,andrea.ong367@company.com,0955 903 7242,1969-09-12,Female,Customer Support,CS Team Lead,2010-10-16,133617.0,3.3,Davao,Active,EMP0034,2026-10-10,48-2693039-1,7309850344651241,34
+EMP0368,Gabriel Ong,gabriel.ong368@company.com,+639686200347,1972-06-14,Male,Administration,Admin Assistant,2018-10-02,95760.43,4.7,Makati,Active,EMP0042,2026-11-04,13-1541480-5,6435023850371990,22
+EMP0369,Patricia Ong,patricia.ong369@company.com,09390456188,1999-02-05,Male,Finance,Financial Analyst,2022-06-10,33527.96,3.0,Quezon City,Active,EMP0042,2026-10-30,54-8239629-7,4300038960870662,6
+EMP0370,Pedro Bautista,pedro.bautista370@company.com,09494824181,1976-09-20,Female,IT,Network Engineer,2008-11-24,45173.93,2.7,Manila,Active,EMP0016,2026-09-11,39-2543349-9,0368900301027240,20
+EMP0371,Grace Garcia,grace.garcia371@company.com,0980 500 8454,1966-05-03,Male,Operations,Operations Analyst,2017-03-06,29929.12,4.8,Quezon City,Active,EMP0032,2026-10-31,55-4695807-7,4584384588105697,17
+EMP0372,Pedro Pascual,pedro.pascual372@company.com,0923-179-9713,1990-06-13,Female,Finance,Accountant,2013-06-15,114238.4,4.2,Manila,Active,EMP0016,2026-10-25,99-8386629-7,1070449641049670,12
+EMP0373,Maria Flores,maria.flores373@company.com,0967 175 8865,1991-05-06,Male,IT,Systems Administrator,2023-07-22,105852.32,1.1,Pasig,Active,EMP0002,2026-10-11,87-6640806-4,9305966018648769,16
+EMP0374,Miguel Salazar,miguel.salazar374@company.com,09958552071,1989-09-10,Female,Sales,Sales Representative,2009-08-06,31119.79,2.0,Makati,Active,EMP0022,2026-10-21,83-7620309-0,9454490149542770,14
+EMP0375,Maria Navarro,maria.navarro375@company.com,09538742603,1973-12-29,Male,Engineering,DevOps Engineer,2009-12-11,95344.14,1.3,Pasig,Active,EMP0005,2026-10-25,66-4016609-4,4472322903102879,20
+EMP0376,Maria Go,maria.go376@company.com,+639479390612,1988-07-08,Male,Engineering,Senior Engineer,2026-05-01,98075.25,2.4,Cebu,Active,EMP0033,2026-09-14,66-2898888-8,1335956164205955,13
+EMP0377,Grace Ong,grace.ong377@company.com,09261129188,2003-08-23,Male,Operations,Logistics Coordinator,2024-11-19,33810.17,1.8,Pasig,Active,EMP0033,2026-10-20,75-6772247-3,6902611398986818,0
+EMP0378,Bea Pascual,bea.pascual378@company.com,+639997657767,1971-04-10,Female,Administration,Office Manager,2020-05-18,138439.04,2.3,Pasig,Active,EMP0015,2026-10-26,68-6281742-1,3765158815793763,36
+EMP0379,Liza Domingo,liza.domingo379@company.com,0937 947 2394,1961-01-28,Female,Human Resources,HR Manager,2013-06-22,64404.33,1.5,Taguig,Active,EMP0027,2026-09-30,74-3489714-9,7327021648712060,10
+EMP0380,Gabriel Pascual,gabriel.pascual380@company.com,0984-832-1488,1980-04-16,Male,Finance,Accountant,2019-08-22,112557.86,1.5,Pasig,Active,EMP0038,2026-10-13,87-2808110-0,1576764722981209,18
+EMP0381,Miguel Aquino,miguel.aquino381@company.com,09399895640,1976-08-21,Male,Operations,Logistics Coordinator,2016-08-02,50194.26,3.0,Manila,Active,EMP0037,2026-10-01,76-9811287-9,8645652203684995,6
+EMP0382,Rosa Bautista,rosa.bautista382@company.com,0928-180-6799,1986-06-30,Female,Operations,Logistics Coordinator,2017-01-08,142096.63,2.0,Cebu,Active,EMP0015,2026-10-24,95-5674614-2,1388209088307053,9
+EMP0383,Clara Salazar,clara.salazar383@company.com,0921 769 8079,1971-09-18,Male,Administration,Office Manager,2010-03-17,77772.66,2.7,Makati,Active,EMP0006,2026-10-20,27-5671669-1,5131528547815061,33
+EMP0384,Camille Sy,camille.sy384@company.com,0910-855-8352,1964-11-04,Male,Operations,Operations Analyst,2007-11-14,37793.71,2.5,Quezon City,Active,EMP0044,2026-09-28,35-5450761-7,2727423183061789,13
+EMP0385,Sofia Go,sofia.go385@company.com,+639352024156,1988-01-07,Female,Human Resources,HR Specialist,2019-02-16,82950.3,3.6,Davao,Active,EMP0020,2026-10-01,39-5900891-7,7695874131467536,3
+EMP0386,Paolo Sy,paolo.sy386@company.com,0923-750-1087,1997-05-21,Female,Human Resources,Recruiter,2019-02-16,129215.71,4.5,Taguig,Active,EMP0044,2026-09-23,40-1485910-4,4836085456676640,4
+EMP0387,Paolo Chua,paolo.chua387@company.com,+639714723307,2002-06-09,Male,Legal,Legal Counsel,2024-01-21,89681.7,4.1,Cebu,Active,EMP0040,2026-10-24,88-6531182-2,9800615581083583,1
+EMP0388,Ramon Flores,ramon.flores388@company.com,0954-387-9804,1986-08-27,Male,Customer Support,CS Team Lead,2008-08-19,91883.65,2.0,Manila,Active,EMP0003,2026-10-17,12-9834133-1,8670244033041662,8
+EMP0389,Jose Pascual,jose.pascual389@company.com,+639681643744,1978-11-09,Male,Finance,Accountant,2026-05-11,32422.37,3.4,Taguig,Active,EMP0013,2026-09-15,87-6237674-5,6804473149764613,30
+EMP0390,Mark Mercado,mark.mercado390@company.com,+639510607831,1985-11-23,Male,IT,Network Engineer,2016-02-06,149110.01,3.9,Pasig,Active,EMP0049,2026-10-23,79-2817044-7,3906375791452118,5
+EMP0391,Daniel Flores,daniel.flores391@company.com,0960 843 2490,1999-09-03,Male,Marketing,Content Strategist,2023-02-08,27661.28,3.0,Taguig,Active,EMP0020,2026-09-15,53-3526849-0,5996043878753577,8
+EMP0392,Ana Domingo,ana.domingo392@company.com,09274046155,2000-05-05,Male,Customer Support,CS Representative,2025-08-29,41605.61,2.8,Cebu,Active,EMP0003,2026-11-07,64-9307817-2,8728660416448595,2
+EMP0393,Gabriel Sy,gabriel.sy393@company.com,0965 767 9799,1991-01-06,Female,Human Resources,Recruiter,2010-09-01,81374.3,1.8,Pasig,Active,EMP0048,2026-10-15,27-3755459-8,7056227104331875,3
+EMP0394,Patricia Mendoza,patricia.mendoza394@company.com,0934 269 7336,2000-05-18,Female,Engineering,DevOps Engineer,2021-09-09,101746.83,4.7,Makati,Active,EMP0019,2026-09-12,64-6129639-5,9648831921342491,2
+EMP0395,Paolo Tan,paolo.tan395@company.com,0989 163 2826,1967-01-17,Female,Customer Support,CS Team Lead,2021-03-01,47209.87,1.0,Quezon City,Active,EMP0014,2026-09-17,21-3457722-2,2705102876754813,35
+EMP0396,Victor Castillo,victor.castillo396@company.com,+639440346008,1974-05-23,Male,IT,Systems Administrator,2020-06-25,134827.13,4.4,Davao,Active,EMP0041,2026-10-05,45-3397195-6,8774186520575639,12
+EMP0397,Rosa Santos,rosa.santos397@company.com,0910 602 8563,1992-04-03,Female,IT,Systems Administrator,2020-12-13,62698.7,4.6,Makati,Active,EMP0033,2026-10-26,11-5580646-0,4760440907977278,3
+EMP0398,Juan Ong,juan.ong398@company.com,09241356185,1994-11-19,Male,Engineering,QA Engineer,2017-03-26,74544.44,4.4,Manila,Active,EMP0029,2026-09-13,91-2045647-5,1843905529580660,1
+EMP0399,Pedro Ramos,pedro.ramos399@company.com,0975 340 3071,1999-08-18,Male,Marketing,SEO Specialist,2022-10-02,109533.17,2.6,Manila,Active,EMP0020,2026-10-21,45-6883514-1,5791971112125902,0
+EMP0400,Andrea Salazar,andrea.salazar400@company.com,0978 968 3047,1999-07-11,Male,Marketing,SEO Specialist,2023-12-11,117163.1,4.0,Makati,Active,EMP0004,2026-09-25,58-5816345-2,4295633432447417,5
+EMP0401,Andrea Chua,andrea.chua401@company.com,09993063763,1971-04-05,Male,Administration,Office Manager,2010-03-28,24775.04,4.3,Taguig,Active,EMP0010,2026-09-25,78-4534335-6,5435884183437401,33
+EMP0402,Pedro Salazar,pedro.salazar402@company.com,0980 684 9407,1967-06-10,Male,Human Resources,Recruiter,2019-04-14,61908.37,1.4,Pasig,Active,EMP0001,2026-10-14,30-8070049-7,5512542782079799,27
+EMP0403,Liza Ramos,liza.ramos403@company.com,09530734870,1981-01-15,Female,IT,Systems Administrator,2019-12-19,25216.77,4.7,Quezon City,Active,EMP0049,2026-09-25,74-2809511-6,6496902824983922,21
+EMP0404,Jose Villanueva,jose.villanueva404@company.com,09594552310,1995-05-22,Male,Operations,Operations Analyst,2020-10-13,105619.12,1.8,Davao,Active,EMP0020,2026-10-28,49-2348473-2,3361328507251786,11
+EMP0405,Bea Castillo,bea.castillo405@company.com,0920 289 1162,1974-11-24,Female,Marketing,Content Strategist,2021-11-06,36705.31,4.1,Davao,Active,EMP0026,2026-09-10,51-5751216-6,9681579039235558,0
+EMP0406,Jose Chua,jose.chua406@company.com,+639326809000,1990-09-07,Female,Administration,Office Manager,2017-10-04,76602.08,2.4,Davao,Active,EMP0028,2026-11-05,29-5780904-4,6704622681715160,5
+EMP0407,Daniel Pascual,daniel.pascual407@company.com,0980-203-0905,1979-12-03,Female,Operations,Operations Analyst,2017-08-27,74919.42,1.2,Taguig,Active,EMP0017,2026-10-07,91-2945459-9,7857585126861205,22
+EMP0408,Carlo Pascual,carlo.pascual408@company.com,0940 248 8060,1965-04-04,Male,Administration,Office Manager,2018-01-17,35801.69,3.0,Pasig,Active,EMP0004,2026-10-09,86-7195765-4,6540842456075409,7
+EMP0409,Camille Castillo,camille.castillo409@company.com,09235350127,1989-08-19,Male,Operations,Operations Analyst,2025-01-26,102279.6,2.7,Makati,Active,EMP0023,2026-11-01,68-5095330-8,9701550291681546,12
+EMP0410,Clara Ramos,clara.ramos410@company.com,09225010851,1963-10-14,Male,Engineering,Senior Engineer,2010-02-03,94216.37,5.0,Quezon City,Active,EMP0045,2026-10-11,16-7278644-9,7364248096244063,1
+EMP0411,Pedro Ramos,pedro.ramos411@company.com,0944 162 1052,1987-03-26,Male,IT,Network Engineer,2014-10-18,48772.08,1.1,Pasig,Active,EMP0015,2026-09-28,18-5829008-9,7969586780555572,14
+EMP0412,Camille Go,camille.go412@company.com,0913 464 5896,1993-12-06,Male,Legal,Legal Counsel,2021-04-09,102079.93,3.2,Pasig,Active,EMP0006,2026-10-13,36-9885075-5,4457702992959660,12
+EMP0413,Clara Mercado,clara.mercado413@company.com,09506334876,1989-05-08,Male,Sales,Sales Lead,2009-05-06,32607.38,1.9,Cebu,Active,EMP0037,2026-10-30,47-3996787-2,6865369455158886,7
+EMP0414,Victor Salazar,victor.salazar414@company.com,+639290725138,1986-04-01,Female,IT,Systems Administrator,2023-07-18,57493.02,3.1,Pasig,Active,EMP0049,2026-09-13,69-3890222-1,6966630932998199,13
+EMP0415,Patricia Flores,patricia.flores415@company.com,0919 767 4471,1994-01-28,Female,Engineering,QA Engineer,2018-01-09,22953.54,3.4,Taguig,Active,EMP0036,2026-09-25,75-4238532-2,7532735241039773,10
+EMP0416,Liza Mendoza,liza.mendoza416@company.com,+639748547358,1975-03-09,Female,Administration,Office Manager,2013-12-17,133371.11,4.6,Quezon City,Active,EMP0030,2026-09-17,18-1115482-0,6876164819807704,25
+EMP0417,Miguel Go,miguel.go417@company.com,0994-548-9578,1972-01-03,Male,Engineering,QA Engineer,2013-10-18,33470.99,4.4,Cebu,Active,EMP0047,2026-10-11,31-7148254-6,5237341517734547,21
+EMP0418,Daniel Ramos,daniel.ramos418@company.com,0966-025-6254,1966-11-04,Female,Legal,Paralegal,2011-08-03,23372.26,4.5,Pasig,Active,EMP0046,2026-10-29,47-6144946-2,9477422294643039,19
+EMP0419,Juan Ramos,juan.ramos419@company.com,09535772358,1981-03-03,Female,Human Resources,HR Manager,2011-11-25,100399.8,1.7,Pasig,Active,EMP0042,2026-10-05,29-9406983-5,8567287276015343,7
+EMP0420,Patricia Bautista,patricia.bautista420@company.com,+639711397169,1963-08-15,Male,Human Resources,Recruiter,2019-08-06,129197.03,4.4,Quezon City,Active,EMP0048,2026-10-09,35-7099530-0,6158148881079833,16
+EMP0421,Antonio Flores,antonio.flores421@company.com,09143199628,1989-11-28,Female,Human Resources,HR Manager,2013-11-21,91756.84,1.4,Quezon City,Active,EMP0047,2026-10-27,18-3223802-8,4033399771805137,3
+EMP0422,Isabel Torres,isabel.torres422@company.com,09623159945,1998-02-10,Female,Legal,Legal Counsel,2020-11-17,94012.81,3.3,Cebu,Active,EMP0047,2026-09-30,66-4268180-9,9704694725878444,8
+EMP0423,Mark Sy,mark.sy423@company.com,09219690062,1969-03-09,Male,Marketing,Content Strategist,2020-07-16,83385.46,2.3,Caloocan,Active,EMP0032,2026-10-10,30-3999685-1,6417582313348458,30
+EMP0424,Grace Ong,grace.ong424@company.com,0926-792-0042,1991-01-28,Male,Finance,Payroll Specialist,2015-05-16,119631.66,4.1,Davao,Active,EMP0040,2026-10-18,94-3636248-5,8796434745245557,9
+EMP0425,Miguel Domingo,miguel.domingo425@company.com,+639479687950,2004-04-20,Male,IT,Network Engineer,2026-06-10,146748.15,4.1,Manila,Active,EMP0046,2026-10-12,35-4499878-4,4505665883398741,0
+EMP0426,Paolo Mercado,paolo.mercado426@company.com,09149392070,1967-03-27,Female,Marketing,Marketing Associate,2007-10-24,109414.13,4.6,Caloocan,Active,EMP0016,2026-09-08,45-7291774-0,1054857417215622,37
+EMP0427,Carlo Lim,carlo.lim427@company.com,0968 689 1329,1999-04-04,Female,Sales,Sales Lead,2024-06-29,92367.68,4.3,Manila,Active,EMP0009,2026-10-02,18-6267395-5,7325737553449021,6
+EMP0428,Elena Mercado,elena.mercado428@company.com,0950 101 5047,2001-02-16,Male,IT,Systems Administrator,2026-03-29,93542.9,5.0,Pasig,Active,EMP0035,2026-10-06,72-5742020-9,5119181828197931,6
+EMP0429,Rafael Garcia,rafael.garcia429@company.com,+639717641820,1963-06-07,Female,Sales,Account Manager,2025-03-16,79026.12,4.1,Taguig,Active,EMP0002,2026-09-27,61-5929377-0,9600356243958739,22
+EMP0430,Carlo Garcia,carlo.garcia430@company.com,0967 275 7561,1991-06-12,Male,Administration,Admin Assistant,2023-08-08,121330.22,3.2,Cebu,Active,EMP0021,2026-11-06,50-4860502-3,3426433502716073,12
+EMP0431,Rafael Castillo,rafael.castillo431@company.com,0997 456 2092,1992-08-02,Male,Engineering,DevOps Engineer,2014-06-24,32070.74,1.7,Cebu,Active,EMP0011,2026-10-01,36-3019277-7,9556331857481700,12
+EMP0432,Ana Navarro,ana.navarro432@company.com,0980 008 1643,1981-06-13,Female,IT,Systems Administrator,2010-02-05,49816.65,3.8,Taguig,Active,EMP0031,2026-10-11,12-5608971-5,0232902822700934,11
+EMP0433,Rosa Domingo,rosa.domingo433@company.com,0989 668 0642,1993-08-18,Male,Administration,Office Manager,2012-10-20,67458.84,4.7,Davao,Active,EMP0002,2026-10-29,73-4423842-4,6549500507026086,5
+EMP0434,Juan Navarro,juan.navarro434@company.com,0922 069 9944,1990-09-30,Female,Human Resources,HR Specialist,2019-03-08,80376.33,2.7,Caloocan,Active,EMP0009,2026-11-03,87-1012106-4,7742585917793238,4
+EMP0435,Bea Cruz,bea.cruz435@company.com,09212987932,1998-04-22,Male,Human Resources,HR Specialist,2023-11-20,49409.04,1.7,Makati,Active,EMP0022,2026-09-29,69-9722758-8,9425652906032020,3
+EMP0436,Paolo Santos,paolo.santos436@company.com,0930 159 3161,1968-03-20,Female,Human Resources,Recruiter,2017-01-28,78773.53,1.9,Makati,Active,EMP0035,2026-10-16,66-2976676-4,8552457871584156,1
+EMP0437,Ana Flores,ana.flores437@company.com,0941 751 9885,1975-09-25,Male,Customer Support,CS Representative,2024-04-09,133529.88,2.2,Taguig,Active,EMP0036,2026-09-23,20-9467858-2,6832303589298808,23
+EMP0438,Ramon Pascual,ramon.pascual438@company.com,09277849781,1994-05-08,Male,Customer Support,CS Representative,2024-06-17,129621.04,4.0,Davao,Active,EMP0035,2026-09-25,88-8113803-3,4064686775240148,10
+EMP0439,Clara Ong,clara.ong439@company.com,+639250649491,1966-10-19,Male,Sales,Sales Representative,2025-06-24,82521.18,1.6,Quezon City,Active,EMP0026,2026-10-12,30-8029809-6,9335134261923724,20
+EMP0440,Gabriel Villanueva,gabriel.villanueva440@company.com,0960 584 9792,1971-09-30,Male,Engineering,Software Engineer,2011-05-20,105854.79,2.2,Cebu,Active,EMP0035,2026-09-30,88-8623020-2,1540641769274381,5
+EMP0441,Liza Sy,liza.sy441@company.com,0916-083-0178,1972-11-26,Male,Administration,Office Manager,2007-08-05,132471.74,2.1,Makati,Active,EMP0017,2026-10-12,91-9519865-5,6451017397396417,35
+EMP0442,Patricia Pascual,patricia.pascual442@company.com,0973 387 6003,1962-05-12,Male,Administration,Office Manager,2025-10-26,94831.32,1.5,Quezon City,Active,EMP0024,2026-11-01,84-8077121-6,0577980660392051,18
+EMP0443,Clara Salazar,clara.salazar443@company.com,+639478363473,1988-05-17,Male,IT,IT Support,2010-06-17,55962.22,4.1,Pasig,Active,EMP0030,2026-10-16,99-5415321-2,3885652715598354,3
+EMP0444,Miguel Aquino,miguel.aquino444@company.com,0951 091 7117,1965-03-13,Male,Finance,Payroll Specialist,2013-12-30,54408.45,3.8,Pasig,Active,EMP0022,2026-09-20,66-7064346-2,2501394884882691,12
+EMP0445,Ramon Ong,ramon.ong445@company.com,0986-867-8998,1962-04-30,Female,Finance,Accountant,2009-10-15,89267.61,2.6,Taguig,Active,EMP0007,2026-10-29,47-2379281-5,3703824073333732,0
+EMP0446,Juan Ong,juan.ong446@company.com,+639709977378,1974-04-10,Male,Sales,Sales Representative,2018-06-13,73602.06,4.4,Taguig,Active,EMP0041,2026-10-03,83-7494523-4,5465535851253892,6
+EMP0447,Camille Aquino,camille.aquino447@company.com,+639870479048,1998-01-09,Male,Customer Support,CS Team Lead,2024-06-02,80487.24,3.3,Manila,Active,EMP0030,2026-10-16,89-8346255-7,9612087805721514,9
+EMP0448,Juan Go,juan.go448@company.com,09243190757,1966-03-16,Female,Sales,Sales Lead,2018-02-15,47976.54,2.8,Makati,Active,EMP0022,2026-09-20,39-9522069-6,2895090591191862,12
+EMP0449,Victor Mendoza,victor.mendoza449@company.com,0988-240-0360,1993-10-31,Male,Marketing,SEO Specialist,2017-01-17,63132.71,1.4,Taguig,Active,EMP0037,2026-10-07,99-7500351-6,6725214526471246,6
+EMP0450,Antonio Chua,antonio.chua450@company.com,0966-249-8203,1999-05-25,Female,Marketing,Content Strategist,2022-09-05,22652.1,3.4,Manila,Active,EMP0044,2026-11-01,57-2602061-2,0800564099512397,2
+EMP0451,Andrea Bautista,andrea.bautista451@company.com,0928-997-5300,1961-09-05,Female,Customer Support,CS Representative,2014-10-14,111827.78,4.5,Davao,Active,EMP0033,2026-10-02,29-8467647-0,9081441529821739,9
+EMP0452,Rafael Sy,rafael.sy452@company.com,0922 496 3823,1969-05-06,Male,Administration,Office Manager,2011-02-19,63984.71,2.5,Quezon City,Active,EMP0032,2026-09-08,34-7782771-0,5079181589988683,18
+EMP0453,Rafael Torres,rafael.torres453@company.com,0950 487 2553,1986-01-01,Male,Operations,Operations Analyst,2018-03-20,83760.49,3.0,Pasig,Active,EMP0036,2026-10-11,71-7523126-4,7408031499825080,1
+EMP0454,Carlo Navarro,carlo.navarro454@company.com,0956 579 3566,1970-10-26,Male,Sales,Account Manager,2010-05-09,86136.93,3.7,Manila,Active,EMP0014,2026-09-25,22-8671109-2,3513739900631403,21
+EMP0455,Liza Navarro,liza.navarro455@company.com,0936-432-6419,1979-10-28,Female,Human Resources,Recruiter,2023-07-26,134652.82,2.7,Makati,Active,EMP0014,2026-09-30,93-5573719-6,0666437490607231,20
+EMP0456,Rosa Mercado,rosa.mercado456@company.com,09894668747,2000-08-12,Female,Finance,Accountant,2022-06-19,144191.24,3.9,Taguig,Active,EMP0019,2026-10-28,78-5805648-4,9411631873280771,1
+EMP0457,Miguel Mendoza,miguel.mendoza457@company.com,+639568096274,1998-11-24,Female,Marketing,Marketing Associate,2019-07-24,76954.11,1.6,Manila,Active,EMP0043,2026-10-23,74-4170380-3,5090254257306624,8
+EMP0458,Rosa Chua,rosa.chua458@company.com,09127176053,1992-05-28,Female,Finance,Accountant,2016-04-05,29019.77,2.0,Makati,Active,EMP0036,2026-10-10,30-3405239-8,5011688092550213,0
+EMP0459,Daniel Reyes,daniel.reyes459@company.com,+639918380516,1980-02-02,Male,IT,IT Support,2024-04-13,93273.04,1.3,Caloocan,Active,EMP0037,2026-10-24,92-7476923-4,9673794577278532,9
+EMP0460,Mark Mendoza,mark.mendoza460@company.com,09254601401,1981-11-08,Male,Human Resources,Recruiter,2018-02-09,79791.17,3.8,Quezon City,Active,EMP0026,2026-10-19,26-6921373-3,6667776755562833,6
+EMP0461,Carlo Sy,carlo.sy461@company.com,+639920313601,1965-05-20,Female,Marketing,SEO Specialist,2008-11-01,68726.16,2.2,Taguig,Active,EMP0010,2026-10-03,70-2822847-8,7496033582686270,13
+EMP0462,Bea Mendoza,bea.mendoza462@company.com,0978-852-4209,1986-12-04,Female,IT,Network Engineer,2015-07-03,94758.99,4.2,Davao,Active,EMP0027,2026-10-29,50-8861463-3,2759980111000515,11
+EMP0463,Pedro Torres,pedro.torres463@company.com,09438765578,1985-10-15,Female,Marketing,SEO Specialist,2019-06-21,81761.35,3.8,Makati,Active,EMP0020,2026-09-10,22-3681207-2,2618962887431271,1
+EMP0464,Isabel Castillo,isabel.castillo464@company.com,+639838864831,1974-08-25,Female,Human Resources,Recruiter,2011-06-22,141022.48,3.3,Davao,Active,EMP0029,2026-10-01,12-9250481-9,5515122946213541,22
+EMP0465,Juan Ong,juan.ong465@company.com,09371351496,1967-04-23,Male,Administration,Office Manager,2007-01-11,86744.96,4.9,Manila,Active,EMP0032,2026-10-15,50-3799814-0,3447650471580290,36
+EMP0466,Miguel Torres,miguel.torres466@company.com,+639821451343,1974-05-10,Female,Engineering,QA Engineer,2018-12-19,110591.29,2.3,Taguig,Active,EMP0027,2026-09-24,53-3220298-5,4837441715810213,4
+EMP0467,Jose Garcia,jose.garcia467@company.com,+639180972534,1968-07-23,Male,Human Resources,Recruiter,2011-03-29,114003.92,3.9,Pasig,Active,EMP0040,2026-09-13,19-3621335-9,7519102312110633,3
+EMP0468,Paolo Chua,paolo.chua468@company.com,0986-046-4354,1971-08-15,Female,Finance,Financial Analyst,2017-03-26,98709.52,1.7,Makati,Active,EMP0047,2026-10-26,96-2027878-7,2801234289311325,14
+EMP0469,Antonio Tan,antonio.tan469@company.com,+639406449156,1986-01-14,Male,Human Resources,Recruiter,2018-06-29,75448.03,4.3,Quezon City,Active,EMP0034,2026-09-28,10-5222291-4,2101750961701595,22
+EMP0470,Daniel Ramos,daniel.ramos470@company.com,0961-587-7983,1984-04-01,Female,Administration,Admin Assistant,2019-07-26,84960.34,4.1,Pasig,Active,EMP0035,2026-09-17,34-4827078-9,2056775677722660,4
+EMP0471,Antonio Garcia,antonio.garcia471@company.com,09977681712,1979-05-16,Male,Operations,Logistics Coordinator,2026-05-17,39635.02,4.8,Quezon City,Active,EMP0007,2026-09-18,12-7564784-7,2453076248433797,13
+EMP0472,Isabel Sy,isabel.sy472@company.com,+639447121938,2001-05-17,Female,IT,IT Support,2020-02-13,99016.29,1.6,Caloocan,Active,EMP0014,2026-11-03,63-9229339-0,4254969192845525,7
+EMP0473,Rafael Navarro,rafael.navarro473@company.com,0983-903-6931,1978-07-16,Male,Finance,Accountant,2022-07-04,138319.0,4.6,Caloocan,Active,EMP0018,2026-10-18,81-6716959-9,5325939933797058,28
+EMP0474,Victor Garcia,victor.garcia474@company.com,0959 680 8815,1965-06-11,Female,Finance,Financial Analyst,2025-01-15,28700.31,2.6,Quezon City,Active,EMP0050,2026-10-07,45-3400540-5,0733055978245759,34
+EMP0475,Carlo Ong,carlo.ong475@company.com,+639889731609,1966-09-22,Male,Marketing,SEO Specialist,2020-10-19,88055.28,3.0,Quezon City,Active,EMP0025,2026-11-04,64-1183106-4,4324006157276829,28
+EMP0476,Mark Salazar,mark.salazar476@company.com,0940 576 1709,1987-08-08,Male,Operations,Operations Analyst,2012-09-03,96242.44,2.3,Manila,Active,EMP0008,2026-10-09,16-6478399-8,7525680656259045,18
+EMP0477,Gabriel Reyes,gabriel.reyes477@company.com,09250228767,1996-03-05,Male,Administration,Admin Assistant,2025-11-24,33292.92,1.7,Quezon City,Active,EMP0006,2026-11-03,56-6990825-5,1651768086628137,2
+EMP0478,Liza Flores,liza.flores478@company.com,+639156353302,2000-12-18,Male,Finance,Financial Analyst,2022-01-02,82230.12,1.2,Quezon City,Active,EMP0010,2026-11-06,27-9398403-5,5660847068103903,3
+EMP0479,Juan Navarro,juan.navarro479@company.com,0999 017 1357,1999-01-21,Male,Administration,Office Manager,2018-11-24,71633.59,1.6,Manila,Active,EMP0041,2026-10-06,89-5721396-4,8586239453546147,0
+EMP0480,Carlo Mendoza,carlo.mendoza480@company.com,+639897589822,1997-10-24,Male,Legal,Paralegal,2022-06-21,46018.54,3.3,Makati,Active,EMP0045,2026-11-01,96-4596069-9,4570394380403253,7
+EMP0481,Paolo Salazar,paolo.salazar481@company.com,0962-793-9807,1979-01-15,Female,IT,Network Engineer,2011-09-26,92907.88,2.1,Quezon City,Active,EMP0005,2026-09-10,88-2799550-0,0900404769210533,13
+EMP0482,Mark Domingo,mark.domingo482@company.com,09228931181,1963-11-12,Female,Operations,Operations Analyst,2020-10-06,38438.95,2.8,Quezon City,Active,EMP0008,2026-11-05,91-1509483-7,2011379844097123,4
+EMP0483,Miguel Santos,miguel.santos483@company.com,+639542837170,2002-03-04,Male,IT,Network Engineer,2024-02-22,146477.93,3.3,Manila,Active,EMP0043,2026-10-09,18-5711426-4,7340433700968730,2
+EMP0484,Patricia Navarro,patricia.navarro484@company.com,0980 716 7807,1975-03-24,Female,Operations,Operations Analyst,2015-11-16,114405.82,3.2,Pasig,Active,EMP0048,2026-10-15,91-6818132-6,2965754278656194,8
+EMP0485,Antonio Salazar,antonio.salazar485@company.com,+639145908616,1976-02-17,Female,Operations,Logistics Coordinator,2009-08-07,85825.87,4.4,Davao,Active,EMP0039,2026-10-28,53-3674757-9,2361618808190482,14
+EMP0486,Ana Aquino,ana.aquino486@company.com,0980 533 2300,1981-02-11,Female,Operations,Logistics Coordinator,2008-02-11,48479.28,2.4,Taguig,Active,EMP0045,2026-10-05,23-4788543-7,2308172143643813,0
+EMP0487,Grace Bautista,grace.bautista487@company.com,0917-659-6615,1991-08-13,Male,Engineering,Software Engineer,2012-10-03,52946.41,4.8,Taguig,Active,EMP0023,2026-09-25,94-7761231-0,9456534699799070,15
+EMP0488,Juan Ramos,juan.ramos488@company.com,0920-523-4017,1974-05-08,Female,Operations,Logistics Coordinator,2011-10-03,109516.85,3.5,Pasig,Active,EMP0044,2026-09-19,72-1458489-6,0717481131765397,2
+EMP0489,Camille Go,camille.go489@company.com,09111053043,1976-08-01,Male,Operations,Logistics Coordinator,2014-07-05,97145.78,3.7,Manila,Active,EMP0033,2026-11-01,66-2159299-8,2749680491872742,2
+EMP0490,Paolo Domingo,paolo.domingo490@company.com,0918-248-5548,1996-11-28,Male,Sales,Sales Lead,2024-12-24,82679.0,2.0,Taguig,Active,EMP0050,2026-09-15,93-3963386-6,0423597371122299,0
+EMP0491,Andrea Go,andrea.go491@company.com,09844975061,1977-11-09,Female,Legal,Paralegal,2012-08-19,102528.16,1.4,Caloocan,Active,EMP0003,2026-09-11,45-8319750-8,6111457683210219,11
+EMP0492,Bea Lim,bea.lim492@company.com,09948254067,1981-02-06,Male,Marketing,Content Strategist,2021-06-12,95675.67,1.5,Manila,Active,EMP0015,2026-11-03,35-3472747-4,2605080184980425,7
+EMP0493,Carlo Sy,carlo.sy493@company.com,09285132385,1974-03-21,Female,Legal,Legal Counsel,2017-03-06,91894.23,3.5,Cebu,Active,EMP0010,2026-11-01,95-3129961-8,2178192365346060,20
+EMP0494,Carlo Sy,carlo.sy494@company.com,09341292392,1981-05-02,Male,IT,IT Support,2017-10-01,82317.55,4.8,Taguig,Active,EMP0042,2026-09-15,91-3638806-3,9847169061812054,12
+EMP0495,Antonio Aquino,antonio.aquino495@company.com,09430864804,1985-02-16,Female,Sales,Account Manager,2014-09-03,86487.19,2.5,Davao,Active,EMP0031,2026-09-10,53-2526520-7,5889144449835539,6
+EMP0496,Carlo Aquino,carlo.aquino496@company.com,0974 184 0461,1970-12-10,Female,Operations,Logistics Coordinator,2018-07-05,107059.0,1.8,Davao,Active,EMP0050,2026-10-22,98-5949535-3,5885379821433952,31
+EMP0497,Miguel Mercado,miguel.mercado497@company.com,09257131290,1987-01-31,Female,Operations,Operations Analyst,2017-07-26,98777.89,2.0,Taguig,Active,EMP0036,2026-10-17,60-1054812-1,3477894896340679,3
+EMP0498,Miguel Aquino,miguel.aquino498@company.com,0991 617 7380,1997-09-04,Male,Legal,Paralegal,2024-09-11,25334.5,1.3,Cebu,Active,EMP0036,2026-10-15,78-5503244-2,1630900159446333,9
+EMP0499,Camille Navarro,camille.navarro499@company.com,+639440073137,1989-08-31,Male,Administration,Office Manager,2026-03-21,42339.5,4.9,Taguig,Active,EMP0014,2026-10-01,79-1292604-2,1994711363379223,8
+EMP0500,Liza Sy,liza.sy500@company.com,+639515219499,1985-04-09,Female,Finance,Accountant,2015-03-08,47740.42,1.4,Cebu,Active,EMP0027,2026-09-30,66-8424380-2,6960843768550789,12
+EMP0101,Andrea Garcia,andrea.garcia501@company.com,,2000-01-11,Male,Legal,Legal Counsel,2020-02-16,122449.09,1.8,Pasig,Active,EMP0023,2026-09-25,61-5599335-3,4369709317069556,0
+EMP0502,Clara Salazar,clara.salazar502@company.com,,1977-10-05,Female,Legal,Paralegal,2017-12-30,67657.32,5.0,Caloocan,Active,EMP0011,2026-10-16,31-4676504-9,8983065031219804,5
+EMP0503,Rafael Garcia,rafael.garcia503@company.com,,1986-09-06,Male,Customer Support,CS Team Lead,2009-08-31,73230.37,1.7,Cebu,Active,EMP0015,2026-10-21,21-1874873-9,2487623039111428,3
+EMP0504,Clara Mendoza,clara.mendoza504@company.com,,1995-02-15,Male,Legal,Paralegal,2014-09-23,62312.12,1.7,Makati,Active,EMP0033,2026-10-23,12-9403927-8,0622072239594737,2
+EMP0505,Liza Mendoza,liza.mendoza505@company.com,,1964-01-17,Male,Finance,Payroll Specialist,2011-09-21,20074.54,2.8,Caloocan,Active,EMP0044,2026-11-03,60-7776291-8,7859964862872031,38
+EMP0506,Ana Ong,ana.ong506@company.com,,1978-05-08,Female,Operations,Logistics Coordinator,2019-03-19,83338.81,4.0,Quezon City,Active,EMP0028,2026-10-15,91-3469105-7,9246320374767753,14
+EMP0507,Maria Flores,maria.flores507@company.com,,1994-12-23,Male,Human Resources,Recruiter,2014-11-06,65572.16,4.6,Taguig,Active,EMP0005,2026-10-20,86-5931680-5,8870715534820128,4
+EMP0508,Gabriel Torres,gabriel.torres508@company.com,,1964-03-01,Female,Engineering,Software Engineer,2019-04-22,123806.45,2.8,Pasig,Active,EMP0019,2026-10-10,57-1854234-8,9177680898126574,9
+EMP0509,Jose Ong,jose.ong509@company.com,,1980-06-30,Female,Human Resources,HR Specialist,2018-11-06,21574.92,1.5,Taguig,Active,EMP0037,2026-11-05,34-8005981-2,6894301204713727,3
+EMP0510,Rafael Aquino,rafael.aquino510@company.com,,1965-05-16,Female,Finance,Payroll Specialist,2009-10-27,102098.19,2.3,Davao,Active,EMP0043,2026-10-22,97-9724962-4,9330674584760944,6
+EMP0111,Liza Flores,liza.flores511@company.com,,1989-03-24,Female,Human Resources,HR Manager,2009-08-24,73643.85,2.6,Pasig,Active,EMP0020,2026-09-09,20-5068377-2,9715066626705514,7
+EMP0512,Miguel Tan,miguel.tan512@company.com,,1991-04-23,Male,Legal,Paralegal,2019-06-06,99374.45,1.7,Davao,Active,EMP0039,2026-10-23,51-7322454-1,1110286712007202,9
+EMP0513,Bea Tan,bea.tan513@company.com,,1999-10-25,Male,Operations,Logistics Coordinator,2025-03-13,25062.49,3.3,Manila,Active,EMP0040,2026-10-19,10-4225388-2,6714949819421794,2
+EMP0514,Isabel Ong,isabel.ong514@company.com,,1989-11-29,Male,Customer Support,CS Representative,2021-08-09,110338.14,4.2,Pasig,Active,EMP0033,2026-10-13,49-5926684-6,6345337220109121,14
+EMP0515,Clara Cruz,clara.cruz515@company.com,,1986-05-31,Female,Human Resources,HR Specialist,2013-01-16,76593.53,1.5,Makati,Active,EMP0046,2026-10-01,36-8939453-0,5263510046277657,4
+EMP0516,Bea Aquino,bea.aquino516@company.com,,1967-11-29,Male,Operations,Logistics Coordinator,2023-01-04,144057.64,2.7,Caloocan,Active,EMP0022,2026-09-13,28-1705070-2,3897432600559550,6
+EMP0517,Carlo Garcia,carlo.garcia517@company.com,,1982-12-05,Female,Legal,Legal Counsel,2013-08-14,89012.98,4.6,Quezon City,Active,EMP0028,2026-09-21,15-8632836-9,8487045069176799,7
+EMP0518,Rafael Ramos,rafael.ramos518@company.com,,1984-12-19,Female,Operations,Operations Analyst,2009-10-15,71325.64,1.0,Quezon City,Active,EMP0003,2026-09-16,38-8537163-3,6060148860849079,6
+EMP0519,Victor Bautista,victor.bautista519@company.com,,1989-05-01,Male,Customer Support,CS Team Lead,2016-02-12,21847.48,2.7,Pasig,Active,EMP0042,2026-10-17,41-9050790-0,1242446263251448,17
+EMP0520,Pedro Bautista,pedro.bautista520@company.com,,2004-07-13,Female,Finance,Accountant,2026-05-26,145468.68,1.5,Caloocan,Active,EMP0022,2026-09-19,25-9396377-8,7817941515263840,4
+EMP0121,Rosa Garcia,rosa.garcia521@company.com,,1983-08-28,Male,Finance,Accountant,2016-04-27,82229.75,4.7,Pasig,Active,EMP0002,2026-09-24,53-7531004-6,1863239791378765,20
+EMP0522,Maria Reyes,maria.reyes522@company.com,,1976-08-15,Female,Operations,Operations Analyst,2026-07-30,104333.19,2.7,Manila,Active,EMP0021,2026-10-16,69-2429842-2,1988192778851905,15
+EMP0523,Sofia Villanueva,sofia.villanueva523@company.com,,2002-09-20,Male,Sales,Sales Lead,2026-05-02,110467.88,4.3,Davao,Active,EMP0018,2026-10-19,53-7912713-1,8517446004521289,4
+EMP0524,Ana Bautista,ana.bautista524@company.com,,1988-05-30,Male,Finance,Financial Analyst,2020-05-08,95689.67,1.3,Manila,Active,EMP0018,2026-10-31,49-2336525-8,9848416046154021,3
+EMP0525,Ana Mercado,ana.mercado525@company.com,,2002-03-18,Male,Administration,Admin Assistant,2021-12-16,54356.69,3.4,Quezon City,Active,EMP0006,2026-10-13,52-3824944-2,9107322836084937,4
+EMP0526,Sofia Torres,sofia.torres526@company.com,,1964-12-16,Female,Marketing,Marketing Associate,2018-12-19,64754.82,2.6,Taguig,Active,EMP0038,2026-09-16,46-5519114-3,9164970169342929,7
+EMP0527,Ramon Reyes,ramon.reyes527@company.com,,1990-07-12,Female,Marketing,Marketing Associate,2013-05-26,37285.07,1.9,Cebu,Active,EMP0037,2026-09-22,10-4526654-1,0615372215566847,6
+EMP0528,Miguel Navarro,miguel.navarro528@company.com,,1991-12-11,Female,Human Resources,HR Specialist,2013-02-06,83558.76,2.1,Manila,Active,EMP0017,2026-09-26,10-8269456-7,2007843614244260,15
+EMP0529,Daniel Salazar,daniel.salazar529@company.com,,1982-06-16,Female,Customer Support,CS Representative,2013-11-26,129130.84,4.9,Makati,Active,EMP0011,2026-10-10,71-4700477-7,2037638821458414,21
+EMP0530,Clara Castillo,clara.castillo530@company.com,,2003-10-12,Male,Customer Support,CS Team Lead,2023-12-06,136840.84,2.0,Quezon City,Active,EMP0049,2026-09-12,95-9890570-2,7802058695073214,5
+EMP0131,Ramon Ramos,ramon.ramos531@company.com,+639745933368,1967-08-12,Female,IT,Systems Administrator,2014-03-17,32491.69,2.9,Quezon City,Active,EMP0016,2026-09-26,51-1768454-5,5738573680119236,2
+EMP0532,Sofia Lim,sofia.lim532@company.com,+639573822048,2000-09-22,Male,Marketing,Content Strategist,2021-05-05,48695.18,1.9,Pasig,Active,EMP0007,2026-10-03,14-5302626-0,9614973153911498,3
+EMP0533,Ramon Ramos,ramon.ramos533@company.com,+639882397650,1970-08-28,Male,Engineering,DevOps Engineer,2013-08-24,140409.67,3.0,Quezon City,Active,EMP0027,2026-09-24,52-2679291-1,8939406557820190,17
+EMP0534,Rosa Flores,rosa.flores534@company.com,+639312219350,2002-08-14,Male,Marketing,Marketing Associate,2025-07-07,58350.0,1.2,Caloocan,Active,EMP0015,2026-10-25,89-3256787-0,1354621276025082,5
+EMP0535,Jose Mendoza,jose.mendoza535@company.com,+639566668019,1991-10-10,Male,IT,IT Support,2024-01-26,110959.38,1.7,Pasig,Active,EMP0029,2026-11-01,30-9939702-9,3762974549303646,17
+EMP0536,Daniel Bautista,daniel.bautista536@company.com,+639672887317,1996-10-18,Male,Legal,Legal Counsel,2023-12-10,92808.43,2.6,Davao,Active,EMP0004,2026-09-24,76-4016419-8,3230898138815881,4
+EMP0537,Camille Garcia,camille.garcia537@company.com,+639999689808,1993-10-24,Male,Sales,Account Manager,2020-04-28,38162.62,4.2,Cebu,Active,EMP0034,2026-09-14,28-8421362-1,6815724500000015,5
+EMP0538,Jose Go,jose.go538@company.com,+639571350168,1992-03-14,Female,Administration,Admin Assistant,2011-08-08,27442.19,3.5,Manila,Active,EMP0047,2026-11-01,29-6928008-5,6184442182998747,16
+EMP0539,Rosa Villanueva,rosa.villanueva539@company.com,+639507426246,1972-01-07,Female,Finance,Accountant,2011-01-20,25249.81,2.7,Manila,Active,EMP0003,2026-10-18,86-1819619-0,4365515848266913,26
+EMP0540,Gabriel Flores,gabriel.flores540@company.com,+639432995650,1984-05-12,Male,Human Resources,Recruiter,2013-07-26,122068.19,2.5,Manila,Active,EMP0036,2026-10-15,15-8881419-0,6336998795098221,1
+EMP0141,Ana Castillo,ana.castillo541@company.com,+639668320415,1988-02-20,Male,Sales,Sales Representative,2024-03-11,54009.02,3.9,Davao,Active,EMP0036,2026-10-03,70-9362556-3,8363816432126942,16
+EMP0542,Sofia Villanueva,sofia.villanueva542@company.com,+639912263630,1994-11-05,Male,Administration,Office Manager,2023-04-21,67873.35,3.9,Taguig,Active,EMP0014,2026-10-12,23-6193974-4,1706462554026355,8
+EMP0543,Carlo Santos,carlo.santos543@company.com,+639541513645,1962-10-11,Female,Human Resources,Recruiter,2017-05-09,132200.94,3.1,Manila,Active,EMP0050,2026-10-19,38-2828132-5,3888245279050404,15
+EMP0544,Carlo Navarro,carlo.navarro544@company.com,+639861152018,1992-02-20,Male,Marketing,Marketing Associate,2022-08-01,71313.6,1.9,Davao,Active,EMP0007,2026-10-18,21-2586703-9,7871809339137326,10
+EMP0545,Sofia Reyes,sofia.reyes545@company.com,+639917497187,2000-10-02,Female,Marketing,Marketing Associate,2019-06-30,118591.79,2.3,Taguig,Active,EMP0007,2026-09-29,69-9400075-6,8800230091561829,8
+EMP0546,Ramon Castillo,ramon.castillo546@company.com,+639383346670,1983-03-22,Female,Engineering,Senior Engineer,2014-01-19,126995.32,3.4,Taguig,Active,EMP0001,2026-10-07,89-4585320-6,5952014911894184,7
+EMP0547,Gabriel Mercado,gabriel.mercado547@company.com,+639537312524,1983-11-05,Male,Marketing,Content Strategist,2015-01-17,42178.09,3.9,Quezon City,Active,EMP0039,2026-09-20,87-9486798-2,1374556114042886,23
+EMP0548,Antonio Santos,antonio.santos548@company.com,+639560280392,1983-07-20,Female,Engineering,QA Engineer,2016-11-28,145617.43,4.0,Cebu,Active,EMP0008,2026-10-13,26-8155750-0,0308356691062715,23
+EMP0549,Rosa Torres,rosa.torres549@company.com,+639561487197,1988-05-26,Male,Marketing,Marketing Associate,2019-08-12,76711.26,1.4,Caloocan,Active,EMP0028,2026-09-16,81-3392360-9,3844013480873543,15
+EMP0550,Sofia Reyes,sofia.reyes550@company.com,+639877235902,1991-07-20,Male,Customer Support,CS Representative,2015-10-27,26942.04,3.7,Caloocan,Active,EMP0045,2026-09-29,98-1302898-9,0859914492074926,13
+EMP0151,Victor Sy,victor.sy551@company.com,+639744578689,1986-02-08,Female,Administration,Office Manager,2013-12-14,31655.11,3.1,Davao,Active,EMP0035,2026-09-20,56-7444109-9,3259140849932312,7
+EMP0552,Victor Domingo,victor.domingo552@company.com,+639158811546,1979-02-04,Female,Sales,Sales Representative,2015-07-29,100888.32,1.1,Caloocan,Active,EMP0010,2026-09-08,60-2974957-7,6072348389359538,4
+EMP0553,Grace Santos,grace.santos553@company.com,+639252961256,1982-04-24,Female,Customer Support,CS Representative,2009-02-04,64374.16,3.2,Davao,Active,EMP0026,2026-10-31,85-7018359-8,2641869656130876,3
+EMP0554,Elena Pascual,elena.pascual554@company.com,+639905759254,1984-01-30,Male,Human Resources,HR Specialist,2019-12-26,52750.97,1.8,Makati,Active,EMP0026,2026-09-09,79-3499000-3,9484002730086966,2
+EMP0555,Victor Castillo,victor.castillo555@company.com,+639307589609,1972-08-09,Female,Engineering,Software Engineer,2025-03-01,127062.87,4.3,Manila,Active,EMP0004,2026-09-26,18-7294667-8,0941491507628397,26
+EMP0556,Clara Navarro,clara.navarro556@company.com,+639631790821,1989-12-25,Female,Human Resources,HR Specialist,2021-09-03,77550.34,2.1,Davao,Active,EMP0004,2026-11-06,67-3344288-6,6292508177602991,8
+EMP0557,Gabriel Sy,gabriel.sy557@company.com,+639313072521,1970-07-10,Male,Engineering,DevOps Engineer,2025-04-28,79002.64,1.4,Davao,Active,EMP0021,2026-10-26,55-3873072-3,5617817032119206,7
+EMP0558,Liza Pascual,liza.pascual558@company.com,+639686384137,1962-06-14,Female,Marketing,Content Strategist,2024-01-12,68877.54,1.8,Caloocan,Active,EMP0005,2026-10-07,95-5978272-4,4902950264801644,3
+EMP0559,Carlo Sy,carlo.sy559@company.com,+639216267573,1988-09-25,Male,Marketing,Content Strategist,2018-10-08,137655.56,4.0,Caloocan,Active,EMP0043,2026-10-04,75-3857465-2,1021798213486298,10
+EMP0560,Liza Domingo,liza.domingo560@company.com,+639653299501,1990-02-13,Male,Legal,Paralegal,2022-04-30,90656.53,5.0,Taguig,Active,EMP0002,2026-10-31,53-4840443-9,7079866177067368,4
+EMP0161,Victor Santos,victor.santos561@company.com,+639283545717,1980-02-16,Male,Engineering,QA Engineer,2023-10-23,49108.07,2.4,Davao,Active,EMP0006,2026-09-26,60-7141140-0,5871469218219259,12
+EMP0562,Camille Tan,camille.tan562@company.com,+639769410380,1969-12-07,Female,Legal,Legal Counsel,2021-05-03,121835.41,4.5,Davao,Active,EMP0009,2026-10-11,14-6551272-0,9386948424959881,5
+EMP0563,Rafael Chua,rafael.chua563@company.com,+639906567353,1970-03-07,Male,Sales,Account Manager,2017-08-04,110386.45,2.8,Pasig,Active,EMP0012,2026-09-17,40-7738624-7,6738209746191779,34
+EMP0564,Camille Garcia,camille.garcia564@company.com,+639633892433,1965-02-01,Male,Legal,Paralegal,2008-07-16,128815.85,1.5,Quezon City,Active,EMP0032,2026-10-06,14-9927838-5,8062350405669579,2
+EMP0565,Rosa Ramos,rosa.ramos565@company.com,+639502147783,1970-08-23,Female,Engineering,Software Engineer,2011-04-02,52656.75,4.7,Taguig,Active,EMP0030,2026-10-17,85-7611347-3,2594232894633891,21
+EMP0566,Mark Cruz,mark.cruz566@company.com,+639672347608,1960-12-10,Female,IT,IT Support,2008-07-11,113914.71,4.7,Davao,Active,EMP0022,2026-10-27,59-3813192-9,2693358951381865,23
+EMP0567,Gabriel Ramos,gabriel.ramos567@company.com,+639444071348,1980-02-06,Female,Engineering,DevOps Engineer,2020-03-26,120490.42,2.1,Makati,Active,EMP0015,2026-09-29,10-4257456-4,9189117972038593,8
+EMP0568,Andrea Torres,andrea.torres568@company.com,+639587131684,1979-06-15,Male,Engineering,Software Engineer,2024-11-26,62479.82,2.3,Cebu,Active,EMP0014,2026-10-20,32-7142308-9,3678136750094214,24
+EMP0569,Victor Navarro,victor.navarro569@company.com,+639231011214,1993-03-27,Female,Finance,Accountant,2020-12-26,92993.13,3.4,Davao,Active,EMP0049,2026-10-05,71-1112852-4,5238885622586605,13
+EMP0570,Mark Villanueva,mark.villanueva570@company.com,+639647832061,1994-09-06,Female,Legal,Paralegal,2019-11-09,147810.01,4.6,Makati,Active,EMP0035,2026-10-17,90-6696472-9,6559428249116502,14
+EMP0171,Maria Garcia,maria.garcia571@company.com,+639795076080,1985-05-11,Male,Engineering,Software Engineer,2014-01-02,29457.26,1.9,Cebu,Active,EMP0021,2026-10-01,50-2161697-3,0557083682144488,19
+EMP0572,Daniel Ong,daniel.ong572@company.com,+639841269110,1973-09-08,Male,IT,Systems Administrator,2016-10-06,74999.4,4.6,Caloocan,Active,EMP0047,2026-09-14,47-7933678-2,0258254318328123,4
+EMP0573,Patricia Garcia,patricia.garcia573@company.com,+639199432884,1963-11-20,Male,Human Resources,HR Specialist,2014-03-31,69030.32,1.0,Cebu,Active,EMP0034,2026-09-29,41-7968718-4,7238750827681722,22
+EMP0574,Paolo Ramos,paolo.ramos574@company.com,+639245670947,1981-02-04,Female,Legal,Paralegal,2014-03-25,40118.14,3.3,Manila,Active,EMP0021,2026-10-08,28-2513876-8,7683160827172173,6
+EMP0575,Daniel Chua,daniel.chua575@company.com,+639131424732,1967-08-19,Female,Legal,Legal Counsel,2007-09-21,43632.6,1.6,Quezon City,Active,EMP0048,2026-09-09,62-3872134-1,6591438823255398,13
+EMP0576,Mark Domingo,mark.domingo576@company.com,+639891471133,1997-03-09,Female,Operations,Logistics Coordinator,2018-10-30,48452.58,4.2,Makati,Active,EMP0016,2026-10-09,12-6580507-4,4979127997029271,2
+EMP0577,Liza Sy,liza.sy577@company.com,+639634402283,1966-03-28,Male,Engineering,QA Engineer,2011-08-14,47850.84,3.8,Pasig,Active,EMP0009,2026-09-10,84-9706450-3,2201256083200487,38
+EMP0578,Andrea Sy,andrea.sy578@company.com,+639499639071,1990-11-27,Female,Legal,Paralegal,2014-03-24,44005.31,3.5,Taguig,Active,EMP0004,2026-09-23,15-4388917-0,4436199517152391,0
+EMP0579,Daniel Mendoza,daniel.mendoza579@company.com,+639425118997,1967-05-28,Male,Human Resources,HR Manager,2013-07-06,82135.94,3.6,Quezon City,Active,EMP0004,2026-11-02,88-4293914-0,9671397191260221,13
+EMP0580,Bea Go,bea.go580@company.com,+639249931996,1975-04-25,Male,Human Resources,HR Specialist,2017-06-02,34971.57,4.1,Cebu,Active,EMP0008,2026-09-26,24-7418661-6,1220190725873393,2
+EMP0181,Carlo Domingo,carlo.domingo581@company.com,+639809031694,1980-05-30,Male,Sales,Sales Lead,2022-07-12,79194.62,4.5,Makati,Active,EMP0050,2026-11-07,76-2738615-2,4211408682509522,19
+EMP0582,Pedro Santos,pedro.santos582@company.com,+639475783148,1967-08-15,Female,Sales,Account Manager,2012-10-14,129153.99,1.3,Manila,Active,EMP0014,2026-10-15,95-6792145-2,9701371243658585,24
+EMP0583,Carlo Santos,carlo.santos583@company.com,+639267686871,1988-10-09,Male,Sales,Sales Representative,2009-01-29,38309.96,2.9,Manila,Active,EMP0028,2026-09-19,25-7070375-9,2738740299071669,0
+EMP0584,Pedro Garcia,pedro.garcia584@company.com,+639214932980,1986-02-19,Female,IT,IT Support,2013-10-15,61526.57,4.8,Davao,Active,EMP0044,2026-09-11,90-1127128-3,4030109567975649,2
+EMP0585,Daniel Sy,daniel.sy585@company.com,+639285201676,1982-05-12,Male,Operations,Logistics Coordinator,2021-01-04,52666.56,4.4,Davao,Active,EMP0017,2026-09-15,69-8284413-0,1080181030683176,8
+EMP0586,Rosa Domingo,rosa.domingo586@company.com,+639204612871,1971-10-31,Female,Finance,Financial Analyst,2015-11-18,78208.96,1.6,Manila,Active,EMP0047,2026-10-05,23-6749870-0,7138067130735104,23
+EMP0587,Isabel Villanueva,isabel.villanueva587@company.com,+639311047815,1992-04-24,Male,Customer Support,CS Team Lead,2023-11-21,22265.85,2.7,Pasig,Active,EMP0035,2026-09-23,77-6961507-7,6694703180533962,14
+EMP0588,Miguel Domingo,miguel.domingo588@company.com,+639663302051,1995-10-06,Male,Sales,Account Manager,2022-02-18,127990.09,3.8,Caloocan,Active,EMP0002,2026-11-03,14-1966046-4,6661459011079771,4
+EMP0589,Clara Chua,clara.chua589@company.com,+639692742677,1988-01-22,Male,Engineering,Software Engineer,2021-12-25,126671.17,3.3,Makati,Active,EMP0037,2026-09-19,10-6285611-3,1520499809497698,15
+EMP0590,Jose Torres,jose.torres590@company.com,+639973666467,1975-01-22,Female,Marketing,SEO Specialist,2017-12-18,69688.76,3.2,Makati,Active,EMP0007,2026-10-31,62-7408963-1,2374077943325623,32
+EMP0191,Daniel Tan,daniel.tan591@company.com,+639171935975,1997-01-06,Female,Administration,Office Manager,2021-11-02,41468.55,2.7,Davao,Active,EMP0002,2026-11-07,37-8839464-0,8782116020418135,10
+EMP0592,Pedro Bautista,pedro.bautista592@company.com,+639997949119,1999-04-01,Female,Administration,Office Manager,2018-03-09,140614.44,3.0,Cebu,Active,EMP0035,2026-09-22,61-5362675-4,8221758839785708,2
+EMP0593,Mark Lim,mark.lim593@company.com,+639815739157,2002-04-13,Male,Engineering,Software Engineer,2023-11-26,127745.38,1.7,Quezon City,Active,EMP0025,2026-10-08,82-2428211-4,9611287942968827,5
+EMP0594,Bea Mercado,bea.mercado594@company.com,+639732263942,1962-01-02,Female,IT,Network Engineer,2025-08-29,49813.84,1.5,Cebu,Active,EMP0038,2026-11-05,64-2887319-5,6078327488356517,37
+EMP0595,Grace Chua,grace.chua595@company.com,+639786823261,2002-01-08,Female,IT,IT Support,2021-04-13,128561.26,2.5,Quezon City,Active,EMP0047,2026-09-24,43-8202597-0,4784217028516225,4
+EMP0596,Sofia Ramos,sofia.ramos596@company.com,+639716188585,1970-02-15,Male,Marketing,SEO Specialist,2024-03-05,54569.37,2.6,Quezon City,Active,EMP0040,2026-10-06,15-8313326-2,4672879916091141,13
+EMP0597,Victor Flores,victor.flores597@company.com,+639787298924,1981-12-15,Male,Finance,Payroll Specialist,2011-09-14,149815.27,4.5,Taguig,Active,EMP0007,2026-09-30,39-4579314-7,6052304588165025,8
+EMP0598,Pedro Ramos,pedro.ramos598@company.com,+639798239012,1997-01-03,Male,Sales,Account Manager,2025-08-07,133495.45,3.8,Makati,Active,EMP0002,2026-10-18,82-7985879-6,1771824989808806,7
+EMP0599,Ana Ramos,ana.ramos599@company.com,+639212298648,1999-04-02,Male,Customer Support,CS Representative,2024-04-08,129165.5,3.5,Taguig,Active,EMP0041,2026-10-05,58-5446406-8,6989396987486941,5
+EMP0600,Paolo Sy,paolo.sy600@company.com,+639875651322,2001-09-18,Male,Operations,Logistics Coordinator,2025-10-22,27616.45,3.7,Caloocan,Active,EMP0024,2026-10-30,41-7400338-0,5117160398863653,6
+EMP0201,Gabriel Tan,gabriel.tan601@company.com,+639506929818,1988-06-02,Female,Human Resources,HR Specialist,2019-04-14,20998.18,1.1,Makati,Active,EMP0009,2026-11-04,48-9897844-9,4204664896676056,8
+EMP0602,Elena Villanueva,elena.villanueva602@company.com,+639912034755,1984-04-15,Female,Human Resources,HR Specialist,2009-07-13,64189.18,4.6,Caloocan,Active,EMP0020,2026-10-07,50-4703279-3,8906235466226540,3
+EMP0603,Paolo Ong,paolo.ong603@company.com,+639109831282,1966-05-29,Female,IT,Network Engineer,2022-02-14,40834.34,1.7,Davao,Active,EMP0010,2026-11-04,47-4037413-7,6774625916011241,5
+EMP0604,Camille Pascual,camille.pascual604@company.com,+639916573079,1964-05-08,Male,Operations,Logistics Coordinator,2006-12-30,34085.22,3.4,Taguig,Active,EMP0031,2026-11-07,73-3145003-3,1299570472642612,7
+EMP0605,Carlo Pascual,carlo.pascual605@company.com,+639614023624,1988-07-22,Female,Human Resources,HR Specialist,2012-02-06,49636.87,2.4,Taguig,Active,EMP0049,2026-09-12,78-1806878-7,8525482421838545,8
+EMP0606,Bea Domingo,bea.domingo606@company.com,+639800301972,1988-06-13,Female,Engineering,Software Engineer,2013-09-25,64010.1,1.6,Quezon City,Active,EMP0005,2026-10-20,24-3347865-3,2748979177633427,5
+EMP0607,Camille Lim,camille.lim607@company.com,+639609740476,1979-12-04,Female,Engineering,Senior Engineer,2023-04-17,112848.18,3.6,Manila,Active,EMP0005,2026-11-03,87-7493199-3,0453069358824935,27
+EMP0608,Juan Reyes,juan.reyes608@company.com,+639525565787,1964-09-30,Female,Marketing,Content Strategist,2016-06-19,81642.18,2.1,Cebu,Active,EMP0028,2026-09-23,54-3889875-4,4454460838517993,28
+EMP0609,Juan Chua,juan.chua609@company.com,+639879565520,1960-12-25,Female,Customer Support,CS Representative,2011-09-13,51320.06,3.4,Davao,Active,EMP0035,2026-09-17,68-9427853-8,4869996988290457,37
+EMP0610,Ana Ramos,ana.ramos610@company.com,+639349699944,1975-12-07,Male,Human Resources,Recruiter,2023-12-06,125329.1,4.4,Taguig,Active,EMP0046,2026-10-14,42-3936508-4,2383972833912187,1
+EMP0211,Daniel Torres,daniel.torres611@company.com,+639153017184,1993-02-24,Male,IT,IT Support,2013-10-30,41811.82,1.5,Cebu,Active,EMP0001,2026-09-09,33-4859085-2,0018676610089876,3
+EMP0612,Grace Torres,grace.torres612@company.com,+639166262563,1981-05-06,Male,Engineering,Software Engineer,2010-11-19,136706.34,2.2,Pasig,Active,EMP0042,2026-10-20,41-2426942-9,8074682354695100,6
+EMP0613,Victor Castillo,victor.castillo613@company.com,+639399517810,1993-11-14,Female,Engineering,DevOps Engineer,2021-03-06,143824.59,3.4,Caloocan,Active,EMP0005,2026-09-16,52-1327913-0,6666411065411340,14
+EMP0614,Ana Castillo,ana.castillo614@company.com,+639604050683,1965-01-24,Male,Customer Support,CS Team Lead,2021-05-01,87963.06,1.1,Quezon City,Active,EMP0028,2026-09-29,63-4394065-4,8268999626970838,27
+EMP0615,Isabel Pascual,isabel.pascual615@company.com,+639759669645,1960-12-20,Male,Customer Support,CS Representative,2013-12-21,67330.97,2.5,Taguig,Active,EMP0012,2026-09-18,56-8609042-1,9760932012657898,11
+EMP0616,Grace Cruz,grace.cruz616@company.com,+639713793422,1969-11-19,Female,IT,IT Support,2011-08-05,141488.16,4.8,Caloocan,Active,EMP0024,2026-09-11,52-9564714-5,1777412746921188,9
+EMP0617,Patricia Go,patricia.go617@company.com,+639385906450,1967-04-30,Male,Sales,Sales Representative,2008-01-20,41153.44,3.4,Caloocan,Active,EMP0022,2026-10-11,75-2249032-7,0454218545705682,0
+EMP0618,Pedro Navarro,pedro.navarro618@company.com,+639888467237,1973-11-20,Male,Administration,Admin Assistant,2012-08-06,28238.01,2.6,Pasig,Active,EMP0027,2026-11-06,45-1886527-7,2324728289540017,33
+EMP0619,Rosa Go,rosa.go619@company.com,+639550633661,1988-03-30,Male,Customer Support,CS Representative,2021-11-23,70633.19,4.7,Pasig,Active,EMP0001,2026-10-30,71-2105804-0,5801195092711526,2
+EMP0620,Liza Salazar,liza.salazar620@company.com,+639135248842,2001-01-26,Female,Engineering,QA Engineer,2025-09-22,29214.42,2.7,Pasig,Active,EMP0044,2026-11-05,11-1077233-7,4189485432987698,3
+EMP0221,Pedro Ong,pedro.ong621@company.com,+639224089210,1988-06-27,Female,IT,Systems Administrator,2007-09-22,128723.21,1.4,Davao,Active,EMP0031,2026-09-19,35-6215275-8,1310450258963217,9
+EMP0622,Andrea Salazar,andrea.salazar622@company.com,+639359798896,1988-02-22,Female,Marketing,SEO Specialist,2011-07-15,133276.42,1.6,Manila,Active,EMP0026,2026-09-16,44-8305164-0,6739834488384253,12
+EMP0623,Pedro Lim,pedro.lim623@company.com,+639976500176,2001-05-28,Female,Sales,Account Manager,2024-05-19,140511.56,3.8,Taguig,Active,EMP0024,2026-10-10,67-6629822-5,1562392090855107,4
+EMP0624,Liza Bautista,liza.bautista624@company.com,+639516504706,1999-09-24,Male,Engineering,Software Engineer,2022-08-01,98133.51,3.7,Davao,Active,EMP0022,2026-10-06,47-8468968-6,0220695354120122,7
+EMP0625,Maria Santos,maria.santos625@company.com,+639154518064,1994-04-16,Male,Operations,Logistics Coordinator,2016-03-05,61535.98,2.3,Davao,Active,EMP0023,2026-09-24,93-5355863-7,9507407173279805,11
+EMP0626,Antonio Santos,antonio.santos626@company.com,+639151694764,1989-12-10,Male,Administration,Office Manager,2013-04-17,147733.73,2.2,Quezon City,Active,EMP0020,2026-11-03,11-4410194-9,1045203608941184,3
+EMP0627,Paolo Ong,paolo.ong627@company.com,+639471630823,1965-08-25,Male,Marketing,SEO Specialist,2007-08-29,138209.33,3.7,Pasig,Active,EMP0010,2026-10-16,15-7062379-6,1006799006968018,24
+EMP0628,Mark Reyes,mark.reyes628@company.com,+639830378606,1989-03-16,Male,Legal,Paralegal,2017-03-28,113165.34,4.8,Quezon City,Active,EMP0037,2026-09-24,46-6146524-9,5300677625503250,2
+EMP0629,Miguel Aquino,miguel.aquino629@company.com,+639406949571,1988-09-11,Male,Legal,Legal Counsel,2008-11-12,79719.21,2.0,Manila,Active,EMP0041,2026-10-27,33-3507382-3,3451100906053088,13
+EMP0630,Liza Santos,liza.santos630@company.com,+639576818478,1995-09-17,Male,Customer Support,CS Team Lead,2025-07-09,123295.18,3.5,Manila,Active,EMP0019,2026-10-13,96-6612175-7,5988759212996426,0
+EMP0231,Sofia Sy,sofia.sy631@company.com,+639591315404,1993-11-11,Female,Marketing,Marketing Associate,2013-07-26,65984.01,1.7,Makati,Active,EMP0030,2026-10-29,69-1413795-9,2071152380236219,5
+EMP0632,Gabriel Bautista,gabriel.bautista632@company.com,+639104591234,1971-02-01,Female,Finance,Financial Analyst,2008-08-24,93520.64,2.7,Cebu,Active,EMP0033,2026-09-22,65-4547307-8,5588195977216880,3
+EMP0633,Isabel Lim,isabel.lim633@company.com,+639753539923,1966-08-04,Male,Operations,Operations Analyst,2025-04-27,86107.64,3.3,Davao,Active,EMP0033,2026-10-14,45-6564983-4,0182272002839482,40
+EMP0634,Bea Garcia,bea.garcia634@company.com,+639623207215,2001-07-07,Female,Marketing,Marketing Associate,2026-01-18,105128.38,3.9,Cebu,Active,EMP0005,2026-10-21,63-7038145-9,9302020304232277,5
+EMP0635,Ana Flores,ana.flores635@company.com,+639915296527,1981-08-11,Male,Human Resources,HR Manager,2025-10-30,85433.96,2.7,Manila,Active,EMP0027,2026-09-19,42-7641644-3,0059377756919832,24
+EMP0636,Juan Chua,juan.chua636@company.com,+639972903432,1994-01-13,Male,Finance,Payroll Specialist,2025-05-31,81057.94,2.5,Manila,Active,EMP0011,2026-09-25,84-9906787-3,1043841966229131,6
+EMP0637,Gabriel Reyes,gabriel.reyes637@company.com,+639548484824,1981-04-25,Female,Legal,Legal Counsel,2015-08-17,79865.59,4.0,Manila,Active,EMP0025,2026-10-15,39-7610243-2,1986550494440766,6
+EMP0638,Victor Torres,victor.torres638@company.com,+639424593087,1990-01-30,Female,Sales,Sales Lead,2019-03-28,41745.73,1.8,Davao,Active,EMP0025,2026-11-07,27-8278625-1,1424362585421880,17
+EMP0639,Clara Ong,clara.ong639@company.com,+639434078559,1978-09-05,Male,Legal,Legal Counsel,2013-12-30,105541.95,3.3,Taguig,Active,EMP0017,2026-09-22,38-4372441-8,5324725058333430,25
+EMP0640,Jose Go,jose.go640@company.com,+639130053409,1980-12-11,Female,Marketing,Marketing Associate,2016-03-08,147417.92,2.1,Caloocan,Active,EMP0050,2026-10-13,59-5505739-7,5769453536597466,23
+EMP0241,Elena Cruz,elena.cruz641@company.com,+639184910061,1977-08-05,Male,Administration,Office Manager,2008-09-22,64623.48,2.5,Manila,Active,EMP0037,2026-10-30,52-6139691-8,1526925596647213,0
+EMP0642,Pedro Flores,pedro.flores642@company.com,+639294983631,1981-01-21,Female,Legal,Paralegal,2007-02-12,35930.18,4.3,Manila,Active,EMP0043,2026-10-21,43-4278491-3,2614543079637310,0
+EMP0643,Isabel Pascual,isabel.pascual643@company.com,+639185255990,1982-08-25,Female,Customer Support,CS Representative,2023-11-03,114885.63,2.8,Makati,Active,EMP0021,2026-10-31,30-4508371-5,4268744701732086,25
+EMP0644,Liza Salazar,liza.salazar644@company.com,+639529824220,1975-04-03,Female,Operations,Operations Analyst,2024-01-15,72875.89,1.8,Manila,Active,EMP0008,2026-10-11,45-2039271-0,5278105580002722,4
+EMP0645,Paolo Salazar,paolo.salazar645@company.com,+639748771258,1962-08-16,Female,Sales,Sales Representative,2024-04-11,49472.19,3.3,Cebu,Active,EMP0050,2026-11-06,37-7677265-8,1720313695528620,38
+EMP0646,Clara Chua,clara.chua646@company.com,+639501073600,1973-07-17,Female,Human Resources,HR Manager,2019-11-05,127542.11,4.4,Quezon City,Active,EMP0016,2026-09-22,28-3834946-2,7393899204573532,14
+EMP0647,Jose Pascual,jose.pascual647@company.com,+639152564958,1982-11-01,Female,IT,Systems Administrator,2017-05-12,25923.02,1.7,Caloocan,Active,EMP0008,2026-11-02,74-3657425-3,6010712615838821,15
+EMP0648,Victor Ramos,victor.ramos648@company.com,+639315074907,1970-07-12,Female,IT,Network Engineer,2011-03-26,77540.11,2.1,Davao,Active,EMP0014,2026-10-08,37-3562992-2,2801944258922256,3
+EMP0649,Patricia Aquino,patricia.aquino649@company.com,+639518341978,1991-05-10,Male,IT,IT Support,2015-08-21,128305.1,3.5,Caloocan,Active,EMP0016,2026-09-11,18-2925023-8,0467413075384185,4
+EMP0650,Liza Castillo,liza.castillo650@company.com,+639942398871,1993-04-24,Female,Engineering,Software Engineer,2016-11-15,106316.13,1.9,Caloocan,Active,EMP0043,2026-10-06,56-7477956-1,5470554912151641,2
+EMP0651,Paolo Domingo,paolo.domingo651@company.com,+639198058376,1987-11-09,Female,Administration,Office Manager,2015-05-20,97015.26,1.8,Pasig,Active,EMP0029,2026-09-26,80-9332423-5,2070204262019712,21
+EMP0652,Grace Cruz,grace.cruz652@company.com,+639561705191,1992-01-28,Female,Finance,Accountant,2022-10-21,80158.46,3.3,Caloocan,Active,EMP0026,2026-09-23,14-9778172-7,3126773192276075,16
+EMP0653,Antonio Lim,antonio.lim653@company.com,+639323343526,1978-05-23,Female,Customer Support,CS Team Lead,2021-12-15,46391.99,3.4,Taguig,Active,EMP0022,2026-09-28,49-4160426-0,8952312021915057,25
+EMP0654,Grace Tan,grace.tan654@company.com,+639615329445,1964-04-03,Male,IT,Systems Administrator,2010-10-31,112425.64,1.0,Taguig,Active,EMP0036,2026-10-20,69-7637791-4,4867649797416365,27
+EMP0655,Paolo Reyes,paolo.reyes655@company.com,+639850579456,2003-04-19,Male,Engineering,QA Engineer,2025-06-24,81133.77,1.2,Taguig,Active,EMP0018,2026-10-18,82-8157573-9,2771195296353059,3
+EMP0656,Andrea Navarro,andrea.navarro656@company.com,+639544019588,1997-08-24,Male,Engineering,Senior Engineer,2020-12-10,75453.64,1.9,Cebu,Active,EMP0021,2026-10-09,88-5865071-8,9895965466345443,4
+EMP0657,Elena Villanueva,elena.villanueva657@company.com,+639747982381,1965-09-21,Male,Sales,Sales Representative,2018-10-28,117887.59,2.0,Makati,Active,EMP0018,2026-09-09,84-8564685-4,3946408822309586,8
+EMP0658,Clara Torres,clara.torres658@company.com,+639927357824,1967-12-15,Female,Administration,Office Manager,2010-06-22,32968.67,1.6,Manila,Active,EMP0049,2026-09-27,83-8474972-2,0217075485346557,37
+EMP0659,Maria Flores,maria.flores659@company.com,+639564755514,2004-10-22,Female,Human Resources,HR Specialist,2025-07-03,69595.19,1.3,Quezon City,Active,EMP0037,2026-10-02,16-1459457-2,5121375658963595,3
+EMP0660,Elena Cruz,elena.cruz660@company.com,+639380344818,1968-01-14,Female,Engineering,DevOps Engineer,2022-05-01,91831.56,1.8,Pasig,Active,EMP0026,2026-11-03,59-4712584-1,1388503423622033,19
+EMP0661,Rosa Ramos,rosa.ramos661@company.com,+639423473126,1978-08-05,Male,Legal,Paralegal,2013-09-02,106227.14,3.9,Taguig,Active,EMP0033,2026-11-06,98-7647888-8,0085294690217741,14
+EMP0662,Maria Villanueva,maria.villanueva662@company.com,+639676128538,1991-06-06,Female,Sales,Sales Representative,2025-09-02,143142.39,1.7,Makati,Active,EMP0028,2026-10-24,60-6676410-2,7523328293020256,3
+EMP0663,Juan Flores,juan.flores663@company.com,+639602990092,2003-07-24,Female,Marketing,Marketing Associate,2025-09-14,28803.71,3.8,Taguig,Active,EMP0030,2026-10-12,56-1179619-7,6279955302453012,1
+EMP0664,Isabel Mendoza,isabel.mendoza664@company.com,+639950837059,1989-11-02,Male,Administration,Office Manager,2022-07-30,26066.67,3.2,Caloocan,Active,EMP0005,2026-09-23,84-1274903-1,7222405076487177,10
+EMP0665,Ana Ong,ana.ong665@company.com,+639514805094,1966-08-21,Female,Sales,Account Manager,2008-05-02,103176.44,1.9,Caloocan,Active,EMP0010,2026-11-04,96-8871214-2,5812259095668448,9
+EMP0666,Liza Chua,liza.chua666@company.com,+639181936313,1992-03-29,Male,Marketing,Content Strategist,2017-08-06,32964.86,1.3,Manila,Active,EMP0008,2026-09-08,77-8682112-8,0358690170740392,11
+EMP0667,Patricia Ong,patricia.ong667@company.com,+639441814362,1987-11-27,Male,Finance,Payroll Specialist,2019-08-18,84218.93,1.7,Davao,Active,EMP0032,2026-09-30,59-5270257-3,3872205422162654,18
+EMP0668,Carlo Santos,carlo.santos668@company.com,+639416139273,1970-08-13,Female,IT,IT Support,2022-08-24,77566.42,4.6,Manila,Active,EMP0020,2026-10-20,74-9700075-7,8995047020596851,20
+EMP0669,Rafael Mercado,rafael.mercado669@company.com,+639526555697,1988-01-02,Female,Marketing,SEO Specialist,2012-10-05,102505.91,1.8,Pasig,Active,EMP0027,2026-10-27,39-5496419-2,7775225920616581,4
+EMP0670,Juan Chua,juan.chua670@company.com,+639262037706,1981-01-29,Female,Administration,Admin Assistant,2012-04-20,35213.33,2.3,Taguig,Active,EMP0014,2026-10-28,15-3544009-9,5596363726294206,12
+EMP0671,Bea Ramos,bea.ramos671@company.com,+639691873162,1965-03-04,Female,Finance,Financial Analyst,2026-02-11,32622.49,1.8,Cebu,Active,EMP0015,2026-09-26,93-1678596-0,4983211221215481,23
+EMP0672,Sofia Lim,sofia.lim672@company.com,+639419925942,1978-02-18,Male,Customer Support,CS Representative,2016-10-07,33517.56,3.3,Pasig,Active,EMP0017,2026-10-13,81-1981259-6,4420062987787358,10
+EMP0673,Miguel Villanueva,miguel.villanueva673@company.com,+639739728228,1979-06-13,Female,IT,Network Engineer,2011-04-25,114148.66,1.9,Davao,Active,EMP0008,2026-10-31,88-3364066-6,2213204104294831,9
+EMP0674,Jose Mercado,jose.mercado674@company.com,+639536208983,1965-04-08,Female,Legal,Legal Counsel,2023-08-13,94797.75,3.1,Davao,Active,EMP0033,2026-09-20,99-4341392-1,8003666020005328,21
+EMP0675,Miguel Torres,miguel.torres675@company.com,+639450724299,1998-11-13,Male,Marketing,SEO Specialist,2023-07-02,55119.86,4.5,Quezon City,Active,EMP0036,2026-11-05,10-6960576-8,2692990076862763,3
+EMP0676,Carlo Pascual,carlo.pascual676@company.com,+639318878658,1965-05-09,Male,Human Resources,HR Manager,2013-05-01,125892.46,2.6,Cebu,Active,EMP0033,2026-09-12,53-2913352-8,6267136841013282,12
+EMP0677,Patricia Garcia,patricia.garcia677@company.com,+639885001708,1997-12-05,Male,Marketing,SEO Specialist,2021-05-10,65412.59,1.7,Cebu,Active,EMP0034,2026-10-06,71-6458749-0,6776106592088143,1
+EMP0678,Rafael Ong,rafael.ong678@company.com,+639640272497,1976-04-24,Male,Administration,Admin Assistant,2024-05-04,65804.63,3.4,Quezon City,Active,EMP0035,2026-09-10,98-6014853-5,7202665686295912,20
+EMP0679,Grace Ong,grace.ong679@company.com,+639274491262,1972-01-22,Female,Legal,Legal Counsel,2015-06-18,62399.54,3.4,Taguig,Active,EMP0041,2026-09-08,91-1151539-7,4299074729669417,36
+EMP0680,Isabel Santos,isabel.santos680@company.com,+639591005307,1969-11-20,Female,Administration,Office Manager,2015-09-15,109180.22,3.0,Pasig,Active,EMP0044,2026-09-30,89-5768531-6,4183984167347853,25
+EMP0681,Miguel Villanueva,miguel.villanueva681@company.com,+639439342254,1967-02-22,Male,Administration,Admin Assistant,2026-02-05,123003.58,1.7,Taguig,Active,EMP0001,2026-10-20,51-3867248-1,0262706648900824,34
+EMP0682,Gabriel Bautista,gabriel.bautista682@company.com,+639715398372,1990-11-16,Male,Sales,Account Manager,2016-10-03,133741.42,4.2,Pasig,Active,EMP0031,2026-10-04,49-4975549-9,9741856302750003,1
+EMP0683,Victor Sy,victor.sy683@company.com,+639935966295,1979-09-28,Female,Operations,Logistics Coordinator,2014-12-07,103856.41,1.1,Pasig,Active,EMP0025,2026-09-13,47-2628923-8,4937846790870187,5
+EMP0684,Elena Reyes,elena.reyes684@company.com,+639559268147,2003-09-17,Female,IT,Network Engineer,2023-08-16,135512.23,1.5,Quezon City,Active,EMP0018,2026-10-25,47-6083766-4,2990674568652406,1
+EMP0685,Paolo Navarro,paolo.navarro685@company.com,+639247024266,1965-01-21,Female,Human Resources,HR Specialist,2018-01-08,141217.06,4.1,Davao,Active,EMP0012,2026-10-08,25-1132781-5,3347047476484559,14
+EMP0686,Paolo Mendoza,paolo.mendoza686@company.com,+639106556957,1998-07-19,Female,Administration,Office Manager,2021-06-01,127956.77,4.9,Makati,Active,EMP0022,2026-10-18,54-4660140-1,2900362211732772,6
+EMP0687,Antonio Lim,antonio.lim687@company.com,+639864896624,1989-01-04,Female,Sales,Sales Lead,2020-02-21,92038.7,1.7,Makati,Active,EMP0011,2026-10-18,97-6809536-2,5161857591710508,1
+EMP0688,Patricia Cruz,patricia.cruz688@company.com,+639606393748,1988-04-01,Male,Operations,Logistics Coordinator,2017-08-31,119409.15,3.6,Pasig,Active,EMP0050,2026-10-21,28-5992280-7,8417159497344930,10
+EMP0689,Gabriel Lim,gabriel.lim689@company.com,+639333832239,2003-07-23,Female,Marketing,Content Strategist,2025-09-18,30808.97,4.2,Quezon City,Active,EMP0016,2026-10-05,92-9743708-9,2608788281527873,0
+EMP0690,Sofia Mendoza,sofia.mendoza690@company.com,+639231240385,1983-12-03,Female,Sales,Sales Lead,2025-05-31,109896.24,2.6,Quezon City,Active,EMP0021,2026-10-27,38-9097203-8,0189156734467177,23
+EMP0691,Daniel Castillo,daniel.castillo691@company.com,+639325378563,1967-10-20,Female,IT,IT Support,2007-02-14,37751.72,3.4,Makati,Active,EMP0025,2026-10-24,90-8214397-4,5099990010898573,36
+EMP0692,Bea Go,bea.go692@company.com,+639680145479,1983-08-27,Female,Engineering,Senior Engineer,2024-10-07,106264.25,2.2,Makati,Active,EMP0011,2026-11-02,93-5946075-6,4884997957285759,11
+EMP0693,Gabriel Bautista,gabriel.bautista693@company.com,+639573635441,1967-10-27,Female,Customer Support,CS Representative,2023-02-08,115046.65,3.4,Cebu,Active,EMP0009,2026-11-03,48-9872064-8,3971705984451436,31
+EMP0694,Miguel Pascual,miguel.pascual694@company.com,+639785257010,1998-10-03,Male,Human Resources,HR Manager,2024-11-12,47289.61,3.0,Taguig,Active,EMP0035,2026-10-25,24-2374322-9,3978145900992177,9
+EMP0695,Paolo Garcia,paolo.garcia695@company.com,+639323043927,1969-04-18,Male,Engineering,QA Engineer,2008-05-10,127004.64,2.5,Pasig,Active,EMP0048,2026-10-01,74-1346743-7,0532601193910382,36
+EMP0696,Pedro Chua,pedro.chua696@company.com,+639558049581,1984-05-23,Male,Legal,Paralegal,2024-04-02,94615.81,3.8,Pasig,Active,EMP0035,2026-09-22,22-9427002-1,0450243736158736,24
+EMP0697,Rafael Cruz,rafael.cruz697@company.com,+639743798260,1990-11-28,Female,IT,IT Support,2020-10-18,93885.49,1.8,Quezon City,Active,EMP0040,2026-09-22,17-1119359-5,8561547315663979,5
+EMP0698,Elena Bautista,elena.bautista698@company.com,+639828901766,1998-05-04,Male,Operations,Logistics Coordinator,2023-10-23,105803.2,4.4,Quezon City,Active,EMP0031,2026-10-13,72-4048600-7,0289666053428164,4
+EMP0699,Bea Domingo,bea.domingo699@company.com,+639847934043,2000-10-27,Female,Finance,Payroll Specialist,2019-09-09,144656.95,2.3,Quezon City,Active,EMP0022,2026-09-29,78-6026673-6,4051038802730427,6
+EMP0700,Pedro Pascual,pedro.pascual700@company.com,+639390541859,1998-07-03,Female,Marketing,Content Strategist,2020-06-11,35087.7,4.0,Quezon City,Active,EMP0038,2026-09-25,50-4546948-0,9690676490922884,9
+EMP0701,Victor Ramos,victor.ramos701@company.com,+639354615840,1984-05-22,Female,Customer Support,CS Team Lead,2024-06-08,89892.88,4.6,Davao,Active,EMP0032,2026-09-23,25-8608681-4,3068811640343988,2
+EMP0702,Carlo Lim,carlo.lim702@company.com,+639649722837,1974-04-08,Male,Customer Support,CS Team Lead,2013-10-02,115198.75,1.9,Makati,Active,EMP0049,2026-10-16,70-8541478-0,4130909153860282,25
+EMP0703,Mark Mendoza,mark.mendoza703@company.com,+639282950234,2002-07-02,Male,Human Resources,Recruiter,2026-04-04,136277.03,3.4,Pasig,Active,EMP0029,2026-09-14,69-3247316-0,4410079419324538,5
+EMP0704,Patricia Mercado,patricia.mercado704@company.com,+639255094339,1965-06-17,Male,Finance,Accountant,2024-09-11,117584.87,3.2,Caloocan,Active,EMP0002,2026-09-28,85-8963631-2,6496322517422404,13
+EMP0705,Ana Bautista,ana.bautista705@company.com,+639428005325,1970-01-07,Female,Human Resources,Recruiter,2025-08-18,88359.26,1.4,Taguig,Active,EMP0014,2026-10-26,16-8967351-0,2867202009536621,36
+EMP0706,Sofia Lim,sofia.lim706@company.com,+639610882151,1967-11-07,Female,Operations,Operations Analyst,2026-06-15,23903.26,1.4,Quezon City,Active,EMP0009,2026-10-09,52-1206766-0,7397130722113869,2
+EMP0707,Jose Chua,jose.chua707@company.com,+639126791708,1980-03-10,Female,Customer Support,CS Team Lead,2023-10-31,61107.74,4.7,Makati,Active,EMP0048,2026-10-31,62-2876945-7,1928170744360234,9
+EMP0708,Andrea Garcia,andrea.garcia708@company.com,+639467564615,1998-12-18,Male,Human Resources,HR Specialist,2023-02-27,47907.6,3.4,Cebu,Active,EMP0010,2026-10-29,95-1285508-9,4477269032655132,7
+EMP0709,Antonio Salazar,antonio.salazar709@company.com,+639827059836,1966-06-22,Male,IT,IT Support,2012-05-26,55145.29,2.4,Pasig,Active,EMP0038,2026-11-06,79-6884702-1,6021191589126864,38
+EMP0710,Mark Mercado,mark.mercado710@company.com,+639651575951,1969-04-16,Female,Customer Support,CS Team Lead,2010-12-30,36497.22,2.9,Manila,Active,EMP0001,2026-09-10,74-9816744-4,4740837819190749,36
+EMP0711,Sofia Villanueva,sofia.villanueva711@company.com,+639879643548,2002-10-19,Male,Human Resources,HR Specialist,2024-04-23,71094.96,4.8,Davao,Active,EMP0013,2026-09-21,51-4866497-4,8486470821398654,3
+EMP0712,Ramon Santos,ramon.santos712@company.com,+639898305910,1994-10-13,Female,Human Resources,HR Specialist,2012-11-21,109221.5,4.0,Manila,Active,EMP0023,2026-10-26,52-1024999-3,3000088634673919,0
+EMP0713,Ana Ramos,ana.ramos713@company.com,+639722389141,1997-04-21,Male,Engineering,Software Engineer,2018-01-13,69982.8,4.0,Davao,Active,EMP0016,2026-11-06,27-9295865-3,7989790608548186,7
+EMP0714,Liza Reyes,liza.reyes714@company.com,+639732956260,2001-11-02,Female,Sales,Account Manager,2020-05-22,108958.6,2.0,Cebu,Active,EMP0007,2026-09-16,41-8477088-1,1815198545829420,3
+EMP0715,Juan Cruz,juan.cruz715@company.com,+639398214706,1981-08-06,Female,Sales,Sales Lead,2020-03-29,73445.06,2.8,Taguig,Active,EMP0037,2026-10-23,87-5200727-4,9466720108240281,22
+EMP0716,Pedro Chua,pedro.chua716@company.com,+639923622160,1990-02-27,Female,Customer Support,CS Representative,2018-09-14,145858.98,1.6,Taguig,Active,EMP0010,2026-09-09,14-9906662-5,8174527353642357,0
+EMP0717,Jose Mendoza,jose.mendoza717@company.com,+639249775416,1965-10-05,Female,Engineering,QA Engineer,2007-01-05,33933.77,1.5,Taguig,Active,EMP0005,2026-10-03,90-3964356-5,5904610079230466,1
+EMP0718,Pedro Lim,pedro.lim718@company.com,+639131809298,1989-02-22,Male,Engineering,Software Engineer,2023-12-16,114042.82,4.0,Davao,Active,EMP0013,2026-11-02,26-8167490-1,5120485076653446,1
+EMP0719,Rosa Garcia,rosa.garcia719@company.com,+639780766368,1976-04-19,Female,Sales,Sales Lead,2007-02-10,69766.52,4.9,Cebu,Active,EMP0040,2026-09-14,21-6585073-3,0573472435861768,10
+EMP0720,Victor Bautista,victor.bautista720@company.com,+639296787756,1961-09-20,Female,Human Resources,Recruiter,2010-04-22,78898.22,1.0,Taguig,Active,EMP0027,2026-09-26,59-6890185-6,2241976878494771,10
+EMP0721,Antonio Torres,antonio.torres721@company.com,+639216880122,1981-11-11,Female,Administration,Admin Assistant,2025-12-05,85077.81,2.9,Makati,Active,EMP0010,2026-09-09,26-4947569-5,4340466821215649,23
+EMP0722,Andrea Ramos,andrea.ramos722@company.com,+639808588868,1968-08-25,Female,Operations,Operations Analyst,2026-04-24,124133.88,3.6,Cebu,Active,EMP0050,2026-10-13,25-2695762-9,7388182730634359,18
+EMP0723,Clara Cruz,clara.cruz723@company.com,+639550730448,1971-03-02,Male,Customer Support,CS Representative,2021-03-01,149099.42,2.6,Manila,Active,EMP0023,2026-09-17,22-2690413-0,2125434123016049,33
+EMP0724,Liza Mercado,liza.mercado724@company.com,+639642493455,1995-09-25,Female,IT,IT Support,2017-07-10,26873.28,1.2,Davao,Active,EMP0004,2026-09-27,99-4383032-1,9789990114003471,3
+EMP0725,Isabel Bautista,isabel.bautista725@company.com,+639545539382,1967-03-29,Male,Finance,Payroll Specialist,2011-07-29,121487.66,1.4,Taguig,Active,EMP0010,2026-10-03,55-1854439-8,4194785501137535,33
+EMP0726,Ana Santos,ana.santos726@company.com,+639998851802,1974-08-27,Female,Human Resources,HR Manager,2015-08-10,87936.21,1.0,Davao,Active,EMP0050,2026-09-25,69-1943518-3,7161608819722399,24
+EMP0727,Isabel Bautista,isabel.bautista727@company.com,+639343401206,1970-08-12,Male,Sales,Account Manager,2017-01-19,78163.13,2.7,Cebu,Active,EMP0001,2026-09-15,33-5811637-8,0855780024432362,10
+EMP0728,Daniel Reyes,daniel.reyes728@company.com,+639692153618,1980-01-15,Female,Finance,Financial Analyst,2013-06-01,130099.07,2.0,Caloocan,Active,EMP0002,2026-10-14,59-8423649-5,1691395215016426,2
+EMP0729,Juan Torres,juan.torres729@company.com,+639973349521,1992-05-13,Female,Engineering,DevOps Engineer,2025-12-01,136062.44,1.6,Quezon City,Active,EMP0045,2026-09-08,98-2887541-9,8392484813004169,2
+EMP0730,Liza Reyes,liza.reyes730@company.com,+639504861859,1995-09-25,Female,Engineering,QA Engineer,2021-12-09,113560.37,4.1,Taguig,Active,EMP0045,2026-11-03,47-7782690-3,3953481105014764,12
+EMP0731,Gabriel Tan,gabriel.tan731@company.com,+639692500968,1977-09-18,Female,Human Resources,Recruiter,2020-04-26,61723.71,4.1,Cebu,Active,EMP0009,2026-10-23,79-2281108-7,7512395978155426,2
+EMP0732,Rosa Flores,rosa.flores732@company.com,+639414304393,1980-11-09,Female,Administration,Office Manager,2023-08-12,118589.19,4.4,Pasig,Active,EMP0050,2026-09-18,45-8094270-7,7205171073087156,25
+EMP0733,Isabel Lim,isabel.lim733@company.com,+639165714543,1963-07-29,Male,Sales,Sales Lead,2017-02-17,32701.34,2.3,Quezon City,Active,EMP0034,2026-09-22,12-4115736-7,4148572602925468,25
+EMP0734,Rosa Lim,rosa.lim734@company.com,+639547341738,1971-06-21,Female,Human Resources,Recruiter,2006-12-03,52587.32,1.0,Taguig,Active,EMP0044,2026-10-10,36-3412846-7,1353867625923868,30
+EMP0735,Sofia Sy,sofia.sy735@company.com,+639661905788,2003-07-02,Female,Administration,Admin Assistant,2024-03-03,96871.83,1.9,Manila,Active,EMP0045,2026-09-09,52-7216232-3,4050892739615976,2
+EMP0736,Carlo Sy,carlo.sy736@company.com,+639891074332,1963-06-12,Female,Engineering,QA Engineer,2018-07-05,85024.91,4.5,Caloocan,Active,EMP0046,2026-11-04,53-6775756-4,2619038422736273,11
+EMP0737,Rosa Chua,rosa.chua737@company.com,+639180542723,1995-03-14,Female,Engineering,Senior Engineer,2025-04-30,127917.2,3.6,Caloocan,Active,EMP0028,2026-09-20,87-3024875-7,1620429851448698,3
+EMP0738,Rosa Bautista,rosa.bautista738@company.com,+639965942293,1977-01-27,Male,Engineering,QA Engineer,2026-06-30,44333.46,4.6,Taguig,Active,EMP0037,2026-10-01,80-1233441-1,4264710680177031,25
+EMP0739,Victor Reyes,victor.reyes739@company.com,+639412679306,1982-12-03,Male,Marketing,Content Strategist,2026-06-09,47128.21,2.7,Caloocan,Active,EMP0012,2026-11-05,42-5691966-6,9317294763808390,23
+EMP0740,Mark Reyes,mark.reyes740@company.com,+639977916714,1994-05-20,Female,IT,Systems Administrator,2018-02-27,34134.34,3.4,Quezon City,Active,EMP0009,2026-09-29,69-3650861-7,2812916350496026,11
+EMP0741,Miguel Chua,miguel.chua741@company.com,+639693741395,1983-08-23,Female,IT,Systems Administrator,2017-09-04,66266.7,1.8,Caloocan,Active,EMP0017,2026-10-28,89-7268550-0,7088640675602080,21
+EMP0742,Rosa Ong,rosa.ong742@company.com,+639498791621,2002-08-21,Female,Finance,Payroll Specialist,2025-07-28,134675.17,2.0,Manila,Active,EMP0018,2026-11-03,43-1580404-9,3225333202351025,5
+EMP0743,Maria Bautista,maria.bautista743@company.com,+639452789470,1965-07-30,Male,Operations,Logistics Coordinator,2007-01-28,49384.72,2.6,Makati,Active,EMP0045,2026-10-20,36-4248757-3,3243629620805983,7
+EMP0744,Victor Ramos,victor.ramos744@company.com,+639577096795,1999-08-24,Female,Human Resources,Recruiter,2018-11-30,117676.39,2.6,Davao,Active,EMP0004,2026-11-04,25-3393151-3,7631774954210629,4
+EMP0745,Carlo Salazar,carlo.salazar745@company.com,+639729166384,1983-01-04,Male,Finance,Payroll Specialist,2007-02-21,43505.49,2.8,Quezon City,Active,EMP0007,2026-11-01,71-7247450-3,6264752864612096,3
+EMP0746,Juan Santos,juan.santos746@company.com,+639672353892,1968-01-23,Female,Legal,Legal Counsel,2023-07-09,61002.66,1.5,Manila,Active,EMP0013,2026-09-21,31-2776618-1,5355051432191430,33
+EMP0747,Daniel Salazar,daniel.salazar747@company.com,+639236203942,1964-09-12,Female,Legal,Paralegal,2021-06-27,110015.14,2.0,Davao,Active,EMP0010,2026-09-30,21-9417437-8,3458192048770676,36
+EMP0748,Liza Mendoza,liza.mendoza748@company.com,+639480416158,1967-01-25,Male,Marketing,Marketing Associate,2007-02-20,66535.9,3.5,Manila,Active,EMP0011,2026-10-11,53-8839488-8,4640858588382567,8
+EMP0749,Juan Pascual,juan.pascual749@company.com,+639727603238,1987-04-28,Male,IT,IT Support,2017-02-09,67113.64,4.7,Pasig,Active,EMP0048,2026-09-26,57-2344745-9,6282225018256247,5
+EMP0750,Carlo Tan,carlo.tan750@company.com,+639282028295,1988-08-16,Male,Customer Support,CS Team Lead,2013-11-12,51938.9,2.1,Makati,Active,EMP0037,2026-11-02,83-3936064-9,0096627026604509,11
+EMP0751,Rosa Cruz,rosa.cruz751@company.com,+639870062349,1974-06-28,Male,IT,IT Support,2013-11-06,99888.02,1.2,Cebu,Active,EMP0037,2026-11-06,38-5120657-5,3892224711936006,1
+EMP0752,Rafael Mercado,rafael.mercado752@company.com,+639529747212,1962-11-04,Male,Customer Support,CS Representative,2020-04-24,140050.95,4.0,Manila,Active,EMP0031,2026-10-21,65-3177667-6,4385009537234617,27
+EMP0753,Bea Bautista,bea.bautista753@company.com,+639113347477,1991-08-07,Female,Human Resources,HR Specialist,2013-06-12,56804.86,1.4,Taguig,Active,EMP0020,2026-10-31,27-4356275-1,6544137277685760,13
+EMP0754,Patricia Villanueva,patricia.villanueva754@company.com,+639397902374,1992-12-31,Female,Marketing,Content Strategist,2012-03-27,125150.76,2.9,Pasig,Active,EMP0007,2026-09-16,75-8405132-0,1799932420248374,8
+EMP0755,Victor Mercado,victor.mercado755@company.com,+639938490142,1994-07-26,Female,Sales,Sales Representative,2022-12-12,123496.97,3.0,Taguig,Active,EMP0037,2026-10-11,42-8526850-9,0254853626890472,3
+EMP0756,Clara Go,clara.go756@company.com,+639739542236,1987-10-16,Female,Customer Support,CS Team Lead,2013-09-25,49527.75,4.5,Pasig,Active,EMP0031,2026-11-07,44-3925629-1,6435990093781460,9
+EMP0757,Clara Bautista,clara.bautista757@company.com,+639661084098,1986-07-27,Female,Legal,Paralegal,2017-08-20,55854.96,2.8,Taguig,Active,EMP0047,2026-09-10,58-2381677-8,7564672636815418,11
+EMP0758,Maria Garcia,maria.garcia758@company.com,+639719403721,1976-03-21,Male,Customer Support,CS Representative,2008-05-11,21442.09,3.1,Pasig,Active,EMP0003,2026-10-28,99-8623936-8,6043566050337469,32
+EMP0759,Juan Castillo,juan.castillo759@company.com,+639123894155,1973-12-25,Female,Marketing,Marketing Associate,2017-12-11,81230.42,4.2,Cebu,Active,EMP0036,2026-10-25,27-4070841-2,6679419087886538,21
+EMP0760,Miguel Mercado,miguel.mercado760@company.com,+639829862378,1991-01-27,Male,Administration,Admin Assistant,2019-09-09,110528.83,3.8,Caloocan,Active,EMP0026,2026-10-19,13-6283356-5,0492217048618670,13
+EMP0761,Rosa Reyes,rosa.reyes761@company.com,+639826027747,2000-04-22,Male,IT,IT Support,2020-09-14,81693.65,4.8,Davao,Active,EMP0050,2026-10-02,75-2343722-9,8271826533717086,4
+EMP0762,Rosa Castillo,rosa.castillo762@company.com,+639870907221,1967-06-26,Male,Administration,Office Manager,2023-07-13,146421.9,1.3,Quezon City,Active,EMP0021,2026-10-25,48-1323425-1,4599670692195873,0
+EMP0763,Patricia Pascual,patricia.pascual763@company.com,+639650431932,1994-06-29,Female,Operations,Logistics Coordinator,2023-06-14,105629.56,2.0,Manila,Active,EMP0045,2026-09-10,28-2264074-7,8167806643158901,6
+EMP0764,Clara Sy,clara.sy764@company.com,+639101581303,1994-12-16,Male,Sales,Sales Lead,2020-02-11,142132.71,4.1,Cebu,Active,EMP0031,2026-10-17,16-3618519-6,4070308808172628,2
+EMP0765,Camille Mendoza,camille.mendoza765@company.com,+639665408109,1963-06-25,Female,Administration,Office Manager,2010-03-03,117794.57,1.1,Manila,Active,EMP0030,2026-09-15,28-9662750-8,9592741168069196,7
+EMP0766,Miguel Castillo,miguel.castillo766@company.com,+639243311117,1996-11-07,Male,Human Resources,Recruiter,2020-01-29,51214.01,1.5,Manila,Active,EMP0041,2026-10-05,32-8067892-3,4443596245870120,11
+EMP0767,Bea Garcia,bea.garcia767@company.com,+639330800403,1985-08-26,Female,Sales,Sales Lead,2013-08-21,97567.2,3.3,Davao,Active,EMP0015,2026-10-15,68-7110796-3,0284976039670243,12
+EMP0768,Victor Go,victor.go768@company.com,+639849902580,1985-10-27,Female,Operations,Operations Analyst,2019-09-09,53259.48,4.0,Caloocan,Active,EMP0024,2026-10-24,45-1272937-3,6488215977385466,4
+EMP0769,Liza Domingo,liza.domingo769@company.com,+639748882598,2002-05-02,Female,Marketing,Marketing Associate,2024-04-24,56881.5,1.3,Pasig,Active,EMP0038,2026-10-09,49-9130270-2,2042986226992066,3
+EMP0770,Daniel Tan,daniel.tan770@company.com,+639504752715,1978-08-21,Male,Finance,Financial Analyst,2022-11-28,96438.4,3.9,Quezon City,Active,EMP0014,2026-10-16,51-9010436-6,8877792560413482,1
+EMP0771,Patricia Flores,patricia.flores771@company.com,+639901049701,1998-05-31,Male,Customer Support,CS Team Lead,2024-09-09,146886.27,3.4,Davao,Active,EMP0009,2026-10-05,61-1165147-0,0144076291430491,3
+EMP0772,Juan Torres,juan.torres772@company.com,+639782435711,1971-01-31,Female,Sales,Sales Representative,2016-11-03,37211.38,3.4,Taguig,Active,EMP0042,2026-10-29,51-7438163-4,2240592082353097,27
+EMP0773,Elena Bautista,elena.bautista773@company.com,+639530225557,1965-07-12,Male,IT,Network Engineer,2015-08-06,138998.58,3.3,Manila,Active,EMP0042,2026-09-29,57-7749444-8,2017530796618695,30
+EMP0774,Clara Chua,clara.chua774@company.com,+639430018434,1986-11-14,Female,Human Resources,HR Manager,2020-07-10,53491.57,3.8,Pasig,Active,EMP0015,2026-09-18,19-4257651-7,9561007773217503,13
+EMP0775,Victor Sy,victor.sy775@company.com,+639994776964,1993-10-23,Male,Finance,Payroll Specialist,2024-06-25,96802.22,3.1,Quezon City,Active,EMP0014,2026-10-17,68-1676369-3,4244474890476078,13
+EMP0776,Paolo Cruz,paolo.cruz776@company.com,+639445049909,2003-11-24,Male,Human Resources,HR Specialist,2023-06-22,121060.98,3.4,Caloocan,Active,EMP0041,2026-10-12,14-6994162-1,7328951456340918,2
+EMP0777,Andrea Navarro,andrea.navarro777@company.com,+639202473824,1970-10-12,Female,Customer Support,CS Representative,2012-03-24,136375.68,2.8,Makati,Active,EMP0046,2026-09-17,89-7583389-5,3916077004093045,19
+EMP0778,Mark Santos,mark.santos778@company.com,+639686189701,1989-01-11,Male,Finance,Payroll Specialist,2009-04-22,43167.44,4.2,Manila,Active,EMP0044,2026-09-23,36-7419280-6,2038588640788026,10
+EMP0779,Ramon Aquino,ramon.aquino779@company.com,+639861598608,1999-05-03,Male,Human Resources,HR Manager,2024-03-02,132703.71,3.9,Pasig,Active,EMP0047,2026-10-11,63-3217128-3,0397440880670898,7
+EMP0780,Maria Sy,maria.sy780@company.com,+639680734759,1997-01-12,Female,Engineering,Senior Engineer,2019-02-07,132534.85,1.3,Quezon City,Active,EMP0044,2026-11-02,28-7539718-6,1158485805263211,9
+EMP0781,Grace Salazar,grace.salazar781@company.com,+639119423411,1960-12-14,Female,IT,IT Support,2007-02-08,49365.74,4.6,Manila,Active,EMP0031,2026-10-29,71-5574086-5,4470823171461995,15
+EMP0782,Sofia Mercado,sofia.mercado782@company.com,+639293060906,1980-04-24,Male,Administration,Office Manager,2024-01-13,62473.19,4.0,Taguig,Active,EMP0001,2026-10-12,56-4893809-0,2618402578703686,1
+EMP0783,Miguel Flores,miguel.flores783@company.com,+639990384345,2002-04-25,Male,Operations,Operations Analyst,2024-05-10,68225.39,1.5,Cebu,Active,EMP0042,2026-10-11,91-8196331-4,0989103909120302,2
+EMP0784,Patricia Ramos,patricia.ramos784@company.com,+639593994293,1983-08-30,Female,Human Resources,HR Specialist,2013-01-10,93895.08,3.8,Pasig,Active,EMP0015,2026-09-19,24-4131852-6,0098602757454492,1
+EMP0785,Clara Lim,clara.lim785@company.com,+639453666583,1966-07-01,Male,Operations,Logistics Coordinator,2012-12-05,86793.31,1.5,Manila,Active,EMP0041,2026-09-09,81-3026278-8,9655834456622952,7
+EMP0786,Maria Aquino,maria.aquino786@company.com,+639538504140,1978-05-09,Male,Legal,Paralegal,2026-05-31,125411.81,4.4,Makati,Active,EMP0035,2026-09-17,64-1511425-7,0472660235158501,11
+EMP0787,Juan Cruz,juan.cruz787@company.com,+639196815150,1976-07-25,Female,Marketing,SEO Specialist,2013-03-17,84616.56,1.4,Taguig,Active,EMP0004,2026-09-28,54-9834199-7,9052244133954794,3
+EMP0788,Clara Navarro,clara.navarro788@company.com,+639845602677,1991-09-28,Female,IT,Systems Administrator,2015-03-27,95858.2,2.3,Caloocan,Active,EMP0008,2026-10-18,83-2341370-8,9866469365618335,15
+EMP0789,Bea Lim,bea.lim789@company.com,+639501853587,1975-05-02,Female,Sales,Sales Lead,2015-10-30,26392.88,1.7,Quezon City,Active,EMP0048,2026-11-07,98-9024017-7,1843019220956733,12
+EMP0790,Ramon Ong,ramon.ong790@company.com,+639325843670,1974-08-04,Female,Human Resources,HR Manager,2011-02-05,57582.46,1.2,Davao,Active,EMP0021,2026-10-30,40-3749208-6,7699242773923852,2
+EMP0791,Bea Mendoza,bea.mendoza791@company.com,+639100142802,2003-01-23,Male,Human Resources,HR Specialist,2026-03-14,75026.38,1.8,Davao,Active,EMP0034,2026-09-24,45-5921346-2,3471998290755154,5
+EMP0792,Miguel Reyes,miguel.reyes792@company.com,+639754286534,1976-06-07,Male,Operations,Operations Analyst,2018-01-06,46226.14,4.8,Cebu,Active,EMP0002,2026-09-24,10-7599278-4,3322622777733168,2
+EMP0793,Grace Mercado,grace.mercado793@company.com,+639488164352,2003-04-01,Male,IT,Systems Administrator,2026-08-20,50945.23,4.2,Pasig,Active,EMP0040,2026-10-03,50-3843162-9,8424107402740675,4
+EMP0794,Rafael Domingo,rafael.domingo794@company.com,+639561386776,1996-05-08,Male,Human Resources,Recruiter,2019-12-09,21793.14,1.2,Taguig,Active,EMP0013,2026-11-07,75-6986616-6,4614974597931839,11
+EMP0795,Clara Tan,clara.tan795@company.com,+639947819529,1969-11-24,Male,Administration,Office Manager,2021-02-25,53499.37,4.7,Taguig,Active,EMP0003,2026-09-30,85-6284723-5,0493266432239461,8
+EMP0796,Ramon Lim,ramon.lim796@company.com,+639964986638,1966-11-27,Male,Finance,Accountant,2008-02-28,105869.28,4.6,Pasig,Active,EMP0040,2026-10-04,46-6694761-3,4001276223984742,40
+EMP0797,Miguel Go,miguel.go797@company.com,+639651250266,1975-03-07,Male,Human Resources,Recruiter,2012-11-16,138169.15,1.5,Caloocan,Active,EMP0034,2026-11-03,92-9104718-0,5841680613495647,17
+EMP0798,Victor Sy,victor.sy798@company.com,+639769512542,1984-02-28,Female,IT,IT Support,2018-03-05,93757.97,4.2,Quezon City,Active,EMP0044,2026-10-10,79-5050722-0,9723610809261662,0
+EMP0799,Paolo Navarro,paolo.navarro799@company.com,+639398267281,1984-04-01,Female,Finance,Financial Analyst,2013-02-09,84904.09,4.7,Taguig,Active,EMP0021,2026-10-12,51-7014194-7,5124764000687586,16
+EMP0800,Bea Reyes,bea.reyes800@company.com,+639374184267,1982-10-13,Female,Human Resources,Recruiter,2018-06-12,33846.48,1.7,Makati,Active,EMP0020,2026-10-16,43-2152780-8,9974023386860835,26
+EMP0801,Clara Cruz,clara.cruz801@company.com,+639308290739,1976-11-09,Male,Legal,Legal Counsel,2007-09-09,134646.6,2.2,Makati,Active,EMP0010,2026-10-12,37-9601587-6,0205089830941349,0
+EMP0802,Antonio Cruz,antonio.cruz802@company.com,+639981830988,1966-03-24,Female,Administration,Office Manager,2014-11-07,37540.83,2.1,Davao,Active,EMP0036,2026-09-13,44-2837371-3,5694804507356748,0
+EMP0803,Isabel Chua,isabel.chua803@company.com,+639120227710,1964-07-31,Female,Administration,Office Manager,2015-04-25,95982.14,3.5,Manila,Active,EMP0009,2026-09-25,94-8251052-0,2944203158925849,1
+EMP0804,Grace Garcia,grace.garcia804@company.com,+639572466267,2002-07-20,Female,Legal,Legal Counsel,2026-02-03,81251.45,3.1,Caloocan,Active,EMP0024,2026-09-21,88-7128711-1,4186482308829586,5
+EMP0805,Ana Tan,ana.tan805@company.com,+639335990304,1978-08-30,Male,Customer Support,CS Team Lead,2021-10-23,146239.63,2.7,Pasig,Active,EMP0047,2026-09-19,80-7320713-9,4276748317306629,6
+EMP0806,Jose Pascual,jose.pascual806@company.com,+639416647587,1999-03-20,Male,Finance,Financial Analyst,2021-11-23,135226.02,4.3,Pasig,Active,EMP0037,2026-10-29,49-7951127-9,8906232723717989,0
+EMP0807,Liza Mercado,liza.mercado807@company.com,+639972470415,1961-02-03,Female,Human Resources,HR Specialist,2025-07-13,61126.59,2.1,Caloocan,Active,EMP0004,2026-09-23,95-5707149-7,7954176755398188,39
+EMP0808,Clara Torres,clara.torres808@company.com,+639169580577,1975-03-02,Female,Engineering,DevOps Engineer,2025-05-04,84234.63,1.2,Makati,Active,EMP0024,2026-10-01,75-7553290-2,6838488763802076,5
+EMP0809,Daniel Castillo,daniel.castillo809@company.com,+639778171718,1961-09-29,Male,Human Resources,HR Specialist,2023-01-30,102164.53,2.3,Cebu,Active,EMP0036,2026-09-09,79-2673834-2,9886182070669010,29
+EMP0810,Liza Mercado,liza.mercado810@company.com,+639694079079,1995-01-18,Male,Administration,Admin Assistant,2019-07-22,49107.48,4.6,Taguig,Active,EMP0043,2026-10-14,48-8618893-0,3506757896833557,0
+EMP0811,Liza Bautista,liza.bautista811@company.com,+639207535290,1993-12-14,Female,Legal,Paralegal,2014-04-04,62805.05,3.5,Pasig,Active,EMP0029,2026-10-25,96-1549194-5,2187993844404588,3
+EMP0812,Grace Cruz,grace.cruz812@company.com,+639853295071,1985-03-15,Male,Finance,Accountant,2007-11-01,117830.56,4.7,Pasig,Active,EMP0004,2026-09-27,35-7720891-8,7156891097797802,7
+EMP0813,Mark Navarro,mark.navarro813@company.com,+639607910712,1977-03-02,Female,Sales,Sales Lead,2020-11-15,23216.16,4.0,Quezon City,Active,EMP0050,2026-10-12,64-8168450-4,0163295737831597,23
+EMP0814,Patricia Go,patricia.go814@company.com,+639212163699,1962-09-09,Female,Legal,Legal Counsel,2013-07-17,145025.15,4.1,Quezon City,Active,EMP0046,2026-10-24,14-3293531-9,1585423324165185,40
+EMP0815,Liza Tan,liza.tan815@company.com,+639322590927,1977-05-04,Female,Sales,Sales Lead,2026-03-06,57912.8,2.5,Caloocan,Active,EMP0046,2026-10-09,42-7522582-2,1595841749161705,0
+EMP0816,Jose Pascual,jose.pascual816@company.com,+639177100343,1962-10-06,Female,Human Resources,HR Specialist,2018-08-25,135861.24,1.4,Makati,Active,EMP0018,2026-10-03,95-9044888-6,0948377402928643,12
+EMP0817,Sofia Chua,sofia.chua817@company.com,+639728292008,1982-11-03,Female,Engineering,Senior Engineer,2015-04-09,111920.42,1.7,Quezon City,Active,EMP0027,2026-09-27,58-8590346-7,1966661025634202,25
+EMP0818,Bea Go,bea.go818@company.com,+639142539324,1990-07-02,Male,Human Resources,HR Specialist,2015-09-26,136953.77,1.8,Caloocan,Active,EMP0028,2026-10-04,80-4702852-6,7590177915244614,9
+EMP0819,Carlo Flores,carlo.flores819@company.com,+639524614310,1982-10-17,Female,Engineering,Senior Engineer,2017-08-04,76456.53,2.2,Taguig,Active,EMP0004,2026-09-14,24-7437922-3,7263199569559227,21
+EMP0820,Mark Cruz,mark.cruz820@company.com,+639951276269,1985-01-10,Female,Legal,Paralegal,2025-10-05,20322.42,1.7,Pasig,Active,EMP0022,2026-10-25,18-4494463-4,4486722883904733,2
+EMP0821,Mark Castillo,mark.castillo821@company.com,+639723049042,1999-05-07,Male,Sales,Account Manager,2020-08-11,39346.2,1.4,Makati,Active,EMP0045,2026-10-20,85-8683770-8,8795312040954377,6
+EMP0822,Gabriel Torres,gabriel.torres822@company.com,+639639070425,2000-11-21,Male,IT,IT Support,2023-01-23,27770.69,3.9,Caloocan,Active,EMP0016,2026-10-15,20-6234824-3,9151143678621078,1
+EMP0823,Ana Reyes,ana.reyes823@company.com,+639443687047,1964-12-14,Female,Customer Support,CS Team Lead,2018-08-18,59155.0,2.3,Caloocan,Active,EMP0004,2026-10-05,62-1038580-2,6933154230600230,11
+EMP0824,Paolo Chua,paolo.chua824@company.com,+639992217608,1982-11-27,Male,Customer Support,CS Team Lead,2026-04-12,41865.96,4.0,Cebu,Active,EMP0019,2026-10-18,29-1458160-6,6701514599201663,6
+EMP0825,Pedro Garcia,pedro.garcia825@company.com,+639349223189,1996-06-25,Male,Customer Support,CS Representative,2026-03-18,43944.6,1.7,Pasig,Active,EMP0025,2026-10-18,27-1461898-1,9011348433913325,2
+EMP0826,Ana Torres,ana.torres826@company.com,+639460278024,1994-07-14,Female,Customer Support,CS Team Lead,2016-07-17,108305.74,2.3,Quezon City,Active,EMP0020,2026-10-22,33-9398629-6,4497602498663420,11
+EMP0827,Liza Domingo,liza.domingo827@company.com,+639981482739,1974-12-30,Male,Administration,Office Manager,2013-05-24,55974.63,3.3,Pasig,Active,EMP0012,2026-09-28,89-8917129-3,5615266559147625,15
+EMP0828,Patricia Domingo,patricia.domingo828@company.com,+639940478147,1978-06-19,Female,Customer Support,CS Representative,2024-07-26,48492.81,2.6,Pasig,Active,EMP0011,2026-10-08,46-8407668-4,6653538962985324,6
+EMP0829,Daniel Garcia,daniel.garcia829@company.com,+639268206196,1985-09-26,Female,IT,Systems Administrator,2019-12-13,132243.47,3.8,Taguig,Active,EMP0013,2026-11-02,90-4768255-5,4346858639061682,9
+EMP0830,Daniel Chua,daniel.chua830@company.com,+639914880916,1989-01-05,Male,Administration,Office Manager,2015-03-22,73986.47,2.4,Quezon City,Active,EMP0044,2026-09-12,74-2397582-1,6837103073726072,0
+EMP0831,Camille Ong,camille.ong831@company.com,+639864051605,1977-03-18,Male,Finance,Financial Analyst,2007-09-05,92271.15,1.6,Makati,Active,EMP0037,2026-09-11,36-2976769-2,1463947625429264,22
+EMP0832,Carlo Ong,carlo.ong832@company.com,+639728224152,1998-03-24,Female,IT,IT Support,2025-04-17,21475.26,2.6,Makati,Active,EMP0033,2026-09-09,95-2340899-1,2664971967068335,3
+EMP0833,Maria Bautista,maria.bautista833@company.com,+639930386149,1980-09-24,Male,Administration,Admin Assistant,2023-04-17,34766.51,4.1,Quezon City,Active,EMP0037,2026-09-18,87-5565225-9,0133344376734814,1
+EMP0834,Jose Reyes,jose.reyes834@company.com,+639140477098,2000-04-05,Male,Administration,Office Manager,2022-10-21,149216.82,4.6,Cebu,Active,EMP0007,2026-10-25,61-1174850-4,9910042028866168,0
+EMP0835,Patricia Reyes,patricia.reyes835@company.com,+639926468012,1989-06-20,Male,Finance,Payroll Specialist,2023-12-09,53516.2,4.6,Pasig,Active,EMP0020,2026-09-14,80-5381086-2,0353160791791386,1
+EMP0836,Elena Mercado,elena.mercado836@company.com,+639632052386,1997-11-20,Male,Finance,Financial Analyst,2017-12-30,46426.16,1.5,Cebu,Active,EMP0038,2026-09-18,97-6191492-0,2470288141128745,2
+EMP0837,Victor Ong,victor.ong837@company.com,+639495676434,1991-04-07,Female,Legal,Legal Counsel,2018-08-26,69473.37,4.4,Quezon City,Active,EMP0039,2026-10-06,19-5007105-8,1074916194232154,1
+EMP0838,Liza Cruz,liza.cruz838@company.com,+639740821972,1983-07-30,Female,Finance,Payroll Specialist,2020-02-03,145555.53,1.7,Cebu,Active,EMP0027,2026-10-12,80-5249180-5,5252741025471798,19
+EMP0839,Gabriel Pascual,gabriel.pascual839@company.com,+639644047343,1982-04-14,Male,Administration,Office Manager,2018-12-04,147551.02,1.1,Cebu,Active,EMP0038,2026-10-20,90-6716553-6,7563558422717266,4
+EMP0840,Andrea Santos,andrea.santos840@company.com,+639124218622,1988-05-05,Male,Operations,Logistics Coordinator,2009-05-11,30790.4,4.4,Makati,Active,EMP0008,2026-10-08,38-1085457-6,8624087100668904,3
+EMP0841,Camille Garcia,camille.garcia841@company.com,+639638483880,2004-03-16,Male,Legal,Legal Counsel,2025-02-07,35822.9,4.5,Davao,Active,EMP0009,2026-10-26,39-3396209-8,2228240847528359,4
+EMP0842,Maria Santos,maria.santos842@company.com,+639695115811,1987-10-01,Female,Administration,Office Manager,2025-11-17,78808.25,4.2,Quezon City,Active,EMP0024,2026-09-20,23-2937117-3,5053572289206415,15
+EMP0843,Patricia Salazar,patricia.salazar843@company.com,+639680303132,1971-07-21,Male,Customer Support,CS Representative,2026-01-27,130693.35,1.1,Makati,Active,EMP0007,2026-09-09,89-5826778-5,3419528144786742,35
+EMP0844,Jose Chua,jose.chua844@company.com,+639339737188,1971-12-11,Male,Engineering,Senior Engineer,2015-08-30,70118.36,4.0,Caloocan,Active,EMP0036,2026-09-29,92-1418381-3,7891213974369905,21
+EMP0845,Andrea Mercado,andrea.mercado845@company.com,+639924801062,1981-01-19,Male,Customer Support,CS Team Lead,2015-05-01,90815.06,2.1,Manila,Active,EMP0027,2026-09-24,87-8212951-9,0452898606106567,7
+EMP0846,Victor Ramos,victor.ramos846@company.com,+639528501576,1981-04-05,Female,Marketing,Content Strategist,2008-12-19,38707.21,2.7,Quezon City,Active,EMP0027,2026-11-02,94-2159508-4,9802530843769929,27
+EMP0847,Mark Villanueva,mark.villanueva847@company.com,+639446935263,1975-03-10,Male,IT,Systems Administrator,2009-08-22,89095.49,3.7,Quezon City,Active,EMP0048,2026-10-27,28-5203233-2,3480041724155369,6
+EMP0848,Paolo Salazar,paolo.salazar848@company.com,+639286956883,1986-01-22,Female,Operations,Logistics Coordinator,2008-04-14,93202.95,2.5,Davao,Active,EMP0018,2026-10-14,31-7189494-7,0333295945231582,16
+EMP0849,Maria Ramos,maria.ramos849@company.com,+639297376293,2003-09-03,Male,IT,IT Support,2023-10-01,77540.84,1.4,Makati,Active,EMP0011,2026-10-13,86-3329257-2,0416782153926693,3
+EMP0850,Liza Garcia,liza.garcia850@company.com,+639347635067,1982-11-02,Male,Engineering,DevOps Engineer,2007-06-08,85014.52,2.2,Pasig,Active,EMP0001,2026-10-31,33-3537113-0,6190193335937971,19
+EMP0851,Maria Chua,maria.chua851@company.com,+639466781205,2003-08-11,Female,Engineering,Software Engineer,2023-04-02,32928.5,1.6,Pasig,Active,EMP0025,2026-09-27,96-5710588-7,1855940799230453,1
+EMP0852,Miguel Chua,miguel.chua852@company.com,+639673887754,1964-03-28,Male,Marketing,Marketing Associate,2017-06-10,57032.3,2.5,Caloocan,Active,EMP0047,2026-09-18,46-5111472-7,0194539117766650,22
+EMP0853,Isabel Chua,isabel.chua853@company.com,+639717936964,1978-10-16,Male,Human Resources,HR Manager,2024-03-05,91990.66,4.3,Pasig,Active,EMP0031,2026-09-18,80-1921808-6,1902231167870676,6
+EMP0854,Pedro Garcia,pedro.garcia854@company.com,+639481968328,1991-12-01,Male,Operations,Operations Analyst,2018-12-21,29309.6,1.6,Makati,Active,EMP0042,2026-10-04,75-7167879-6,3711429430003753,4
+EMP0855,Ramon Cruz,ramon.cruz855@company.com,+639743641875,1991-09-04,Female,Marketing,SEO Specialist,2022-04-17,69398.62,1.8,Caloocan,Active,EMP0049,2026-10-16,78-5326084-1,7837659153820114,0
+EMP0856,Rosa Go,rosa.go856@company.com,+639577940138,1977-05-02,Male,IT,Systems Administrator,2020-11-09,133295.59,2.5,Davao,Active,EMP0032,2026-10-11,33-5691746-5,5337565697648784,27
+EMP0857,Mark Tan,mark.tan857@company.com,+639123278962,1985-11-20,Female,Human Resources,HR Specialist,2019-05-18,72883.48,1.6,Manila,Active,EMP0027,2026-10-31,84-3174559-9,6568512062767293,10
+EMP0858,Daniel Torres,daniel.torres858@company.com,+639248695033,1987-12-02,Male,Engineering,DevOps Engineer,2009-04-16,37028.75,1.4,Taguig,Active,EMP0043,2026-09-13,57-1073322-2,2347780457972518,9
+EMP0859,Juan Torres,juan.torres859@company.com,+639200510003,1989-12-19,Female,Engineering,DevOps Engineer,2015-10-13,78861.86,3.7,Davao,Active,EMP0050,2026-10-30,41-4239141-7,2094516767063632,16
+EMP0860,Juan Bautista,juan.bautista860@company.com,+639262724162,2000-09-04,Male,IT,IT Support,2019-10-07,126821.79,4.4,Makati,Active,EMP0033,2026-09-16,44-3122320-6,4833367960828967,1
+EMP0861,Juan Aquino,juan.aquino861@company.com,+639407133414,1963-12-12,Female,Marketing,Content Strategist,2021-08-22,133972.05,3.4,Manila,Active,EMP0036,2026-09-10,57-8034795-4,9013249519350011,21
+EMP0862,Ana Mercado,ana.mercado862@company.com,+639860726423,1982-02-20,Male,Sales,Account Manager,2012-06-30,90316.14,1.2,Manila,Active,EMP0019,2026-09-11,42-2143161-0,4043156685135381,8
+EMP0863,Isabel Villanueva,isabel.villanueva863@company.com,+639311618404,1975-06-10,Male,Customer Support,CS Representative,2019-09-06,101180.5,1.0,Taguig,Active,EMP0034,2026-11-04,50-7399386-4,7177840190271698,13
+EMP0864,Sofia Cruz,sofia.cruz864@company.com,+639555581409,1998-05-11,Female,Legal,Legal Counsel,2021-08-06,34666.96,3.3,Caloocan,Active,EMP0025,2026-10-14,66-6976847-9,8332617050583534,5
+EMP0865,Daniel Navarro,daniel.navarro865@company.com,+639685653505,1977-06-05,Female,Customer Support,CS Representative,2017-12-13,52098.79,4.8,Quezon City,Active,EMP0038,2026-10-29,93-9542620-2,4266217758015846,27
+EMP0866,Patricia Torres,patricia.torres866@company.com,+639653447813,2004-08-01,Female,Customer Support,CS Team Lead,2026-08-17,46586.11,4.6,Caloocan,Active,EMP0012,2026-09-18,71-7446622-6,9834515025285461,1
+EMP0867,Carlo Santos,carlo.santos867@company.com,+639875306346,1970-02-06,Male,Engineering,DevOps Engineer,2008-05-15,103058.11,4.1,Quezon City,Active,EMP0036,2026-10-30,31-9116485-7,7711842527863090,0
+EMP0868,Pedro Cruz,pedro.cruz868@company.com,+639251196040,2001-09-02,Male,Legal,Legal Counsel,2021-10-13,58376.43,2.2,Quezon City,Active,EMP0044,2026-10-21,16-6851872-7,7719619971659656,6
+EMP0869,Grace Reyes,grace.reyes869@company.com,+639662657008,1966-01-14,Male,Legal,Paralegal,2012-05-03,45320.28,4.1,Manila,Active,EMP0002,2026-10-14,88-7151290-2,2426537932219143,39
+EMP0870,Juan Navarro,juan.navarro870@company.com,+639153761008,1986-03-18,Male,Engineering,DevOps Engineer,2013-05-11,63494.74,4.2,Cebu,Active,EMP0006,2026-10-12,52-1623137-1,0162600802658934,14
+EMP0871,Camille Torres,camille.torres871@company.com,+639866361755,1990-06-06,Male,Operations,Logistics Coordinator,2021-07-05,66560.36,4.6,Davao,Active,EMP0007,2026-10-06,46-7759870-7,9146386643203172,13
+EMP0872,Pedro Pascual,pedro.pascual872@company.com,+639383327863,1995-06-10,Male,IT,Systems Administrator,2021-08-17,148505.17,3.0,Davao,Active,EMP0019,2026-10-17,10-1660983-0,2086014605190854,3
+EMP0873,Ana Castillo,ana.castillo873@company.com,+639792525544,1963-08-12,Male,Human Resources,Recruiter,2012-03-19,148485.75,2.3,Taguig,Active,EMP0042,2026-09-12,37-7398652-9,3010009089931878,7
+EMP0874,Camille Reyes,camille.reyes874@company.com,+639347648853,1993-02-19,Female,Engineering,QA Engineer,2017-02-17,110872.64,2.1,Pasig,Active,EMP0035,2026-09-08,86-4015042-9,0930437661366280,2
+EMP0875,Bea Chua,bea.chua875@company.com,+639917152142,1977-02-26,Female,Human Resources,HR Specialist,2025-04-30,121375.27,4.6,Makati,Active,EMP0050,2026-09-14,68-1062845-5,3110583309673979,18
+EMP0876,Camille Tan,camille.tan876@company.com,+639751121470,1997-06-10,Male,Human Resources,HR Specialist,2025-02-20,81668.21,2.6,Pasig,Active,EMP0042,2026-10-11,13-2742243-6,7671877628836368,8
+EMP0877,Jose Chua,jose.chua877@company.com,+639531126807,1978-12-27,Male,Operations,Operations Analyst,2023-06-16,96976.19,1.7,Taguig,Active,EMP0028,2026-09-09,66-9635622-8,0937616522898907,9
+EMP0878,Elena Aquino,elena.aquino878@company.com,+639466573742,1968-02-21,Female,Administration,Admin Assistant,2024-07-20,82435.39,1.6,Pasig,Active,EMP0039,2026-10-18,73-7378394-4,0838580501417165,30
+EMP0879,Daniel Cruz,daniel.cruz879@company.com,+639478472089,1996-01-17,Female,Customer Support,CS Representative,2015-05-13,65619.45,1.4,Caloocan,Active,EMP0006,2026-09-13,92-2915131-4,8600500924492878,7
+EMP0880,Maria Chua,maria.chua880@company.com,+639733132508,1989-12-23,Male,Operations,Logistics Coordinator,2026-05-10,22342.32,1.4,Davao,Active,EMP0022,2026-10-29,91-1221337-1,8607429069522233,13
+EMP0881,Ana Chua,ana.chua881@company.com,+639144933657,1969-11-13,Male,Administration,Admin Assistant,2019-01-17,121719.67,3.0,Quezon City,Active,EMP0002,2026-09-12,27-5390248-2,6624975374057144,25
+EMP0882,Sofia Sy,sofia.sy882@company.com,+639682773536,1973-07-13,Female,Administration,Office Manager,2025-09-01,122568.16,2.4,Makati,Active,EMP0017,2026-10-14,57-4672026-4,5146688658348348,14
+EMP0883,Antonio Mendoza,antonio.mendoza883@company.com,+639991066547,1978-03-11,Female,Operations,Logistics Coordinator,2022-05-19,87286.08,2.0,Manila,Active,EMP0043,2026-10-13,68-8931634-5,8708943269834436,19
+EMP0884,Andrea Santos,andrea.santos884@company.com,+639873878984,1985-06-07,Male,Operations,Operations Analyst,2010-10-29,97464.49,3.1,Taguig,Active,EMP0030,2026-10-15,31-1137414-0,7342939077372954,20
+EMP0885,Liza Lim,liza.lim885@company.com,+639700323252,2003-10-12,Female,Operations,Operations Analyst,2024-08-17,34292.03,1.2,Davao,Active,EMP0045,2026-10-17,99-1081630-4,5028143531279433,3
+EMP0886,Carlo Cruz,carlo.cruz886@company.com,+639478593678,1998-09-18,Male,Administration,Office Manager,2025-04-04,55720.26,4.5,Taguig,Active,EMP0023,2026-09-26,33-8729583-4,2866251085738385,5
+EMP0887,Jose Ramos,jose.ramos887@company.com,+639748141173,1964-04-16,Male,Sales,Account Manager,2007-04-29,95998.04,2.3,Cebu,Active,EMP0031,2026-09-17,95-6107595-5,5537062728167337,16
+EMP0888,Pedro Cruz,pedro.cruz888@company.com,+639554384353,1962-06-14,Male,IT,IT Support,2010-03-21,118936.57,2.0,Cebu,Active,EMP0012,2026-10-15,64-1482300-8,4818762099069319,27
+EMP0889,Elena Flores,elena.flores889@company.com,+639567965247,1965-01-20,Female,Marketing,Marketing Associate,2020-01-01,142333.24,2.2,Manila,Active,EMP0046,2026-11-03,52-3396435-2,6731234388804851,18
+EMP0890,Pedro Navarro,pedro.navarro890@company.com,+639149604657,1966-07-21,Male,Human Resources,HR Specialist,2018-09-21,91887.02,4.1,Quezon City,Active,EMP0007,2026-10-15,41-5284090-2,7557672991154904,40
+EMP0891,Jose Pascual,jose.pascual891@company.com,+639760391005,1991-12-20,Female,Sales,Sales Representative,2021-12-05,49253.1,4.2,Manila,Active,EMP0044,2026-10-11,93-3630384-9,7711506291792651,14
+EMP0892,Gabriel Bautista,gabriel.bautista892@company.com,+639898476584,1977-09-08,Male,Marketing,Marketing Associate,2013-02-02,115050.06,3.0,Davao,Active,EMP0011,2026-11-02,22-5130309-6,9157376710529877,0
+EMP0893,Andrea Ong,andrea.ong893@company.com,+639160644610,1965-10-12,Female,Legal,Paralegal,2019-04-08,55641.33,1.2,Davao,Active,EMP0001,2026-10-26,26-7329770-8,3878903450295867,25
+EMP0894,Antonio Reyes,antonio.reyes894@company.com,+639946837680,1987-11-13,Male,Engineering,Senior Engineer,2014-09-09,55508.53,3.7,Caloocan,Active,EMP0044,2026-09-22,54-5992856-1,8236881013827210,10
+EMP0895,Liza Ramos,liza.ramos895@company.com,+639271458407,1980-10-19,Male,Finance,Accountant,2024-08-29,20379.86,1.9,Davao,Active,EMP0024,2026-10-19,40-3916091-0,8316816360389173,23
+EMP0896,Juan Salazar,juan.salazar896@company.com,+639621937249,1972-01-22,Female,IT,Network Engineer,2012-09-03,82678.56,1.2,Manila,Active,EMP0023,2026-09-27,26-2355473-4,1070716348508951,11
+EMP0897,Juan Pascual,juan.pascual897@company.com,+639938679025,1981-10-08,Male,Marketing,Content Strategist,2011-07-09,100888.05,4.2,Makati,Active,EMP0024,2026-09-12,43-7096313-6,9729655619276713,14
+EMP0898,Ramon Sy,ramon.sy898@company.com,+639557045781,1972-03-09,Male,Legal,Legal Counsel,2018-06-08,96005.06,2.6,Davao,Active,EMP0048,2026-10-29,61-7403574-7,8305573713887402,8
+EMP0899,Antonio Go,antonio.go899@company.com,+639424190481,1985-12-11,Female,Marketing,SEO Specialist,2019-02-12,122369.66,4.5,Davao,Active,EMP0032,2026-11-03,64-4435865-3,0411761421524831,19
+EMP0900,Clara Domingo,clara.domingo900@company.com,+639368705960,1991-04-18,Female,IT,Network Engineer,2022-04-03,60715.18,3.2,Taguig,Active,EMP0038,2026-11-06,75-9104003-0,3688300483793631,11
+EMP0901,Clara Garcia,clara.garcia901@company.com,+639618138681,1966-09-25,Male,Administration,Admin Assistant,2013-07-26,69829.23,3.4,Makati,Active,EMP0005,2026-10-28,15-5432916-0,6291187228247183,1
+EMP0902,Ana Salazar,ana.salazar902@company.com,+639988396112,1967-05-01,Female,Finance,Payroll Specialist,2013-10-01,63506.56,2.8,Makati,Active,EMP0037,2026-09-14,71-5779148-9,9799052217114865,26
+EMP0903,Camille Ong,camille.ong903@company.com,+639110107303,1969-12-17,Female,Operations,Operations Analyst,2024-08-19,30006.03,1.8,Pasig,Active,EMP0027,2026-09-08,41-2589018-6,3129755726169496,13
+EMP0904,Jose Tan,jose.tan904@company.com,+639733483441,1991-02-20,Male,Legal,Legal Counsel,2012-05-01,70955.3,4.9,Davao,Active,EMP0045,2026-09-23,16-2909727-3,0716753216336131,15
+EMP0905,Mark Tan,mark.tan905@company.com,+639996353032,2002-10-21,Male,Administration,Office Manager,2024-11-07,51547.44,3.7,Pasig,Active,EMP0048,2026-09-30,47-7233935-8,5835639981274392,1
+EMP0906,Ana Salazar,ana.salazar906@company.com,+639894318411,1987-10-13,Male,Operations,Logistics Coordinator,2010-02-26,61947.26,4.5,Cebu,Active,EMP0041,2026-09-24,42-9280076-6,2123601863994541,6
+EMP0907,Paolo Flores,paolo.flores907@company.com,+639156609031,1998-06-07,Male,Customer Support,CS Team Lead,2022-11-01,21128.0,4.1,Caloocan,Active,EMP0039,2026-09-19,61-9746238-5,9096459872408992,1
+EMP0908,Antonio Torres,antonio.torres908@company.com,+639199801789,1982-12-20,Female,Legal,Paralegal,2007-12-09,72059.81,1.3,Quezon City,Active,EMP0014,2026-09-09,89-8893152-3,6707217340242224,3
+EMP0909,Elena Reyes,elena.reyes909@company.com,+639887610727,1977-12-10,Male,Administration,Admin Assistant,2008-08-06,76404.34,2.2,Manila,Active,EMP0007,2026-10-27,79-2675675-4,4424842024350947,13
+EMP0910,Ana Sy,ana.sy910@company.com,+639547243997,1972-04-16,Female,Operations,Operations Analyst,2013-08-23,21048.37,4.2,Makati,Active,EMP0007,2026-10-17,49-9304601-5,3989137054245190,32
+EMP0911,Jose Sy,jose.sy911@company.com,+639511598375,2000-10-31,Female,Human Resources,Recruiter,2021-08-21,100145.38,1.7,Davao,Active,EMP0003,2026-10-18,91-3927616-3,7666969229533861,4
+EMP0912,Antonio Lim,antonio.lim912@company.com,+639766913312,1992-01-09,Male,Finance,Accountant,2015-12-19,121847.41,2.2,Makati,Active,EMP0042,2026-09-15,90-3496387-4,0662834633488933,8
+EMP0913,Andrea Bautista,andrea.bautista913@company.com,+639373161867,1971-05-10,Male,Marketing,Content Strategist,2018-01-08,86004.94,4.1,Pasig,Active,EMP0019,2026-09-29,32-5769406-3,8269285507435095,10
+EMP0914,Patricia Ramos,patricia.ramos914@company.com,+639711300786,1974-01-01,Female,Customer Support,CS Team Lead,2009-07-10,124866.92,3.4,Taguig,Active,EMP0019,2026-10-23,51-4515318-5,9176504718830099,21
+EMP0915,Camille Pascual,camille.pascual915@company.com,+639894109265,1975-08-04,Female,Sales,Sales Representative,2008-02-28,106705.06,3.1,Taguig,Active,EMP0028,2026-10-20,67-5332113-7,0617069014971103,33
+EMP0916,Rafael Bautista,rafael.bautista916@company.com,+639549716716,1983-05-02,Female,Sales,Sales Lead,2017-02-22,114626.43,1.0,Pasig,Active,EMP0005,2026-10-16,79-9475567-6,0167449234359698,10
+EMP0917,Paolo Santos,paolo.santos917@company.com,+639859575160,1963-06-05,Male,Engineering,QA Engineer,2011-03-10,82981.43,2.2,Davao,Active,EMP0046,2026-10-12,43-3985466-8,6178925714025038,20
+EMP0918,Clara Mendoza,clara.mendoza918@company.com,+639176605941,1980-06-17,Female,Legal,Paralegal,2016-06-23,118876.85,2.0,Makati,Active,EMP0037,2026-09-18,41-7831747-8,0635853010127896,19
+EMP0919,Elena Ong,elena.ong919@company.com,+639790094298,1963-08-09,Female,Operations,Operations Analyst,2026-08-15,39165.87,4.5,Caloocan,Active,EMP0030,2026-10-20,54-9794295-6,7036562036344439,16
+EMP0920,Victor Ong,victor.ong920@company.com,+639177244239,1980-07-16,Male,IT,Network Engineer,2022-01-18,45502.91,2.5,Taguig,Active,EMP0006,2026-10-04,71-1802238-7,3174457762626367,17
+EMP0921,Gabriel Ong,gabriel.ong921@company.com,+639384505193,1969-01-16,Female,Operations,Operations Analyst,2016-12-26,145604.5,4.4,Makati,Active,EMP0044,2026-10-07,46-5016918-4,8529537740376768,30
+EMP0922,Mark Garcia,mark.garcia922@company.com,+639186454570,2003-03-13,Female,Sales,Sales Representative,2024-08-18,97580.47,2.4,Makati,Active,EMP0006,2026-10-16,19-6319888-7,3309900094065658,1
+EMP0923,Grace Ramos,grace.ramos923@company.com,+639458127460,1983-07-16,Female,Marketing,SEO Specialist,2016-04-03,67509.41,2.4,Davao,Active,EMP0013,2026-09-17,96-3183280-6,6000470911034956,2
+EMP0924,Ramon Ong,ramon.ong924@company.com,+639995015427,1972-02-04,Female,Finance,Payroll Specialist,2014-12-12,149170.4,1.3,Cebu,Active,EMP0044,2026-10-13,50-9428578-3,7466144776186870,17
+EMP0925,Miguel Sy,miguel.sy925@company.com,+639860391524,1963-05-11,Male,Legal,Paralegal,2015-10-26,116248.63,3.8,Pasig,Active,EMP0026,2026-10-29,53-7290235-0,8914233029276405,17
+EMP0926,Patricia Lim,patricia.lim926@company.com,+639372061315,1977-08-22,Male,Legal,Legal Counsel,2008-07-21,66091.93,1.9,Cebu,Active,EMP0035,2026-11-03,59-7309851-0,4747338914785247,19
+EMP0927,Juan Torres,juan.torres927@company.com,+639117917540,1984-01-12,Male,Sales,Sales Representative,2021-06-16,139122.11,1.9,Caloocan,Active,EMP0042,2026-11-01,38-6995317-1,8664774131351830,4
+EMP0928,Carlo Ramos,carlo.ramos928@company.com,+639475016990,1978-06-10,Male,Operations,Logistics Coordinator,2016-01-28,143612.61,4.7,Pasig,Active,EMP0041,2026-11-02,31-2995270-7,8955990984128655,25
+EMP0929,Miguel Salazar,miguel.salazar929@company.com,+639320690471,1982-01-05,Male,Customer Support,CS Representative,2023-02-18,96387.57,2.2,Cebu,Active,EMP0036,2026-10-04,15-1930920-3,8146342924219597,23
+EMP0930,Daniel Bautista,daniel.bautista930@company.com,+639607001451,1993-10-14,Male,Marketing,Marketing Associate,2019-01-13,58374.96,5.0,Makati,Active,EMP0047,2026-10-29,61-2478426-3,3155530153030440,14
+EMP0931,Bea Go,bea.go931@company.com,+639895000643,1998-10-21,Female,Legal,Legal Counsel,2020-08-11,66873.13,3.2,Pasig,Active,EMP0021,2026-09-12,68-7824589-6,3454182991269945,2
+EMP0932,Grace Sy,grace.sy932@company.com,+639210572633,1999-01-02,Male,Engineering,DevOps Engineer,2018-08-01,74515.63,1.4,Taguig,Active,EMP0042,2026-09-17,58-2565036-0,0822421682682217,5
+EMP0933,Antonio Castillo,antonio.castillo933@company.com,+639132724417,1965-02-04,Male,IT,IT Support,2011-03-27,102085.54,3.0,Cebu,Active,EMP0048,2026-10-29,10-1186603-5,9325722870322007,17
+EMP0934,Patricia Mercado,patricia.mercado934@company.com,+639597229046,1996-07-07,Male,Customer Support,CS Team Lead,2017-02-27,38817.25,2.4,Makati,Active,EMP0022,2026-10-03,33-1749872-5,8028606048022406,12
+EMP0935,Isabel Ramos,isabel.ramos935@company.com,+639466216173,1976-04-29,Male,Operations,Logistics Coordinator,2012-12-12,113342.22,1.1,Cebu,Active,EMP0041,2026-09-30,74-9473491-5,6643016556238878,32
+EMP0936,Clara Castillo,clara.castillo936@company.com,+639758571408,1982-04-15,Male,Customer Support,CS Team Lead,2012-11-08,29628.96,2.6,Manila,Active,EMP0027,2026-09-10,92-3147096-2,9011386047947199,0
+EMP0937,Juan Torres,juan.torres937@company.com,+639375254733,1983-09-17,Female,Marketing,SEO Specialist,2011-08-13,114880.85,3.2,Makati,Active,EMP0020,2026-09-22,19-3047411-4,7905347283951673,20
+EMP0938,Clara Flores,clara.flores938@company.com,+639108403679,1995-12-14,Female,Engineering,QA Engineer,2018-01-15,132389.09,4.0,Taguig,Active,EMP0041,2026-10-07,77-7943611-5,6292582282801832,3
+EMP0939,Maria Domingo,maria.domingo939@company.com,+639881139745,1972-03-02,Female,Operations,Operations Analyst,2019-11-13,108596.09,4.3,Caloocan,Active,EMP0027,2026-10-04,91-9308229-8,0964583744959752,5
+EMP0940,Antonio Torres,antonio.torres940@company.com,+639834094814,1999-03-15,Female,Marketing,Content Strategist,2023-10-25,97961.04,1.6,Caloocan,Active,EMP0018,2026-10-16,78-8673126-4,1148626751199764,5
+EMP0941,Patricia Domingo,patricia.domingo941@company.com,+639936068779,1982-06-09,Female,Marketing,Content Strategist,2025-03-24,60388.47,1.4,Taguig,Active,EMP0029,2026-10-16,77-8159977-3,0093582016301597,20
+EMP0942,Mark Garcia,mark.garcia942@company.com,+639950274999,1996-02-20,Male,Human Resources,HR Specialist,2023-05-05,59690.25,3.7,Davao,Active,EMP0031,2026-10-04,58-7882178-8,0984601804033480,1
+EMP0943,Rafael Flores,rafael.flores943@company.com,+639621806732,1981-02-22,Male,Operations,Operations Analyst,2018-10-02,140710.7,2.3,Makati,Active,EMP0027,2026-09-21,12-6788983-3,9260967462720536,22
+EMP0944,Daniel Cruz,daniel.cruz944@company.com,+639669851549,1998-01-12,Female,Sales,Sales Lead,2019-11-20,73139.84,4.0,Davao,Active,EMP0033,2026-09-23,56-1714268-2,1553830775582126,2
+EMP0945,Carlo Ong,carlo.ong945@company.com,+639386683631,1981-04-29,Female,IT,Systems Administrator,2017-03-14,117290.48,1.0,Manila,Active,EMP0031,2026-10-06,53-2378853-9,9198177551294414,19
+EMP0946,Carlo Sy,carlo.sy946@company.com,+639681428689,1998-04-09,Male,Human Resources,Recruiter,2017-08-30,87601.75,3.7,Quezon City,Active,EMP0034,2026-09-29,92-6642917-9,7477656590705549,4
+EMP0947,Grace Flores,grace.flores947@company.com,+639209359090,1977-02-18,Female,Marketing,SEO Specialist,2017-05-03,131777.04,4.2,Davao,Active,EMP0010,2026-10-07,10-5456556-9,0763415359771001,7
+EMP0948,Rafael Salazar,rafael.salazar948@company.com,+639358118876,1990-06-22,Male,Operations,Logistics Coordinator,2015-09-20,126424.14,3.6,Caloocan,Active,EMP0009,2026-10-22,32-6912250-5,7856413547416855,14
+EMP0949,Bea Aquino,bea.aquino949@company.com,+639493761040,1995-07-17,Female,Marketing,SEO Specialist,2015-08-23,65437.35,1.1,Pasig,Active,EMP0032,2026-10-04,86-6056852-7,5816602841362334,7
+EMP0950,Juan Salazar,juan.salazar950@company.com,+639577373085,1998-07-09,Male,Engineering,QA Engineer,2022-09-24,53083.11,4.9,Caloocan,Active,EMP0047,2026-10-01,98-5119761-4,1855950837456017,0
+EMP0951,Miguel Bautista,miguel.bautista951@company.com,+639827787048,2003-10-05,Male,Marketing,SEO Specialist,2024-06-11,105676.95,1.2,Cebu,Active,EMP0029,2026-09-29,14-7429324-7,9490786928551621,5
+EMP0952,Bea Lim,bea.lim952@company.com,+639368421144,1967-04-19,Female,Operations,Operations Analyst,2017-11-04,149767.87,4.2,Caloocan,Active,EMP0016,2026-09-25,57-6973457-8,9607072288341335,6
+EMP0953,Juan Cruz,juan.cruz953@company.com,+639432739139,1987-08-12,Male,Marketing,SEO Specialist,2025-09-19,84024.86,2.2,Quezon City,Active,EMP0028,2026-10-09,61-4775141-5,7967148030073565,17
+EMP0954,Juan Pascual,juan.pascual954@company.com,+639545689353,1993-05-24,Male,Human Resources,Recruiter,2023-12-20,136600.48,2.9,Makati,Active,EMP0046,2026-09-26,18-3373815-8,8669112232142526,2
+EMP0955,Isabel Chua,isabel.chua955@company.com,+639457713542,1970-02-04,Female,Finance,Payroll Specialist,2010-09-14,71260.88,4.0,Pasig,Active,EMP0029,2026-10-29,43-5577636-6,5325544118185136,28
+EMP0956,Juan Sy,juan.sy956@company.com,+639986405524,1983-09-06,Male,Marketing,SEO Specialist,2025-07-03,109702.17,1.9,Taguig,Active,EMP0033,2026-10-03,48-2672973-8,4714622014833354,1
+EMP0957,Rosa Salazar,rosa.salazar957@company.com,+639112259900,1994-02-11,Male,Finance,Accountant,2023-10-18,20210.53,2.9,Taguig,Active,EMP0019,2026-10-14,69-9101794-0,9067618376295076,10
+EMP0958,Antonio Domingo,antonio.domingo958@company.com,+639402729618,1993-09-28,Female,Legal,Legal Counsel,2019-04-09,92918.84,3.6,Cebu,Active,EMP0033,2026-11-05,59-4730755-0,3264564967419916,1
+EMP0959,Patricia Sy,patricia.sy959@company.com,+639954789410,2003-04-29,Male,Operations,Operations Analyst,2022-11-20,145483.29,3.9,Caloocan,Active,EMP0042,2026-10-22,11-4849835-4,2519701815891368,1
+EMP0960,Rafael Santos,rafael.santos960@company.com,+639364787805,1975-07-02,Male,Administration,Office Manager,2023-03-09,97786.94,3.6,Taguig,Active,EMP0047,2026-10-17,27-6719824-2,6022169088754802,14
+EMP0961,Camille Flores,camille.flores961@company.com,+639767392388,1972-06-21,Male,Marketing,Content Strategist,2022-11-06,20554.02,2.4,Quezon City,Active,EMP0021,2026-09-15,20-9053365-4,5469351021401283,12
+EMP0962,Paolo Navarro,paolo.navarro962@company.com,+639708018512,1971-12-31,Male,Finance,Payroll Specialist,2015-02-12,141125.14,2.4,Caloocan,Active,EMP0007,2026-10-08,73-9270231-1,7030568709412460,21
+EMP0963,Mark Lim,mark.lim963@company.com,+639444413613,1989-12-27,Male,Finance,Financial Analyst,2015-06-04,51078.81,2.5,Makati,Active,EMP0008,2026-10-01,81-8609231-6,7760064345973173,1
+EMP0964,Rosa Ramos,rosa.ramos964@company.com,+639878778944,1967-04-21,Female,Marketing,Marketing Associate,2011-11-04,63333.03,4.0,Caloocan,Active,EMP0017,2026-09-22,53-2951364-0,4848094731815605,18
+EMP0965,Maria Salazar,maria.salazar965@company.com,+639977921858,1966-01-28,Female,Human Resources,Recruiter,2009-01-08,124357.02,2.7,Cebu,Active,EMP0007,2026-10-15,23-1859412-7,9764754565728972,10
+EMP0966,Daniel Torres,daniel.torres966@company.com,+639830466821,1986-03-03,Male,IT,Network Engineer,2019-12-19,118567.53,3.3,Makati,Active,EMP0044,2026-09-08,58-9865495-5,6066992613826870,19
+EMP0967,Rafael Salazar,rafael.salazar967@company.com,+639802500403,1966-05-15,Male,Legal,Paralegal,2017-05-20,94035.4,4.6,Taguig,Active,EMP0010,2026-09-20,58-4738318-7,7927110735128962,11
+EMP0968,Camille Chua,camille.chua968@company.com,+639306794474,1994-06-21,Male,Engineering,DevOps Engineer,2023-11-14,26745.15,1.6,Quezon City,Active,EMP0017,2026-10-24,45-7359994-0,6069430695235786,5
+EMP0969,Grace Cruz,grace.cruz969@company.com,+639868157534,1996-03-01,Male,Human Resources,HR Manager,2022-08-07,24290.82,2.5,Makati,Active,EMP0017,2026-10-08,77-6642710-4,8753119804255428,12
+EMP0970,Liza Salazar,liza.salazar970@company.com,+639457578936,1978-06-18,Male,Engineering,QA Engineer,2007-06-12,82357.27,4.4,Taguig,Active,EMP0036,2026-10-15,77-8493210-8,6020392213170195,17
+EMP0971,Carlo Tan,carlo.tan971@company.com,+639606779656,1967-12-19,Female,IT,Systems Administrator,2024-01-17,40732.34,4.5,Caloocan,Active,EMP0013,2026-09-17,99-2279911-4,2495629179644160,15
+EMP0972,Camille Lim,camille.lim972@company.com,+639448087126,1972-11-17,Male,Marketing,Marketing Associate,2017-05-01,111205.9,1.7,Caloocan,Active,EMP0020,2026-11-06,53-2330232-2,0220175454164879,8
+EMP0973,Mark Castillo,mark.castillo973@company.com,+639798183390,1978-09-13,Male,Finance,Accountant,2009-05-07,121389.46,2.4,Taguig,Active,EMP0044,2026-10-18,97-8504725-4,4203607854833095,16
+EMP0974,Liza Go,liza.go974@company.com,+639791773347,1969-08-03,Male,Legal,Legal Counsel,2018-10-11,75411.81,4.2,Makati,Active,EMP0022,2026-09-23,67-3575791-3,2671485819701501,36
+EMP0975,Patricia Mercado,patricia.mercado975@company.com,+639476236519,1962-09-17,Male,IT,Systems Administrator,2026-02-07,94289.45,1.2,Davao,Active,EMP0036,2026-10-30,55-3119429-3,3297049379582915,34
+EMP0976,Elena Bautista,elena.bautista976@company.com,+639748924475,2000-04-08,Female,Operations,Logistics Coordinator,2020-02-01,30826.65,3.4,Manila,Active,EMP0030,2026-09-17,52-8708970-4,1424873962625918,8
+EMP0977,Jose Mendoza,jose.mendoza977@company.com,+639604472767,1984-12-18,Female,Marketing,SEO Specialist,2015-04-10,50632.48,4.7,Taguig,Active,EMP0046,2026-09-18,69-9053339-2,4434354978729657,3
+EMP0978,Victor Go,victor.go978@company.com,+639826224187,1985-07-26,Male,Operations,Logistics Coordinator,2008-12-15,128539.32,3.5,Manila,Active,EMP0049,2026-09-13,38-5533382-8,0424796000940916,22
+EMP0979,Liza Mercado,liza.mercado979@company.com,+639535421160,1978-09-15,Female,Operations,Logistics Coordinator,2020-12-14,110287.97,4.9,Davao,Active,EMP0009,2026-10-28,56-5390581-9,2036930914015273,3
+EMP0980,Rosa Mendoza,rosa.mendoza980@company.com,+639627574783,1979-06-13,Female,Finance,Financial Analyst,2008-08-13,74743.54,4.9,Manila,Active,EMP0001,2026-10-22,91-2103526-8,4293359847422983,26
+EMP0981,Bea Domingo,bea.domingo981@company.com,+639478936041,1974-03-21,Male,Operations,Logistics Coordinator,2010-11-16,132195.8,1.1,Davao,Active,EMP0011,2026-11-02,65-3743507-4,7365003299090064,29
+EMP0982,Antonio Villanueva,antonio.villanueva982@company.com,+639367812193,1985-09-04,Female,IT,IT Support,2017-09-18,61352.86,3.6,Manila,Active,EMP0046,2026-10-07,46-3953395-3,1697920675493934,7
+EMP0983,Daniel Santos,daniel.santos983@company.com,+639935234609,1987-06-07,Male,Administration,Office Manager,2009-10-04,122853.99,3.8,Davao,Active,EMP0033,2026-09-21,70-4731791-5,7338133073453302,7
+EMP0984,Ana Mendoza,ana.mendoza984@company.com,+639372191501,1995-06-18,Male,IT,Systems Administrator,2016-12-14,102360.33,3.2,Quezon City,Active,EMP0046,2026-09-09,68-3638763-0,3350516023251071,5
+EMP0985,Camille Mercado,camille.mercado985@company.com,+639780805896,2001-01-17,Male,Operations,Logistics Coordinator,2020-02-26,55539.77,1.6,Makati,Active,EMP0022,2026-10-21,60-6126251-1,1992551253807819,1
+EMP0986,Andrea Santos,andrea.santos986@company.com,+639756314349,1982-07-27,Female,Marketing,SEO Specialist,2012-03-22,141108.08,4.9,Caloocan,Active,EMP0008,2026-10-19,52-9341839-5,5716632824630616,4
+EMP0987,Bea Lim,bea.lim987@company.com,+639564474154,1962-05-21,Male,Finance,Payroll Specialist,2009-01-02,61072.56,1.0,Manila,Active,EMP0030,2026-09-23,65-2227380-5,0420598685697714,12
+EMP0988,Sofia Santos,sofia.santos988@company.com,+639140739923,1972-10-30,Male,Marketing,SEO Specialist,2011-11-28,25737.07,4.7,Taguig,Active,EMP0047,2026-10-01,22-1839786-3,9278888189304616,15
+EMP0989,Sofia Pascual,sofia.pascual989@company.com,+639195128140,1973-11-23,Female,Customer Support,CS Representative,2016-01-20,141237.55,4.7,Manila,Active,EMP0023,2026-10-16,90-1590299-9,6568826728007272,0
+EMP0990,Bea Sy,bea.sy990@company.com,+639591882626,1986-04-02,Male,Customer Support,CS Representative,2023-08-07,65721.64,2.1,Caloocan,Active,EMP0034,2026-10-26,38-1482819-8,3069789995145498,6
+EMP0991,Jose Ramos,jose.ramos991@company.com,+639566843094,1980-03-17,Female,IT,Systems Administrator,2021-06-09,88491.18,3.9,Caloocan,Active,EMP0024,2026-11-05,18-6664429-7,1164560595634318,1
+EMP0992,Daniel Garcia,daniel.garcia992@company.com,+639996461103,2003-10-28,Female,Legal,Legal Counsel,2026-01-02,75707.89,4.0,Quezon City,Active,EMP0016,2026-10-05,70-8999672-7,3031678719261548,3
+EMP0993,Ana Garcia,ana.garcia993@company.com,+639978390084,1987-12-12,Female,Human Resources,HR Specialist,2025-07-06,63811.98,1.1,Manila,Active,EMP0022,2026-10-15,47-1525977-8,0998397673887246,3
+EMP0994,Juan Torres,juan.torres994@company.com,+639820749723,1986-07-13,Male,IT,IT Support,2016-03-28,23574.62,3.3,Makati,Active,EMP0015,2026-09-19,50-3640540-9,4930741799654662,16
+EMP0995,Ramon Torres,ramon.torres995@company.com,+639505436444,1982-09-28,Male,Administration,Office Manager,2016-04-28,38885.38,1.6,Pasig,Active,EMP0041,2026-09-17,61-1934269-0,2230234056771251,21
+EMP0996,Mark Bautista,mark.bautista996@company.com,+639644216356,1971-01-03,Male,Operations,Operations Analyst,2023-05-14,63785.85,2.7,Taguig,Active,EMP0003,2026-09-13,79-2925327-2,3927884479098636,5
+EMP0997,Isabel Castillo,isabel.castillo997@company.com,+639971897778,1965-06-10,Female,Operations,Operations Analyst,2010-03-31,59357.0,1.6,Davao,Active,EMP0011,2026-09-17,43-3502745-4,8863137371450311,34
+EMP0998,Miguel Sy,miguel.sy998@company.com,+639383006398,1979-12-31,Male,Engineering,Senior Engineer,2015-01-12,98556.76,2.0,Taguig,Active,EMP0001,2026-10-31,59-2430589-0,4718911992569247,13
+EMP0999,Grace Cruz,grace.cruz999@company.com,+639200111799,2002-07-24,Male,Customer Support,CS Representative,2025-02-18,118230.4,3.1,Cebu,Active,EMP0036,2026-10-21,91-2737594-4,0513251790447085,3
+EMP1000,Elena Reyes,elena.reyes1000@company.com,+639977814232,1980-03-31,Female,Engineering,QA Engineer,2024-09-02,88453.72,1.3,Quezon City,Active,EMP0007,2026-09-26,43-6933890-6,4572275794074033,27
